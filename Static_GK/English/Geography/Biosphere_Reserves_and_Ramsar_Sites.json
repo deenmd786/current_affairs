@@ -1,0 +1,148 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of major Biosphere Reserves (focusing on UNESCO MAB status) and high-frequency Ramsar Wetlands for Geography Static GK.",
+    "biosphere_reserves": [
+        {
+            "name": "Nilgiri Biosphere Reserve",
+            "location_states": [
+                "Tamil Nadu",
+                "Kerala",
+                "Karnataka"
+            ],
+            "key_fauna": "Lion-tailed macaque, Nilgiri Tahr",
+            "unesco_mab_status": "Yes",
+            "key_fact": "The first biosphere reserve in India (established 1986)."
+        },
+        {
+            "name": "Gulf of Mannar",
+            "location_states": [
+                "Tamil Nadu"
+            ],
+            "key_fauna": "Dugong (Sea Cow)",
+            "unesco_mab_status": "Yes",
+            "key_fact": "First marine biosphere reserve in South and South-East Asia."
+        },
+        {
+            "name": "Nanda Devi",
+            "location_states": [
+                "Uttarakhand"
+            ],
+            "key_fauna": "Snow Leopard, Himalayan Black Bear",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Includes the Valley of Flowers National Park."
+        },
+        {
+            "name": "Sundarbans",
+            "location_states": [
+                "West Bengal"
+            ],
+            "key_fauna": "Royal Bengal Tiger, Saltwater Crocodile",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Largest contiguous mangrove forest in the world."
+        },
+        {
+            "name": "Nokrek",
+            "location_states": [
+                "Meghalaya"
+            ],
+            "key_fauna": "Red Panda, Hoolock Gibbon",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Part of the Garo Hills; famous for Citrus indica (Indian wild orange)."
+        },
+        {
+            "name": "Pachmarhi",
+            "location_states": [
+                "Madhya Pradesh"
+            ],
+            "key_fauna": "Giant Squirrel, Flying Squirrel",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Located in the Satpura Range; often called the 'Queen of Satpura'."
+        },
+        {
+            "name": "Similipal",
+            "location_states": [
+                "Odisha"
+            ],
+            "key_fauna": "Royal Bengal Tiger, Asian Elephant, Gaur",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Gets its name from the abundance of red silk cotton trees growing in the area."
+        },
+        {
+            "name": "Khangchendzonga",
+            "location_states": [
+                "Sikkim"
+            ],
+            "key_fauna": "Snow Leopard, Red Panda, Musk Deer",
+            "unesco_mab_status": "Yes",
+            "key_fact": "One of the highest ecosystems in the world; added to UNESCO MAB network in 2018."
+        },
+        {
+            "name": "Cold Desert",
+            "location_states": [
+                "Himachal Pradesh"
+            ],
+            "key_fauna": "Snow Leopard",
+            "unesco_mab_status": "No",
+            "key_fact": "Includes Pin Valley National Park and Kibber Wildlife Sanctuary."
+        },
+        {
+            "name": "Great Nicobar",
+            "location_states": [
+                "Andaman & Nicobar Islands"
+            ],
+            "key_fauna": "Saltwater Crocodile, Nicobar scrubfowl",
+            "unesco_mab_status": "Yes",
+            "key_fact": "Southernmost biosphere reserve of India."
+        }
+    ],
+    "high_yield_ramsar_sites": [
+        {
+            "name": "Chilika Lake",
+            "state": "Odisha",
+            "significance": "India's first Ramsar Site (along with Keoladeo); largest coastal lagoon in India; famous for Irrawaddy dolphins.",
+            "montreux_record_status": "Removed (Was added in 1993, removed in 2002 after successful restoration)"
+        },
+        {
+            "name": "Keoladeo National Park",
+            "state": "Rajasthan",
+            "significance": "Formerly Bharatpur Bird Sanctuary; wintering ground for Palaearctic migratory waterfowl.",
+            "montreux_record_status": "Active (Due to water shortage and unbalanced grazing regime)"
+        },
+        {
+            "name": "Loktak Lake",
+            "state": "Manipur",
+            "significance": "Largest freshwater lake in Northeast India; famous for floating islands (phumdis) and Keibul Lamjao National Park.",
+            "montreux_record_status": "Active (Due to ecological problems raised by the Ithai Barrage)"
+        },
+        {
+            "name": "Wular Lake",
+            "state": "Jammu & Kashmir",
+            "significance": "Largest freshwater lake in India; fed by the Jhelum River."
+        },
+        {
+            "name": "Harike Wetland",
+            "state": "Punjab",
+            "significance": "Formed by the confluence of the Beas and Sutlej rivers."
+        },
+        {
+            "name": "Vembanad-Kol Wetland",
+            "state": "Kerala",
+            "significance": "Longest lake in India; famous for the Nehru Trophy Snake Boat Race."
+        },
+        {
+            "name": "Bhoj Wetland",
+            "state": "Madhya Pradesh",
+            "significance": "Consists of two contiguous human-made reservoirs (Upper and Lower Lake) in Bhopal."
+        },
+        {
+            "name": "Deepor Beel",
+            "state": "Assam",
+            "significance": "Permanent freshwater lake in a former channel of the Brahmaputra River; critical elephant corridor."
+        },
+        {
+            "name": "Tsomoriri",
+            "state": "Ladakh",
+            "significance": "High-altitude lake representing the only breeding ground outside of China for one of the most endangered cranes, the Black-necked crane."
+        }
+    ]
+}

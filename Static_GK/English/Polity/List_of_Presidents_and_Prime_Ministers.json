@@ -1,0 +1,92 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency trivia regarding India's Presidents and Prime Ministers for Polity Static GK.",
+    "notable_presidents_and_milestones": [
+        {
+            "name": "Dr. Rajendra Prasad",
+            "key_fact": "The first President and the only one to serve two full terms (1950–1962). Longest-serving President."
+        },
+        {
+            "name": "Dr. Zakir Husain",
+            "key_fact": "First Muslim President. First President to die in office, and the one with the shortest tenure."
+        },
+        {
+            "name": "V. V. Giri",
+            "key_fact": "Served as the first Acting President. He is also the only President elected as an independent candidate (not backed by the ruling party)."
+        },
+        {
+            "name": "Neelam Sanjiva Reddy",
+            "key_fact": "The only President to be elected unopposed (1977)."
+        },
+        {
+            "name": "K. R. Narayanan",
+            "key_fact": "The first Dalit President of India."
+        },
+        {
+            "name": "Dr. A.P.J. Abdul Kalam",
+            "key_fact": "Known as the 'Missile Man of India'. The first scientist and the first bachelor to become President."
+        },
+        {
+            "name": "Pratibha Patil",
+            "key_fact": "The first woman President of India."
+        },
+        {
+            "name": "Droupadi Murmu",
+            "key_fact": "The first tribal (Santhal) President, the youngest President, and the first President born in independent India."
+        }
+    ],
+    "notable_prime_ministers_and_milestones": [
+        {
+            "name": "Jawaharlal Nehru",
+            "key_fact": "The first and longest-serving Prime Minister (nearly 17 years). First PM to die in office."
+        },
+        {
+            "name": "Lal Bahadur Shastri",
+            "key_fact": "Coined the slogan 'Jai Jawan Jai Kisan'. The only Indian PM to die abroad (Tashkent, Uzbekistan, in 1966)."
+        },
+        {
+            "name": "Indira Gandhi",
+            "key_fact": "First and only woman PM. First PM to be assassinated."
+        },
+        {
+            "name": "Morarji Desai",
+            "key_fact": "First non-Congress PM. The oldest person to become PM (at 81). The only Indian PM to receive Pakistan's highest civilian award, Nishan-e-Pakistan. First PM to resign from office."
+        },
+        {
+            "name": "Charan Singh",
+            "key_fact": "The only Prime Minister who never faced the Parliament during his tenure."
+        },
+        {
+            "name": "Rajiv Gandhi",
+            "key_fact": "The youngest Prime Minister of India (took office at age 40)."
+        },
+        {
+            "name": "P. V. Narasimha Rao",
+            "key_fact": "The first Prime Minister from Southern India. Overseer of the 1991 LPG (Liberalization, Privatization, Globalization) economic reforms."
+        },
+        {
+            "name": "Atal Bihari Vajpayee",
+            "key_fact": "Holds the record for the shortest tenure (13 days in 1996). Also the first non-Congress PM to complete a full 5-year term (1999–2004)."
+        },
+        {
+            "name": "Dr. Manmohan Singh",
+            "key_fact": "The first Sikh Prime Minister. He was the RBI Governor (1982-1985) and Finance Minister (1991-1996) before becoming PM."
+        },
+        {
+            "name": "Narendra Modi",
+            "key_fact": "The first Prime Minister born in independent India (born in 1950)."
+        }
+    ],
+    "acting_officials_trivia": [
+        {
+            "position": "Acting Prime Minister",
+            "name": "Gulzarilal Nanda",
+            "key_fact": "The only person to serve as Acting PM twice (first after Nehru's death, then after Shastri's death)."
+        },
+        {
+            "position": "Acting President (from Judiciary)",
+            "name": "Justice Mohammad Hidayatullah",
+            "key_fact": "The only Chief Justice of India to serve as the Acting President of India (when both the President and Vice-President offices were vacant in 1969)."
+        }
+    ]
+}

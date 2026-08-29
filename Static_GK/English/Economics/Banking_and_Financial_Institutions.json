@@ -1,0 +1,88 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency data regarding the RBI, commercial banking history, and major financial institutions for Economics Static GK.",
+    "reserve_bank_of_india_rbi": [
+        {
+            "key_aspect": "Establishment",
+            "details": "Established on April 1, 1935, under the RBI Act, 1934, based on the recommendations of the Hilton Young Commission (Royal Commission on Indian Currency and Finance)."
+        },
+        {
+            "key_aspect": "Nationalization",
+            "details": "Nationalized on January 1, 1949. It became fully owned by the Government of India."
+        },
+        {
+            "key_aspect": "First Governors",
+            "details": "Sir Osborne Smith was the first Governor. Sir C.D. Deshmukh was the first Indian Governor."
+        },
+        {
+            "key_aspect": "Primary Functions",
+            "details": "Issuer of currency, Banker to the Government, Banker's Bank, Controller of Credit (Monetary Policy), and Custodian of Foreign Exchange Reserves."
+        }
+    ],
+    "commercial_banking_history": [
+        {
+            "bank_or_event": "State Bank of India (SBI)",
+            "historical_fact": "Created in 1955 by nationalizing the Imperial Bank of India (which was formed in 1921 by amalgamating the Presidency Banks of Bengal, Bombay, and Madras). Recommended by the A.D. Gorwala Committee."
+        },
+        {
+            "bank_or_event": "First Phase of Nationalization",
+            "historical_fact": "On July 19, 1969, Indira Gandhi nationalized 14 major commercial banks with deposits of over ₹50 crore."
+        },
+        {
+            "bank_or_event": "Second Phase of Nationalization",
+            "historical_fact": "On April 15, 1980, 6 more commercial banks with deposits of over ₹200 crore were nationalized."
+        },
+        {
+            "bank_or_event": "First Bank of India",
+            "historical_fact": "Bank of Hindustan, established in 1770 in Calcutta under European management."
+        },
+        {
+            "bank_or_event": "First fully Indian Bank",
+            "historical_fact": "Punjab National Bank (PNB), established in 1894 in Lahore, spearheaded by Lala Lajpat Rai."
+        }
+    ],
+    "major_financial_institutions": [
+        {
+            "institution": "NABARD (National Bank for Agriculture and Rural Development)",
+            "established": "1982",
+            "headquarters": "Mumbai",
+            "key_fact": "Apex regulatory body for overall regulation of regional rural banks and apex cooperative banks. Established on the recommendation of the B. Sivaraman Committee."
+        },
+        {
+            "institution": "SEBI (Securities and Exchange Board of India)",
+            "established": "1988 (Given Statutory Status in 1992)",
+            "headquarters": "Mumbai",
+            "key_fact": "The regulatory body for the securities and commodity market in India. Formed to protect the interests of investors and regulate the stock market."
+        },
+        {
+            "institution": "SIDBI (Small Industries Development Bank of India)",
+            "established": "1990",
+            "headquarters": "Lucknow",
+            "key_fact": "The apex regulatory body for the licensing and regulation of micro, small and medium enterprise (MSME) finance companies."
+        },
+        {
+            "institution": "IRDAI (Insurance Regulatory and Development Authority of India)",
+            "established": "1999",
+            "headquarters": "Hyderabad",
+            "key_fact": "Statutory body regulating the insurance and re-insurance industries. Formed on the recommendation of the R.N. Malhotra Committee."
+        },
+        {
+            "institution": "EXIM Bank (Export-Import Bank of India)",
+            "established": "1982",
+            "headquarters": "Mumbai",
+            "key_fact": "The premier export finance institution of India, established to promote cross-border trade and investment."
+        },
+        {
+            "institution": "NHB (National Housing Bank)",
+            "established": "1988",
+            "headquarters": "New Delhi",
+            "key_fact": "The apex financial institution for housing. It was set up with the objective to operate as a principal agency to promote housing finance institutions."
+        },
+        {
+            "institution": "LIC (Life Insurance Corporation of India)",
+            "established": "1956",
+            "headquarters": "Mumbai",
+            "key_fact": "Created by nationalizing and merging 245 private life insurance companies to spread life insurance widely, especially to rural areas."
+        }
+    ]
+}

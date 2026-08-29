@@ -1,0 +1,64 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "2026 परीक्षा चक्र के लिए प्रमुख अंतरराष्ट्रीय संगठनों और राष्ट्राध्यक्षों का बेसलाइन इनिशियलाइज़ेशन (आरंभ)।",
+    "organizations": [
+        {
+            "organization": "संयुक्त राष्ट्र (UN)",
+            "head_designation": "महासचिव",
+            "name": "एंटोनियो गुटेरेस",
+            "headquarters": "न्यूयॉर्क, अमेरिका"
+        },
+        {
+            "organization": "विश्व बैंक समूह (WBG)",
+            "head_designation": "अध्यक्ष",
+            "name": "अजय बंगा",
+            "headquarters": "वाशिंगटन डी.सी., अमेरिका"
+        },
+        {
+            "organization": "अंतर्राष्ट्रीय मुद्रा कोष (IMF)",
+            "head_designation": "प्रबंध निदेशक",
+            "name": "क्रिस्टालिना जॉर्जीवा",
+            "headquarters": "वाशिंगटन डी.सी., अमेरिका"
+        },
+        {
+            "organization": "विश्व व्यापार संगठन (WTO)",
+            "head_designation": "महानिदेशक",
+            "name": "न्गोजी ओकोंजो-इविएला",
+            "headquarters": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+            "organization": "विश्व स्वास्थ्य संगठन (WHO)",
+            "head_designation": "महानिदेशक",
+            "name": "टेड्रोस अदनोम घेब्रेयेसस",
+            "headquarters": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+            "organization": "एशियाई विकास बैंक (ADB)",
+            "head_designation": "अध्यक्ष",
+            "name": "मासात्सुगु असाकावा",
+            "headquarters": "मनीला, फिलीपींस"
+        }
+    ],
+    "major_countries": [
+        {
+            "country": "संयुक्त राज्य अमेरिका",
+            "head_designation": "राष्ट्रपति",
+            "name": "डोनाल्ड ट्रंप"
+        },
+        {
+            "country": "यूनाइटेड किंगडम",
+            "head_designation": "प्रधानमंत्री",
+            "name": "कियर स्टार्मर"
+        },
+        {
+            "country": "फ्रांस",
+            "head_designation": "राष्ट्रपति",
+            "name": "इमैनुएल मैक्रों"
+        },
+        {
+            "country": "रूस",
+            "head_designation": "राष्ट्रपति",
+            "name": "व्लादिमीर पुतिन"
+        }
+    ]
+}

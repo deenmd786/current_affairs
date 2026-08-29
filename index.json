@@ -1,0 +1,373 @@
+{
+    "index_metadata": {
+        "base_url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Current_Affairs",
+        "description": "Master Index File for 2026 Current Affairs, Dynamic GK, and Static GK (Bilingual) fetched via GitHub Raw URL"
+    },
+    "current_affairs_2026": [
+        {
+            "file_name": "01_January_2026_MCQs.json",
+            "title_en": "January 2026 Current Affairs",
+            "title_hi": "जनवरी 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "02_February_2026_MCQs.json",
+            "title_en": "February 2026 Current Affairs",
+            "title_hi": "फरवरी 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "03_March_2026_MCQs.json",
+            "title_en": "March 2026 Current Affairs",
+            "title_hi": "मार्च 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "04_April_2026_MCQs.json",
+            "title_en": "April 2026 Current Affairs",
+            "title_hi": "अप्रैल 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "05_May_2026_MCQs.json",
+            "title_en": "May 2026 Current Affairs",
+            "title_hi": "मई 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "06_June_2026_MCQs.json",
+            "title_en": "June 2026 Current Affairs",
+            "title_hi": "जून 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "07_July_2026_MCQs.json",
+            "title_en": "July 2026 Current Affairs",
+            "title_hi": "जुलाई 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "08_August_2026_MCQs.json",
+            "title_en": "August 2026 Current Affairs",
+            "title_hi": "अगस्त 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "09_September_2026_MCQs.json",
+            "title_en": "September 2026 Current Affairs",
+            "title_hi": "सितंबर 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "10_October_2026_MCQs.json",
+            "title_en": "October 2026 Current Affairs",
+            "title_hi": "अक्टूबर 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "11_November_2026_MCQs.json",
+            "title_en": "November 2026 Current Affairs",
+            "title_hi": "नवंबर 2026 करेंट अफेयर्स"
+        },
+        {
+            "file_name": "12_December_2026_MCQs.json",
+            "title_en": "December 2026 Current Affairs",
+            "title_hi": "दिसंबर 2026 करेंट अफेयर्स"
+        }
+    ],
+    "dynamic_gk_lists": [
+        {
+            "file_name": "Chief_Ministers_and_Governors.json",
+            "title_en": "Chief Ministers and Governors",
+            "title_hi": "मुख्यमंत्री और राज्यपाल"
+        },
+        {
+            "file_name": "Global_Indexes_and_Rankings.json",
+            "title_en": "Global Indexes and Rankings",
+            "title_hi": "वैश्विक सूचकांक और रैंकिंग"
+        },
+        {
+            "file_name": "Government_Schemes.json",
+            "title_en": "Government Schemes",
+            "title_hi": "सरकारी योजनाएं"
+        },
+        {
+            "file_name": "Important_Appointments_2026.json",
+            "title_en": "Important Appointments 2026",
+            "title_hi": "महत्वपूर्ण नियुक्तियां 2026"
+        },
+        {
+            "file_name": "International_Heads_and_Orgs.json",
+            "title_en": "International Heads and Organizations",
+            "title_hi": "अंतर्राष्ट्रीय प्रमुख और संगठन"
+        },
+        {
+            "file_name": "Joint_Military_Exercises.json",
+            "title_en": "Joint Military Exercises",
+            "title_hi": "संयुक्त सैन्य अभ्यास"
+        },
+        {
+            "file_name": "RBI_Rates_and_Indexes.json",
+            "title_en": "RBI Rates and Indexes",
+            "title_hi": "आरबीआई (RBI) दरें और सूचकांक"
+        },
+        {
+            "file_name": "Sports_Champions_and_Venues.json",
+            "title_en": "Sports Champions and Venues",
+            "title_hi": "खेल चैंपियन और आयोजन स्थल"
+        },
+        {
+            "file_name": "Whos_Who_Cabinet_Ministers.json",
+            "title_en": "Who's Who: Cabinet Ministers",
+            "title_hi": "कौन क्या है: कैबिनेट मंत्री"
+        }
+    ],
+    "static_gk": {
+        "art_and_culture": [
+            {
+                "file_name": "Classical_and_Folk_Dances.json",
+                "title_en": "Classical and Folk Dances",
+                "title_hi": "शास्त्रीय और लोक नृत्य"
+            },
+            {
+                "file_name": "Festivals_of_India.json",
+                "title_en": "Festivals of India",
+                "title_hi": "भारत के प्रमुख त्योहार"
+            },
+            {
+                "file_name": "Important_Temples_and_Monuments.json",
+                "title_en": "Important Temples and Monuments",
+                "title_hi": "महत्वपूर्ण मंदिर और स्मारक"
+            },
+            {
+                "file_name": "Indian_Paintings_and_Martial_Arts.json",
+                "title_en": "Indian Paintings and Martial Arts",
+                "title_hi": "भारतीय चित्रकला और मार्शल आर्ट"
+            },
+            {
+                "file_name": "Musical_Instruments_and_Exponents.json",
+                "title_en": "Musical Instruments and Exponents",
+                "title_hi": "वाद्ययंत्र और उनके वादक"
+            },
+            {
+                "file_name": "UNESCO_World_Heritage_Sites.json",
+                "title_en": "UNESCO World Heritage Sites",
+                "title_hi": "यूनेस्को विश्व धरोहर स्थल"
+            }
+        ],
+        "economics": [
+            {
+                "file_name": "Banking_and_Financial_Institutions.json",
+                "title_en": "Banking and Financial Institutions",
+                "title_hi": "बैंकिंग और वित्तीय संस्थान"
+            },
+            {
+                "file_name": "Census_2011_Data.json",
+                "title_en": "Census 2011 Data",
+                "title_hi": "जनगणना 2011 के आंकड़े"
+            },
+            {
+                "file_name": "Five_Year_Plans.json",
+                "title_en": "Five Year Plans",
+                "title_hi": "पंचवर्षीय योजनाएं"
+            },
+            {
+                "file_name": "Important_Economic_Terms.json",
+                "title_en": "Important Economic Terms",
+                "title_hi": "महत्वपूर्ण आर्थिक शब्दावली"
+            },
+            {
+                "file_name": "Major_Sports_Trophies_and_Cups.json",
+                "title_en": "Major Sports Trophies and Cups",
+                "title_hi": "प्रमुख खेल ट्रॉफियां और कप"
+            },
+            {
+                "file_name": "Navratna_and_Maharatna_Companies.json",
+                "title_en": "Navratna and Maharatna Companies",
+                "title_hi": "नवरत्न और महारत्न कंपनियां"
+            }
+        ],
+        "general_science": [
+            {
+                "file_name": "Common_Chemicals_and_Formulas.json",
+                "title_en": "Common Chemicals and Formulas",
+                "title_hi": "सामान्य रसायन और उनके सूत्र"
+            },
+            {
+                "file_name": "Human_Diseases_and_Pathogens.json",
+                "title_en": "Human Diseases and Pathogens",
+                "title_hi": "मानव रोग और रोगजनक"
+            },
+            {
+                "file_name": "Inventions_and_Discoveries.json",
+                "title_en": "Inventions and Discoveries",
+                "title_hi": "आविष्कार और खोजें"
+            },
+            {
+                "file_name": "Scientific_Instruments_and_Uses.json",
+                "title_en": "Scientific Instruments and Uses",
+                "title_hi": "वैज्ञानिक उपकरण और उनके उपयोग"
+            },
+            {
+                "file_name": "SI_Units_and_Measurements.json",
+                "title_en": "SI Units and Measurements",
+                "title_hi": "SI मात्रक और मापन"
+            },
+            {
+                "file_name": "Vitamins_and_Deficiency_Diseases.json",
+                "title_en": "Vitamins and Deficiency Diseases",
+                "title_hi": "विटामिन और कमी से होने वाले रोग"
+            }
+        ],
+        "geography": [
+            {
+                "file_name": "Biosphere_Reserves_and_Ramsar_Sites.json",
+                "title_en": "Biosphere Reserves and Ramsar Sites",
+                "title_hi": "बायोस्फीयर रिजर्व और रामसर स्थल"
+            },
+            {
+                "file_name": "Indian_Rivers_and_Dams.json",
+                "title_en": "Indian Rivers and Dams",
+                "title_hi": "भारतीय नदियां और बांध"
+            },
+            {
+                "file_name": "Major_Lakes_and_Waterfalls.json",
+                "title_en": "Major Lakes and Waterfalls",
+                "title_hi": "प्रमुख झीलें और जलप्रपात"
+            },
+            {
+                "file_name": "Mountain_Passes_of_India.json",
+                "title_en": "Mountain Passes of India",
+                "title_hi": "भारत के प्रमुख दर्रे"
+            },
+            {
+                "file_name": "National_Parks_and_Biospheres.json",
+                "title_en": "National Parks and Biospheres",
+                "title_hi": "राष्ट्रीय उद्यान और बायोस्फीयर"
+            },
+            {
+                "file_name": "Solar_System_and_Planets.json",
+                "title_en": "Solar System and Planets",
+                "title_hi": "सौर मंडल और ग्रह"
+            },
+            {
+                "file_name": "Thermal_and_Nuclear_Power_Plants.json",
+                "title_en": "Thermal and Nuclear Power Plants",
+                "title_hi": "थर्मल और परमाणु ऊर्जा संयंत्र"
+            }
+        ],
+        "history": [
+            {
+                "file_name": "Governor_Generals_and_Viceroys.json",
+                "title_en": "Governor Generals and Viceroys",
+                "title_hi": "गवर्नर जनरल और वायसराय"
+            },
+            {
+                "file_name": "Important_Battles_of_India.json",
+                "title_en": "Important Battles of India",
+                "title_hi": "भारत के प्रमुख युद्ध"
+            },
+            {
+                "file_name": "Indian_National_Congress_Sessions.json",
+                "title_en": "Indian National Congress Sessions",
+                "title_hi": "भारतीय राष्ट्रीय कांग्रेस अधिवेशन"
+            },
+            {
+                "file_name": "Indus_Valley_Civilization_Sites.json",
+                "title_en": "Indus Valley Civilization Sites",
+                "title_hi": "सिंधु घाटी सभ्यता स्थल"
+            },
+            {
+                "file_name": "Social_and_Religious_Reform_Movements.json",
+                "title_en": "Social and Religious Reform Movements",
+                "title_hi": "सामाजिक और धार्मिक सुधार आंदोलन"
+            }
+        ],
+        "miscellaneous": [
+            {
+                "file_name": "Famous_Books_and_Authors.json",
+                "title_en": "Famous Books and Authors",
+                "title_hi": "प्रसिद्ध पुस्तकें और लेखक"
+            },
+            {
+                "file_name": "Headquarters_of_International_Organizations.json",
+                "title_en": "Headquarters of International Organizations",
+                "title_hi": "अंतर्राष्ट्रीय संगठनों के मुख्यालय"
+            },
+            {
+                "file_name": "Important_Inventions_and_Discoveries.json",
+                "title_en": "Important Inventions and Discoveries",
+                "title_hi": "महत्वपूर्ण आविष्कार और खोजें"
+            },
+            {
+                "file_name": "Important_National_and_International_Days.json",
+                "title_en": "Important National and International Days",
+                "title_hi": "महत्वपूर्ण राष्ट्रीय और अंतर्राष्ट्रीय दिवस"
+            },
+            {
+                "file_name": "International_Border_Lines.json",
+                "title_en": "International Border Lines",
+                "title_hi": "अंतर्राष्ट्रीय सीमा रेखाएं"
+            },
+            {
+                "file_name": "List_of_Firsts_in_India.json",
+                "title_en": "List of Firsts in India",
+                "title_hi": "भारत में प्रथम (सूची)"
+            }
+        ],
+        "polity": [
+            {
+                "file_name": "Constitutional_and_Non_Constitutional_Bodies.json",
+                "title_en": "Constitutional and Non-Constitutional Bodies",
+                "title_hi": "संवैधानिक और गैर-संवैधानिक निकाय"
+            },
+            {
+                "file_name": "Important_Articles_of_Constitution.json",
+                "title_en": "Important Articles of Constitution",
+                "title_hi": "संविधान के महत्वपूर्ण अनुच्छेद"
+            },
+            {
+                "file_name": "List_of_Presidents_and_Prime_Ministers.json",
+                "title_en": "List of Presidents and Prime Ministers",
+                "title_hi": "राष्ट्रपतियों और प्रधानमंत्रियों की सूची"
+            },
+            {
+                "file_name": "Major_Constitutional_Amendments.json",
+                "title_en": "Major Constitutional Amendments",
+                "title_hi": "प्रमुख संवैधानिक संशोधन"
+            },
+            {
+                "file_name": "Schedules_of_Indian_Constitution.json",
+                "title_en": "Schedules of Indian Constitution",
+                "title_hi": "भारतीय संविधान की अनुसूचियां"
+            },
+            {
+                "file_name": "Sources_of_Indian_Constitution.json",
+                "title_en": "Sources of Indian Constitution",
+                "title_hi": "भारतीय संविधान के स्रोत"
+            }
+        ],
+        "sports": [
+            {
+                "file_name": "Famous_Sports_Stadiums.json",
+                "title_en": "Famous Sports Stadiums",
+                "title_hi": "प्रसिद्ध खेल स्टेडियम"
+            },
+            {
+                "file_name": "Major_Sports_Trophies_and_Cups.json",
+                "title_en": "Major Sports Trophies and Cups",
+                "title_hi": "प्रमुख खेल ट्रॉफियां और कप"
+            },
+            {
+                "file_name": "National_Sports_of_Countries.json",
+                "title_en": "National Sports of Countries",
+                "title_hi": "विभिन्न देशों के राष्ट्रीय खेल"
+            },
+            {
+                "file_name": "Number_of_Players_in_Different_Sports.json",
+                "title_en": "Number of Players in Different Sports",
+                "title_hi": "विभिन्न खेलों में खिलाड़ियों की संख्या"
+            },
+            {
+                "file_name": "Olympic_Games_History_and_India.json",
+                "title_en": "Olympic Games History and India",
+                "title_hi": "ओलंपिक खेलों का इतिहास और भारत"
+            },
+            {
+                "file_name": "Sports_Terminology.json",
+                "title_en": "Sports Terminology",
+                "title_hi": "खेल शब्दावली"
+            }
+        ]
+    }
+}

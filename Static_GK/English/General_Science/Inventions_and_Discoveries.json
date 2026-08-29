@@ -1,0 +1,160 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency scientific inventions, medical discoveries, and their originators for General Science Static GK.",
+    "physics_and_chemistry": [
+        {
+            "invention_or_discovery": "Electron",
+            "scientist": "J.J. Thomson",
+            "year_approx": "1897",
+            "key_fact": "Discovered through cathode ray tube experiments."
+        },
+        {
+            "invention_or_discovery": "Proton",
+            "scientist": "Ernest Rutherford",
+            "year_approx": "1919",
+            "key_fact": "Eugen Goldstein discovered positive rays earlier, but Rutherford identified and named the proton."
+        },
+        {
+            "invention_or_discovery": "Neutron",
+            "scientist": "James Chadwick",
+            "year_approx": "1932",
+            "key_fact": "Completed the basic atomic model; won him the Nobel Prize in Physics in 1935."
+        },
+        {
+            "invention_or_discovery": "X-Rays",
+            "scientist": "Wilhelm Conrad Roentgen",
+            "year_approx": "1895",
+            "key_fact": "Discovered accidentally while experimenting with vacuum tubes; won the first Nobel Prize in Physics."
+        },
+        {
+            "invention_or_discovery": "Radioactivity",
+            "scientist": "Henri Becquerel",
+            "year_approx": "1896",
+            "key_fact": "Discovered spontaneous radioactivity in uranium salts."
+        },
+        {
+            "invention_or_discovery": "Radium and Polonium",
+            "scientist": "Marie Curie and Pierre Curie",
+            "year_approx": "1898",
+            "key_fact": "Marie Curie remains the only person to win Nobel Prizes in two different scientific fields (Physics and Chemistry)."
+        },
+        {
+            "invention_or_discovery": "Periodic Table",
+            "scientist": "Dmitri Mendeleev",
+            "year_approx": "1869",
+            "key_fact": "Arranged elements by atomic mass and left gaps for elements that had not yet been discovered."
+        },
+        {
+            "invention_or_discovery": "Dynamite",
+            "scientist": "Alfred Nobel",
+            "year_approx": "1867",
+            "key_fact": "Invented as a safer way to harness nitroglycerin; the profits funded the Nobel Prizes."
+        }
+    ],
+    "biology_and_medicine": [
+        {
+            "invention_or_discovery": "Penicillin (First Antibiotic)",
+            "scientist": "Alexander Fleming",
+            "year_approx": "1928",
+            "key_fact": "Discovered accidentally from a mold (Penicillium notatum) that killed Staphylococcus bacteria."
+        },
+        {
+            "invention_or_discovery": "Smallpox Vaccine",
+            "scientist": "Edward Jenner",
+            "year_approx": "1796",
+            "key_fact": "The world's first successful vaccine; developed using the cowpox virus."
+        },
+        {
+            "invention_or_discovery": "Polio Vaccine",
+            "scientist": "Jonas Salk (Injected) & Albert Sabin (Oral)",
+            "year_approx": "1953 / 1961",
+            "key_fact": "Salk developed the dead-virus vaccine; Sabin later developed the live-attenuated oral drops (OPV)."
+        },
+        {
+            "invention_or_discovery": "Rabies Vaccine & Pasteurization",
+            "scientist": "Louis Pasteur",
+            "year_approx": "1885",
+            "key_fact": "Developed the germ theory of disease and the first vaccine for rabies."
+        },
+        {
+            "invention_or_discovery": "Blood Groups (ABO System)",
+            "scientist": "Karl Landsteiner",
+            "year_approx": "1900",
+            "key_fact": "Made safe blood transfusions possible; won the Nobel Prize in Physiology/Medicine."
+        },
+        {
+            "invention_or_discovery": "Blood Circulation",
+            "scientist": "William Harvey",
+            "year_approx": "1628",
+            "key_fact": "First to describe accurately how blood is pumped around the body by the heart."
+        },
+        {
+            "invention_or_discovery": "Insulin",
+            "scientist": "Frederick Banting and Charles Best",
+            "year_approx": "1921",
+            "key_fact": "Discovered in Toronto; transformed Type 1 diabetes from a fatal disease to a manageable condition."
+        },
+        {
+            "invention_or_discovery": "DNA Double Helix Structure",
+            "scientist": "James Watson and Francis Crick",
+            "year_approx": "1953",
+            "key_fact": "Based heavily on the X-ray crystallography data captured by Rosalind Franklin."
+        },
+        {
+            "invention_or_discovery": "Stethoscope",
+            "scientist": "René Laennec",
+            "year_approx": "1816",
+            "key_fact": "Invented because he was uncomfortable placing his ear directly on a female patient's chest."
+        }
+    ],
+    "technology_and_computing": [
+        {
+            "invention_or_discovery": "Computer",
+            "scientist": "Charles Babbage",
+            "year_approx": "1830s",
+            "key_fact": "Designed the 'Analytical Engine', considered the first mechanical computer concept. (Ada Lovelace wrote the first algorithm for it)."
+        },
+        {
+            "invention_or_discovery": "World Wide Web (WWW)",
+            "scientist": "Tim Berners-Lee",
+            "year_approx": "1989",
+            "key_fact": "Invented while working at CERN to help scientists share data globally."
+        },
+        {
+            "invention_or_discovery": "Telephone",
+            "scientist": "Alexander Graham Bell",
+            "year_approx": "1876",
+            "key_fact": "First successful bi-directional transmission of clear speech."
+        },
+        {
+            "invention_or_discovery": "Television",
+            "scientist": "John Logie Baird",
+            "year_approx": "1925",
+            "key_fact": "Demonstrated the first working mechanical television system."
+        },
+        {
+            "invention_or_discovery": "Electric Bulb",
+            "scientist": "Thomas Alva Edison",
+            "year_approx": "1879",
+            "key_fact": "Did not invent the first lightbulb, but invented the first commercially practical and long-lasting incandescent bulb."
+        },
+        {
+            "invention_or_discovery": "Aeroplane",
+            "scientist": "Orville and Wilbur Wright (Wright Brothers)",
+            "year_approx": "1903",
+            "key_fact": "Achieved the first sustained, controlled, powered heavier-than-air manned flight at Kitty Hawk."
+        },
+        {
+            "invention_or_discovery": "Radio",
+            "scientist": "Guglielmo Marconi",
+            "year_approx": "1895",
+            "key_fact": "Developed the first practical wireless telegraphy system based on Hertz's discovery of radio waves."
+        },
+        {
+            "invention_or_discovery": "Steam Engine",
+            "scientist": "James Watt",
+            "year_approx": "1765",
+            "key_fact": "Vastly improved Thomas Newcomen's design, sparking the Industrial Revolution."
+        }
+    ]
+}

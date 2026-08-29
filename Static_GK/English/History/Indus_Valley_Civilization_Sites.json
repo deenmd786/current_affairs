@@ -1,0 +1,93 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Indus Valley Civilization (Harappan) sites, their geographic locations, excavators, and key archaeological discoveries for History Static GK.",
+    "sites_in_present_day_pakistan": [
+        {
+            "site_name": "Harappa",
+            "location": "Sahiwal District, Punjab (Pakistan)",
+            "river": "Ravi",
+            "excavator_and_year": "Daya Ram Sahni (1921)",
+            "key_findings": "The first IVC site to be discovered. Key finds include a row of 6 granaries, workmen's quarters, stone symbols of Lingam and Yoni, and a painted pottery."
+        },
+        {
+            "site_name": "Mohenjo-Daro",
+            "location": "Larkana District, Sindh (Pakistan)",
+            "river": "Indus",
+            "excavator_and_year": "R.D. Banerjee (1922)",
+            "key_findings": "Means 'Mound of the Dead'. Key finds include the Great Bath, the Great Granary, the Bronze Dancing Girl statue, the Steatite statue of a Bearded Priest, and the Pashupati Seal."
+        },
+        {
+            "site_name": "Chanhudaro",
+            "location": "Nawabshah District, Sindh (Pakistan)",
+            "river": "Indus",
+            "excavator_and_year": "N.G. Majumdar (1931)",
+            "key_findings": "The only Indus city without a citadel. Famous as an industrial hub for bead-making factories, lipsticks, and a footprint of a dog chasing a cat."
+        }
+    ],
+    "sites_in_present_day_india": [
+        {
+            "site_name": "Lothal",
+            "location": "Ahmedabad District, Gujarat",
+            "river": "Bhogava (Gulf of Khambhat)",
+            "excavator_and_year": "S.R. Rao (1953)",
+            "key_findings": "The 'Manchester of IVC' and a major port city. Key finds include the world's earliest known artificial Dockyard, fire altars, rice husks, and double burial (male and female in a single grave)."
+        },
+        {
+            "site_name": "Kalibangan",
+            "location": "Hanumangarh District, Rajasthan",
+            "river": "Ghaggar",
+            "excavator_and_year": "Amalananda Ghosh (1951)",
+            "key_findings": "Means 'Black Bangles'. Key finds include a ploughed field surface, fire altars, camel bones, and wooden drainage systems."
+        },
+        {
+            "site_name": "Dholavira",
+            "location": "Kutch District, Gujarat",
+            "river": "Luni",
+            "excavator_and_year": "J.P. Joshi (1967-68)",
+            "key_findings": "Recognized as a UNESCO World Heritage Site in 2021. Unique for its 3-part city division (unlike the usual 2-part division) and a highly advanced water harnessing system/reservoirs. Found a large 10-letter signboard."
+        },
+        {
+            "site_name": "Surkotada",
+            "location": "Kutch District, Gujarat",
+            "river": "Luni region",
+            "excavator_and_year": "J.P. Joshi (1964)",
+            "key_findings": "The only Indus site where actual bones of a horse were found, along with stone-covered burials."
+        },
+        {
+            "site_name": "Rakhigarhi",
+            "location": "Hisar District, Haryana",
+            "river": "Ghaggar-Hakra plain",
+            "excavator_and_year": "Amarendra Nath (1997 onwards)",
+            "key_findings": "Currently recognized as the largest Indus Valley Civilization site in the world (surpassing Mohenjo-Daro). Features a provincial capital status, granaries, and DNA-tested burials."
+        },
+        {
+            "site_name": "Banawali",
+            "location": "Fatehabad District, Haryana",
+            "river": "Saraswati (Ghaggar basin)",
+            "excavator_and_year": "R.S. Bisht (1974)",
+            "key_findings": "Notable for lacking a proper grid pattern for streets and lacking systematic drainage. Key finds include a terracotta replica of a toy plough and high-quality barley."
+        }
+    ],
+    "geographical_extremes_of_ivc": [
+        {
+            "point": "Northernmost Site",
+            "site_name": "Manda",
+            "location": "Jammu & Kashmir (on the Chenab river)"
+        },
+        {
+            "point": "Southernmost Site",
+            "site_name": "Daimabad",
+            "location": "Maharashtra (on the Pravara river)"
+        },
+        {
+            "point": "Easternmost Site",
+            "site_name": "Alamgirpur",
+            "location": "Uttar Pradesh (on the Hindon river)"
+        },
+        {
+            "point": "Westernmost Site",
+            "site_name": "Sutkagen Dor",
+            "location": "Balochistan, Pakistan (on the Dasht river)"
+        }
+    ]
+}

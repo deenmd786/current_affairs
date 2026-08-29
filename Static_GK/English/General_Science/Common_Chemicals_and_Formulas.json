@@ -1,0 +1,118 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency common chemicals, their chemical names, and molecular formulas for General Science Static GK.",
+    "household_and_everyday_chemicals": [
+        {
+            "common_name": "Baking Soda",
+            "chemical_name": "Sodium Bicarbonate",
+            "formula": "NaHCO3",
+            "key_fact": "Used in baking, as an antacid, and in fire extinguishers."
+        },
+        {
+            "common_name": "Washing Soda",
+            "chemical_name": "Sodium Carbonate Decahydrate",
+            "formula": "Na2CO3.10H2O",
+            "key_fact": "Used to remove permanent hardness of water and in glass manufacturing."
+        },
+        {
+            "common_name": "Table Salt",
+            "chemical_name": "Sodium Chloride",
+            "formula": "NaCl",
+            "key_fact": "Essential for human diet; used as a food preservative."
+        },
+        {
+            "common_name": "Bleaching Powder",
+            "chemical_name": "Calcium Oxychloride",
+            "formula": "CaOCl2",
+            "key_fact": "Used for disinfecting drinking water and bleaching cotton/linen."
+        },
+        {
+            "common_name": "Vinegar",
+            "chemical_name": "Acetic Acid (Dilute)",
+            "formula": "CH3COOH",
+            "key_fact": "Usually a 5-8% solution of acetic acid in water; used in cooking and pickling."
+        },
+        {
+            "common_name": "Table Sugar (Cane Sugar)",
+            "chemical_name": "Sucrose",
+            "formula": "C12H22O11",
+            "key_fact": "A disaccharide composed of glucose and fructose."
+        }
+    ],
+    "industrial_and_construction_chemicals": [
+        {
+            "common_name": "Quicklime",
+            "chemical_name": "Calcium Oxide",
+            "formula": "CaO",
+            "key_fact": "Used in the manufacturing of cement and glass."
+        },
+        {
+            "common_name": "Slaked Lime",
+            "chemical_name": "Calcium Hydroxide",
+            "formula": "Ca(OH)2",
+            "key_fact": "Produced by adding water to quicklime; used in whitewashing walls."
+        },
+        {
+            "common_name": "Plaster of Paris (POP)",
+            "chemical_name": "Calcium Sulfate Hemihydrate",
+            "formula": "CaSO4.1/2H2O",
+            "key_fact": "Used for setting fractured bones and making casts/sculptures."
+        },
+        {
+            "common_name": "Gypsum",
+            "chemical_name": "Calcium Sulfate Dihydrate",
+            "formula": "CaSO4.2H2O",
+            "key_fact": "Added to cement to slow down its setting process. Heating it produces POP."
+        },
+        {
+            "common_name": "Blue Vitriol",
+            "chemical_name": "Copper(II) Sulfate Pentahydrate",
+            "formula": "CuSO4.5H2O",
+            "key_fact": "Used as a fungicide, algaecide, and in electroplating."
+        },
+        {
+            "common_name": "Epsom Salt",
+            "chemical_name": "Magnesium Sulfate Heptahydrate",
+            "formula": "MgSO4.7H2O",
+            "key_fact": "Used in bath salts to soothe sore muscles and as a laxative."
+        }
+    ],
+    "gases_and_miscellaneous": [
+        {
+            "common_name": "Laughing Gas",
+            "chemical_name": "Nitrous Oxide",
+            "formula": "N2O",
+            "key_fact": "Used as an anesthetic in dentistry; acts as a greenhouse gas."
+        },
+        {
+            "common_name": "Dry Ice",
+            "chemical_name": "Solid Carbon Dioxide",
+            "formula": "CO2",
+            "key_fact": "Sublimes directly from a solid to a gas; used as a cooling agent."
+        },
+        {
+            "common_name": "Marsh Gas",
+            "chemical_name": "Methane",
+            "formula": "CH4",
+            "key_fact": "The main component of natural gas and biogas; produced in wetlands."
+        },
+        {
+            "common_name": "Heavy Water",
+            "chemical_name": "Deuterium Oxide",
+            "formula": "D2O",
+            "key_fact": "Used as a moderator and coolant in nuclear reactors."
+        },
+        {
+            "common_name": "Aqua Regia (Royal Water)",
+            "chemical_name": "Nitrohydrochloric Acid",
+            "formula": "HNO3 + 3HCl",
+            "key_fact": "A 1:3 mixture of Nitric Acid and Hydrochloric Acid; can dissolve noble metals like gold and platinum."
+        },
+        {
+            "common_name": "Tear Gas",
+            "chemical_name": "Chloropicrin / CS Gas",
+            "formula": "CCl3NO2",
+            "key_fact": "Used in riot control; causes severe eye, respiratory, and skin irritation."
+        }
+    ]
+}

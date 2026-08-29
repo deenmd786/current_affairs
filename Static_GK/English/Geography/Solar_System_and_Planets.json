@@ -1,0 +1,77 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Solar System facts, planetary extremes, and celestial body characteristics for Geography Static GK.",
+    "sun_and_earth_basics": [
+        {
+            "entity": "The Sun",
+            "key_facts": [
+                "Composition: Primarily Hydrogen (~73%) and Helium (~25%).",
+                "Energy generation: Nuclear Fusion (converting Hydrogen into Helium).",
+                "Light travel time to Earth: Approximately 8 minutes and 20 seconds (500 seconds)."
+            ]
+        },
+        {
+            "entity": "Earth",
+            "key_facts": [
+                "Known as the 'Blue Planet' due to 71% water coverage.",
+                "The densest planet in the solar system (5.51 g/cm³).",
+                "Escape velocity from Earth is 11.2 km/s.",
+                "Rotates on its axis from West to East."
+            ]
+        }
+    ],
+    "planetary_extremes_and_features": [
+        {
+            "planet_name": "Mercury",
+            "category": "Smallest & Closest",
+            "key_fact": "Has the shortest revolution period (88 Earth days) but extreme temperature variations. It has no moons."
+        },
+        {
+            "planet_name": "Venus",
+            "category": "Hottest & Brightest",
+            "key_fact": "Known as 'Earth's Twin' and the 'Morning/Evening Star'. It is the hottest planet due to a runaway greenhouse effect (thick CO2 atmosphere). It rotates backward (East to West)."
+        },
+        {
+            "planet_name": "Mars",
+            "category": "The Red Planet",
+            "key_fact": "Appears red due to iron oxide (rust) in its soil. Home to Olympus Mons (the largest volcano in the solar system). Has two small moons: Phobos and Deimos."
+        },
+        {
+            "planet_name": "Jupiter",
+            "category": "Largest & Fastest Rotating",
+            "key_fact": "Has the shortest day (rotates in ~10 hours). Famous for the 'Great Red Spot' (a giant storm). Its moon Ganymede is the largest moon in the solar system."
+        },
+        {
+            "planet_name": "Saturn",
+            "category": "Most Prominent Rings & Least Dense",
+            "key_fact": "The only planet less dense than water (it would float in a giant bathtub). Its largest moon, Titan, is the only moon with a thick, Earth-like atmosphere."
+        },
+        {
+            "planet_name": "Uranus",
+            "category": "The Tilted Planet",
+            "key_fact": "Rotates on its side (axial tilt of 98 degrees), making it look like it's rolling around the sun. Discovered by William Herschel. Like Venus, it rotates East to West."
+        },
+        {
+            "planet_name": "Neptune",
+            "category": "Farthest & Windiest",
+            "key_fact": "Has the strongest winds in the solar system (up to 2,100 km/h). Its largest moon is Triton, which orbits in the opposite direction of Neptune's rotation."
+        }
+    ],
+    "other_celestial_bodies": [
+        {
+            "body_type": "Dwarf Planet",
+            "name": "Pluto",
+            "key_fact": "Reclassified from a major planet to a dwarf planet in 2006 by the International Astronomical Union (IAU) because it has not 'cleared its neighboring region' of other objects."
+        },
+        {
+            "body_type": "Asteroid Belt",
+            "name": "Main Asteroid Belt",
+            "key_fact": "Located between the orbits of Mars and Jupiter. Contains millions of rocky fragments and the dwarf planet Ceres."
+        },
+        {
+            "body_type": "Comet",
+            "name": "Halley's Comet",
+            "key_fact": "A short-period comet visible from Earth every 75–76 years. It was last seen in 1986 and will next appear in mid-2061."
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency British Governor-Generals and Viceroys and their major historical events for History Static GK.",
+    "governor_generals_of_bengal": [
+        {
+            "name": "Warren Hastings",
+            "tenure": "1772 - 1785",
+            "key_events_and_reforms": [
+                "First Governor-General of Bengal.",
+                "End of Dual Government in Bengal.",
+                "Regulating Act of 1773 and Pitt's India Act of 1784.",
+                "Foundation of the Asiatic Society of Bengal (1784) with William Jones."
+            ]
+        },
+        {
+            "name": "Lord Cornwallis",
+            "tenure": "1786 - 1793",
+            "key_events_and_reforms": [
+                "Introduction of the Permanent Settlement in Bengal and Bihar (1793).",
+                "Known as the 'Father of Civil Services in India'.",
+                "Introduction of the Cornwallis Code (separation of revenue and justice administration)."
+            ]
+        },
+        {
+            "name": "Lord Wellesley",
+            "tenure": "1798 - 1805",
+            "key_events_and_reforms": [
+                "Introduction of the Subsidiary Alliance system (Nizam of Hyderabad was the first to sign).",
+                "Fourth Anglo-Mysore War (1799) and death of Tipu Sultan.",
+                "Establishment of Fort William College at Calcutta."
+            ]
+        }
+    ],
+    "governor_generals_of_india": [
+        {
+            "name": "Lord William Bentinck",
+            "tenure": "1828 - 1835",
+            "key_events_and_reforms": [
+                "First Governor-General of India (Charter Act of 1833).",
+                "Abolition of Sati (1829) with the help of Raja Ram Mohan Roy.",
+                "Suppression of Thuggee (1830).",
+                "Introduction of English as the official language of higher education (Macaulay's Minute, 1835)."
+            ]
+        },
+        {
+            "name": "Lord Dalhousie",
+            "tenure": "1848 - 1856",
+            "key_events_and_reforms": [
+                "Introduction of the Doctrine of Lapse (Satara, Jhansi, Nagpur annexed).",
+                "Introduction of the first Railway line connecting Bombay and Thane (1853).",
+                "Establishment of the electric telegraph and modern postal system.",
+                "Wood's Despatch on Education (1854), known as the Magna Carta of English education in India."
+            ]
+        }
+    ],
+    "viceroys_of_india": [
+        {
+            "name": "Lord Canning",
+            "tenure": "1856 - 1862",
+            "key_events_and_reforms": [
+                "Last Governor-General and First Viceroy of India.",
+                "Revolt of 1857 (Sepoy Mutiny) occurred during his tenure.",
+                "Government of India Act 1858 (Company rule ended, Crown rule began).",
+                "Establishment of Universities at Calcutta, Bombay, and Madras (1857)."
+            ]
+        },
+        {
+            "name": "Lord Lytton",
+            "tenure": "1876 - 1880",
+            "key_events_and_reforms": [
+                "Passed the Vernacular Press Act (1878) and Arms Act (1878).",
+                "Organized the Grand Delhi Durbar (1877) when Queen Victoria assumed the title 'Kaiser-i-Hind'.",
+                "Highly unpopular for his handling of the Great Famine of 1876-1878."
+            ]
+        },
+        {
+            "name": "Lord Ripon",
+            "tenure": "1880 - 1884",
+            "key_events_and_reforms": [
+                "Known as the most liberal and popular Viceroy.",
+                "Repeal of the Vernacular Press Act (1882).",
+                "Resolution on Local Self-Government (1882) - 'Father of Local Self-Government'.",
+                "Appointment of the Hunter Commission on Education (1882).",
+                "Ilbert Bill controversy (1883-1884)."
+            ]
+        },
+        {
+            "name": "Lord Curzon",
+            "tenure": "1899 - 1905",
+            "key_events_and_reforms": [
+                "Partition of Bengal (1905), which triggered the Swadeshi Movement.",
+                "Passed the Ancient Monuments Preservation Act (1904).",
+                "Established the Department of Agriculture and the Archaeological Survey of India."
+            ]
+        },
+        {
+            "name": "Lord Minto II",
+            "tenure": "1905 - 1910",
+            "key_events_and_reforms": [
+                "Swadeshi Movement continued.",
+                "Surat Split of the Indian National Congress (1907).",
+                "Establishment of the Muslim League (1906).",
+                "Indian Councils Act of 1909 (Morley-Minto Reforms) introduced separate electorates for Muslims."
+            ]
+        },
+        {
+            "name": "Lord Chelmsford",
+            "tenure": "1916 - 1921",
+            "key_events_and_reforms": [
+                "Lucknow Pact (1916) between Congress and Muslim League.",
+                "Passing of the Rowlatt Act (1919) and the Jallianwala Bagh Massacre (1919).",
+                "Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced dyarchy in provinces.",
+                "Launch of the Non-Cooperation and Khilafat Movements."
+            ]
+        },
+        {
+            "name": "Lord Irwin",
+            "tenure": "1926 - 1931",
+            "key_events_and_reforms": [
+                "Arrival of the Simon Commission (1928) and subsequent boycotts.",
+                "Purna Swaraj resolution passed at Lahore Session (1929).",
+                "Dandi March and launch of the Civil Disobedience Movement (1930).",
+                "Gandhi-Irwin Pact (1931)."
+            ]
+        },
+        {
+            "name": "Lord Linlithgow",
+            "tenure": "1936 - 1943",
+            "key_events_and_reforms": [
+                "Longest tenure as Viceroy.",
+                "Outbreak of World War II (1939) and resignation of Congress ministries.",
+                "August Offer (1940) and Cripps Mission (1942).",
+                "Launch of the Quit India Movement (1942)."
+            ]
+        },
+        {
+            "name": "Lord Mountbatten",
+            "tenure": "Mar 1947 - Aug 1947",
+            "key_events_and_reforms": [
+                "Last Viceroy of British India and First Governor-General of Independent India.",
+                "Proposed the Mountbatten Plan (June 3 Plan) for the partition of India.",
+                "Passed the Indian Independence Act (1947)."
+            ]
+        },
+        {
+            "name": "Chakravarti Rajagopalachari",
+            "tenure": "1948 - 1950",
+            "key_events_and_reforms": [
+                "The first and only Indian to hold the post of Governor-General of India.",
+                "Served until India became a Republic on January 26, 1950, after which the post was abolished."
+            ]
+        }
+    ]
+}

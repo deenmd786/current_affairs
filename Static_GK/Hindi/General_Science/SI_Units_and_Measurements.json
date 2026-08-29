@@ -1,0 +1,286 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "मूल SI मात्रक, व्युत्पन्न मात्रक, व्यावहारिक मात्रक, खगोलीय मात्रक और सामान्य मापन रूपांतरणों का बेसलाइन इनिशियलाइज़ेशन।",
+    "base_si_units": [
+        {
+            "physical_quantity": "लंबाई",
+            "si_unit": "मीटर",
+            "symbol": "m"
+        },
+        {
+            "physical_quantity": "द्रव्यमान",
+            "si_unit": "किलोग्राम",
+            "symbol": "kg"
+        },
+        {
+            "physical_quantity": "समय",
+            "si_unit": "सेकंड",
+            "symbol": "s"
+        },
+        {
+            "physical_quantity": "विद्युत धारा",
+            "si_unit": "एम्पीयर",
+            "symbol": "A"
+        },
+        {
+            "physical_quantity": "ऊष्मागतिक ताप",
+            "si_unit": "केल्विन",
+            "symbol": "K"
+        },
+        {
+            "physical_quantity": "पदार्थ की मात्रा",
+            "si_unit": "मोल",
+            "symbol": "mol"
+        },
+        {
+            "physical_quantity": "ज्योति तीव्रता",
+            "si_unit": "कैंडेला",
+            "symbol": "cd"
+        }
+    ],
+    "common_derived_si_units": [
+        {
+            "quantity": "क्षेत्रफल",
+            "unit": "वर्ग मीटर",
+            "symbol": "m²"
+        },
+        {
+            "quantity": "आयतन",
+            "unit": "घन मीटर",
+            "symbol": "m³"
+        },
+        {
+            "quantity": "वेग",
+            "unit": "मीटर प्रति सेकंड",
+            "symbol": "m/s"
+        },
+        {
+            "quantity": "त्वरण",
+            "unit": "मीटर प्रति वर्ग सेकंड",
+            "symbol": "m/s²"
+        },
+        {
+            "quantity": "बल",
+            "unit": "न्यूटन",
+            "symbol": "N"
+        },
+        {
+            "quantity": "दाब",
+            "unit": "पास्कल",
+            "symbol": "Pa"
+        },
+        {
+            "quantity": "कार्य / ऊर्जा",
+            "unit": "जूल",
+            "symbol": "J"
+        },
+        {
+            "quantity": "शक्ति",
+            "unit": "वाट",
+            "symbol": "W"
+        },
+        {
+            "quantity": "विद्युत आवेश",
+            "unit": "कूलॉम",
+            "symbol": "C"
+        },
+        {
+            "quantity": "विभवांतर",
+            "unit": "वोल्ट",
+            "symbol": "V"
+        },
+        {
+            "quantity": "प्रतिरोध",
+            "unit": "ओम",
+            "symbol": "Ω"
+        },
+        {
+            "quantity": "धारिता",
+            "unit": "फैराड",
+            "symbol": "F"
+        },
+        {
+            "quantity": "आवृत्ति",
+            "unit": "हर्ट्ज़",
+            "symbol": "Hz"
+        },
+        {
+            "quantity": "चुंबकीय प्रवाह घनत्व (Magnetic Flux Density)",
+            "unit": "टेस्ला",
+            "symbol": "T"
+        }
+    ],
+    "important_metric_prefixes": [
+        {
+            "prefix": "टेरा (Tera)",
+            "symbol": "T",
+            "factor": "10^12"
+        },
+        {
+            "prefix": "गीगा (Giga)",
+            "symbol": "G",
+            "factor": "10^9"
+        },
+        {
+            "prefix": "मेगा (Mega)",
+            "symbol": "M",
+            "factor": "10^6"
+        },
+        {
+            "prefix": "किलो (Kilo)",
+            "symbol": "k",
+            "factor": "10^3"
+        },
+        {
+            "prefix": "सेंटी (Centi)",
+            "symbol": "c",
+            "factor": "10^-2"
+        },
+        {
+            "prefix": "मिली (Milli)",
+            "symbol": "m",
+            "factor": "10^-3"
+        },
+        {
+            "prefix": "माइक्रो (Micro)",
+            "symbol": "µ",
+            "factor": "10^-6"
+        },
+        {
+            "prefix": "नैनो (Nano)",
+            "symbol": "n",
+            "factor": "10^-9"
+        }
+    ],
+    "important_practical_units": [
+        {
+            "quantity": "दूरी",
+            "unit": "किलोमीटर",
+            "symbol": "km",
+            "equivalent_si": "1000 m"
+        },
+        {
+            "quantity": "द्रव्यमान",
+            "unit": "टन (Tonne)",
+            "symbol": "t",
+            "equivalent_si": "1000 kg"
+        },
+        {
+            "quantity": "आयतन",
+            "unit": "लीटर",
+            "symbol": "L",
+            "equivalent_si": "10^-3 m³"
+        },
+        {
+            "quantity": "ऊर्जा",
+            "unit": "इलेक्ट्रॉन वोल्ट",
+            "symbol": "eV",
+            "equivalent_si": "1.602 × 10^-19 J"
+        },
+        {
+            "quantity": "शक्ति",
+            "unit": "अश्वशक्ति (Horsepower)",
+            "symbol": "hp",
+            "equivalent_si": "746 W"
+        }
+    ],
+    "astronomical_units": [
+        {
+            "unit": "खगोलीय इकाई (Astronomical Unit)",
+            "symbol": "AU",
+            "value": "1.496 × 10^11 m"
+        },
+        {
+            "unit": "प्रकाश वर्ष (Light Year)",
+            "symbol": "ly",
+            "value": "9.461 × 10^15 m"
+        },
+        {
+            "unit": "पारसेक (Parsec)",
+            "symbol": "pc",
+            "value": "3.086 × 10^16 m"
+        }
+    ],
+    "important_length_conversions": [
+        {
+            "conversion": "1 किमी",
+            "equals": "1000 मीटर"
+        },
+        {
+            "conversion": "1 मीटर",
+            "equals": "100 सेमी"
+        },
+        {
+            "conversion": "1 सेमी",
+            "equals": "10 मिमी"
+        }
+    ],
+    "important_mass_conversions": [
+        {
+            "conversion": "1 टन",
+            "equals": "1000 किग्रा"
+        },
+        {
+            "conversion": "1 किग्रा",
+            "equals": "1000 ग्राम"
+        },
+        {
+            "conversion": "1 ग्राम",
+            "equals": "1000 मिग्रा"
+        }
+    ],
+    "important_time_conversions": [
+        {
+            "conversion": "1 मिनट",
+            "equals": "60 सेकंड"
+        },
+        {
+            "conversion": "1 घंटा",
+            "equals": "60 मिनट"
+        },
+        {
+            "conversion": "1 दिन",
+            "equals": "24 घंटे"
+        },
+        {
+            "conversion": "1 वर्ष",
+            "equals": "365 दिन"
+        }
+    ],
+    "temperature_scales": [
+        {
+            "conversion": "सेल्सियस से फारेनहाइट",
+            "formula": "F = (9/5)C + 32"
+        },
+        {
+            "conversion": "फारेनहाइट से सेल्सियस",
+            "formula": "C = (F - 32) × 5/9"
+        },
+        {
+            "conversion": "सेल्सियस से केल्विन",
+            "formula": "K = C + 273.15"
+        }
+    ],
+    "important_scientific_constants": [
+        {
+            "constant": "प्रकाश की चाल (Speed of Light)",
+            "symbol": "c",
+            "value": "3 × 10^8 m/s"
+        },
+        {
+            "constant": "गुरुत्वाकर्षण नियतांक (Gravitational Constant)",
+            "symbol": "G",
+            "value": "6.67 × 10^-11 N·m²/kg²"
+        },
+        {
+            "constant": "आवोगाद्रो संख्या (Avogadro Number)",
+            "symbol": "NA",
+            "value": "6.022 × 10^23 mol^-1"
+        },
+        {
+            "constant": "प्लांक नियतांक (Planck Constant)",
+            "symbol": "h",
+            "value": "6.626 × 10^-34 J·s"
+        }
+    ]
+}

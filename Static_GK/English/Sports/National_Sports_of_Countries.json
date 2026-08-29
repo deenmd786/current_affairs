@@ -1,0 +1,83 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of official and de facto national sports of prominent countries, focusing heavily on India's neighbors and unique global exceptions for Sports Static GK.",
+    "india_and_neighboring_countries": [
+        {
+            "country": "India",
+            "national_sport": "None (Officially)",
+            "key_fact": "The Ministry of Youth Affairs and Sports has explicitly stated that India has no de jure (legally declared) national sport. Field Hockey is widely considered the de facto national sport due to historical Olympic dominance."
+        },
+        {
+            "country": "Bhutan",
+            "national_sport": "Archery",
+            "key_fact": "Declared the national sport in 1971 when Bhutan joined the United Nations. It is deeply embedded in Bhutanese culture and festivals."
+        },
+        {
+            "country": "Bangladesh",
+            "national_sport": "Kabaddi",
+            "key_fact": "Officially designated as the national sport in 1972. The local variation is often called 'Ha-du-du'."
+        },
+        {
+            "country": "Nepal",
+            "national_sport": "Volleyball",
+            "key_fact": "Officially declared the national sport in 2017. Prior to this, the traditional game of 'Dandi Biyo' was widely considered the unofficial national sport."
+        },
+        {
+            "country": "Sri Lanka",
+            "national_sport": "Volleyball",
+            "key_fact": "Introduced to the country in 1916 and officially named the national sport in 1991, despite cricket being far more popular."
+        },
+        {
+            "country": "Pakistan",
+            "national_sport": "Field Hockey",
+            "key_fact": "The official national sport, heavily tied to their historical success in the Hockey World Cup and Olympics."
+        },
+        {
+            "country": "Afghanistan",
+            "national_sport": "Buzkashi",
+            "key_fact": "A traditional, aggressive horseback sport where players attempt to place a goat or calf carcass in a goal."
+        }
+    ],
+    "major_global_powers_and_unique_cases": [
+        {
+            "country": "Canada",
+            "national_sport": "Ice Hockey (Winter) & Lacrosse (Summer)",
+            "key_fact": "Canada officially legislated two national sports through the National Sports of Canada Act in 1990."
+        },
+        {
+            "country": "Japan",
+            "national_sport": "Sumo Wrestling",
+            "key_fact": "Considered the de facto national sport. It is heavily steeped in Shinto religious traditions and rituals."
+        },
+        {
+            "country": "United States of America",
+            "national_sport": "Baseball",
+            "key_fact": "Known as America's 'National Pastime'. It is the de facto national sport, though American Football holds higher viewership."
+        },
+        {
+            "country": "China",
+            "national_sport": "Table Tennis (Ping Pong)",
+            "key_fact": "A de facto national sport. China has utterly dominated international table tennis competitions for decades."
+        },
+        {
+            "country": "South Korea",
+            "national_sport": "Taekwondo",
+            "key_fact": "An indigenous martial art that was legally recognized as the national sport of South Korea in 2018."
+        },
+        {
+            "country": "Argentina",
+            "national_sport": "Pato",
+            "key_fact": "A game played on horseback that combines elements of polo and basketball. Made the official national sport in 1953, despite football's overwhelming popularity."
+        },
+        {
+            "country": "New Zealand",
+            "national_sport": "Rugby Union",
+            "key_fact": "The de facto national sport. The national team, the 'All Blacks', is iconic globally for their pre-match Haka."
+        },
+        {
+            "country": "England",
+            "national_sport": "Cricket",
+            "key_fact": "Considered the official national summer sport, with its rules first codified in the 18th century by the Marylebone Cricket Club."
+        }
+    ]
+}

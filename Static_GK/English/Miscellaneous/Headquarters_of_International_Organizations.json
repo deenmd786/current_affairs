@@ -1,0 +1,142 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of major global international organizations, their headquarters, establishment years, and key functional focus areas for International Relations Static GK.",
+    "geneva_switzerland_cluster": [
+        {
+            "organization": "World Health Organization (WHO)",
+            "established": "1948",
+            "headquarters": "Geneva, Switzerland",
+            "key_focus": "Directing and coordinating authority for international public health within the United Nations system."
+        },
+        {
+            "organization": "World Trade Organization (WTO)",
+            "established": "1995",
+            "headquarters": "Geneva, Switzerland",
+            "key_focus": "Regulating and facilitating international trade between nations. Replaced the General Agreement on Tariffs and Trade (GATT)."
+        },
+        {
+            "organization": "International Labour Organization (ILO)",
+            "established": "1919",
+            "headquarters": "Geneva, Switzerland",
+            "key_focus": "Setting international labor standards and promoting social and economic justice. Created under the Treaty of Versailles."
+        },
+        {
+            "organization": "World Intellectual Property Organization (WIPO)",
+            "established": "1967",
+            "headquarters": "Geneva, Switzerland",
+            "key_focus": "Promoting the protection of intellectual property throughout the world."
+        }
+    ],
+    "washington_dc_usa_cluster": [
+        {
+            "organization": "International Monetary Fund (IMF)",
+            "established": "1944 (Operational in 1945)",
+            "headquarters": "Washington, D.C., United States",
+            "key_focus": "Fostering global monetary cooperation, securing financial stability, and providing short-to-medium term balance-of-payments financial assistance."
+        },
+        {
+            "organization": "World Bank Group (WBG)",
+            "established": "1944",
+            "headquarters": "Washington, D.C., United States",
+            "key_focus": "Providing long-term financial products, loans, and technical advice to developing nations to reduce poverty and promote shared prosperity."
+        }
+    ],
+    "new_york_usa_cluster": [
+        {
+            "organization": "United Nations Organization (UNO)",
+            "established": "1945",
+            "headquarters": "New York City, United States",
+            "key_focus": "Maintaining international peace and security, developing friendly relations among nations, and achieving international cooperation."
+        },
+        {
+            "organization": "United Nations Children's Fund (UNICEF)",
+            "established": "1946",
+            "headquarters": "New York City, United States",
+            "key_focus": "Providing humanitarian and developmental aid to children worldwide."
+        },
+        {
+            "organization": "United Nations Development Programme (UNDP)",
+            "established": "1965",
+            "headquarters": "New York City, United States",
+            "key_focus": "Helping countries eliminate poverty, achieve sustainable economic growth, and human development."
+        }
+    ],
+    "vienna_austria_cluster": [
+        {
+            "organization": "International Atomic Energy Agency (IAEA)",
+            "established": "1957",
+            "headquarters": "Vienna, Austria",
+            "key_focus": "Promoting the safe, secure, and peaceful use of nuclear technologies while inhibiting its use for any military purpose."
+        },
+        {
+            "organization": "Organization of the Petroleum Exporting Countries (OPEC)",
+            "established": "1960",
+            "headquarters": "Vienna, Austria",
+            "key_focus": "Coordinating and unifying the petroleum policies of its member countries to ensure stable oil markets. Founded in Baghdad."
+        }
+    ],
+    "other_major_global_organizations": [
+        {
+            "organization": "UNESCO (UN Educational, Scientific and Cultural Organization)",
+            "established": "1945",
+            "headquarters": "Paris, France",
+            "key_focus": "Promoting world peace and security through international cooperation in education, arts, sciences, and culture."
+        },
+        {
+            "organization": "North Atlantic Treaty Organization (NATO)",
+            "established": "1949",
+            "headquarters": "Brussels, Belgium",
+            "key_focus": "An intergovernmental military alliance implementing the North Atlantic Treaty for collective defense."
+        },
+        {
+            "organization": "International Court of Justice (ICJ)",
+            "established": "1945",
+            "headquarters": "The Hague, Netherlands",
+            "key_focus": "The principal judicial organ of the United Nations. Settles legal disputes submitted by states."
+        },
+        {
+            "organization": "Transparency International",
+            "established": "1993",
+            "headquarters": "Berlin, Germany",
+            "key_focus": "An NGO focused on combating global corruption and preventing criminal activities arising from corruption (publishes the Corruption Perceptions Index)."
+        },
+        {
+            "organization": "International Olympic Committee (IOC)",
+            "established": "1894",
+            "headquarters": "Lausanne, Switzerland",
+            "key_focus": "The supreme authority of the modern Olympic Movement, responsible for organizing the modern Olympic Games."
+        }
+    ],
+    "regional_groups_high_frequency": [
+        {
+            "organization": "SAARC (South Asian Association for Regional Cooperation)",
+            "established": "1985",
+            "headquarters": "Kathmandu, Nepal",
+            "key_focus": "Regional intergovernmental organization and geopolitical union of states in South Asia. Established in Dhaka."
+        },
+        {
+            "organization": "ASEAN (Association of Southeast Asian Nations)",
+            "established": "1967",
+            "headquarters": "Jakarta, Indonesia",
+            "key_focus": "Promoting intergovernmental cooperation and facilitating economic, political, security, and sociocultural integration among Southeast Asian nations."
+        },
+        {
+            "organization": "New Development Bank (NDB / BRICS Bank)",
+            "established": "2014 (Operational in 2015)",
+            "headquarters": "Shanghai, China",
+            "key_focus": "Multilateral development bank established by the BRICS states to support public or private projects through loans, guarantees, and equity participation."
+        },
+        {
+            "organization": "Asian Development Bank (ADB)",
+            "established": "1966",
+            "headquarters": "Mandaluyong (Manila), Philippines",
+            "key_focus": "Regional development bank focused on promoting social and economic development in Asia and the Pacific."
+        },
+        {
+            "organization": "AIIB (Asian Infrastructure Investment Bank)",
+            "established": "2016",
+            "headquarters": "Beijing, China",
+            "key_focus": "Multilateral development bank that aims to improve economic and social outcomes in Asia by investing in high-quality infrastructure."
+        }
+    ]
+}

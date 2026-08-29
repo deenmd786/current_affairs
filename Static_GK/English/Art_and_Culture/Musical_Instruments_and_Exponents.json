@@ -1,0 +1,122 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Indian musical instruments and their legendary exponents (maestros) for Art & Culture Static GK.",
+    "string_instruments_chordophones": [
+        {
+            "instrument": "Sitar",
+            "famous_exponents": [
+                "Pandit Ravi Shankar",
+                "Ustad Vilayat Khan",
+                "Pandit Nikhil Banerjee",
+                "Anoushka Shankar"
+            ],
+            "key_fact": "A plucked string instrument widely used in Hindustani classical music. Its invention is traditionally attributed to Amir Khusro."
+        },
+        {
+            "instrument": "Sarod",
+            "famous_exponents": [
+                "Ustad Amjad Ali Khan",
+                "Ustad Ali Akbar Khan",
+                "Ustad Alauddin Khan",
+                "Ayaan Ali Khan"
+            ],
+            "key_fact": "A fretless string instrument known for its deep, weighty, and introspective sound. It is highly prominent in Hindustani classical music."
+        },
+        {
+            "instrument": "Santoor",
+            "famous_exponents": [
+                "Pandit Shivkumar Sharma",
+                "Pandit Bhajan Sopori",
+                "Rahul Sharma"
+            ],
+            "key_fact": "An ancient trapezoid-shaped hammered dulcimer native to Jammu and Kashmir. It typically features 72 to 100 strings."
+        },
+        {
+            "instrument": "Veena",
+            "famous_exponents": [
+                "S. Balachander",
+                "Asad Ali Khan (Rudra Veena)",
+                "Chitti Babu",
+                "E. Gayatri"
+            ],
+            "key_fact": "One of the oldest Indian string instruments, heavily featured in Carnatic music and traditionally associated with Goddess Saraswati."
+        },
+        {
+            "instrument": "Sarangi",
+            "famous_exponents": [
+                "Pandit Ram Narayan",
+                "Ustad Sabri Khan",
+                "Ustad Sultan Khan"
+            ],
+            "key_fact": "A bowed string instrument covered with animal skin. It is considered the closest Indian instrument to the human voice."
+        },
+        {
+            "instrument": "Violin",
+            "famous_exponents": [
+                "Dr. L. Subramaniam",
+                "T.N. Krishnan",
+                "M.S. Gopalakrishnan",
+                "Dr. N. Rajam"
+            ],
+            "key_fact": "Though Western in origin, it was heavily adapted into Carnatic classical music in the 18th century and is now a staple."
+        }
+    ],
+    "wind_instruments_aerophones": [
+        {
+            "instrument": "Flute (Bansuri)",
+            "famous_exponents": [
+                "Pandit Hariprasad Chaurasia",
+                "Pannalal Ghosh",
+                "Rakesh Chaurasia"
+            ],
+            "key_fact": "A side-blown flute made from a single hollow shaft of bamboo. Pannalal Ghosh is credited with elevating it to a concert-level instrument."
+        },
+        {
+            "instrument": "Shehnai",
+            "famous_exponents": [
+                "Ustad Bismillah Khan",
+                "Ali Ahmad Hussain Khan",
+                "Pandit Anant Lal"
+            ],
+            "key_fact": "A double-reed instrument traditionally played at weddings and temples. Ustad Bismillah Khan famously played it at the Red Fort on the eve of India's independence in 1947."
+        }
+    ],
+    "percussion_instruments_membranophones_and_idiophones": [
+        {
+            "instrument": "Tabla",
+            "famous_exponents": [
+                "Ustad Zakir Hussain",
+                "Ustad Allah Rakha",
+                "Pandit Kishan Maharaj",
+                "Pandit Swapan Chaudhuri"
+            ],
+            "key_fact": "Consists of a pair of hand drums (the smaller 'Dayan' and larger 'Bayan'). It is the principal percussion instrument in Hindustani classical music."
+        },
+        {
+            "instrument": "Mridangam",
+            "famous_exponents": [
+                "Palghat Mani Iyer",
+                "Umayalpuram K. Sivaraman",
+                "Karaikudi Mani"
+            ],
+            "key_fact": "A double-sided drum made of a single piece of wood. It is the primary rhythmic accompaniment in a Carnatic music ensemble."
+        },
+        {
+            "instrument": "Pakhawaj",
+            "famous_exponents": [
+                "Pandit Bhawani Shankar",
+                "Totaram Sharma",
+                "Ayodhya Prasad"
+            ],
+            "key_fact": "A barrel-shaped, two-headed drum, which is a variant of the Mridangam. It is the standard percussion instrument used in the Dhrupad style of music."
+        },
+        {
+            "instrument": "Ghatam",
+            "famous_exponents": [
+                "T.H. Vinayakram (Vikku Vinayakram)",
+                "Sukanya Ramgopal"
+            ],
+            "key_fact": "A large, narrow-mouthed earthenware clay pot used as a percussion instrument in Carnatic music."
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Constitutional Amendments, spanning from the First Amendment to the latest structural changes for Polity Static GK.",
+    "early_and_foundational_amendments": [
+        {
+            "amendment_number": "1st Amendment",
+            "year": "1951",
+            "key_provisions": "Added the 9th Schedule to protect land reform laws from judicial review. Added reasonable restrictions to the freedom of speech and expression."
+        },
+        {
+            "amendment_number": "7th Amendment",
+            "year": "1956",
+            "key_provisions": "Implemented the States Reorganization Act, abolishing the Part A/B/C/D classification of states. Allowed the appointment of the same person as Governor for two or more states."
+        },
+        {
+            "amendment_number": "24th Amendment",
+            "year": "1971",
+            "key_provisions": "Affirmed the power of Parliament to amend any part of the Constitution, including Fundamental Rights. Made it compulsory for the President to give assent to a Constitutional Amendment Bill."
+        }
+    ],
+    "mini_constitution_and_restoration_era": [
+        {
+            "amendment_number": "42nd Amendment",
+            "year": "1976",
+            "key_provisions": "Known as the 'Mini-Constitution'. Added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble. Added Fundamental Duties (Article 51A). Made the President bound by the advice of the cabinet."
+        },
+        {
+            "amendment_number": "44th Amendment",
+            "year": "1978",
+            "key_provisions": "Enacted by the Janata Party government to reverse anomalies of the 42nd Amendment. Removed the Right to Property from the list of Fundamental Rights (made it a legal right under Article 300A). Substituted the term 'Internal Disturbance' with 'Armed Rebellion' in respect of National Emergency."
+        },
+        {
+            "amendment_number": "52nd Amendment",
+            "year": "1985",
+            "key_provisions": "Introduced the Anti-Defection Law and added the 10th Schedule to the Constitution to disqualify MPs/MLAs for defection."
+        },
+        {
+            "amendment_number": "61st Amendment",
+            "year": "1989",
+            "key_provisions": "Reduced the voting age from 21 years to 18 years for the Lok Sabha and State Legislative Assembly elections."
+        }
+    ],
+    "decentralization_and_administrative_reforms": [
+        {
+            "amendment_number": "73rd Amendment",
+            "year": "1992",
+            "key_provisions": "Granted constitutional status to Panchayati Raj Institutions. Added Part IX and the 11th Schedule (containing 29 functional items for Panchayats)."
+        },
+        {
+            "amendment_number": "74th Amendment",
+            "year": "1992",
+            "key_provisions": "Granted constitutional status to Urban Local Bodies (Municipalities). Added Part IXA and the 12th Schedule (containing 18 functional items)."
+        },
+        {
+            "amendment_number": "86th Amendment",
+            "year": "2002",
+            "key_provisions": "Made elementary education a Fundamental Right for children between 6 to 14 years of age (Added Article 21A). Added a new Fundamental Duty under Article 51A(k)."
+        },
+        {
+            "amendment_number": "91st Amendment",
+            "year": "2003",
+            "key_provisions": "Restricted the size of the Council of Ministers to 15% of the total strength of the Lok Sabha / State Legislative Assembly."
+        },
+        {
+            "amendment_number": "97th Amendment",
+            "year": "2011",
+            "key_provisions": "Gave a constitutional status and protection to Co-operative Societies. Added Part IXB."
+        }
+    ],
+    "recent_amendments_post_2010": [
+        {
+            "amendment_number": "100th Amendment",
+            "year": "2015",
+            "key_provisions": "Gave effect to the acquiring of territories by India and transfer of certain territories to Bangladesh (Land Boundary Agreement)."
+        },
+        {
+            "amendment_number": "101st Amendment",
+            "year": "2016",
+            "key_provisions": "Paved the way for the introduction of the Goods and Services Tax (GST). Added Articles 246A, 269A, and 279A."
+        },
+        {
+            "amendment_number": "102nd Amendment",
+            "year": "2018",
+            "key_provisions": "Granted constitutional status to the National Commission for Backward Classes (NCBC) under the new Article 338B."
+        },
+        {
+            "amendment_number": "103rd Amendment",
+            "year": "2019",
+            "key_provisions": "Introduced a 10% reservation for the Economically Weaker Sections (EWS) of society in admissions to educational institutions and government jobs."
+        },
+        {
+            "amendment_number": "104th Amendment",
+            "year": "2020",
+            "key_provisions": "Extended the reservation of seats for SCs and STs in the Lok Sabha and State Assemblies by 10 years. It also ended the reservation of seats for the Anglo-Indian community."
+        },
+        {
+            "amendment_number": "106th Amendment",
+            "year": "2023",
+            "key_provisions": "Nari Shakti Vandan Adhiniyam: Mandated a 33% reservation for women in the Lok Sabha, State Legislative Assemblies, and the National Capital Territory of Delhi."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of the 12 Schedules of the Indian Constitution, highlighting key subjects, specific states, and relevant constitutional amendments for Polity Static GK.",
+    "schedules": [
+        {
+            "schedule_number": "First Schedule",
+            "subject_matter": "States and Union Territories",
+            "key_details": "Contains the names of the States and Union Territories along with their territorial jurisdiction."
+        },
+        {
+            "schedule_number": "Second Schedule",
+            "subject_matter": "Emoluments, Allowances, and Privileges",
+            "key_details": "Deals with the salaries and allowances of the President, Governors, Chief Judges, Judges of High Courts and Supreme Court, and the Comptroller and Auditor General (CAG)."
+        },
+        {
+            "schedule_number": "Third Schedule",
+            "subject_matter": "Oaths and Affirmations",
+            "key_details": "Contains the forms of Oaths or Affirmations for Union Ministers, Parliament Election Candidates, MPs, Supreme Court Judges, CAG, State Ministers, MLAs, and High Court Judges."
+        },
+        {
+            "schedule_number": "Fourth Schedule",
+            "subject_matter": "Allocation of Seats in Rajya Sabha",
+            "key_details": "Details the allocation of seats in the Council of States (Rajya Sabha) to the States and Union Territories."
+        },
+        {
+            "schedule_number": "Fifth Schedule",
+            "subject_matter": "Scheduled Areas and Scheduled Tribes",
+            "key_details": "Provisions relating to the administration and control of Scheduled Areas and Scheduled Tribes (excluding the four states mentioned in the 6th Schedule)."
+        },
+        {
+            "schedule_number": "Sixth Schedule",
+            "subject_matter": "Tribal Areas in AMTM",
+            "key_details": "Provisions relating to the administration of tribal areas in the states of Assam, Meghalaya, Tripura, and Mizoram (AMTM)."
+        },
+        {
+            "schedule_number": "Seventh Schedule",
+            "subject_matter": "Division of Powers (The Three Lists)",
+            "key_details": "Contains three legislative lists: Union List (originally 97, now 100 subjects), State List (originally 66, now 61 subjects), and Concurrent List (originally 47, now 52 subjects)."
+        },
+        {
+            "schedule_number": "Eighth Schedule",
+            "subject_matter": "Official Languages",
+            "key_details": "Lists the 22 official languages recognized by the Constitution. Originally, there were 14 languages; others were added by the 21st, 71st, and 92nd Amendments."
+        },
+        {
+            "schedule_number": "Ninth Schedule",
+            "subject_matter": "Validation of Certain Acts and Regulations",
+            "key_details": "Added by the 1st Amendment (1951) to protect land reform laws and abolitions of the Zamindari system from judicial review on the grounds of violation of Fundamental Rights."
+        },
+        {
+            "schedule_number": "Tenth Schedule",
+            "subject_matter": "Anti-Defection Law",
+            "key_details": "Added by the 52nd Amendment (1985). Contains provisions as to disqualification on the ground of defection for Members of Parliament and State Legislatures."
+        },
+        {
+            "schedule_number": "Eleventh Schedule",
+            "subject_matter": "Panchayats",
+            "key_details": "Added by the 73rd Amendment (1992). Contains 29 functional items placed under the jurisdiction of Panchayats (Rural Local Government)."
+        },
+        {
+            "schedule_number": "Twelfth Schedule",
+            "subject_matter": "Municipalities",
+            "key_details": "Added by the 74th Amendment (1992). Contains 18 functional items placed under the jurisdiction of Municipalities (Urban Local Government)."
+        }
+    ]
+}

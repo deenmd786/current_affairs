@@ -1,0 +1,591 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Complete exhaustive baseline of state-wise major festivals, harvest celebrations, and cultural fairs across India for Static GK.",
+    "festivals": [
+        {
+            "state_or_ut": "Andhra Pradesh",
+            "major_festivals": [
+                {
+                    "name": "Ugadi",
+                    "type": "New Year / Harvest",
+                    "significance": "Telugu New Year, celebrated in Chaitra month; preparation of 'Ugadi Pachadi' representing six tastes of life."
+                },
+                {
+                    "name": "Tirupati Brahmotsavam",
+                    "type": "Religious / Cultural",
+                    "significance": "9-day festival held at Venkateswara Temple in Tirumala, drawing millions of pilgrims."
+                },
+                {
+                    "name": "Visakha Utsav",
+                    "type": "Tourism / Cultural",
+                    "significance": "Organized by the state government to promote tourism and local arts in Visakhapatnam."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Arunachal Pradesh",
+            "major_festivals": [
+                {
+                    "name": "Losar",
+                    "type": "New Year",
+                    "significance": "Tibetan New Year celebrated by the Monpa tribe to usher in prosperity."
+                },
+                {
+                    "name": "Solung",
+                    "type": "Harvest / Socio-Religious",
+                    "significance": "Most popular festival of the Adi tribe, spanning seven days, featuring animal sacrifices and rituals for good crops."
+                },
+                {
+                    "name": "Mopin",
+                    "type": "Agricultural / Cultural",
+                    "significance": "Celebrated by the Galo tribe to drive away evil spirits; involves smearing rice powder (Ette) on faces."
+                },
+                {
+                    "name": "Ziro Festival of Music",
+                    "type": "Modern / Cultural",
+                    "significance": "Outdoor music festival held in the Ziro Valley, showcasing indie artists."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Assam",
+            "major_festivals": [
+                {
+                    "name": "Bihu",
+                    "type": "Harvest / New Year",
+                    "significance": "Celebrated three times a year: Bohag Bihu (Spring New Year), Kati Bihu (Autumn crop protection), and Magh Bihu (Winter harvest feast)."
+                },
+                {
+                    "name": "Ambubachi Mela",
+                    "type": "Religious / Fair",
+                    "significance": "Held annually at Kamakhya Temple, celebrating the earth's fertility during the monsoon."
+                },
+                {
+                    "name": "Majuli Festival",
+                    "type": "Cultural / Tourism",
+                    "significance": "Showcases the ethnic culture of the world's largest river island, Majuli."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Bihar",
+            "major_festivals": [
+                {
+                    "name": "Chhath Puja",
+                    "type": "Socio-Religious",
+                    "significance": "Exclusively dedicated to the Sun God (Surya) and Chhathi Maiya; involves strict fasting and offering Arghya at riverbanks."
+                },
+                {
+                    "name": "Sonepur Cattle Fair",
+                    "type": "Cultural / Fair",
+                    "significance": "One of Asia's largest cattle fairs, held on Kartik Poornima at the confluence of Gandak and Ganga rivers."
+                },
+                {
+                    "name": "Sama Chakeva",
+                    "type": "Socio-Cultural",
+                    "significance": "Celebrated in the Mithila region, highlighting the sacred bond between brothers and sisters."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Chhattisgarh",
+            "major_festivals": [
+                {
+                    "name": "Bastar Dussehra",
+                    "type": "Tribal / Cultural",
+                    "significance": "World's longest festival, lasting 75 days; dedicated to local deity Danteshwari Mai rather than Rama's victory."
+                },
+                {
+                    "name": "Hareli",
+                    "type": "Agricultural",
+                    "significance": "Celebrated by farmers worshiping farming equipment, cows, and praying for an abundant monsoon crop."
+                },
+                {
+                    "name": "Madai Festival",
+                    "type": "Tribal / Cultural",
+                    "significance": "Gond community festival celebrated across Bastar with traditional dances and markets."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Goa",
+            "major_festivals": [
+                {
+                    "name": "Shigmo",
+                    "type": "Spring / Cultural",
+                    "significance": "The Goan counterpart of Holi; features grand street parades, folk dances (Ghodemodni), and colors."
+                },
+                {
+                    "name": "Goa Carnival",
+                    "type": "Cultural / Tourism",
+                    "significance": "Introduced by the Portuguese; massive street processions led by King Momo shouting 'Viva Carnaval'."
+                },
+                {
+                    "name": "Sao Joao",
+                    "type": "Religious / Cultural",
+                    "significance": "Feast of St. John the Baptist where local youths wear floral crowns (Kopels) and leap into wells."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Gujarat",
+            "major_festivals": [
+                {
+                    "name": "Navratri",
+                    "type": "Socio-Religious",
+                    "significance": "9 nights of continuous dancing (Garba and Dandiya Raas) honoring Goddess Durga."
+                },
+                {
+                    "name": "Uttarayan / International Kite Festival",
+                    "type": "Harvest / Cultural",
+                    "significance": "Celebrated on January 14th; the skies are filled with millions of competitive kites."
+                },
+                {
+                    "name": "Modhera Dance Festival",
+                    "type": "Classical Arts",
+                    "significance": "Annual classical dance festival held against the historic backdrop of the Modhera Sun Temple."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Haryana",
+            "major_festivals": [
+                {
+                    "name": "Surajkund International Crafts Mela",
+                    "type": "Crafts / Fair",
+                    "significance": "The world's largest crafts fair, showcasing global handloom talent every February in Faridabad."
+                },
+                {
+                    "name": "Baisakhi",
+                    "type": "Harvest / Cultural",
+                    "significance": "Celebrated with massive enthusiasm to mark the ripening of the Rabi wheat crop."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Himachal Pradesh",
+            "major_festivals": [
+                {
+                    "name": "Kullu Dussehra",
+                    "type": "Religious / Mega Event",
+                    "significance": "Begins when Dussehra ends in the rest of India; over 200 local hill deities assemble at Dhalpur Maidan."
+                },
+                {
+                    "name": "Minjar Fair",
+                    "type": "Agricultural / Fair",
+                    "significance": "Celebrated in Chamba; symbolized by throwing silk tassels/minjar (representing maize shoots) into the Ravi river."
+                },
+                {
+                    "name": "Fagli Utsav",
+                    "type": "Traditional / Tribal",
+                    "significance": "Celebrated in Kinnaur to mark the end of winter and victory of good over evil."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Jammu & Kashmir",
+            "major_festivals": [
+                {
+                    "name": "Herath (Maha Shivratri)",
+                    "type": "Socio-Religious",
+                    "significance": "The most important festival for Kashmiri Pandits, celebrated over 3 to 4 days with distinct local rituals."
+                },
+                {
+                    "name": "Tulip Festival",
+                    "type": "Nature / Tourism",
+                    "significance": "Spring festival held at the Indira Gandhi Memorial Tulip Garden in Srinagar during April bloom."
+                },
+                {
+                    "name": "Hemis Festival",
+                    "type": "Religious / Monastic",
+                    "significance": "Held at Hemis Gompa in Ladakh/J&K borders, famous for the sacred 'Cham' mask dance by Buddhist monks."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Jharkhand",
+            "major_festivals": [
+                {
+                    "name": "Sarhul",
+                    "type": "Nature / Tribal",
+                    "significance": "Tribal New Year; Sal trees are worshiped as their flowers bloom, representing a bond with nature."
+                },
+                {
+                    "name": "Karam Festival",
+                    "type": "Harvest / Tribal",
+                    "significance": "Worship of the Karam tree deity for power, wealth, and a bountiful harvest."
+                },
+                {
+                    "name": "Tusu Parab",
+                    "type": "Harvest / Folk",
+                    "significance": "Winter harvest festival celebrated on Makar Sankranti by young unmarried girls with songs."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Karnataka",
+            "major_festivals": [
+                {
+                    "name": "Mysuru Dasara",
+                    "type": "State Festival / Royal Heritage",
+                    "significance": "Grand 10-day celebration featuring the illuminated Mysore Palace and the Jumboo Savari (elephant procession)."
+                },
+                {
+                    "name": "Ugadi",
+                    "type": "New Year",
+                    "significance": "Kannada New Year celebrated with joy and family feasts across the state."
+                },
+                {
+                    "name": "Kambala",
+                    "type": "Traditional Sport / Festival",
+                    "significance": "Traditional annual buffalo race held in muddy paddy fields of coastal Karnataka."
+                },
+                {
+                    "name": "Hampi Utsav",
+                    "type": "Cultural / Tourism",
+                    "significance": "Mega cultural festival held amidst the ruins of the ancient Vijayanagara Empire."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Kerala",
+            "major_festivals": [
+                {
+                    "name": "Onam",
+                    "type": "Harvest / Cultural",
+                    "significance": "State festival of Kerala; commemorates King Mahabali's return; famous for Pookalam (floral carpets), Sadhya (feast), and Vallamkali (snake boat races)."
+                },
+                {
+                    "name": "Vishu",
+                    "type": "New Year / Astronomical",
+                    "significance": "Astronomical New Year; the first thing seen in the morning is the 'Vishwukkani' (auspicious arrangement) for good luck."
+                },
+                {
+                    "name": "Thrissur Pooram",
+                    "type": "Religious / Cultural Spectacular",
+                    "significance": "Held at Vadakkunnathan Temple; magnificent display of caparisoned elephants, Kudamattom (umbrella exchange), and high-energy percussion (Panchavadyam)."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Madhya Pradesh",
+            "major_festivals": [
+                {
+                    "name": "Khajuraho Dance Festival",
+                    "type": "Classical Arts",
+                    "significance": "A week-long festival highlighting India's top classical dancers against the backdrop of Khajuraho temples."
+                },
+                {
+                    "name": "Tansen Music Festival",
+                    "type": "Classical Music",
+                    "significance": "Held annually in Gwalior near the tomb of legendary singer Tansen to honor Indian classical music masters."
+                },
+                {
+                    "name": "Bhagoria Haat Festival",
+                    "type": "Tribal / Cultural",
+                    "significance": "Celebrated by Bhil and Bhilala tribes ahead of Holi; serves as a traditional match-making and agricultural fair."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Maharashtra",
+            "major_festivals": [
+                {
+                    "name": "Ganesh Chaturthi",
+                    "type": "Socio-Religious",
+                    "significance": "Publicly popularized by Bal Gangadhar Tilak to unify people; features huge pandals and massive public immersion processions."
+                },
+                {
+                    "name": "Gudi Padwa",
+                    "type": "New Year",
+                    "significance": "Marathi New Year, marked by hoisting a decorated 'Gudi' outside windows to signify victory and prosperity."
+                },
+                {
+                    "name": "Banganga Festival",
+                    "type": "Music / Tourism",
+                    "significance": "Musical event held at the ancient Banganga Tank in Malabar Hill, Mumbai."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Manipur",
+            "major_festivals": [
+                {
+                    "name": "Yaoshang",
+                    "type": "Spring / Cultural",
+                    "significance": "Manipur's version of Holi, lasting 5 days; famous for the 'Thabal Chongba' (moonlight dance)."
+                },
+                {
+                    "name": "Sangai Festival",
+                    "type": "Tourism / Cultural",
+                    "significance": "The state's grandest tourism festival, named after the endangered Sangai (brow-antlered deer)."
+                },
+                {
+                    "name": "Cheiraoba",
+                    "type": "New Year",
+                    "significance": "Manipur New Year; locals climb nearby hilltops as a ritual to symbolize rising to greater achievements."
+                },
+                {
+                    "name": "Chumpha Festival",
+                    "type": "Harvest / Tribal",
+                    "significance": "Celebrated by the Tangkhul Naga tribe right after harvesting the crops."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Meghalaya",
+            "major_festivals": [
+                {
+                    "name": "Wangala Festival (100 Drums)",
+                    "type": "Harvest / Tribal",
+                    "significance": "Post-harvest thanksgiving festival of the Garo tribe; features rhythmic beating of 100 long drums simultaneously."
+                },
+                {
+                    "name": "Nongkrem Dance Festival",
+                    "type": "Socio-Religious / Tribal",
+                    "significance": "5-day religious festival of the Khasi tribe for peace, a good harvest, and prosperity."
+                },
+                {
+                    "name": "Cherry Blossom Festival",
+                    "type": "Nature / Tourism",
+                    "significance": "Annual autumn festival in Shillong matching Japan's sakura blooms, complete with indie rock shows."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Mizoram",
+            "major_festivals": [
+                {
+                    "name": "Chapchar Kut",
+                    "type": "Spring / Jhum Agriculture",
+                    "significance": "Celebrated upon the completion of the grueling clearing of bamboo forest for Jhum farming; features the famous Cheraw (bamboo) dance."
+                },
+                {
+                    "name": "Mim Kut & Pawl Kut",
+                    "type": "Harvest / Thanksgiving",
+                    "significance": "Festivals celebrated after maize and paddy harvests to thank ancestors and local spirits."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Nagaland",
+            "major_festivals": [
+                {
+                    "name": "Hornbill Festival",
+                    "type": "Mega Cultural / State Event",
+                    "significance": "Known as the 'Festival of Festivals'; held from Dec 1-10 at Kisama Heritage Village to showcase the unity and dance forms of all 17 Naga tribes."
+                },
+                {
+                    "name": "Moatsu Mong",
+                    "type": "Socio-Religious / Sowing",
+                    "significance": "Celebrated by the Ao Naga tribe in May after completing the sowing of seeds, full of dynamic community singing."
+                },
+                {
+                    "name": "Sekrenyi",
+                    "type": "Purification / Tribal",
+                    "significance": "Celebrated by the Angami Naga tribe; focused on cleansing rituals to banish past sins and ensure warriors are purified."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Odisha",
+            "major_festivals": [
+                {
+                    "name": "Ratha Yatra",
+                    "type": "Religious / Mega Event",
+                    "significance": "The chariot festival of Lord Jagannath, Balabhadra, and Subhadra at Puri, attracting global crowds."
+                },
+                {
+                    "name": "Nuakhai",
+                    "type": "Harvest",
+                    "significance": "Agricultural festival of Western Odisha to welcome the new rice crop of the season."
+                },
+                {
+                    "name": "Raja Parba",
+                    "type": "Socio-Cultural / Earth Worship",
+                    "significance": "A 3-day festival celebrating womanhood and the menstruation period of Mother Earth; no farm work is allowed."
+                },
+                {
+                    "name": "Bali Jatra",
+                    "type": "Trade Fair / Maritime History",
+                    "significance": "Held in Cuttack on Kartik Purnima to celebrate ancient maritime trade voyages to Bali, Sumatra, and Java."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Punjab",
+            "major_festivals": [
+                {
+                    "name": "Baisakhi",
+                    "type": "Harvest / Historical",
+                    "significance": "Marks the harvest of Rabi crops and the founding of the Khalsa Panth by Guru Gobind Singh in 1699."
+                },
+                {
+                    "name": "Lohri",
+                    "type": "Winter Solstice / Cultural",
+                    "significance": "Celebrated in January with bonfires, rewari, and peanuts to mark the passing of the coldest winter days."
+                },
+                {
+                    "name": "Hola Mohalla",
+                    "type": "Martial Arts / Religious",
+                    "significance": "Gathering at Anandpur Sahib right after Holi, showcasing traditional Sikh martial arts (Gatka) and mock military battles."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Rajasthan",
+            "major_festivals": [
+                {
+                    "name": "Pushkar Camel Fair",
+                    "type": "Trade / Cultural Fair",
+                    "significance": "World's largest camel and livestock trading fair, combining colorful cultural competitions on the banks of Pushkar Lake."
+                },
+                {
+                    "name": "Gangaur Festival",
+                    "type": "Socio-Religious",
+                    "significance": "Worship of Shiva (Isa) and Parvati (Gauri) by women for martial bliss and long life of spouses."
+                },
+                {
+                    "name": "Desert Festival",
+                    "type": "Cultural / Tourism",
+                    "significance": "Held in Jaisalmer, featuring camel races, turban tying, and longest mustache competitions."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Sikkim",
+            "major_festivals": [
+                {
+                    "name": "Saga Dawa",
+                    "type": "Religious / Monastic",
+                    "significance": "Most sacred Buddhist festival, commemorating the birth, enlightenment, and parinirvana of Lord Buddha."
+                },
+                {
+                    "name": "Losoong / Namsoong",
+                    "type": "New Year / Harvest",
+                    "significance": "Bhutia and Lepcha New Year, celebrated at the end of the harvest season with Black Hat mask dances."
+                },
+                {
+                    "name": "Pang Lhabsol",
+                    "type": "Cultural / Historical",
+                    "significance": "Unique festival paying homage to Mount Khangchendzonga as the guardian deity of Sikkim."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Tamil Nadu",
+            "major_festivals": [
+                {
+                    "name": "Pongal",
+                    "type": "Harvest / Cultural",
+                    "significance": "4-day harvest festival equivalent to Thanksgiving; features Bhogi, Thai Pongal (cooking sweet rice), Maattu Pongal (worshiping cattle), and Kaanum Pongal."
+                },
+                {
+                    "name": "Puthandu",
+                    "type": "New Year",
+                    "significance": "Tamil New Year, celebrated on the first day of Chithirai month."
+                },
+                {
+                    "name": "Jallikattu Utsav",
+                    "type": "Traditional Sport / Festival",
+                    "significance": "Bull-taming event conducted as part of Maattu Pongal celebrations."
+                },
+                {
+                    "name": "Natyanjali Dance Festival",
+                    "type": "Classical Arts",
+                    "significance": "Annual classical tribute to Lord Nataraja at the Chidambaram temple during Mahashivratri."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Telangana",
+            "major_festivals": [
+                {
+                    "name": "Bathukamma",
+                    "type": "Socio-Cultural / Floral",
+                    "significance": "A gorgeous 9-day floral festival celebrated by women stack-building concentric layers of local seasonal flowers."
+                },
+                {
+                    "name": "Bonalu",
+                    "type": "Socio-Religious / Thanksgiving",
+                    "significance": "Monsoon festival honoring Goddess Mahakali; women carry earthen pots cooked with rice, milk, and jaggery to offer the deity."
+                },
+                {
+                    "name": "Sammakka Saralamma Jatara",
+                    "type": "Tribal Tribal / Mega Event",
+                    "significance": "The world's largest tribal gathering, celebrating a mother-daughter fight against unjust taxes imposed by rulers."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Tripura",
+            "major_festivals": [
+                {
+                    "name": "Kharchi Puja",
+                    "type": "Socio-Religious",
+                    "significance": "Worship of the 14 structural deities of the royal family, involving cleansing rituals for the earth."
+                },
+                {
+                    "name": "Garia Puja",
+                    "type": "Agricultural",
+                    "significance": "Celebrated to pray for a bounty crop, livestock health, and general safety from diseases."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Uttar Pradesh",
+            "major_festivals": [
+                {
+                    "name": "Kumbh Mela",
+                    "type": "Religious / Global Gathering",
+                    "significance": "Inscribed on UNESCO's intangible list; rotates across Prayagraj, Haridwar, Ujjain, and Nashik every 12 years."
+                },
+                {
+                    "name": "Lathmar Holi",
+                    "type": "Folk / Cultural",
+                    "significance": "Unique Holi played in Barsana and Nandgaon where women playfully beat men with wooden sticks."
+                },
+                {
+                    "name": "Taj Mahotsav",
+                    "type": "Cultural / Crafts",
+                    "significance": "10-day spring carnival at Agra showcasing Mughal-era artisan traditions and classical ghazals."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "Uttarakhand",
+            "major_festivals": [
+                {
+                    "name": "Phool Dei",
+                    "type": "Spring / Crop Blessing",
+                    "significance": "Young girls place fresh spring flowers on the doorsteps of local houses to bring good fortune."
+                },
+                {
+                    "name": "Ganga Dussehra",
+                    "type": "Religious",
+                    "significance": "Celebrates the historical descent of the holy river Ganga from heaven to Earth."
+                }
+            ]
+        },
+        {
+            "state_or_ut": "West Bengal",
+            "major_festivals": [
+                {
+                    "name": "Durga Puja",
+                    "type": "Socio-Cultural Spectacular",
+                    "significance": "Inscribed on UNESCO's Intangible Heritage list; transforms Kolkata into an open-air art gallery of magnificent themed pandals."
+                },
+                {
+                    "name": "Poila Baisakh",
+                    "type": "New Year",
+                    "significance": "Bengali New Year, marked by opening new accounting ledgers (Haal Khata) and sweet distributions."
+                },
+                {
+                    "name": "Gangasagar Mela",
+                    "type": "Religious Fair",
+                    "significance": "Second-largest gathering in India after Kumbh, held on Makar Sankranti where the Hooghly river meets the Bay of Bengal."
+                }
+            ]
+        }
+    ]
+}

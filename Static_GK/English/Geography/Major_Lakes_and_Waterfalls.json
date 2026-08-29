@@ -1,0 +1,134 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Exhaustive compilation of major Indian lakes (categorized by extremes/types) and high-frequency waterfalls (matched with their rivers) for Geography Static GK.",
+    "major_lakes_of_india": [
+        {
+            "lake_name": "Wular Lake",
+            "state_or_ut": "Jammu and Kashmir",
+            "type": "Freshwater",
+            "key_fact": "One of the largest freshwater lakes in Asia, formed as a result of tectonic activity. The Jhelum river feeds it."
+        },
+        {
+            "lake_name": "Chilika Lake",
+            "state_or_ut": "Odisha",
+            "type": "Brackish Water",
+            "key_fact": "India's largest coastal lagoon and the largest wintering ground for migratory birds on the Indian sub-continent."
+        },
+        {
+            "lake_name": "Vembanad Lake",
+            "state_or_ut": "Kerala",
+            "type": "Freshwater/Brackish",
+            "key_fact": "The longest lake in India. Famous for hosting the annual Nehru Trophy Boat Race (Vallam Kali)."
+        },
+        {
+            "lake_name": "Loktak Lake",
+            "state_or_ut": "Manipur",
+            "type": "Freshwater",
+            "key_fact": "The largest freshwater lake in North-East India. Famous for the circular floating islands called 'Phumdis' and hosts the Keibul Lamjao (the world's only floating national park)."
+        },
+        {
+            "lake_name": "Sambhar Salt Lake",
+            "state_or_ut": "Rajasthan",
+            "type": "Saltwater",
+            "key_fact": "India's largest inland salt lake, representing a large endorheic basin."
+        },
+        {
+            "lake_name": "Lonar Lake",
+            "state_or_ut": "Maharashtra",
+            "type": "Saline and Alkaline",
+            "key_fact": "A highly unique crater lake formed by a meteorite impact during the Pleistocene Epoch."
+        },
+        {
+            "lake_name": "Cholamu Lake (Tso Lhamo)",
+            "state_or_ut": "Sikkim",
+            "type": "Freshwater",
+            "key_fact": "The highest lake in India, situated at an altitude of over 5,300 meters."
+        },
+        {
+            "lake_name": "Pulicat Lake",
+            "state_or_ut": "Andhra Pradesh / Tamil Nadu border",
+            "type": "Brackish Water",
+            "key_fact": "The second-largest brackish water lagoon in India. The barrier island of Sriharikota (Satish Dhawan Space Centre) separates it from the Bay of Bengal."
+        },
+        {
+            "lake_name": "Kolleru Lake",
+            "state_or_ut": "Andhra Pradesh",
+            "type": "Freshwater",
+            "key_fact": "Located between the deltas of the Krishna and Godavari rivers."
+        },
+        {
+            "lake_name": "Govind Ballabh Pant Sagar",
+            "state_or_ut": "Uttar Pradesh",
+            "type": "Artificial Reservoir",
+            "key_fact": "India's largest artificial (man-made) lake, created by the Rihand Dam."
+        },
+        {
+            "lake_name": "Pangong Tso",
+            "state_or_ut": "Ladakh",
+            "type": "Brackish Water",
+            "key_fact": "An endorheic lake in the Himalayas situated at about 4,350 meters. It freezes completely in winter despite being saline water. Lies on the Sino-Indian border."
+        }
+    ],
+    "major_waterfalls_of_india": [
+        {
+            "waterfall_name": "Kunchikal Falls",
+            "state": "Karnataka",
+            "river": "Varahi River",
+            "key_fact": "The highest waterfall in India (approx 455 meters), featuring a tiered cascade."
+        },
+        {
+            "waterfall_name": "Jog Falls (Gersoppa Falls)",
+            "state": "Karnataka",
+            "river": "Sharavathi River",
+            "key_fact": "One of the highest plunge waterfalls in India. Famous for its four distinct cascades: Raja, Rani, Rover, and Rocket."
+        },
+        {
+            "waterfall_name": "Nohkalikai Falls",
+            "state": "Meghalaya",
+            "river": "Rainwater / Stream",
+            "key_fact": "The tallest plunge waterfall in India (340 meters), located near Cherrapunji, one of the wettest places on Earth."
+        },
+        {
+            "waterfall_name": "Dudhsagar Falls",
+            "state": "Goa",
+            "river": "Mandovi River",
+            "key_fact": "Literally translates to 'Sea of Milk'. Located on the Goa-Karnataka border, famously intersecting with the Madgaon-Belagavi rail route."
+        },
+        {
+            "waterfall_name": "Chitrakote Falls",
+            "state": "Chhattisgarh",
+            "river": "Indravati River",
+            "key_fact": "Widely known as the 'Niagara of India' because it is the widest waterfall in India during the monsoon season."
+        },
+        {
+            "waterfall_name": "Shivanasamudra Falls",
+            "state": "Karnataka",
+            "river": "Kaveri (Cauvery) River",
+            "key_fact": "The site of Asia's first hydro-electric power station, set up in 1902."
+        },
+        {
+            "waterfall_name": "Dhuandhar Falls",
+            "state": "Madhya Pradesh",
+            "river": "Narmada River",
+            "key_fact": "Located at Bhedaghat in Jabalpur, famous for cascading through spectacular marble rocks."
+        },
+        {
+            "waterfall_name": "Barehipani Falls",
+            "state": "Odisha",
+            "river": "Budhabalanga River",
+            "key_fact": "A majestic two-tiered waterfall located deep within the Simlipal National Park."
+        },
+        {
+            "waterfall_name": "Hundru Falls",
+            "state": "Jharkhand",
+            "river": "Subarnarekha River",
+            "key_fact": "One of the most famous waterfalls in the Chota Nagpur Plateau region, near Ranchi."
+        },
+        {
+            "waterfall_name": "Athirappilly Falls",
+            "state": "Kerala",
+            "river": "Chalakudy River",
+            "key_fact": "The largest waterfall in Kerala, often nicknamed the 'Niagara of South India'."
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency national and international sports trophies and cups, categorized by sport for Sports Static GK.",
+    "cricket": [
+        {
+            "trophy_name": "Ranji Trophy",
+            "type": "National (Domestic)",
+            "key_fact": "India's premier domestic first-class cricket championship, named after Ranjitsinhji, the first Indian to play international cricket."
+        },
+        {
+            "trophy_name": "Irani Cup",
+            "type": "National (Domestic)",
+            "key_fact": "Played annually between the incumbent Ranji Trophy winners and the Rest of India team."
+        },
+        {
+            "trophy_name": "Duleep Trophy",
+            "type": "National (Domestic)",
+            "key_fact": "A domestic first-class cricket competition named after Kumar Shri Duleepsinhji of Nawanagar."
+        },
+        {
+            "trophy_name": "The Ashes",
+            "type": "International",
+            "key_fact": "A historic Test cricket series played strictly between England and Australia."
+        },
+        {
+            "trophy_name": "Border-Gavaskar Trophy",
+            "type": "International",
+            "key_fact": "A Test cricket series played between India and Australia, named after Allan Border and Sunil Gavaskar."
+        }
+    ],
+    "football": [
+        {
+            "trophy_name": "Durand Cup",
+            "type": "National/International",
+            "key_fact": "Founded in 1888, it is the oldest existing football tournament in Asia and the third oldest in the world."
+        },
+        {
+            "trophy_name": "Santosh Trophy",
+            "type": "National (Domestic)",
+            "key_fact": "An annual state-level national football championship in India, started in 1941."
+        },
+        {
+            "trophy_name": "Subroto Cup",
+            "type": "National/International (Youth)",
+            "key_fact": "A famous inter-school football tournament in India, named after the first Indian Air Force Chief, Subroto Mukerjee."
+        },
+        {
+            "trophy_name": "Copa America",
+            "type": "International",
+            "key_fact": "The oldest still-running international football competition, contested among men's national teams of South America (CONMEBOL)."
+        }
+    ],
+    "hockey": [
+        {
+            "trophy_name": "Agha Khan Cup",
+            "type": "National",
+            "key_fact": "One of the oldest hockey tournaments in India, highly tested in exams."
+        },
+        {
+            "trophy_name": "Beighton Cup",
+            "type": "National",
+            "key_fact": "Organized by Bengal Hockey Association, it is one of the oldest field hockey tournaments in the world (instituted in 1895)."
+        },
+        {
+            "trophy_name": "Sultan Azlan Shah Cup",
+            "type": "International",
+            "key_fact": "An annual international men's field hockey tournament held in Malaysia."
+        },
+        {
+            "trophy_name": "Stanley Cup",
+            "type": "International",
+            "key_fact": "The championship trophy awarded annually to the National Hockey League (NHL) playoff winner. (Note: This is for Ice Hockey)."
+        }
+    ],
+    "badminton": [
+        {
+            "trophy_name": "Thomas Cup",
+            "type": "International",
+            "key_fact": "The World Men's Team Championship. (India won its historic first Thomas Cup in 2022)."
+        },
+        {
+            "trophy_name": "Uber Cup",
+            "type": "International",
+            "key_fact": "The World Women's Team Championship."
+        },
+        {
+            "trophy_name": "Sudirman Cup",
+            "type": "International",
+            "key_fact": "The world mixed team badminton championship."
+        }
+    ],
+    "tennis": [
+        {
+            "trophy_name": "Davis Cup",
+            "type": "International",
+            "key_fact": "The premier international team event in men's tennis, often described as the 'World Cup of Tennis'."
+        },
+        {
+            "trophy_name": "Billie Jean King Cup",
+            "type": "International",
+            "key_fact": "The premier international team event in women's tennis. (Formerly known as the Fed Cup)."
+        },
+        {
+            "trophy_name": "Hopman Cup",
+            "type": "International",
+            "key_fact": "An international indoor hardcourt tennis tournament played by mixed-gender teams on a country-by-country basis."
+        }
+    ],
+    "table_tennis": [
+        {
+            "trophy_name": "Swaythling Cup",
+            "type": "International",
+            "key_fact": "Awarded to the winner of the Men's Team event at the World Table Tennis Championships."
+        },
+        {
+            "trophy_name": "Corbillon Cup",
+            "type": "International",
+            "key_fact": "Awarded to the winner of the Women's Team event at the World Table Tennis Championships."
+        }
+    ],
+    "golf_and_rowing": [
+        {
+            "trophy_name": "Ryder Cup",
+            "sport": "Golf",
+            "key_fact": "A biennial men's golf competition between teams from Europe and the United States."
+        },
+        {
+            "trophy_name": "Walker Cup",
+            "sport": "Golf",
+            "key_fact": "A golf trophy contested in odd-numbered years between leading amateur male golfers of the USA, and Great Britain & Ireland."
+        },
+        {
+            "trophy_name": "Wellington Trophy",
+            "sport": "Rowing",
+            "key_fact": "A famous Indian national rowing trophy."
+        }
+    ]
+}

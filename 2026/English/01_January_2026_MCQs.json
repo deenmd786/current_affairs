@@ -1,0 +1,702 @@
+﻿[
+  {
+    "id": "ca_2026_01_001",
+    "date": "2026-01-26",
+    "question": "Who were the Chief Guests for India's 77th Republic Day celebrations in January 2026?",
+    "options": [
+      "Emmanuel Macron",
+      "Ursula von der Leyen and António Costa",
+      "Joe Biden and Kamala Harris",
+      "Abdel Fattah el-Sisi"
+    ],
+    "answer": "Ursula von der Leyen and António Costa",
+    "explanation": "The President of the European Commission, Ursula von der Leyen, and the President of the European Council, António Costa, attended as the Chief Guests for the 77th Republic Day, reflecting growing India-EU strategic ties.",
+    "tags": ["National", "International Relations"]
+  },
+  {
+    "id": "ca_2026_01_002",
+    "date": "2026-01-26",
+    "question": "Which Armed Force won the award for the 'Best Marching Contingent' at the 2026 Republic Day Parade?",
+    "options": [
+      "Indian Army",
+      "Indian Air Force",
+      "Indian Navy",
+      "Border Security Force (BSF)"
+    ],
+    "answer": "Indian Navy",
+    "explanation": "The Indian Navy won the Best Marching Contingent among the three services, while the Delhi Police won the award among the Central Armed Police Forces (CAPFs).",
+    "tags": ["Defence", "Awards"]
+  },
+  {
+    "id": "ca_2026_01_003",
+    "date": "2026-01-25",
+    "question": "Which Indian astronaut was conferred the 'Ashok Chakra', India's highest peacetime gallantry award, in January 2026?",
+    "options": [
+      "Rakesh Sharma",
+      "Prasanth Balakrishnan Nair",
+      "Shubhanshu Shukla",
+      "Ajit Krishnan"
+    ],
+    "answer": "Shubhanshu Shukla",
+    "explanation": "Group Captain Shubhanshu Shukla was awarded the Ashok Chakra on the eve of the 77th Republic Day. He is slated to be the first Indian to travel to the International Space Station (ISS).",
+    "tags": ["Awards", "Defence", "Space"]
+  },
+  {
+    "id": "ca_2026_01_004",
+    "date": "2026-01-01",
+    "question": "Which European country officially became the 21st member of the Eurozone on January 1, 2026?",
+    "options": [
+      "Romania",
+      "Bulgaria",
+      "Croatia",
+      "Hungary"
+    ],
+    "answer": "Bulgaria",
+    "explanation": "Bulgaria officially adopted the Euro currency, transitioning fully from its local currency (Lev) to become the 21st member state of the Eurozone.",
+    "tags": ["International", "Economy"]
+  },
+  {
+    "id": "ca_2026_01_005",
+    "date": "2026-01-10",
+    "question": "The United Nations declared the year 2026 as the International Year of ________?",
+    "options": [
+      "Millets",
+      "Rangelands and Pastoralists",
+      "Camelids",
+      "Quantum Science and Technology"
+    ],
+    "answer": "Rangelands and Pastoralists",
+    "explanation": "The UN declared 2026 as the International Year of Rangelands and Pastoralists to create global awareness regarding sustainable land management and pastoral communities.",
+    "tags": ["International", "Environment"]
+  },
+  {
+    "id": "ca_2026_01_006",
+    "date": "2026-01-15",
+    "question": "What is the name of the new mascot launched by UIDAI in January 2026 to simplify Aadhaar-related information?",
+    "options": [
+      "Aadhar Mitra",
+      "Udai",
+      "Pehchaan",
+      "Samadhan"
+    ],
+    "answer": "Udai",
+    "explanation": "The Unique Identification Authority of India (UIDAI) launched a mascot named 'Udai' to help humanise and simplify Aadhaar-related queries for citizens.",
+    "tags": ["National", "Technology"]
+  },
+  {
+    "id": "ca_2026_01_007",
+    "date": "2026-01-12",
+    "question": "Which country became the first to commercially produce Bio-Bitumen in January 2026?",
+    "options": [
+      "United States",
+      "Sweden",
+      "India",
+      "Japan"
+    ],
+    "answer": "India",
+    "explanation": "India became the first country to commercially produce Bio-Bitumen, a sustainable alternative to petroleum-derived bitumen, aligning with its vision for eco-friendly highway infrastructure.",
+    "tags": ["Science", "National", "Environment"]
+  },
+  {
+    "id": "ca_2026_01_008",
+    "date": "2026-01-18",
+    "question": "Which state government launched the 'Mukhya Mantri Sehat Yojana' in January 2026 to provide free cashless medical treatment up to ₹10 lakh?",
+    "options": [
+      "Punjab",
+      "Rajasthan",
+      "Haryana",
+      "Madhya Pradesh"
+    ],
+    "answer": "Punjab",
+    "explanation": "The Punjab Government launched the Mukhya Mantri Sehat Yojana to ensure free and cashless medical treatment up to ₹10 lakh for all residents of the state.",
+    "tags": ["State", "Schemes"]
+  },
+  {
+    "id": "ca_2026_01_009",
+    "date": "2026-01-20",
+    "question": "The Aralam Wildlife Sanctuary, recently declared as its state's first Butterfly Sanctuary, is located in which state?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "answer": "Kerala",
+    "explanation": "The Aralam Wildlife Sanctuary in Kannur, Kerala, was declared the state's first dedicated Butterfly Sanctuary to promote biodiversity conservation.",
+    "tags": ["Environment", "State"]
+  },
+  {
+    "id": "ca_2026_01_010",
+    "date": "2026-01-04",
+    "question": "January 2026 marked the 25th anniversary of the first flight of which indigenous Indian aircraft?",
+    "options": [
+      "HAL Prachand",
+      "Tejas Light Combat Aircraft",
+      "HAL Dhruv",
+      "Sukhoi Su-30MKI"
+    ],
+    "answer": "Tejas Light Combat Aircraft",
+    "explanation": "The indigenous Tejas Light Combat Aircraft (LCA) celebrated its 25th anniversary. Its first successful flight was conducted by Wing Commander Rajiv Kothiyal in 2001.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_01_011",
+    "date": "2026-01-09",
+    "question": "The Indian Army officially declared the year 2026 as the Year of ________?",
+    "options": [
+      "Technology Absorption",
+      "Networking & Data Centricity",
+      "Joint Operations",
+      "Atmanirbhar Raksha"
+    ],
+    "answer": "Networking & Data Centricity",
+    "explanation": "Continuing its modernization push, the Indian Army designated 2026 as the 'Year of Networking & Data Centricity' to bolster digital battlefield communication.",
+    "tags": ["Defence", "National"]
+  },
+  {
+    "id": "ca_2026_01_012",
+    "date": "2026-01-14",
+    "question": "Exercise Dosti 17 is a trilateral Coast Guard exercise involving India, Sri Lanka, and which other country?",
+    "options": [
+      "Bangladesh",
+      "Maldives",
+      "Seychelles",
+      "Mauritius"
+    ],
+    "answer": "Maldives",
+    "explanation": "Exercise Dosti 17 is a crucial trilateral maritime and Coast Guard exercise held to strengthen maritime security cooperation between India, Sri Lanka, and the Maldives.",
+    "tags": ["Defence", "International"]
+  },
+  {
+    "id": "ca_2026_01_013",
+    "date": "2026-01-05",
+    "question": "Who was appointed as the Director General of the National Investigation Agency (NIA) in January 2026?",
+    "options": [
+      "Praveen Kumar",
+      "Shatrujeet Singh Kapoor",
+      "Rakesh Aggarwal",
+      "Manoj Kumar Gupta"
+    ],
+    "answer": "Rakesh Aggarwal",
+    "explanation": "Senior IPS officer Rakesh Aggarwal was appointed as the Director General of the National Investigation Agency (NIA), India's premier counter-terrorism task force.",
+    "tags": ["Appointments", "National"]
+  },
+  {
+    "id": "ca_2026_01_014",
+    "date": "2026-01-05",
+    "question": "Who was appointed as the Director General of the Border Security Force (BSF) in January 2026?",
+    "options": [
+      "Shatrujeet Singh Kapoor",
+      "Rakesh Aggarwal",
+      "Praveen Kumar",
+      "Nitin Agarwal"
+    ],
+    "answer": "Praveen Kumar",
+    "explanation": "Senior police official Praveen Kumar took charge as the Director General of the Border Security Force (BSF), replacing his predecessor.",
+    "tags": ["Appointments", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_015",
+    "date": "2026-01-25",
+    "question": "Which veteran actor was posthumously awarded the Padma Vibhushan in 2026?",
+    "options": [
+      "Dilip Kumar",
+      "Dharmendra Singh Deol",
+      "Raj Kapoor",
+      "Dev Anand"
+    ],
+    "answer": "Dharmendra Singh Deol",
+    "explanation": "Legendary Hindi cinema actor Dharmendra Singh Deol was posthumously awarded the Padma Vibhushan, India's second-highest civilian award, for his exceptional contribution to Art.",
+    "tags": ["Awards", "Art"]
+  },
+  {
+    "id": "ca_2026_01_016",
+    "date": "2026-01-25",
+    "question": "Which former Chief Minister of Kerala was posthumously awarded the Padma Vibhushan in 2026?",
+    "options": [
+      "Oommen Chandy",
+      "V. S. Achuthanandan",
+      "K. Karunakaran",
+      "E. K. Nayanar"
+    ],
+    "answer": "V. S. Achuthanandan",
+    "explanation": "Veteran communist leader and former Kerala Chief Minister V. S. Achuthanandan was posthumously honoured with the Padma Vibhushan in the field of Public Affairs.",
+    "tags": ["Awards", "Public Affairs"]
+  },
+  {
+    "id": "ca_2026_01_017",
+    "date": "2026-01-02",
+    "question": "Who took charge as the 26th Chief of the Naval Staff in India?",
+    "options": [
+      "Admiral R. Hari Kumar",
+      "Admiral Karambir Singh",
+      "Admiral Dinesh K Tripathi",
+      "Admiral Sunil Lanba"
+    ],
+    "answer": "Admiral Dinesh K Tripathi",
+    "explanation": "Admiral Dinesh K Tripathi officially assumed command as the 26th Chief of the Naval Staff, succeeding Admiral R. Hari Kumar.",
+    "tags": ["Appointments", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_018",
+    "date": "2026-01-25",
+    "question": "Which prominent jurist and former Supreme Court judge was awarded the Padma Vibhushan in the field of Public Affairs in 2026?",
+    "options": [
+      "Justice K. T. Thomas",
+      "Justice Fathima Beevi",
+      "Justice V. R. Krishna Iyer",
+      "Justice P. N. Bhagwati"
+    ],
+    "answer": "Justice K. T. Thomas",
+    "explanation": "Former Supreme Court Justice K. T. Thomas from Kerala was awarded the Padma Vibhushan for his lifelong contribution to jurisprudence and Public Affairs.",
+    "tags": ["Awards", "Public Affairs"]
+  },
+  {
+    "id": "ca_2026_01_019",
+    "date": "2026-01-08",
+    "question": "Who was appointed as the Chief Justice of the Uttarakhand High Court in January 2026?",
+    "options": [
+      "Justice Ritu Bahri",
+      "Justice Manoj Kumar Gupta",
+      "Justice Vipin Sanghi",
+      "Justice R. S. Chauhan"
+    ],
+    "answer": "Justice Manoj Kumar Gupta",
+    "explanation": "Justice Manoj Kumar Gupta was officially appointed and took oath as the Chief Justice of the Uttarakhand High Court.",
+    "tags": ["Appointments", "National"]
+  },
+  {
+    "id": "ca_2026_01_020",
+    "date": "2026-01-05",
+    "question": "Who was appointed as the Director General of the Indo-Tibetan Border Police (ITBP) in January 2026?",
+    "options": [
+      "Shatrujeet Singh Kapoor",
+      "Praveen Kumar",
+      "Rakesh Aggarwal",
+      "Anish Dayal Singh"
+    ],
+    "answer": "Shatrujeet Singh Kapoor",
+    "explanation": "Senior IPS officer Shatrujeet Singh Kapoor was appointed as the new Director General of the ITBP, the force responsible for securing the Sino-Indian border.",
+    "tags": ["Appointments", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_021",
+    "date": "2026-01-26",
+    "question": "Which unique animal contingent, hailing from the high-altitude regions of Galwan and Nubra, made its debut at the 77th Republic Day Parade?",
+    "options": [
+      "Zanskari Ponies",
+      "Snow Leopards",
+      "Bactrian Camels (Him Yodha contingent)",
+      "Himalayan Yaks"
+    ],
+    "answer": "Bactrian Camels (Him Yodha contingent)",
+    "explanation": "The 'Him Yodha' contingent featuring double-humped Bactrian camels from Galwan and Nubra valleys marched for the first time, showcasing high-altitude logistics capabilities.",
+    "tags": ["National", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_022",
+    "date": "2026-01-16",
+    "question": "Which major country officially withdrew from the World Health Organization (WHO) in January 2026 following a mandatory one-year notice period?",
+    "options": [
+      "Russia",
+      "United Kingdom",
+      "United States of America",
+      "China"
+    ],
+    "answer": "United States of America",
+    "explanation": "The United States completed its mandatory one-year notice and officially withdrew from the WHO, citing institutional disagreements over global health crisis management.",
+    "tags": ["International", "Health"]
+  },
+  {
+    "id": "ca_2026_01_023",
+    "date": "2026-01-11",
+    "question": "The Reserve Bank of India (RBI) announced a special dispensation allowing banks to mobilise fresh 3- to 5-year overseas deposits under which scheme until September 2026?",
+    "options": [
+      "Non-Resident Ordinary (NRO)",
+      "Foreign Currency Non-Resident (Bank) [FCNR(B)]",
+      "Non-Resident External (NRE)",
+      "Liberalised Remittance Scheme (LRS)"
+    ],
+    "answer": "Foreign Currency Non-Resident (Bank) [FCNR(B)]",
+    "explanation": "The RBI announced a swap scheme allowing banks to raise 3-to-5 year FCNR(B) deposits with the central bank absorbing the hedging burden, making it an attractive overseas funding source.",
+    "tags": ["Banking", "Economy", "RBI"]
+  },
+  {
+    "id": "ca_2026_01_024",
+    "date": "2026-01-09",
+    "question": "What is the name of the Land Port Management System launched by Union Home Minister Amit Shah to digitize cross-border cargo processing?",
+    "options": [
+      "SEEMANT",
+      "VINIMAY",
+      "SUVIDHA",
+      "NIRYAT"
+    ],
+    "answer": "VINIMAY",
+    "explanation": "Union Home Minister Amit Shah launched VINIMAY, a state-of-the-art digital Land Port Management System integrating real-time logistics and regulatory information at land borders.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_01_025",
+    "date": "2026-01-25",
+    "question": "Which prominent Indian cricketer was awarded the Padma Shri in the field of Sports in 2026?",
+    "options": [
+      "Virat Kohli",
+      "Rohit Sharma",
+      "M. S. Dhoni",
+      "Jasprit Bumrah"
+    ],
+    "answer": "Rohit Sharma",
+    "explanation": "Indian cricket team captain Rohit Sharma was honoured with the Padma Shri in 2026 for his exceptional leadership and achievements in international cricket.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_01_026",
+    "date": "2026-01-25",
+    "question": "Which Indian women's cricket team captain was awarded the Padma Shri in 2026?",
+    "options": [
+      "Mithali Raj",
+      "Smriti Mandhana",
+      "Harmanpreet Kaur Bhullar",
+      "Jhulan Goswami"
+    ],
+    "answer": "Harmanpreet Kaur Bhullar",
+    "explanation": "Harmanpreet Kaur Bhullar was conferred with the Padma Shri for her stellar contributions and leadership in Indian women's cricket.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_01_027",
+    "date": "2026-01-25",
+    "question": "Which legendary playback singer was honored with the Padma Bhushan in Art in 2026?",
+    "options": [
+      "Shreya Ghoshal",
+      "Kavita Krishnamurthy",
+      "Alka Yagnik",
+      "Asha Bhosle"
+    ],
+    "answer": "Alka Yagnik",
+    "explanation": "Iconic Bollywood playback singer Alka Yagnik was awarded the Padma Bhushan in recognition of her decades-long contribution to Indian music and art.",
+    "tags": ["Awards", "Art"]
+  },
+  {
+    "id": "ca_2026_01_028",
+    "date": "2026-01-25",
+    "question": "Which iconic Malayalam actor was awarded the Padma Bhushan in 2026?",
+    "options": [
+      "Mohanlal",
+      "Mammootty",
+      "Suresh Gopi",
+      "Fahadh Faasil"
+    ],
+    "answer": "Mammootty",
+    "explanation": "Veteran Malayalam cinema superstar Mammootty was honoured with the Padma Bhushan for his immense and diverse contributions to Indian cinema.",
+    "tags": ["Awards", "Art"]
+  },
+  {
+    "id": "ca_2026_01_029",
+    "date": "2026-01-25",
+    "question": "Which prominent banker and financial leader was awarded the Padma Bhushan in Trade & Industry in 2026?",
+    "options": [
+      "Shaktikanta Das",
+      "Uday Kotak",
+      "Arundhati Bhattacharya",
+      "Deepak Parekh"
+    ],
+    "answer": "Uday Kotak",
+    "explanation": "Billionaire banker and founder of Kotak Mahindra Bank, Uday Kotak, was conferred the Padma Bhushan for his transformative role in India's Trade and Industry.",
+    "tags": ["Awards", "Banking", "Economy"]
+  },
+  {
+    "id": "ca_2026_01_030",
+    "date": "2026-01-26",
+    "question": "Which Indian state's tableau won the top prize at the 2026 Republic Day Parade for its 'Ganeshotsav: A Symbol of Aatmanirbharta' theme?",
+    "options": [
+      "Gujarat",
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "answer": "Maharashtra",
+    "explanation": "Maharashtra's vibrant tableau depicting 'Ganeshotsav: A Symbol of Aatmanirbharta' won the Best Tableau award among all participating states and UTs.",
+    "tags": ["National", "Awards", "State"]
+  },
+  {
+    "id": "ca_2026_01_031",
+    "date": "2026-01-26",
+    "question": "The central theme of the 77th Republic Day celebrations was the completion of 150 years of which historic song?",
+    "options": [
+      "Jana Gana Mana",
+      "Sare Jahan Se Achha",
+      "Vande Mataram",
+      "Maa Tujhe Salaam"
+    ],
+    "answer": "Vande Mataram",
+    "explanation": "The 2026 Republic Day foregrounded the completion of 150 years of 'Vande Mataram', connecting India's anti-colonial consciousness with its present constitutional identity.",
+    "tags": ["National", "History"]
+  },
+  {
+    "id": "ca_2026_01_032",
+    "date": "2026-01-26",
+    "question": "Which force won the Best Marching Contingent among Central Armed Police Forces (CAPFs) and auxiliary forces at the 2026 Republic Day Parade?",
+    "options": [
+      "Central Reserve Police Force (CRPF)",
+      "Delhi Police",
+      "Indo-Tibetan Border Police (ITBP)",
+      "Border Security Force (BSF)"
+    ],
+    "answer": "Delhi Police",
+    "explanation": "The Delhi Police marching contingent was awarded the Best Marching Contingent trophy among the CAPFs and other auxiliary forces.",
+    "tags": ["National", "Awards", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_033",
+    "date": "2026-01-26",
+    "question": "Which advanced Next-Generation Warfare combat support systems made their public debut at the 2026 Republic Day Parade?",
+    "options": [
+      "BrahMos II and Agni VI",
+      "Shaktibaan and Divyastra",
+      "Nirbhay and Pralay",
+      "KALI and Netra"
+    ],
+    "answer": "Shaktibaan and Divyastra",
+    "explanation": "The 77th Republic Day parade marked the public debut of advanced defense systems 'Shaktibaan' and 'Divyastra', reflecting India's shift toward precision-enabled, long-range combat.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_01_034",
+    "date": "2026-01-06",
+    "question": "What index is published semi-annually by the RBI to measure the penetration and adoption of digital payments in India?",
+    "options": [
+      "Financial Inclusion Index (FI-Index)",
+      "Digital Payments Index (RBI-DPI)",
+      "Cashless Economy Indicator (CEI)",
+      "National Digital Transaction Index (NDTI)"
+    ],
+    "answer": "Digital Payments Index (RBI-DPI)",
+    "explanation": "The Reserve Bank of India publishes the RBI-DPI semi-annually to effectively capture and measure the extent of financial digitization across the country.",
+    "tags": ["Banking", "Economy", "RBI"]
+  },
+  {
+    "id": "ca_2026_01_035",
+    "date": "2026-01-20",
+    "question": "According to the SIPRI 2026 report released in January, approximately how many nuclear warheads does India currently possess?",
+    "options": [
+      "150",
+      "170",
+      "190",
+      "210"
+    ],
+    "answer": "190",
+    "explanation": "The Stockholm International Peace Research Institute (SIPRI) 2026 report estimated that India slightly expanded its stockpile to hold around 190 nuclear warheads.",
+    "tags": ["International", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_036",
+    "date": "2026-01-14",
+    "question": "India recently leased two acres of land in Varanasi to which neighboring country for the construction of a Buddhist monastery and guest house?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Myanmar"
+    ],
+    "answer": "Bhutan",
+    "explanation": "India granted a 30-year lease of land in Varanasi to Bhutan for a nominal annual rent of Re 1 to construct a monastery catering to pilgrims visiting Sarnath.",
+    "tags": ["International Relations", "National"]
+  },
+  {
+    "id": "ca_2026_01_037",
+    "date": "2026-01-22",
+    "question": "To boost the domestic solar manufacturing ecosystem, all 'net-metering' and 'open access' solar projects commissioned after June 2026 must mandatorily use domestically manufactured ________?",
+    "options": [
+      "Solar inverters",
+      "Solar cells",
+      "Lithium-ion batteries",
+      "Aluminium frames"
+    ],
+    "answer": "Solar cells",
+    "explanation": "Under the new government mandate to reduce import dependence, all 'net-metering' and 'open access' solar projects must utilize solar cells manufactured domestically in India.",
+    "tags": ["Economy", "Environment", "National"]
+  },
+  {
+    "id": "ca_2026_01_038",
+    "date": "2026-01-25",
+    "question": "Who was awarded the Padma Shri for Science and Engineering from Kerala in 2026?",
+    "options": [
+      "S. Somanath",
+      "A. E. Muthunayagam",
+      "K. Sivan",
+      "Tessy Thomas"
+    ],
+    "answer": "A. E. Muthunayagam",
+    "explanation": "Pioneering space scientist A. E. Muthunayagam from Kerala was honoured with the Padma Shri for his tremendous contributions to Science and Engineering in India.",
+    "tags": ["Awards", "Science"]
+  },
+  {
+    "id": "ca_2026_01_039",
+    "date": "2026-01-25",
+    "question": "Which former IPS officer, known for leading the operation that eliminated forest brigand Veerappan, was awarded the Padma Shri in Civil Service in 2026?",
+    "options": [
+      "K. Vijay Kumar",
+      "K. P. S. Gill",
+      "Julio Ribeiro",
+      "Prakash Singh"
+    ],
+    "answer": "K. Vijay Kumar",
+    "explanation": "K. Vijay Kumar, a highly decorated former IPS officer from Tamil Nadu who led the STF against Veerappan, was awarded the Padma Shri in Civil Service.",
+    "tags": ["Awards", "Civil Service"]
+  },
+  {
+    "id": "ca_2026_01_040",
+    "date": "2026-01-25",
+    "question": "Which prominent educationist and politician from Karnataka was awarded the Padma Shri in Literature & Education in 2026?",
+    "options": [
+      "C. N. R. Rao",
+      "Prabhakar Basavprabhu Kore",
+      "Sudha Murty",
+      "S. L. Bhyrappa"
+    ],
+    "answer": "Prabhakar Basavprabhu Kore",
+    "explanation": "Dr. Prabhakar Basavprabhu Kore from Karnataka received the Padma Shri for his expansive contribution to Literature, Education, and institutional development.",
+    "tags": ["Awards", "Education"]
+  },
+  {
+    "id": "ca_2026_01_041",
+    "date": "2026-01-25",
+    "question": "Which renowned Hindustani classical violinist from Uttar Pradesh was awarded the Padma Vibhushan in Art in 2026?",
+    "options": [
+      "L. Subramaniam",
+      "Kala Ramnath",
+      "N. Rajam",
+      "T. N. Krishnan"
+    ],
+    "answer": "N. Rajam",
+    "explanation": "Virtuoso violinist Dr. N. Rajam, renowned for her pioneering 'Gayaki Ang' technique in Hindustani classical music, was awarded the Padma Vibhushan.",
+    "tags": ["Awards", "Art"]
+  },
+  {
+    "id": "ca_2026_01_042",
+    "date": "2026-01-25",
+    "question": "Which former Governor of Maharashtra and Uttarakhand politician was awarded the Padma Bhushan in Public Affairs in 2026?",
+    "options": [
+      "Ramesh Bais",
+      "Bhagat Singh Koshyari",
+      "C. Vidyasagar Rao",
+      "N. D. Tiwari"
+    ],
+    "answer": "Bhagat Singh Koshyari",
+    "explanation": "Senior politician and former Maharashtra Governor Bhagat Singh Koshyari from Uttarakhand was conferred the Padma Bhushan for his extensive work in Public Affairs.",
+    "tags": ["Awards", "Public Affairs"]
+  },
+  {
+    "id": "ca_2026_01_043",
+    "date": "2026-01-17",
+    "question": "The integration of Primary Agricultural Credit Societies (PACS) with which major national scheme has been heavily prioritized by the Ministry of Cooperation in early 2026?",
+    "options": [
+      "PM Kisan Samriddhi Kendras",
+      "PM Fasal Bima Yojana",
+      "e-NAM",
+      "Kisan Credit Card (KCC)"
+    ],
+    "answer": "PM Kisan Samriddhi Kendras",
+    "explanation": "To improve last-mile delivery and decentralize grain storage, the Ministry of Cooperation emphasized the integration of PACS directly into PM Kisan Samriddhi Kendras.",
+    "tags": ["National", "Schemes", "Agriculture"]
+  },
+  {
+    "id": "ca_2026_01_044",
+    "date": "2026-01-25",
+    "question": "Which prominent Dalit entrepreneur from Maharashtra was awarded the Padma Shri in Trade and Industry in 2026?",
+    "options": [
+      "Milind Kamble",
+      "Kalpana Saroj",
+      "Ashok Khade",
+      "Ravi Kumar Narra"
+    ],
+    "answer": "Ashok Khade",
+    "explanation": "Ashok Khade, managing director of DAS Offshore and a prominent Dalit entrepreneur, was awarded the Padma Shri for inspiring contributions to Trade and Industry.",
+    "tags": ["Awards", "Economy"]
+  },
+  {
+    "id": "ca_2026_01_045",
+    "date": "2026-01-13",
+    "question": "The United States Navy's 5th Fleet, frequently involved in maritime security across the Persian Gulf and the Arabian Sea, is headquartered in which country?",
+    "options": [
+      "Saudi Arabia",
+      "Qatar",
+      "Bahrain",
+      "Kuwait"
+    ],
+    "answer": "Bahrain",
+    "explanation": "The US Navy's 5th Fleet is based in Manama, Bahrain. It plays a critical role in overseeing maritime security across the Persian Gulf, Red Sea, and the Arabian Sea.",
+    "tags": ["International", "Defence"]
+  },
+  {
+    "id": "ca_2026_01_046",
+    "date": "2026-01-26",
+    "question": "Which endangered indigenous breed of ponies debuted at the 77th Republic Day parade to highlight their role in extreme-terrain military logistics?",
+    "options": [
+      "Spiti Ponies",
+      "Zanskari Ponies",
+      "Marwari Horses",
+      "Manipuri Ponies"
+    ],
+    "answer": "Zanskari Ponies",
+    "explanation": "Zanskari ponies, an endangered indigenous breed vital for the military's extreme-terrain logistics in regions like Ladakh, debuted at the 2026 Republic Day parade.",
+    "tags": ["Defence", "National"]
+  },
+  {
+    "id": "ca_2026_01_047",
+    "date": "2026-01-26",
+    "question": "The Indian Air Force showcased its air superiority during the 2026 Republic Day parade with a special flypast featuring Rafale and Su-30 MKI jets named the ________ formation?",
+    "options": [
+      "Trishul",
+      "Garuda",
+      "Sindoor",
+      "Amrit"
+    ],
+    "answer": "Sindoor",
+    "explanation": "The IAF conducted a special 'Sindoor' formation flypast during the 77th Republic Day, reinforcing India's aerial combat depth and joint operational capabilities.",
+    "tags": ["Defence", "National"]
+  },
+  {
+    "id": "ca_2026_01_048",
+    "date": "2026-01-25",
+    "question": "Which noted archaeologist from Uttar Pradesh, known for his foundational work on the Ayodhya excavations, was awarded the Padma Shri in 2026?",
+    "options": [
+      "B. B. Lal",
+      "K. K. Muhammed",
+      "Buddha Rashmi Mani",
+      "Vasant Shinde"
+    ],
+    "answer": "Buddha Rashmi Mani",
+    "explanation": "Dr. Buddha Rashmi Mani, former ASI official who led the crucial excavations at Ayodhya, was awarded the Padma Shri under the 'Others - Archaeology' category.",
+    "tags": ["Awards", "History"]
+  },
+  {
+    "id": "ca_2026_01_049",
+    "date": "2026-01-25",
+    "question": "How many individuals were awarded the Padma Vibhushan, India's second-highest civilian honor, in the 2026 Republic Day list?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "5",
+    "explanation": "A total of 5 eminent personalities were honored with the Padma Vibhushan in 2026, including Dharmendra Singh Deol, V. S. Achuthanandan, and K. T. Thomas.",
+    "tags": ["Awards", "National"]
+  },
+  {
+    "id": "ca_2026_01_050",
+    "date": "2026-01-25",
+    "question": "Which prominent Hindi literature and education scholar from Madhya Pradesh was awarded the Padma Shri in 2026?",
+    "options": [
+      "Chitra Mudgal",
+      "Kailash Chandra Pant",
+      "Ganga Prasad Vimal",
+      "Mamta Kalia"
+    ],
+    "answer": "Kailash Chandra Pant",
+    "explanation": "Kailash Chandra Pant from Madhya Pradesh was honored with the Padma Shri in Literature and Education for his dedicated lifelong service to Hindi literature.",
+    "tags": ["Awards", "Literature"]
+  }
+]

@@ -1,0 +1,80 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of Constitutional (Article-backed) and Non-Constitutional (Statutory/Executive) bodies, highlighting their appointment rules, tenures, and key facts for Polity Static GK.",
+    "constitutional_bodies": [
+        {
+            "body_name": "Election Commission of India (ECI)",
+            "article": "Article 324",
+            "appointment": "Appointed by the President of India.",
+            "term_of_office": "6 years or up to 65 years of age, whichever is earlier.",
+            "key_fact": "Responsible for conducting elections to the Parliament, State Legislatures, and the offices of President and Vice-President. (Does NOT conduct local Panchayat/Municipality elections)."
+        },
+        {
+            "body_name": "Comptroller and Auditor General of India (CAG)",
+            "article": "Article 148",
+            "appointment": "Appointed by the President of India.",
+            "term_of_office": "6 years or up to 65 years of age, whichever is earlier.",
+            "key_fact": "Often called the 'Guardian of the Public Purse'. Audits the accounts of both the Union and State governments."
+        },
+        {
+            "body_name": "Attorney General of India",
+            "article": "Article 76",
+            "appointment": "Appointed by the President of India.",
+            "term_of_office": "No fixed term; holds office during the pleasure of the President.",
+            "key_fact": "The highest law officer in the country. Has the right to speak and take part in the proceedings of both Houses of Parliament without the right to vote."
+        },
+        {
+            "body_name": "Finance Commission",
+            "article": "Article 280",
+            "appointment": "Constituted by the President every 5 years (or earlier).",
+            "term_of_office": "Specified in the Presidential order.",
+            "key_fact": "Recommends the distribution of net proceeds of taxes between the Union and the States. The 1st FC was chaired by K.C. Neogy."
+        },
+        {
+            "body_name": "Union Public Service Commission (UPSC)",
+            "article": "Articles 315 to 323",
+            "appointment": "Chairman and members appointed by the President.",
+            "term_of_office": "6 years or up to 65 years of age, whichever is earlier.",
+            "key_fact": "The central recruiting agency in India. Regarded as the 'Watchdog of merit system' in India."
+        },
+        {
+            "body_name": "National Commission for SCs / STs / BCs",
+            "article": "Article 338 (SCs), 338A (STs), 338B (Backward Classes)",
+            "appointment": "Appointed by the President.",
+            "term_of_office": "Typically 3 years.",
+            "key_fact": "Article 338A was added by the 89th Amendment (2003). Article 338B was added by the 102nd Amendment (2018), granting constitutional status to the NCBC."
+        }
+    ],
+    "non_constitutional_bodies": [
+        {
+            "body_name": "NITI Aayog (National Institution for Transforming India)",
+            "type": "Executive Body (Non-Statutory)",
+            "establishment": "January 1, 2015",
+            "key_fact": "Replaced the Planning Commission. It is a think tank of the Government of India. The Prime Minister is its ex-officio Chairperson."
+        },
+        {
+            "body_name": "National Human Rights Commission (NHRC)",
+            "type": "Statutory Body",
+            "establishment": "1993 (Protection of Human Rights Act)",
+            "key_fact": "The Chairperson must be a retired Chief Justice of India or a Judge of the Supreme Court. They hold office for 3 years or until age 70."
+        },
+        {
+            "body_name": "Central Vigilance Commission (CVC)",
+            "type": "Statutory Body",
+            "establishment": "1964 (Given statutory status in 2003)",
+            "key_fact": "Established on the recommendations of the K. Santhanam Committee on Prevention of Corruption. It is the apex vigilance institution."
+        },
+        {
+            "body_name": "Central Information Commission (CIC)",
+            "type": "Statutory Body",
+            "establishment": "2005 (Right to Information Act)",
+            "key_fact": "The Chief Information Commissioner and not more than 10 Information Commissioners are appointed by the President on the recommendation of a committee headed by the PM."
+        },
+        {
+            "body_name": "Lokpal and Lokayuktas",
+            "type": "Statutory Body",
+            "establishment": "2013 (Lokpal and Lokayuktas Act)",
+            "key_fact": "An anti-corruption ombudsman for the Union (Lokpal) and States (Lokayuktas). The Lokpal consists of a Chairperson and a maximum of 8 members (50% judicial, 50% from SC/ST/OBC/Minorities/Women)."
+        }
+    ]
+}

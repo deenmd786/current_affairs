@@ -1,0 +1,177 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency sports terminology frequently tested in competitive exams (SSC, Railways, State PSCs) for Sports Static GK.",
+    "cricket": [
+        {
+            "term": "LBW (Leg Before Wicket)",
+            "meaning": "A mode of dismissal where the ball strikes the batsman's leg before hitting the bat, and the umpire judges it would have hit the stumps."
+        },
+        {
+            "term": "Maiden Over",
+            "meaning": "An over consisting of six deliveries in which the batting team scores no runs."
+        },
+        {
+            "term": "Googly",
+            "meaning": "A deceptive spinning delivery bowled by a leg-spin bowler that spins in the opposite direction (towards the right-handed batsman) to a normal leg-break."
+        },
+        {
+            "term": "Duck",
+            "meaning": "A batsman being dismissed without scoring a single run. (A 'Golden Duck' is dismissal on the very first ball faced)."
+        },
+        {
+            "term": "Yorker",
+            "meaning": "A fast delivery pitched right at the batsman's toes or the base of the stumps."
+        },
+        {
+            "term": "Silly Point",
+            "meaning": "A fielding position placed extremely close to the batsman on the off-side."
+        }
+    ],
+    "football": [
+        {
+            "term": "Offside",
+            "meaning": "A foul called when an attacking player is closer to the opponent's goal line than both the ball and the second-last defender when a pass is made to them."
+        },
+        {
+            "term": "Hat-trick",
+            "meaning": "When a single player scores three goals in a single match."
+        },
+        {
+            "term": "Dribble",
+            "meaning": "The skillful act of moving the ball past opponents with slight touches while retaining control."
+        },
+        {
+            "term": "Penalty Kick",
+            "meaning": "A direct free kick taken from the penalty spot, awarded for a major foul committed inside the penalty area."
+        }
+    ],
+    "field_hockey": [
+        {
+            "term": "Bully",
+            "meaning": "A method used to restart the game after a stoppage. Two opposing players face each other, tap their sticks on the ground and then against each other's stick."
+        },
+        {
+            "term": "Scoop",
+            "meaning": "A technique where the player lifts the ball off the ground by placing the head of the stick under it."
+        },
+        {
+            "term": "Penalty Corner (Short Corner)",
+            "meaning": "A set piece awarded to the attacking team for a defensive foul inside the penalty circle."
+        },
+        {
+            "term": "Astroturf",
+            "meaning": "The synthetic artificial grass surface on which modern international hockey is played."
+        }
+    ],
+    "golf": [
+        {
+            "term": "Birdie",
+            "meaning": "Scoring one stroke under the par for a specific hole."
+        },
+        {
+            "term": "Bogey",
+            "meaning": "Scoring one stroke over the par for a specific hole."
+        },
+        {
+            "term": "Albatross (Double Eagle)",
+            "meaning": "A highly rare score of three strokes under par on a single hole."
+        },
+        {
+            "term": "Tee",
+            "meaning": "The small wooden or plastic peg used to elevate the ball for the first shot of a hole. Also refers to the starting area."
+        },
+        {
+            "term": "Caddie",
+            "meaning": "The person who carries a golfer's clubs and provides assistance and advice during a match."
+        }
+    ],
+    "tennis_and_badminton": [
+        {
+            "term": "Deuce",
+            "meaning": "A tie score of 40-40 in a game, requiring a player to win two consecutive points to secure the game."
+        },
+        {
+            "term": "Advantage",
+            "meaning": "The point scored immediately after a deuce. If the player holding the advantage wins the next point, they win the game."
+        },
+        {
+            "term": "Let",
+            "meaning": "A call that requires the point to be replayed, typically when a serve hits the net cord but still lands in the correct service box."
+        },
+        {
+            "term": "Smash",
+            "meaning": "A powerful, overhead shot hit steeply downward into the opponent's court."
+        }
+    ],
+    "chess": [
+        {
+            "term": "Checkmate",
+            "meaning": "A position in which a player's king is under direct attack (in check) and there is no legal move to escape."
+        },
+        {
+            "term": "Stalemate",
+            "meaning": "A situation where the player whose turn it is to move is not in check but has no legal moves. The game ends in a draw."
+        },
+        {
+            "term": "Gambit",
+            "meaning": "An opening move in which a player sacrifices a piece (usually a pawn) to secure an advantageous position."
+        },
+        {
+            "term": "Castling",
+            "meaning": "A special defensive move involving the King and the Rook moving simultaneously."
+        }
+    ],
+    "boxing_and_wrestling": [
+        {
+            "term": "Knockout (KO)",
+            "meaning": "A winning condition where a fighter is knocked down and unable to rise before the referee counts to ten."
+        },
+        {
+            "term": "Southpaw",
+            "meaning": "A boxer who leads with the right hand and right foot forward, typically a left-handed fighter."
+        },
+        {
+            "term": "Jab",
+            "meaning": "A quick, straight punch thrown with the lead hand."
+        },
+        {
+            "term": "Heave",
+            "meaning": "A wrestling term referring to lifting the opponent with effort."
+        }
+    ],
+    "billiards_and_snooker": [
+        {
+            "term": "Cue",
+            "meaning": "The long, tapered wooden stick used to strike the ball."
+        },
+        {
+            "term": "Pot",
+            "meaning": "Sinking an object ball into one of the pockets."
+        },
+        {
+            "term": "Scratch / In-Off",
+            "meaning": "A foul committed when the cue ball accidentally falls into a pocket."
+        },
+        {
+            "term": "Cannon",
+            "meaning": "A shot in Billiards where the cue ball strikes both the other two balls on the table in a single shot."
+        }
+    ],
+    "other_prominent_terms": [
+        {
+            "sport": "Swimming",
+            "term": "Butterfly Stroke",
+            "meaning": "A highly strenuous swimming technique where both arms move symmetrically over the water while the legs perform a dolphin kick."
+        },
+        {
+            "sport": "Basketball",
+            "term": "Alley-oop",
+            "meaning": "An offensive play where one player throws the ball near the basket and a teammate jumps, catches it in mid-air, and scores."
+        },
+        {
+            "sport": "Baseball",
+            "term": "Diamond",
+            "meaning": "The shape of the baseball field marked by the four bases."
+        }
+    ]
+}

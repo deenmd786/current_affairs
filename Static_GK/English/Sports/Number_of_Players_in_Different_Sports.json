@@ -1,0 +1,92 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency data regarding the number of players in various sports (per side/team) for Sports Static GK.",
+    "major_field_sports": [
+        {
+            "sport": "Cricket",
+            "number_of_players": 11,
+            "key_fact": "A standard team consists of 11 players on the field. A 12th man acts as a substitute fielder but cannot bowl, bat, or keep wicket."
+        },
+        {
+            "sport": "Football (Soccer)",
+            "number_of_players": 11,
+            "key_fact": "Includes 10 outfield players and 1 goalkeeper."
+        },
+        {
+            "sport": "Field Hockey",
+            "number_of_players": 11,
+            "key_fact": "Played with 10 field players and 1 goalkeeper."
+        },
+        {
+            "sport": "Rugby Union",
+            "number_of_players": 15,
+            "key_fact": "Has the highest number of players per team among major field sports. (Note: Rugby League is a different variant played with 13 players)."
+        },
+        {
+            "sport": "Baseball",
+            "number_of_players": 9,
+            "key_fact": "Nine players take the field on defense (pitcher, catcher, four infielders, three outfielders)."
+        }
+    ],
+    "court_and_indoor_sports": [
+        {
+            "sport": "Basketball",
+            "number_of_players": 5,
+            "key_fact": "Played with 5 players on the court per team at a time."
+        },
+        {
+            "sport": "Volleyball",
+            "number_of_players": 6,
+            "key_fact": "Six players on the court per team, separated by a high net."
+        },
+        {
+            "sport": "Handball",
+            "number_of_players": 7,
+            "key_fact": "Consists of 6 outfield players and 1 goalkeeper."
+        },
+        {
+            "sport": "Netball",
+            "number_of_players": 7,
+            "key_fact": "A non-contact sport featuring 7 players per team, each with specifically assigned positions and restricted court zones."
+        },
+        {
+            "sport": "Ice Hockey",
+            "number_of_players": 6,
+            "key_fact": "Consists of 5 skaters and 1 goaltender on the ice per team."
+        }
+    ],
+    "traditional_and_water_sports": [
+        {
+            "sport": "Kabaddi",
+            "number_of_players": 7,
+            "key_fact": "Played with 7 players on the mat per team. A bonus point is uniquely available to the raider if the defending team has 6 or more players on the mat."
+        },
+        {
+            "sport": "Kho Kho",
+            "number_of_players": 9,
+            "key_fact": "A traditional Indian tag game. A team consists of 12 players, but only 9 take the field during play."
+        },
+        {
+            "sport": "Polo",
+            "number_of_players": 4,
+            "key_fact": "Played on horseback with 4 players per team."
+        },
+        {
+            "sport": "Water Polo",
+            "number_of_players": 7,
+            "key_fact": "Consists of 6 field players and 1 goalkeeper treading in the water."
+        },
+        {
+            "sport": "Tug of War",
+            "number_of_players": 8,
+            "key_fact": "Two teams of 8 members each pull on opposite ends of a heavy rope."
+        }
+    ],
+    "racket_and_table_sports": [
+        {
+            "sport": "Badminton / Tennis / Table Tennis",
+            "number_of_players": "1 (Singles) or 2 (Doubles)",
+            "key_fact": "These sports are played either individually against one opponent (Singles) or in pairs against another pair (Doubles)."
+        }
+    ]
+}

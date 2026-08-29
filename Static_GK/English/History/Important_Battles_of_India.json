@@ -1,0 +1,222 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Exhaustive expansion including Ancient, Medieval, British-era (Anglo wars), and Post-Independence (India-Pak, India-China) wars for complete History Static GK.",
+    "ancient_battles": [
+        {
+            "battle_name": "Battle of the Ten Kings (Dasarajna)",
+            "year": "c. 14th Century BCE",
+            "fought_between": "King Sudas (Bharata tribe) and a confederacy of Ten Kings",
+            "significance_and_outcome": "Mentioned in the Rigveda (Mandala 7). King Sudas emerged victorious on the banks of the Ravi (Parushni) river."
+        },
+        {
+            "battle_name": "Battle of Hydaspes",
+            "year": "326 BC",
+            "fought_between": "Alexander the Great and King Porus",
+            "significance_and_outcome": "Fought on the banks of the Jhelum river. Alexander won, but was so impressed by Porus that he reinstated him as a satrap."
+        },
+        {
+            "battle_name": "Seleucid-Mauryan War",
+            "year": "305 BC - 303 BC",
+            "fought_between": "Chandragupta Maurya and Seleucus I Nicator",
+            "significance_and_outcome": "Chandragupta Maurya won, securing the Indus Valley and parts of modern-day Afghanistan, cemented by a matrimonial alliance."
+        },
+        {
+            "battle_name": "Kalinga War",
+            "year": "261 BC",
+            "fought_between": "Mauryan Empire (Ashoka) and State of Kalinga",
+            "significance_and_outcome": "Ashoka won but the massive bloodshed led him to embrace Buddhism and a policy of non-violence (Dhamma)."
+        }
+    ],
+    "medieval_battles": [
+        {
+            "battle_name": "First Battle of Tarain",
+            "year": "1191",
+            "fought_between": "Prithviraj Chauhan and Muhammad Ghori",
+            "significance_and_outcome": "Prithviraj Chauhan defeated Muhammad Ghori, who barely escaped with his life."
+        },
+        {
+            "battle_name": "Second Battle of Tarain",
+            "year": "1192",
+            "fought_between": "Muhammad Ghori and Prithviraj Chauhan",
+            "significance_and_outcome": "Ghori defeated Prithviraj Chauhan, laying the foundation for Muslim rule in Northern India."
+        },
+        {
+            "battle_name": "Battle of Chandawar",
+            "year": "1194",
+            "fought_between": "Muhammad Ghori and Jaichand of Kannauj",
+            "significance_and_outcome": "Ghori defeated and killed Jaichand, severely weakening Rajput power in the region."
+        },
+        {
+            "battle_name": "First Battle of Panipat",
+            "year": "1526",
+            "fought_between": "Babur and Ibrahim Lodi",
+            "significance_and_outcome": "Babur defeated Lodi using artillery and the Tulughma formation, marking the end of the Delhi Sultanate and beginning of the Mughal Empire."
+        },
+        {
+            "battle_name": "Battle of Khanwa",
+            "year": "1527",
+            "fought_between": "Babur and Rana Sanga of Mewar",
+            "significance_and_outcome": "Babur won, firmly establishing Mughal supremacy in northern India over the Rajput confederacy."
+        },
+        {
+            "battle_name": "Battle of Chanderi",
+            "year": "1528",
+            "fought_between": "Babur and Medini Rai",
+            "significance_and_outcome": "Babur captured the fortress of Chanderi, further weakening Rajput resistance."
+        },
+        {
+            "battle_name": "Battle of Ghaghra",
+            "year": "1529",
+            "fought_between": "Babur and Mahmud Lodi (Afghan forces)",
+            "significance_and_outcome": "Babur defeated the allied Afghan and Bengal forces. This was his last major battle."
+        },
+        {
+            "battle_name": "Battle of Chausa",
+            "year": "1539",
+            "fought_between": "Sher Shah Suri and Humayun",
+            "significance_and_outcome": "Sher Shah Suri defeated Mughal Emperor Humayun, establishing his dominance."
+        },
+        {
+            "battle_name": "Battle of Kannauj (Bilgram)",
+            "year": "1540",
+            "fought_between": "Sher Shah Suri and Humayun",
+            "significance_and_outcome": "Sher Shah completely routed Humayun, forcing him into exile and establishing the Sur Empire."
+        },
+        {
+            "battle_name": "Second Battle of Panipat",
+            "year": "1556",
+            "fought_between": "Akbar (led by Bairam Khan) and Hemu (Hemchandra Vikramaditya)",
+            "significance_and_outcome": "Akbar won after Hemu was struck in the eye by an arrow, re-establishing the Mughal Empire."
+        },
+        {
+            "battle_name": "Battle of Talikota",
+            "year": "1565",
+            "fought_between": "Deccan Sultanates and Vijayanagara Empire",
+            "significance_and_outcome": "The combined forces of the Deccan Sultanates defeated Rama Raya, leading to the complete destruction of the Vijayanagara Empire."
+        },
+        {
+            "battle_name": "Battle of Haldighati",
+            "year": "1576",
+            "fought_between": "Mughal Empire (led by Raja Man Singh) and Maharana Pratap of Mewar",
+            "significance_and_outcome": "Mughal victory on the field, but Maharana Pratap escaped and continued guerrilla warfare against the Mughals."
+        },
+        {
+            "battle_name": "Battle of Samugarh",
+            "year": "1658",
+            "fought_between": "Aurangzeb and Dara Shikoh",
+            "significance_and_outcome": "A decisive battle in the Mughal war of succession. Aurangzeb won, leading to his capture of the Mughal throne."
+        }
+    ],
+    "modern_battles_and_british_era": [
+        {
+            "battle_name": "Battle of Karnal",
+            "year": "1739",
+            "fought_between": "Nader Shah of Persia and Mughal Emperor Muhammad Shah",
+            "significance_and_outcome": "Nader Shah crushed the Mughal army, sacked Delhi, and looted the Peacock Throne and Koh-i-Noor diamond."
+        },
+        {
+            "battle_name": "Battle of Colachel",
+            "year": "1741",
+            "fought_between": "Kingdom of Travancore (Marthanda Varma) and the Dutch East India Company",
+            "significance_and_outcome": "Travancore decisively defeated the Dutch, effectively ending Dutch colonial ambitions in India."
+        },
+        {
+            "battle_name": "Battle of Plassey",
+            "year": "1757",
+            "fought_between": "British East India Company (Robert Clive) and Siraj-ud-Daulah",
+            "significance_and_outcome": "Clive won through the betrayal of Mir Jafar. It marked the beginning of British political hegemony in Bengal."
+        },
+        {
+            "battle_name": "Battle of Wandiwash",
+            "year": "1760",
+            "fought_between": "British EIC (Sir Eyre Coote) and French EIC (Comte de Lally)",
+            "significance_and_outcome": "A decisive British victory in the Third Carnatic War, ending French political ambitions in India."
+        },
+        {
+            "battle_name": "Third Battle of Panipat",
+            "year": "1761",
+            "fought_between": "Maratha Empire and Ahmad Shah Abdali (Durrani Empire)",
+            "significance_and_outcome": "Abdali decisively defeated the Marathas, checking Maratha expansion and creating a power vacuum for the British."
+        },
+        {
+            "battle_name": "Battle of Buxar",
+            "year": "1764",
+            "fought_between": "British EIC (Hector Munro) vs. Combined forces of Mir Qasim, Shuja-ud-Daula, and Shah Alam II",
+            "significance_and_outcome": "Decisive British victory leading to the Treaty of Allahabad (1765), granting the EIC Diwani rights (tax collection) over Bengal, Bihar, and Orissa."
+        },
+        {
+            "battle_name": "First Anglo-Mysore War",
+            "year": "1767 - 1769",
+            "fought_between": "British EIC and Hyder Ali of Mysore",
+            "significance_and_outcome": "Hyder Ali defeated the British, forcing them to sign the Treaty of Madras."
+        },
+        {
+            "battle_name": "Second Anglo-Mysore War (Battle of Porto Novo)",
+            "year": "1780 - 1784",
+            "fought_between": "British EIC (Sir Eyre Coote) and Hyder Ali / Tipu Sultan",
+            "significance_and_outcome": "Hyder Ali died during the war. Tipu Sultan continued it, ending in a stalemate and the Treaty of Mangalore."
+        },
+        {
+            "battle_name": "Third Anglo-Mysore War",
+            "year": "1790 - 1792",
+            "fought_between": "British EIC (Lord Cornwallis) and Tipu Sultan",
+            "significance_and_outcome": "Tipu Sultan was defeated and forced to sign the humiliating Treaty of Seringapatam, giving up half his territory."
+        },
+        {
+            "battle_name": "Fourth Anglo-Mysore War",
+            "year": "1799",
+            "fought_between": "British EIC (Lord Wellesley) and Tipu Sultan",
+            "significance_and_outcome": "Decisive British victory. Tipu Sultan was killed defending his capital, Srirangapatna."
+        },
+        {
+            "battle_name": "Battle of Assaye",
+            "year": "1803",
+            "fought_between": "British EIC (Arthur Wellesley) and Maratha Empire (Scindia and Bhonsle)",
+            "significance_and_outcome": "A major battle of the Second Anglo-Maratha War. British won a hard-fought victory, breaking Maratha power in the Deccan."
+        },
+        {
+            "battle_name": "First Anglo-Sikh War (Battle of Sobraon)",
+            "year": "1845 - 1846",
+            "fought_between": "British EIC and Sikh Empire",
+            "significance_and_outcome": "British victory resulting in the Treaty of Lahore. The Sikh Empire had to cede the Jullundur Doab and Kashmir."
+        },
+        {
+            "battle_name": "Second Anglo-Sikh War (Battle of Gujrat)",
+            "year": "1848 - 1849",
+            "fought_between": "British EIC and Sikh Empire",
+            "significance_and_outcome": "Decisive British victory at Gujrat (the 'Battle of Guns') led to the complete annexation of Punjab by Lord Dalhousie."
+        }
+    ],
+    "post_independence_wars": [
+        {
+            "battle_name": "Indo-Pakistani War of 1947–1948 (First Kashmir War)",
+            "year": "1947 - 1948",
+            "fought_between": "India and Pakistan",
+            "significance_and_outcome": "Triggered by tribal militias crossing into Kashmir. Ended with a UN-mediated ceasefire and the establishment of the Ceasefire Line (now Line of Control). Hari Singh signed the Instrument of Accession."
+        },
+        {
+            "battle_name": "Sino-Indian War",
+            "year": "1962",
+            "fought_between": "India and China",
+            "significance_and_outcome": "Fought over border disputes in Aksai Chin and NEFA (Arunachal Pradesh). Ended when China declared a unilateral ceasefire, retaining de facto control of Aksai Chin."
+        },
+        {
+            "battle_name": "Indo-Pakistani War of 1965",
+            "year": "1965",
+            "fought_between": "India and Pakistan",
+            "significance_and_outcome": "Triggered by Pakistan's 'Operation Gibraltar'. Ended in a UN-mandated ceasefire and the signing of the Tashkent Declaration by Lal Bahadur Shastri."
+        },
+        {
+            "battle_name": "Indo-Pakistani War of 1971 (Bangladesh Liberation War)",
+            "year": "1971",
+            "fought_between": "India (along with Mukti Bahini) and Pakistan",
+            "significance_and_outcome": "Decisive Indian victory leading to the surrender of 93,000 Pakistani troops. Resulted in the creation of Bangladesh and the signing of the Shimla Agreement (1972)."
+        },
+        {
+            "battle_name": "Kargil War",
+            "year": "1999",
+            "fought_between": "India and Pakistan",
+            "significance_and_outcome": "Triggered by Pakistani infiltration across the LoC into Kargil. India launched 'Operation Vijay' to recapture the heights. Ended with complete Indian victory (celebrated as Kargil Vijay Diwas on July 26)."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Census 2011 data, including national averages, state/UT extremes, and key demographic facts for Static GK.",
+    "national_averages": [
+        {
+            "metric": "Total Population",
+            "value": "1,210,193,422 (Approx. 1.21 Billion)",
+            "key_fact": "India accounted for 17.5% of the world's population in 2011."
+        },
+        {
+            "metric": "Decadal Growth Rate (2001-2011)",
+            "value": "17.64%",
+            "key_fact": "This was a sharp decline from the 21.54% growth rate recorded in the 1991-2001 census."
+        },
+        {
+            "metric": "Population Density",
+            "value": "382 persons per sq. km",
+            "key_fact": "Increased from 324 persons per sq. km in 2001."
+        },
+        {
+            "metric": "Sex Ratio",
+            "value": "943 females per 1,000 males",
+            "key_fact": "Child Sex Ratio (0-6 years) was much lower at 919 females per 1,000 males."
+        },
+        {
+            "metric": "Literacy Rate (Overall)",
+            "value": "74.04%",
+            "key_fact": "Male literacy was 82.14% and Female literacy was 65.46%."
+        }
+    ],
+    "state_level_highlights": [
+        {
+            "category": "Population",
+            "highest": "Uttar Pradesh (approx. 19.98 Crore)",
+            "lowest": "Sikkim (approx. 6.1 Lakh)"
+        },
+        {
+            "category": "Population Density",
+            "highest": "Bihar (1,106 persons/sq. km)",
+            "lowest": "Arunachal Pradesh (17 persons/sq. km)"
+        },
+        {
+            "category": "Sex Ratio",
+            "highest": "Kerala (1,084 females/1,000 males)",
+            "lowest": "Haryana (879 females/1,000 males)"
+        },
+        {
+            "category": "Literacy Rate",
+            "highest": "Kerala (94.0%)",
+            "lowest": "Bihar (61.8%)"
+        }
+    ],
+    "ut_level_highlights": [
+        {
+            "category": "Population",
+            "highest": "Delhi",
+            "lowest": "Lakshadweep"
+        },
+        {
+            "category": "Population Density",
+            "highest": "Delhi (11,320 persons/sq. km)",
+            "lowest": "Andaman & Nicobar Islands (46 persons/sq. km)"
+        },
+        {
+            "category": "Sex Ratio",
+            "highest": "Puducherry (1,037 females/1,000 males)",
+            "lowest": "Daman & Diu (618 females/1,000 males)"
+        },
+        {
+            "category": "Literacy Rate",
+            "highest": "Lakshadweep (91.8%)",
+            "lowest": "Dadra & Nagar Haveli (76.2%)"
+        }
+    ],
+    "important_miscellaneous_facts": [
+        {
+            "fact_title": "Negative Growth Rate",
+            "description": "Nagaland was the only Indian state to record a negative decadal population growth rate (-0.58%)."
+        },
+        {
+            "fact_title": "Census Motto",
+            "description": "The official slogan or motto for the 2011 Census was 'Our Census, Our Future'."
+        },
+        {
+            "fact_title": "Census Commissioner",
+            "description": "C. Chandramouli was the Registrar General and Census Commissioner of India for the 2011 Census."
+        },
+        {
+            "fact_title": "Most Populous District",
+            "description": "Thane district in Maharashtra was the most populous district in the country."
+        },
+        {
+            "fact_title": "Rural vs Urban Population",
+            "description": "68.8% of the population lived in rural areas, while 31.2% lived in urban areas."
+        }
+    ]
+}

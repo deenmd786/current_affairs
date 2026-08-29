@@ -1,0 +1,41 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Updated India's ranking in major global indices released till mid-2026.",
+    "indexes": [
+        {
+            "index_name": "Henley Passport Index 2026",
+            "released_by": "Henley & Partners",
+            "india_rank": "82",
+            "top_country": "France, Germany, Italy, Japan, Singapore, Spain",
+            "status": "Active"
+        },
+        {
+            "index_name": "World Press Freedom Index 2026",
+            "released_by": "Reporters Without Borders (RSF)",
+            "india_rank": "159",
+            "top_country": "Norway",
+            "status": "Active"
+        },
+        {
+            "index_name": "Global Hunger Index (GHI) 2025-26",
+            "released_by": "Concern Worldwide and Welthungerhilfe",
+            "india_rank": "111",
+            "top_country": "Belarus, Bosnia and Herzegovina (Joint Top)",
+            "status": "Active"
+        },
+        {
+            "index_name": "Human Development Index (HDI) 2025-26",
+            "released_by": "United Nations Development Programme (UNDP)",
+            "india_rank": "134",
+            "top_country": "Switzerland",
+            "status": "Active"
+        },
+        {
+            "index_name": "Global Innovation Index 2025-26",
+            "released_by": "World Intellectual Property Organization (WIPO)",
+            "india_rank": "40",
+            "top_country": "Switzerland",
+            "status": "Active"
+        }
+    ]
+}

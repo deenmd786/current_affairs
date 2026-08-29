@@ -1,0 +1,110 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of the major sources and borrowed features of the Indian Constitution for Polity Static GK.",
+    "sources_of_constitution": [
+        {
+            "source": "Government of India Act 1935",
+            "borrowed_features": [
+                "Federal Scheme",
+                "Office of Governor",
+                "Judiciary framework",
+                "Public Service Commissions (UPSC/SPSC)",
+                "Emergency provisions",
+                "Administrative details"
+            ],
+            "key_fact": "Considered the primary blueprint of the Indian Constitution; roughly 75% of the Constitution's text is directly derived from this Act."
+        },
+        {
+            "source": "British Constitution (UK)",
+            "borrowed_features": [
+                "Parliamentary Government",
+                "Rule of Law",
+                "Legislative Procedure",
+                "Single Citizenship",
+                "Cabinet System",
+                "Prerogative Writs",
+                "Parliamentary Privileges",
+                "Bicameralism"
+            ],
+            "key_fact": "Provided the foundational administrative and parliamentary framework, heavily influencing the relationship between the Executive and the Legislature."
+        },
+        {
+            "source": "US Constitution",
+            "borrowed_features": [
+                "Fundamental Rights",
+                "Independence of Judiciary",
+                "Judicial Review",
+                "Impeachment of the President",
+                "Removal of Supreme Court and High Court judges",
+                "Post of Vice-President"
+            ],
+            "key_fact": "The concept of an independent judiciary with the power to strike down unconstitutional laws (Judicial Review) is the most significant borrowing from the USA."
+        },
+        {
+            "source": "Irish Constitution",
+            "borrowed_features": [
+                "Directive Principles of State Policy (DPSP)",
+                "Nomination of members to Rajya Sabha",
+                "Method of election of the President"
+            ],
+            "key_fact": "The concept of DPSP was initially borrowed by Ireland from the Spanish Constitution before India adapted it."
+        },
+        {
+            "source": "Canadian Constitution",
+            "borrowed_features": [
+                "Federation with a strong Centre",
+                "Vesting of residuary powers in the Centre",
+                "Appointment of state governors by the Centre",
+                "Advisory jurisdiction of the Supreme Court"
+            ],
+            "key_fact": "India's quasi-federal structure, which leans heavily toward a powerful Central government, is a direct adoption of the Canadian model."
+        },
+        {
+            "source": "Australian Constitution",
+            "borrowed_features": [
+                "Concurrent List",
+                "Freedom of trade, commerce and intercourse",
+                "Joint sitting of the two Houses of Parliament"
+            ],
+            "key_fact": "The Concurrent List ensures both the Centre and States can legislate on key subjects, resolving deadlocks via joint sittings."
+        },
+        {
+            "source": "Weimar Constitution (Germany)",
+            "borrowed_features": [
+                "Suspension of Fundamental Rights during Emergency"
+            ],
+            "key_fact": "Often confused with general Emergency provisions (which come from the 1935 Act). Germany specifically inspired the *suspension of rights* during emergencies."
+        },
+        {
+            "source": "Soviet Constitution (USSR / Russia)",
+            "borrowed_features": [
+                "Fundamental Duties",
+                "Ideal of justice (social, economic, and political) in the Preamble"
+            ],
+            "key_fact": "Fundamental Duties were added later via the 42nd Amendment (1976), drawing direct inspiration from the Soviet model."
+        },
+        {
+            "source": "French Constitution",
+            "borrowed_features": [
+                "Republic",
+                "Ideals of Liberty, Equality, and Fraternity in the Preamble"
+            ],
+            "key_fact": "These ideals were the famous slogans of the French Revolution (1789-1799)."
+        },
+        {
+            "source": "South African Constitution",
+            "borrowed_features": [
+                "Procedure for amendment of the Constitution",
+                "Election of members of Rajya Sabha"
+            ],
+            "key_fact": "Provided the framework for Article 368, balancing flexibility and rigidity in amending the Constitution."
+        },
+        {
+            "source": "Japanese Constitution",
+            "borrowed_features": [
+                "Procedure established by law"
+            ],
+            "key_fact": "Featured in Article 21, it differs from the American 'Due process of law', heavily guiding how the Indian Supreme Court interprets personal liberty."
+        }
+    ]
+}

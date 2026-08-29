@@ -1,0 +1,106 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency scientific discoveries and technological inventions for Miscellaneous Static GK.",
+    "physics_and_chemistry": [
+        {
+            "invention_or_discovery": "Electron",
+            "inventor_or_discoverer": "J.J. Thomson",
+            "year": "1897",
+            "key_fact": "Discovered using cathode ray tubes. Thomson was awarded the Nobel Prize in Physics in 1906."
+        },
+        {
+            "invention_or_discovery": "Proton",
+            "inventor_or_discoverer": "Ernest Rutherford",
+            "year": "1917",
+            "key_fact": "Though Eugen Goldstein discovered canal rays (positive ions) earlier, Rutherford is credited with naming and formally discovering the proton."
+        },
+        {
+            "invention_or_discovery": "Neutron",
+            "inventor_or_discoverer": "James Chadwick",
+            "year": "1932",
+            "key_fact": "Discovered that this particle had a mass similar to a proton but no electrical charge. Won the Nobel Prize in 1935."
+        },
+        {
+            "invention_or_discovery": "X-Rays",
+            "inventor_or_discoverer": "Wilhelm Conrad Roentgen",
+            "year": "1895",
+            "key_fact": "Accidentally discovered while experimenting with cathode rays. Earned the first-ever Nobel Prize in Physics in 1901."
+        },
+        {
+            "invention_or_discovery": "Radioactivity",
+            "inventor_or_discoverer": "Henri Becquerel",
+            "year": "1896",
+            "key_fact": "Discovered spontaneously emitted radiation from uranium salts. Later expanded upon by Marie and Pierre Curie."
+        },
+        {
+            "invention_or_discovery": "Periodic Table",
+            "inventor_or_discoverer": "Dmitri Mendeleev",
+            "year": "1869",
+            "key_fact": "Organized elements by atomic mass and brilliantly left gaps for undiscovered elements, predicting their properties."
+        }
+    ],
+    "medical_and_biology": [
+        {
+            "invention_or_discovery": "Penicillin",
+            "inventor_or_discoverer": "Alexander Fleming",
+            "year": "1928",
+            "key_fact": "The world's first widely effective antibiotic, discovered accidentally from a mold called Penicillium notatum."
+        },
+        {
+            "invention_or_discovery": "Smallpox Vaccine",
+            "inventor_or_discoverer": "Edward Jenner",
+            "year": "1796",
+            "key_fact": "The world's first vaccine. Jenner used cowpox material to create immunity to smallpox."
+        },
+        {
+            "invention_or_discovery": "Polio Vaccine",
+            "inventor_or_discoverer": "Jonas Salk (Inactivated) / Albert Sabin (Oral)",
+            "year": "1955 (Salk) / 1961 (Sabin)",
+            "key_fact": "Salk developed the first safe and effective injectable vaccine. Sabin later developed the oral drop vaccine used globally today."
+        },
+        {
+            "invention_or_discovery": "Blood Groups (ABO System)",
+            "inventor_or_discoverer": "Karl Landsteiner",
+            "year": "1900",
+            "key_fact": "Made blood transfusions safe by classifying human blood into A, B, AB, and O groups."
+        },
+        {
+            "invention_or_discovery": "Structure of DNA",
+            "inventor_or_discoverer": "James Watson and Francis Crick",
+            "year": "1953",
+            "key_fact": "Identified the double-helix structure of DNA, relying heavily on X-ray diffraction images taken by Rosalind Franklin."
+        }
+    ],
+    "technology_and_everyday_inventions": [
+        {
+            "invention_or_discovery": "Telephone",
+            "inventor_or_discoverer": "Alexander Graham Bell",
+            "year": "1876",
+            "key_fact": "Awarded the first US patent for the telephone. His first words were 'Mr. Watson, come here, I want to see you'."
+        },
+        {
+            "invention_or_discovery": "Incandescent Light Bulb",
+            "inventor_or_discoverer": "Thomas Alva Edison",
+            "year": "1879",
+            "key_fact": "Did not invent the first electric light, but created the first commercially practical, long-lasting incandescent bulb."
+        },
+        {
+            "invention_or_discovery": "Television",
+            "inventor_or_discoverer": "John Logie Baird",
+            "year": "1925",
+            "key_fact": "Demonstrated the world's first working mechanical television system."
+        },
+        {
+            "invention_or_discovery": "Airplane",
+            "inventor_or_discoverer": "Orville and Wilbur Wright (Wright Brothers)",
+            "year": "1903",
+            "key_fact": "Achieved the first successful, sustained, and controlled heavier-than-air powered flight at Kitty Hawk, North Carolina."
+        },
+        {
+            "invention_or_discovery": "World Wide Web (WWW)",
+            "inventor_or_discoverer": "Tim Berners-Lee",
+            "year": "1989",
+            "key_fact": "Invented while working at CERN to help scientists share data globally. He created the first web browser and web server."
+        }
+    ]
+}

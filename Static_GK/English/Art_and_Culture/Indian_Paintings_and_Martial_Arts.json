@@ -1,0 +1,103 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Comprehensive expansion of traditional Indian paintings and regional martial arts, including Pichhwai and Sqay, for Art & Culture Static GK.",
+    "indian_paintings": [
+        {
+            "painting_style": "Madhubani (Mithila) Art",
+            "state_of_origin": "Bihar",
+            "key_features": "Created using fingers, twigs, brushes, and matchsticks with natural dyes. Characterized by eye-catching geometrical patterns and themes of Hindu deities (Rama, Krishna, Shiva)."
+        },
+        {
+            "painting_style": "Warli Painting",
+            "state_of_origin": "Maharashtra",
+            "key_features": "Tribal art created mostly by women. Uses basic geometric shapes (circles, triangles, squares) to depict daily life and nature. Traditionally painted white on a red ochre background."
+        },
+        {
+            "painting_style": "Pattachitra",
+            "state_of_origin": "Odisha",
+            "key_features": "Traditional cloth-based scroll painting. Known for intricate details and mythological narratives, primarily revolving around Lord Jagannath and the Vaishnava sect."
+        },
+        {
+            "painting_style": "Kalamkari",
+            "state_of_origin": "Andhra Pradesh",
+            "key_features": "Literally means 'pen work'. It is a type of hand-painted or block-printed cotton textile produced using only natural dyes. Two main styles: Srikalahasti and Machilipatnam."
+        },
+        {
+            "painting_style": "Tanjore (Thanjavur) Painting",
+            "state_of_origin": "Tamil Nadu",
+            "key_features": "Celebrated for its rich, flat, and vivid colors, simple iconic composition, and surface richness. Uniquely uses 22-carat gold foil, glass beads, and semi-precious stones."
+        },
+        {
+            "painting_style": "Phad Painting",
+            "state_of_origin": "Rajasthan",
+            "key_features": "A religious scroll painting and folk deity art. Traditionally done on a long piece of cloth (phad) to depict the epics of local deities like Pabuji and Devnarayan."
+        },
+        {
+            "painting_style": "Pichhwai",
+            "state_of_origin": "Rajasthan (Nathdwara)",
+            "key_features": "Intricate and visually stunning paintings created on cloth, typically depicting tales from Lord Krishna's life, especially as Shrinathji. Used as backdrops in temples."
+        },
+        {
+            "painting_style": "Gond Art",
+            "state_of_origin": "Madhya Pradesh",
+            "key_features": "Practiced by the Gond tribe. Characterized by a sense of movement created through intricate dots, lines, and dashes. Focuses heavily on flora and fauna."
+        },
+        {
+            "painting_style": "Kalighat Painting",
+            "state_of_origin": "West Bengal",
+            "key_features": "Originated in the 19th century around the Kalighat Kali Temple in Kolkata. Known for bold outlines and vibrant colors, often depicting both mythological stories and satirical social commentary."
+        },
+        {
+            "painting_style": "Thangka",
+            "state_of_origin": "Sikkim, Ladakh, Arunachal Pradesh",
+            "key_features": "A Tibetan Buddhist painting on cotton or silk appliqué, usually depicting a Buddhist deity, scene, or mandala. Highly prominent in Himalayan states."
+        }
+    ],
+    "indian_martial_arts": [
+        {
+            "martial_art": "Kalaripayattu",
+            "state_of_origin": "Kerala",
+            "key_features": "Considered one of the oldest surviving martial arts in the world. Incorporates strikes, kicks, grappling, preset forms, and weaponry (swords, shields, flexible swords called Urumi)."
+        },
+        {
+            "martial_art": "Gatka",
+            "state_of_origin": "Punjab",
+            "key_features": "A traditional martial art associated with the Sikh community. It is a weapon-based martial art primarily using wooden sticks to simulate swords."
+        },
+        {
+            "martial_art": "Thang-Ta (Huyen Langlon)",
+            "state_of_origin": "Manipur",
+            "key_features": "Translates to 'Sword and Spear'. An armed martial art that integrates various external weapons with the internal practice of physical control through rhythmic movements."
+        },
+        {
+            "martial_art": "Mallakhamb",
+            "state_of_origin": "Madhya Pradesh and Maharashtra",
+            "key_features": "A traditional sport in which a gymnast performs aerial yoga or gymnastic postures and wrestling grips in concert with a vertical stationary or hanging wooden pole. (State sport of MP)."
+        },
+        {
+            "martial_art": "Silambam",
+            "state_of_origin": "Tamil Nadu",
+            "key_features": "A weapon-based martial art primarily using a bamboo staff (Silambam). It emphasizes footwork and the use of the staff to strike, block, and disarm opponents."
+        },
+        {
+            "martial_art": "Pari-Khanda",
+            "state_of_origin": "Bihar",
+            "key_features": "Created by Rajputs, 'Pari' means shield and 'Khanda' means sword. Its steps and techniques are widely used in the famous Chhau dance."
+        },
+        {
+            "martial_art": "Mardaani Khel",
+            "state_of_origin": "Maharashtra",
+            "key_features": "An armed method of martial art created by the Marathas. Particularly known for its use of the uniquely Indian patta (sword) and vita (corded lance)."
+        },
+        {
+            "martial_art": "Musti Yuddha",
+            "state_of_origin": "Uttar Pradesh (Varanasi)",
+            "key_features": "An ancient, unarmed, bare-knuckle martial art from the Indian subcontinent, resembling modern kickboxing and incorporating punches, kicks, knees, and elbow strikes."
+        },
+        {
+            "martial_art": "Sqay",
+            "state_of_origin": "Jammu and Kashmir",
+            "key_features": "A martial art developed in Kashmir utilizing a single-edged synthetic sword paired with a shield, focusing on precise strikes and defensive maneuvers."
+        }
+    ]
+}

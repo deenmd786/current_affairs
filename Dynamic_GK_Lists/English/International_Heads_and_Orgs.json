@@ -1,0 +1,64 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline Initialization of Major International Organizations and Heads of State for the 2026 Exam Cycle.",
+    "organizations": [
+        {
+            "organization": "United Nations (UN)",
+            "head_designation": "Secretary-General",
+            "name": "António Guterres",
+            "headquarters": "New York, USA"
+        },
+        {
+            "organization": "World Bank Group (WBG)",
+            "head_designation": "President",
+            "name": "Ajay Banga",
+            "headquarters": "Washington D.C., USA"
+        },
+        {
+            "organization": "International Monetary Fund (IMF)",
+            "head_designation": "Managing Director",
+            "name": "Kristalina Georgieva",
+            "headquarters": "Washington D.C., USA"
+        },
+        {
+            "organization": "World Trade Organization (WTO)",
+            "head_designation": "Director-General",
+            "name": "Ngozi Okonjo-Iweala",
+            "headquarters": "Geneva, Switzerland"
+        },
+        {
+            "organization": "World Health Organization (WHO)",
+            "head_designation": "Director-General",
+            "name": "Tedros Adhanom Ghebreyesus",
+            "headquarters": "Geneva, Switzerland"
+        },
+        {
+            "organization": "Asian Development Bank (ADB)",
+            "head_designation": "President",
+            "name": "Masatsugu Asakawa",
+            "headquarters": "Manila, Philippines"
+        }
+    ],
+    "major_countries": [
+        {
+            "country": "United States of America",
+            "head_designation": "President",
+            "name": "Donald Trump"
+        },
+        {
+            "country": "United Kingdom",
+            "head_designation": "Prime Minister",
+            "name": "Keir Starmer"
+        },
+        {
+            "country": "France",
+            "head_designation": "President",
+            "name": "Emmanuel Macron"
+        },
+        {
+            "country": "Russia",
+            "head_designation": "President",
+            "name": "Vladimir Putin"
+        }
+    ]
+}

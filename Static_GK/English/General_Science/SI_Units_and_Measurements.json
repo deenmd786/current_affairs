@@ -1,0 +1,286 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of SI units, derived units, practical units, astronomical units, and common measurement conversions.",
+    "base_si_units": [
+        {
+            "physical_quantity": "Length",
+            "si_unit": "Meter",
+            "symbol": "m"
+        },
+        {
+            "physical_quantity": "Mass",
+            "si_unit": "Kilogram",
+            "symbol": "kg"
+        },
+        {
+            "physical_quantity": "Time",
+            "si_unit": "Second",
+            "symbol": "s"
+        },
+        {
+            "physical_quantity": "Electric Current",
+            "si_unit": "Ampere",
+            "symbol": "A"
+        },
+        {
+            "physical_quantity": "Thermodynamic Temperature",
+            "si_unit": "Kelvin",
+            "symbol": "K"
+        },
+        {
+            "physical_quantity": "Amount of Substance",
+            "si_unit": "Mole",
+            "symbol": "mol"
+        },
+        {
+            "physical_quantity": "Luminous Intensity",
+            "si_unit": "Candela",
+            "symbol": "cd"
+        }
+    ],
+    "common_derived_si_units": [
+        {
+            "quantity": "Area",
+            "unit": "Square Meter",
+            "symbol": "m²"
+        },
+        {
+            "quantity": "Volume",
+            "unit": "Cubic Meter",
+            "symbol": "m³"
+        },
+        {
+            "quantity": "Velocity",
+            "unit": "Meter per Second",
+            "symbol": "m/s"
+        },
+        {
+            "quantity": "Acceleration",
+            "unit": "Meter per Second Squared",
+            "symbol": "m/s²"
+        },
+        {
+            "quantity": "Force",
+            "unit": "Newton",
+            "symbol": "N"
+        },
+        {
+            "quantity": "Pressure",
+            "unit": "Pascal",
+            "symbol": "Pa"
+        },
+        {
+            "quantity": "Work / Energy",
+            "unit": "Joule",
+            "symbol": "J"
+        },
+        {
+            "quantity": "Power",
+            "unit": "Watt",
+            "symbol": "W"
+        },
+        {
+            "quantity": "Electric Charge",
+            "unit": "Coulomb",
+            "symbol": "C"
+        },
+        {
+            "quantity": "Potential Difference",
+            "unit": "Volt",
+            "symbol": "V"
+        },
+        {
+            "quantity": "Resistance",
+            "unit": "Ohm",
+            "symbol": "Ω"
+        },
+        {
+            "quantity": "Capacitance",
+            "unit": "Farad",
+            "symbol": "F"
+        },
+        {
+            "quantity": "Frequency",
+            "unit": "Hertz",
+            "symbol": "Hz"
+        },
+        {
+            "quantity": "Magnetic Flux Density",
+            "unit": "Tesla",
+            "symbol": "T"
+        }
+    ],
+    "important_metric_prefixes": [
+        {
+            "prefix": "Tera",
+            "symbol": "T",
+            "factor": "10^12"
+        },
+        {
+            "prefix": "Giga",
+            "symbol": "G",
+            "factor": "10^9"
+        },
+        {
+            "prefix": "Mega",
+            "symbol": "M",
+            "factor": "10^6"
+        },
+        {
+            "prefix": "Kilo",
+            "symbol": "k",
+            "factor": "10^3"
+        },
+        {
+            "prefix": "Centi",
+            "symbol": "c",
+            "factor": "10^-2"
+        },
+        {
+            "prefix": "Milli",
+            "symbol": "m",
+            "factor": "10^-3"
+        },
+        {
+            "prefix": "Micro",
+            "symbol": "µ",
+            "factor": "10^-6"
+        },
+        {
+            "prefix": "Nano",
+            "symbol": "n",
+            "factor": "10^-9"
+        }
+    ],
+    "important_practical_units": [
+        {
+            "quantity": "Distance",
+            "unit": "Kilometer",
+            "symbol": "km",
+            "equivalent_si": "1000 m"
+        },
+        {
+            "quantity": "Mass",
+            "unit": "Tonne",
+            "symbol": "t",
+            "equivalent_si": "1000 kg"
+        },
+        {
+            "quantity": "Volume",
+            "unit": "Liter",
+            "symbol": "L",
+            "equivalent_si": "10^-3 m³"
+        },
+        {
+            "quantity": "Energy",
+            "unit": "Electron Volt",
+            "symbol": "eV",
+            "equivalent_si": "1.602 × 10^-19 J"
+        },
+        {
+            "quantity": "Power",
+            "unit": "Horsepower",
+            "symbol": "hp",
+            "equivalent_si": "746 W"
+        }
+    ],
+    "astronomical_units": [
+        {
+            "unit": "Astronomical Unit",
+            "symbol": "AU",
+            "value": "1.496 × 10^11 m"
+        },
+        {
+            "unit": "Light Year",
+            "symbol": "ly",
+            "value": "9.461 × 10^15 m"
+        },
+        {
+            "unit": "Parsec",
+            "symbol": "pc",
+            "value": "3.086 × 10^16 m"
+        }
+    ],
+    "important_length_conversions": [
+        {
+            "conversion": "1 km",
+            "equals": "1000 m"
+        },
+        {
+            "conversion": "1 m",
+            "equals": "100 cm"
+        },
+        {
+            "conversion": "1 cm",
+            "equals": "10 mm"
+        }
+    ],
+    "important_mass_conversions": [
+        {
+            "conversion": "1 tonne",
+            "equals": "1000 kg"
+        },
+        {
+            "conversion": "1 kg",
+            "equals": "1000 g"
+        },
+        {
+            "conversion": "1 g",
+            "equals": "1000 mg"
+        }
+    ],
+    "important_time_conversions": [
+        {
+            "conversion": "1 minute",
+            "equals": "60 seconds"
+        },
+        {
+            "conversion": "1 hour",
+            "equals": "60 minutes"
+        },
+        {
+            "conversion": "1 day",
+            "equals": "24 hours"
+        },
+        {
+            "conversion": "1 year",
+            "equals": "365 days"
+        }
+    ],
+    "temperature_scales": [
+        {
+            "conversion": "Celsius to Fahrenheit",
+            "formula": "F = (9/5)C + 32"
+        },
+        {
+            "conversion": "Fahrenheit to Celsius",
+            "formula": "C = (F - 32) × 5/9"
+        },
+        {
+            "conversion": "Celsius to Kelvin",
+            "formula": "K = C + 273.15"
+        }
+    ],
+    "important_scientific_constants": [
+        {
+            "constant": "Speed of Light",
+            "symbol": "c",
+            "value": "3 × 10^8 m/s"
+        },
+        {
+            "constant": "Gravitational Constant",
+            "symbol": "G",
+            "value": "6.67 × 10^-11 N·m²/kg²"
+        },
+        {
+            "constant": "Avogadro Number",
+            "symbol": "NA",
+            "value": "6.022 × 10^23 mol^-1"
+        },
+        {
+            "constant": "Planck Constant",
+            "symbol": "h",
+            "value": "6.626 × 10^-34 J·s"
+        }
+    ]
+}

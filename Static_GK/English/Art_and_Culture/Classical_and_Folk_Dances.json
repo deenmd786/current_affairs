@@ -1,0 +1,338 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Complete exhaustive baseline of 8 Classical Dances and major high-frequency State Folk Dances for Static GK.",
+    "classical_dances": [
+        {
+            "dance_form": "Bharatanatyam",
+            "origin_state": "Tamil Nadu",
+            "key_features": "Oldest classical dance tradition in India; traditionally performed by Devadasis in temples; based on Natya Shastra.",
+            "famous_exponents": [
+                "Rukmini Devi Arundale",
+                "Padma Subrahmanyam",
+                "Mallika Sarabhai"
+            ]
+        },
+        {
+            "dance_form": "Kathak",
+            "origin_state": "Uttar Pradesh",
+            "key_features": "Derived from the word 'Katha' (storytellers); characterized by intricate footwork, rapid spins (Chakkars), and jugalbandi with the tabla.",
+            "famous_exponents": [
+                "Birju Maharaj",
+                "Lachhu Maharaj",
+                "Sitara Devi"
+            ]
+        },
+        {
+            "dance_form": "Kathakali",
+            "origin_state": "Kerala",
+            "key_features": "Stylized storytelling dance-drama; famous for heavy, elaborate face makeup, colored costumes, and intense facial expressions.",
+            "famous_exponents": [
+                "Kalamandalam Gopi",
+                "Kottakkal Sivaraman"
+            ]
+        },
+        {
+            "dance_form": "Kuchipudi",
+            "origin_state": "Andhra Pradesh",
+            "key_features": "Originated in Kuchipudi village; involves both singing and dancing; features 'Tarangam' where the dancer performs on the edge of a brass plate.",
+            "famous_exponents": [
+                "Vempati Chinna Satyam",
+                "Raja and Radha Reddy"
+            ]
+        },
+        {
+            "dance_form": "Manipuri",
+            "origin_state": "Manipur",
+            "key_features": "Centered around Vaishnavism and Radha-Krishna 'Raslila'; movements are fluid and gentle; dancers wear a unique barrel-shaped skirt (Kumil).",
+            "famous_exponents": [
+                "Guru Bipin Singh",
+                "Jhaveri Sisters (Darshana, Ranjana, Suverna)"
+            ]
+        },
+        {
+            "dance_form": "Mohiniyattam",
+            "origin_state": "Kerala",
+            "key_features": "Dance of the 'Enchantress' (Mohini); solo dance performed by women; characterized by gentle, swaying movements and white/off-white sarees with gold borders.",
+            "famous_exponents": [
+                "Kanak Rele",
+                "Sunanda Nair",
+                "Kalamandalam Kalyanikutty Amma"
+            ]
+        },
+        {
+            "dance_form": "Odissi",
+            "origin_state": "Odisha",
+            "key_features": "Originated in the temples of Odisha (Maharis); heavily relies on the 'Tribhanga' posture (three-bend break of the body) and 'Chowk' position.",
+            "famous_exponents": [
+                "Kelucharan Mohapatra",
+                "Sonal Mansingh",
+                "Madhavi Mudgal"
+            ]
+        },
+        {
+            "dance_form": "Sattriya",
+            "origin_state": "Assam",
+            "key_features": "Introduced by the great Vaishnavite saint Srimanta Sankardev in the 15th century CE; traditionally performed in 'Sattras' (monasteries).",
+            "famous_exponents": [
+                "Bayanbayan Borbayan",
+                "Sharodi Saikia"
+            ]
+        }
+    ],
+    "state_folk_dances": [
+        {
+            "state": "Assam",
+            "dances": [
+                "Bihu",
+                "Bagurumba",
+                "Bhortal",
+                "Jhumur"
+            ]
+        },
+        {
+            "state": "Gujarat",
+            "dances": [
+                "Garba",
+                "Dandiya Raas",
+                "Bhavai",
+                "Tippani"
+            ]
+        },
+        {
+            "state": "Punjab",
+            "dances": [
+                "Bhangra",
+                "Giddha",
+                "Jhumar",
+                "Kikli"
+            ]
+        },
+        {
+            "state": "Rajasthan",
+            "dances": [
+                "Ghoomar",
+                "Kalbelia",
+                "Chari",
+                "Kachhi Ghori",
+                "Bhavai"
+            ]
+        },
+        {
+            "state": "Maharashtra",
+            "dances": [
+                "Lavani",
+                "Koli",
+                "Dhangari Gaja",
+                "Povadas"
+            ]
+        },
+        {
+            "state": "West Bengal",
+            "dances": [
+                "Chhau (Purulia)",
+                "Gambhira",
+                "Dhali",
+                "Baul"
+            ]
+        },
+        {
+            "state": "Jammu & Kashmir",
+            "dances": [
+                "Rouf",
+                "Hikat",
+                "Kud Dance",
+                "Dumhal"
+            ]
+        },
+        {
+            "state": "Karnataka",
+            "dances": [
+                "Yakshagana",
+                "Dollu Kunitha",
+                "Huttari"
+            ]
+        },
+        {
+            "state": "Kerala",
+            "dances": [
+                "Padayani",
+                "Oppana",
+                "Margamkali",
+                "Theiyam"
+            ]
+        },
+        {
+            "state": "Madhya Pradesh",
+            "dances": [
+                "Matki",
+                "Jawara",
+                "Maanch",
+                "Gritta"
+            ]
+        },
+        {
+            "state": "Uttar Pradesh",
+            "dances": [
+                "Raslila",
+                "Charkula",
+                "Nautanki",
+                "Kajri"
+            ]
+        },
+        {
+            "state": "Odisha",
+            "dances": [
+                "Ghumura",
+                "Ranappa",
+                "Chhau (Mayurbhanj)",
+                "Sambalpuri"
+            ]
+        },
+        {
+            "state": "Tamil Nadu",
+            "dances": [
+                "Karagattam",
+                "Kavadi Attam",
+                "Kummi",
+                "Mayil Attam"
+            ]
+        },
+        {
+            "state": "Telangana",
+            "dances": [
+                "Perini Sivatandavam",
+                "Lambadi",
+                "Dappu"
+            ]
+        },
+        {
+            "state": "Andhra Pradesh",
+            "dances": [
+                "Vilasini Natyam",
+                "Bhamakalapam",
+                "Dhimsa",
+                "Veeranatyam"
+            ]
+        },
+        {
+            "state": "Bihar",
+            "dances": [
+                "Jat-Jatin",
+                "Bidesia",
+                "Jhijhiya",
+                "Kajari"
+            ]
+        },
+        {
+            "state": "Chhattisgarh",
+            "dances": [
+                "Raut Nacha",
+                "Panthi",
+                "Karma",
+                "Saila"
+            ]
+        },
+        {
+            "state": "Haryana",
+            "dances": [
+                "Phag",
+                "Daph",
+                "Ghoomar",
+                "Dhamal",
+                "Loor"
+            ]
+        },
+        {
+            "state": "Himachal Pradesh",
+            "dances": [
+                "Nati",
+                "Dangi",
+                "Chham Dance",
+                "Jhora"
+            ]
+        },
+        {
+            "state": "Jharkhand",
+            "dances": [
+                "Chhau (Seraikella)",
+                "Jhumair",
+                "Domkach",
+                "Fagua"
+            ]
+        },
+        {
+            "state": "Goa",
+            "dances": [
+                "Fugdi",
+                "Dhalo",
+                "Dekhni",
+                "Sigmo"
+            ]
+        },
+        {
+            "state": "Mizoram",
+            "dances": [
+                "Cheraw (Bamboo Dance)",
+                "Khuallam",
+                "Chheihlam"
+            ]
+        },
+        {
+            "state": "Nagaland",
+            "dances": [
+                "Chang Lo (Sua Lua)",
+                "Zeliang",
+                "Bamboo Dance"
+            ]
+        },
+        {
+            "state": "Meghalaya",
+            "dances": [
+                "Ka Shad Suk Mynsiem",
+                "Nongkrem",
+                "Laho"
+            ]
+        },
+        {
+            "state": "Tripura",
+            "dances": [
+                "Hojagiri",
+                "Garia",
+                "Lebang Boomani"
+            ]
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "dances": [
+                "Bardo Chham",
+                "Buiya",
+                "Wancho"
+            ]
+        },
+        {
+            "state": "Manipur",
+            "dances": [
+                "Thang-Ta (Martial Art)",
+                "Pung Cholom",
+                "Lai Haraoba"
+            ]
+        },
+        {
+            "state": "Sikkim",
+            "dances": [
+                "Singhi Chham (Snow Lion)",
+                "Yak Chham",
+                "Maruni"
+            ]
+        },
+        {
+            "state": "Uttarakhand",
+            "dances": [
+                "Choliya",
+                "Barada Nati",
+                "Garhwali",
+                "Kumaoni"
+            ]
+        }
+    ]
+}

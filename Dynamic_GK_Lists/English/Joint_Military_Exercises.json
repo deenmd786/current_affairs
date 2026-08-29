@@ -1,0 +1,58 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Compiled list of bilateral and multilateral military exercises involving India for the 2026 cycle.",
+    "exercises": [
+        {
+            "exercise_name": "Yudh Abhyas",
+            "participating_countries": [
+                "India",
+                "USA"
+            ],
+            "type": "Army",
+            "latest_edition_year": "2025",
+            "location": "Alaska, USA"
+        },
+        {
+            "exercise_name": "Malabar",
+            "participating_countries": [
+                "India",
+                "USA",
+                "Japan",
+                "Australia"
+            ],
+            "type": "Navy",
+            "latest_edition_year": "2025",
+            "location": "East Coast of Australia"
+        },
+        {
+            "exercise_name": "Surya Kiran",
+            "participating_countries": [
+                "India",
+                "Nepal"
+            ],
+            "type": "Army",
+            "latest_edition_year": "2025",
+            "location": "Pithoragarh, Uttarakhand"
+        },
+        {
+            "exercise_name": "Mitra Shakti",
+            "participating_countries": [
+                "India",
+                "Sri Lanka"
+            ],
+            "type": "Army",
+            "latest_edition_year": "2025",
+            "location": "Pune, Maharashtra"
+        },
+        {
+            "exercise_name": "Garuda Shakti",
+            "participating_countries": [
+                "India",
+                "Indonesia"
+            ],
+            "type": "Special Forces",
+            "latest_edition_year": "2025",
+            "location": "Jakarta, Indonesia"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Compiled list of upcoming major sports mega-event venues and recent grand slam/world cup champions for the 2026 cycle.",
+    "upcoming_venues": [
+        {
+            "event_name": "2026 FIFA World Cup",
+            "year": 2026,
+            "host_location": "USA, Canada, and Mexico",
+            "status": "Scheduled"
+        },
+        {
+            "event_name": "2026 Winter Olympics",
+            "year": 2026,
+            "host_location": "Milano-Cortina, Italy",
+            "status": "Scheduled"
+        },
+        {
+            "event_name": "2026 ICC Men's T20 World Cup",
+            "year": 2026,
+            "host_location": "India and Sri Lanka",
+            "status": "Scheduled"
+        },
+        {
+            "event_name": "2026 Asian Games",
+            "year": 2026,
+            "host_location": "Aichi-Nagoya, Japan",
+            "status": "Scheduled"
+        },
+        {
+            "event_name": "2026 Commonwealth Games",
+            "year": 2026,
+            "host_location": "Glasgow, Scotland",
+            "status": "Scheduled"
+        },
+        {
+            "event_name": "2027 ICC Men's Cricket World Cup",
+            "year": 2027,
+            "host_location": "South Africa, Zimbabwe, and Namibia",
+            "status": "Scheduled"
+        }
+    ],
+    "recent_champions": [
+        {
+            "tournament": "ICC Men's T20 World Cup",
+            "category": "Men's Cricket",
+            "champion": "India",
+            "year_won": 2024
+        },
+        {
+            "tournament": "FIFA World Cup",
+            "category": "Men's Football",
+            "champion": "Argentina",
+            "year_won": 2022
+        },
+        {
+            "tournament": "Australian Open",
+            "category": "Men's Singles Tennis",
+            "champion": "Jannik Sinner",
+            "year_won": 2024
+        },
+        {
+            "tournament": "Australian Open",
+            "category": "Women's Singles Tennis",
+            "champion": "Aryna Sabalenka",
+            "year_won": 2024
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of India's Five-Year Plans, their underlying models, and high-frequency historical milestones for Economics Static GK.",
+    "five_year_plans": [
+        {
+            "plan_number": "First Five-Year Plan",
+            "duration": "1951 - 1956",
+            "model": "Harrod-Domar Model",
+            "focus_area": "Agriculture, price stability, power, and transport",
+            "key_events": "Successful plan. Five IITs were started. Major irrigation projects like Bhakra-Nangal, Hirakud, and Mettur dams were initiated."
+        },
+        {
+            "plan_number": "Second Five-Year Plan",
+            "duration": "1956 - 1961",
+            "model": "Mahalanobis Model",
+            "focus_area": "Rapid Industrialization and Heavy Industries",
+            "key_events": "Establishment of major steel plants at Durgapur, Bhilai, and Rourkela with foreign assistance. Tata Institute of Fundamental Research (TIFR) was established."
+        },
+        {
+            "plan_number": "Third Five-Year Plan",
+            "duration": "1961 - 1966",
+            "model": "Gadgil Yojana",
+            "focus_area": "Agriculture and making the economy self-reliant",
+            "key_events": "A massive failure due to the Sino-Indian War (1962), Indo-Pak War (1965), and severe drought (1965). Led to the declaration of 'Plan Holidays' (1966-1969)."
+        },
+        {
+            "plan_number": "Fourth Five-Year Plan",
+            "duration": "1969 - 1974",
+            "model": "Ashok Rudra / A.S. Manne Model (Often associated with Gadgil formula)",
+            "focus_area": "Growth with stability and progressive achievement of self-reliance",
+            "key_events": "Indira Gandhi nationalized 14 major Indian banks (1969). The Green Revolution advanced significantly. Indo-Pak War of 1971 occurred."
+        },
+        {
+            "plan_number": "Fifth Five-Year Plan",
+            "duration": "1974 - 1978",
+            "model": "D.P. Dhar Model",
+            "focus_area": "Poverty Alleviation ('Garibi Hatao') and Self-reliance",
+            "key_events": "Terminated a year early in 1978 by the newly elected Morarji Desai (Janata Party) government, which introduced the 'Rolling Plan'."
+        },
+        {
+            "plan_number": "Sixth Five-Year Plan",
+            "duration": "1980 - 1985",
+            "model": "Input-Output Model",
+            "focus_area": "Economic liberalization and eliminating poverty",
+            "key_events": "Establishment of NABARD (1982) and EXIM Bank. Family planning was heavily promoted."
+        },
+        {
+            "plan_number": "Seventh Five-Year Plan",
+            "duration": "1985 - 1990",
+            "model": "Vakil and Brahmananda Model (Wage Goods Model)",
+            "focus_area": "Modernization, technology upgrading, and employment generation",
+            "key_events": "Introduction of the Jawahar Rozgar Yojana. Saw a rapid expansion of the private sector."
+        },
+        {
+            "plan_number": "Eighth Five-Year Plan",
+            "duration": "1992 - 1997",
+            "model": "John W. Miller Model",
+            "focus_area": "Human Resource Development (Education, Healthcare) and LPG Reforms",
+            "key_events": "Delayed by two years due to economic instability. Marked the beginning of Liberalization, Privatization, and Globalization (LPG) under P.V. Narasimha Rao and Manmohan Singh. India joined the WTO (1995)."
+        },
+        {
+            "plan_number": "Ninth Five-Year Plan",
+            "duration": "1997 - 2002",
+            "model": "Input-Output model",
+            "focus_area": "Growth with Social Justice and Equality",
+            "key_events": "Launched during India's 50th year of Independence. Pokhran-II nuclear tests occurred. Impacted by the Kargil War and the Asian Financial Crisis."
+        },
+        {
+            "plan_number": "Tenth Five-Year Plan",
+            "duration": "2002 - 2007",
+            "model": "Comprehensive Macro-economic model",
+            "focus_area": "Doubling per capita income and heavily reducing poverty",
+            "key_events": "Highly successful in achieving its growth targets. Focused on universalizing primary education."
+        },
+        {
+            "plan_number": "Eleventh Five-Year Plan",
+            "duration": "2007 - 2012",
+            "model": "C. Rangarajan framework",
+            "focus_area": "Faster and more inclusive growth",
+            "key_events": "Focused on agriculture, education, and skill development. Right to Education (RTE) Act was enacted (2009)."
+        },
+        {
+            "plan_number": "Twelfth Five-Year Plan",
+            "duration": "2012 - 2017",
+            "model": "Macro-economic framework",
+            "focus_area": "Faster, sustainable, and more inclusive growth",
+            "key_events": "The final Five-Year Plan. In 2015, the Planning Commission was replaced by the NITI Aayog."
+        }
+    ]
+}

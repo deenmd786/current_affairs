@@ -1,0 +1,120 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Exhaustive compilation of highly tested Himalayan and Peninsular mountain passes, including connectivity, vital tunnels, and border tri-junctions for Geography Static GK.",
+    "northern_himalayan_passes_jk_and_ladakh": [
+        {
+            "pass_name": "Zoji La",
+            "state_or_ut": "Ladakh",
+            "connects": "Srinagar to Kargil and Leh",
+            "key_fact": "Crucial lifeline to Ladakh. The Z-Morh and Zoji La tunnels are being constructed to provide all-weather connectivity."
+        },
+        {
+            "pass_name": "Banihal Pass",
+            "state_or_ut": "Jammu & Kashmir",
+            "connects": "Jammu to Srinagar",
+            "key_fact": "Located in the Pir Panjal Range. The famous Jawahar Tunnel (inaugurated in 1956) passes under it."
+        },
+        {
+            "pass_name": "Khardung La",
+            "state_or_ut": "Ladakh",
+            "connects": "Leh to Nubra and Shyok Valleys",
+            "key_fact": "Historically known as one of the highest motorable passes in the world (approx 5,359 m)."
+        },
+        {
+            "pass_name": "Umling La",
+            "state_or_ut": "Ladakh",
+            "connects": "Chisumle to Demchok villages",
+            "key_fact": "Officially holds the Guinness World Record for the highest motorable road in the world at 19,024 feet, built by BRO (Project Himank)."
+        },
+        {
+            "pass_name": "Burzil Pass",
+            "state_or_ut": "Jammu & Kashmir",
+            "connects": "Srinagar to Gilgit",
+            "key_fact": "An ancient pass situated on the historic caravan route between Srinagar and Gilgit."
+        }
+    ],
+    "central_himalayan_passes_hp_and_uttarakhand": [
+        {
+            "pass_name": "Rohtang Pass",
+            "state_or_ut": "Himachal Pradesh",
+            "connects": "Kullu Valley to Lahaul and Spiti Valleys",
+            "key_fact": "The 9.02 km long Atal Tunnel (longest highway single-tube tunnel above 10,000 feet) bypasses this pass for year-round connectivity."
+        },
+        {
+            "pass_name": "Shipki La",
+            "state_or_ut": "Himachal Pradesh",
+            "connects": "Kinnaur (HP) to Tibet",
+            "key_fact": "The Sutlej River enters India from Tibet through this pass. It is one of India's major border posts for trade with China."
+        },
+        {
+            "pass_name": "Bara Lacha La",
+            "state_or_ut": "Himachal Pradesh",
+            "connects": "Lahaul district to Ladakh",
+            "key_fact": "Located in the Zanskar range, it connects Manali to Leh. The Chenab river originates near this pass (Bhaga and Chandra rivers)."
+        },
+        {
+            "pass_name": "Lipulekh Pass",
+            "state_or_ut": "Uttarakhand",
+            "connects": "Uttarakhand to Tibet",
+            "key_fact": "A highly strategic border tri-junction between India, Nepal, and China. Used heavily by pilgrims for the Kailash Mansarovar Yatra."
+        },
+        {
+            "pass_name": "Mana Pass and Niti Pass",
+            "state_or_ut": "Uttarakhand",
+            "connects": "Uttarakhand to Tibet",
+            "key_fact": "Mana Pass is located within the Nanda Devi Biosphere Reserve and serves as an ancient trade route to Tibet."
+        }
+    ],
+    "eastern_himalayan_passes_sikkim_and_northeast": [
+        {
+            "pass_name": "Nathu La",
+            "state_or_ut": "Sikkim",
+            "connects": "Sikkim to Tibet",
+            "key_fact": "Formed a branch of the ancient Silk Road. Closed after the 1962 Sino-Indian War and reopened in 2006 to facilitate border trade."
+        },
+        {
+            "pass_name": "Jelep La",
+            "state_or_ut": "Sikkim",
+            "connects": "Sikkim to Tibet",
+            "key_fact": "Passes through the Chumbi Valley. It is relatively more accessible than Nathu La for trade."
+        },
+        {
+            "pass_name": "Bomdi La",
+            "state_or_ut": "Arunachal Pradesh",
+            "connects": "Tawang (Arunachal) to Lhasa (Tibet)",
+            "key_fact": "Highly strategic pass providing the main connectivity between the Tawang Valley and the rest of India."
+        },
+        {
+            "pass_name": "Diphu Pass",
+            "state_or_ut": "Arunachal Pradesh",
+            "connects": "India, China, and Myanmar",
+            "key_fact": "A strategic tri-junction pass at the easternmost point of India (near the McMahon Line)."
+        }
+    ],
+    "peninsular_passes_western_ghats": [
+        {
+            "pass_name": "Thal Ghat (Thul Ghat)",
+            "state_or_ut": "Maharashtra",
+            "connects": "Mumbai to Nashik",
+            "key_fact": "A critical mountain pass in the Western Ghats that provides a route for the busy Mumbai-Kolkata and Mumbai-Delhi railway/highway networks."
+        },
+        {
+            "pass_name": "Bhor Ghat",
+            "state_or_ut": "Maharashtra",
+            "connects": "Mumbai to Pune",
+            "key_fact": "Situated on the crest of the Western Ghats; vital for the Mumbai-Chennai and Mumbai-Bengaluru connectivity."
+        },
+        {
+            "pass_name": "Pal Ghat (Palakkad Gap)",
+            "state_or_ut": "Kerala",
+            "connects": "Coimbatore (Tamil Nadu) to Palakkad (Kerala)",
+            "key_fact": "A major geographic break in the Western Ghats located between the Nilgiri Hills to the north and the Anaimalai Hills to the south."
+        },
+        {
+            "pass_name": "Shencottah Gap",
+            "state_or_ut": "Kerala / Tamil Nadu",
+            "connects": "Madurai (TN) to Kottayam (Kerala)",
+            "key_fact": "Located further south of the Palakkad gap, serving as an essential trade and transport route between the two states."
+        }
+    ]
+}

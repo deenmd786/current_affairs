@@ -1,0 +1,48 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline Initialization of Major Government Schemes and Initiatives for the 2026 Exam Cycle.",
+    "schemes": [
+        {
+            "scheme_name": "PM Surya Ghar Muft Bijli Yojana",
+            "ministry": "Ministry of New and Renewable Energy",
+            "core_objective": "Provide up to 300 units of free electricity every month through rooftop solar setups.",
+            "target_audience": "Residential households",
+            "status": "Active"
+        },
+        {
+            "scheme_name": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan",
+            "ministry": "Ministry of Tribal Affairs",
+            "core_objective": "Comprehensive development and saturation of basic facilities in tribal-majority villages.",
+            "target_audience": "Tribal communities",
+            "status": "Active"
+        },
+        {
+            "scheme_name": "PM Vishwakarma Yojana",
+            "ministry": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+            "core_objective": "End-to-end support, skill enhancement, and credit access for traditional artisans and craftspeople.",
+            "target_audience": "Traditional artisans (18 specified trades)",
+            "status": "Active"
+        },
+        {
+            "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+            "ministry": "Ministry of Health and Family Welfare",
+            "core_objective": "Provide health coverage of ₹5 lakh per family per year for secondary and tertiary care hospitalization. (Recently expanded to all citizens aged 70+).",
+            "target_audience": "Low-income families and senior citizens (70+)",
+            "status": "Active"
+        },
+        {
+            "scheme_name": "PM Schools for Rising India (PM SHRI)",
+            "ministry": "Ministry of Education",
+            "core_objective": "Upgrade and develop existing schools into model schools aligned with National Education Policy (NEP) 2020.",
+            "target_audience": "School students and educators",
+            "status": "Active"
+        },
+        {
+            "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+            "ministry": "Ministry of Agriculture and Farmers Welfare",
+            "core_objective": "Provide income support of ₹6,000 per year in three equal installments to landholding farmer families.",
+            "target_audience": "Small and marginal farmers",
+            "status": "Active"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Exhaustive compilation of 19th and 20th-century socio-religious reform movements in India, categorized by religion and caste reform for History Static GK.",
+    "hindu_reform_movements": [
+        {
+            "movement_name": "Brahmo Samaj",
+            "founder": "Raja Ram Mohan Roy",
+            "year_and_location": "1828, Calcutta",
+            "key_objectives": "Eradication of Sati, purdah system, and child marriage. Promoted monotheism and opposed idol worship. Later split into Adi Brahmo Samaj (Debendranath Tagore) and Brahmo Samaj of India (Keshub Chandra Sen)."
+        },
+        {
+            "movement_name": "Arya Samaj",
+            "founder": "Swami Dayananda Saraswati",
+            "year_and_location": "1875, Bombay (Later shifted to Lahore)",
+            "key_objectives": "Revival of the Vedas with the slogan 'Go back to the Vedas'. Opposed untouchability, polytheism, and idolatry. Started the 'Shuddhi Movement' to reconvert people to Hinduism. (Key Book: Satyarth Prakash)."
+        },
+        {
+            "movement_name": "Ramakrishna Mission",
+            "founder": "Swami Vivekananda",
+            "year_and_location": "1897, Belur Math (Near Calcutta)",
+            "key_objectives": "Based on the teachings of Ramakrishna Paramahamsa. Focused on humanitarian relief, social work, and the Vedantic ideal that 'Service to man is service to God'."
+        },
+        {
+            "movement_name": "Prarthana Samaj",
+            "founder": "Atmaram Pandurang",
+            "year_and_location": "1867, Bombay",
+            "key_objectives": "Heavily influenced by the Brahmo Samaj. Focused on social reforms like widow remarriage, women's education, and abolition of the caste system. M.G. Ranade was its most prominent leader."
+        },
+        {
+            "movement_name": "Theosophical Society",
+            "founder": "Madam H.P. Blavatsky and Col. H.S. Olcott",
+            "year_and_location": "1875 (New York), Shifted to Adyar (Madras) in 1882",
+            "key_objectives": "Promoted universal brotherhood and the study of ancient Hindu, Zoroastrian, and Buddhist philosophies. Annie Besant later became its most famous leader in India."
+        },
+        {
+            "movement_name": "Young Bengal Movement",
+            "founder": "Henry Vivian Derozio",
+            "year_and_location": "1820s-1830s, Calcutta",
+            "key_objectives": "A radical intellectual movement among students of Hindu College. Promoted rational thinking, free speech, and questioning of all religious and social orthodoxies."
+        }
+    ],
+    "caste_based_and_lower_caste_movements": [
+        {
+            "movement_name": "Satyashodhak Samaj (Truth Seekers' Society)",
+            "founder": "Jyotirao Phule",
+            "year_and_location": "1873, Pune (Maharashtra)",
+            "key_objectives": "Aimed to secure human rights and social justice for low-caste people and women. Strongly anti-Brahminical. (Key Book: Gulamgiri)."
+        },
+        {
+            "movement_name": "SNDP Yogam (Sree Narayana Dharma Paripalana Yogam)",
+            "founder": "Sree Narayana Guru",
+            "year_and_location": "1903, Kerala",
+            "key_objectives": "Aimed at the spiritual and social upliftment of the depressed Ezhava community. Famous for the slogan: 'One religion, one caste, one God for mankind'."
+        },
+        {
+            "movement_name": "Self-Respect Movement",
+            "founder": "E.V. Ramasamy Naicker (Periyar)",
+            "year_and_location": "1925, Tamil Nadu",
+            "key_objectives": "Aimed at achieving equal rights for the non-Brahmin castes, promoting rationalism, opposing the caste system, and advocating for women's rights."
+        },
+        {
+            "movement_name": "Bahishkrit Hitakarini Sabha",
+            "founder": "Dr. B.R. Ambedkar",
+            "year_and_location": "1924, Bombay",
+            "key_objectives": "Formed for the moral and material progress of the untouchables. Slogan: 'Educate, Agitate, Organize'."
+        },
+        {
+            "movement_name": "Harijan Sevak Sangh",
+            "founder": "Mahatma Gandhi",
+            "year_and_location": "1932, Pune/Delhi",
+            "key_objectives": "Founded to eradicate untouchability in India, working for the upliftment of Depressed Classes whom Gandhi called 'Harijans' (Children of God)."
+        }
+    ],
+    "muslim_reform_movements": [
+        {
+            "movement_name": "Aligarh Movement",
+            "founder": "Sir Syed Ahmad Khan",
+            "year_and_location": "1875, Aligarh (UP)",
+            "key_objectives": "Aimed at the social, political, and educational upliftment of Indian Muslims through modern Western education. Founded the Muhammadan Anglo-Oriental College (now Aligarh Muslim University)."
+        },
+        {
+            "movement_name": "Deoband Movement",
+            "founder": "Muhammad Qasim Nanautavi and Rashid Ahmad Gangohi",
+            "year_and_location": "1866, Deoband (UP)",
+            "key_objectives": "An orthodox Islamic revivalist movement. Opposed the Aligarh movement's Westernization and focused on traditional Islamic scholarship. It also actively supported the Indian National Congress against the British."
+        },
+        {
+            "movement_name": "Ahmadiyya Movement",
+            "founder": "Mirza Ghulam Ahmad",
+            "year_and_location": "1889, Punjab",
+            "key_objectives": "Described itself as the standard-bearer of a true, liberal Islam. It promoted universal religion of all humanity and opposed Jihad as a sacred war."
+        }
+    ],
+    "sikh_and_parsi_reform_movements": [
+        {
+            "movement_name": "Singh Sabha Movement",
+            "founder": "Thakur Singh Sandhawalia and Giani Gian Singh",
+            "year_and_location": "1873, Amritsar (Punjab)",
+            "key_objectives": "Aimed to restore the purity of Sikhism, counter Christian missionary activities and Hindu revivalists, and promote modern education among Sikhs (led to the founding of Khalsa College)."
+        },
+        {
+            "movement_name": "Akali Movement (Gurdwara Reform Movement)",
+            "founder": "Akali Dal",
+            "year_and_location": "1920s, Punjab",
+            "key_objectives": "An offshoot of the Singh Sabha Movement. Aimed to liberate Sikh Gurdwaras from the control of corrupt Udasin Mahants (priests). Resulted in the Sikh Gurdwaras Act of 1925."
+        },
+        {
+            "movement_name": "Rahnumai Mazdayasan Sabha",
+            "founder": "Naoroji Furdonji, Dadabhai Naoroji, S.S. Bengalee",
+            "year_and_location": "1851, Bombay",
+            "key_objectives": "Aimed at the regeneration of the social condition of the Parsis and the restoration of the Zoroastrian religion to its pristine purity. (Key Journal: Rast Goftar)."
+        }
+    ]
+}

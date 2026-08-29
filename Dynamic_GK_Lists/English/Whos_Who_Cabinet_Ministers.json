@@ -1,0 +1,161 @@
+﻿{
+  "last_updated": "2026-07-05",
+  "update_log": "Verified and maintained baseline of all 30 Union Cabinet Ministers + PM for the 2026 Exam Cycle. No reshuffles recorded.",
+  "ministers": [
+    {
+      "portfolio": "Prime Minister (Personnel, Public Grievances and Pensions, Space, Atomic Energy)",
+      "name": "Narendra Modi",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Defence",
+      "name": "Rajnath Singh",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Home Affairs & Minister of Cooperation",
+      "name": "Amit Shah",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Road Transport and Highways",
+      "name": "Nitin Jairam Gadkari",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Health and Family Welfare & Minister of Chemicals and Fertilizers",
+      "name": "Jagat Prakash Nadda",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Agriculture and Farmers Welfare & Minister of Rural Development",
+      "name": "Shivraj Singh Chouhan",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Finance & Minister of Corporate Affairs",
+      "name": "Nirmala Sitharaman",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of External Affairs",
+      "name": "S. Jaishankar",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Housing and Urban Affairs & Minister of Power",
+      "name": "Manohar Lal Khattar",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Heavy Industries & Minister of Steel",
+      "name": "H. D. Kumaraswamy",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Commerce and Industry",
+      "name": "Piyush Goyal",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Education",
+      "name": "Dharmendra Pradhan",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Micro, Small and Medium Enterprises",
+      "name": "Jitan Ram Manjhi",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Panchayati Raj & Minister of Fisheries, Animal Husbandry and Dairying",
+      "name": "Rajiv Ranjan Singh (Lalan Singh)",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Ports, Shipping and Waterways",
+      "name": "Sarbananda Sonowal",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Social Justice and Empowerment",
+      "name": "Dr. Virendra Kumar Khatik",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Civil Aviation",
+      "name": "Kinjarapu Ram Mohan Naidu",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Consumer Affairs, Food and Public Distribution & Minister of New and Renewable Energy",
+      "name": "Pralhad Joshi",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Tribal Affairs",
+      "name": "Jual Oram",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Textiles",
+      "name": "Giriraj Singh",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Railways, Minister of Information and Broadcasting & Minister of Electronics and Information Technology",
+      "name": "Ashwini Vaishnaw",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Communications & Minister of Development of North Eastern Region",
+      "name": "Jyotiraditya M. Scindia",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Environment, Forest and Climate Change",
+      "name": "Bhupender Yadav",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Culture & Minister of Tourism",
+      "name": "Gajendra Singh Shekhawat",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Women and Child Development",
+      "name": "Annpurna Devi",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Parliamentary Affairs & Minister of Minority Affairs",
+      "name": "Kiren Rijiju",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Petroleum and Natural Gas",
+      "name": "Hardeep Singh Puri",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Labour and Employment & Minister of Youth Affairs and Sports",
+      "name": "Dr. Mansukh Mandaviya",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Coal & Minister of Mines",
+      "name": "G. Kishan Reddy",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Food Processing Industries",
+      "name": "Chirag Paswan",
+      "status": "Active"
+    },
+    {
+      "portfolio": "Minister of Jal Shakti",
+      "name": "C. R. Patil",
+      "status": "Active"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of India's operational Nuclear Power Plants and major High-Capacity Thermal Power Stations for Geography Static GK.",
+    "nuclear_power_plants": [
+        {
+            "plant_name": "Tarapur Atomic Power Station (TAPS)",
+            "state": "Maharashtra",
+            "operator": "NPCIL",
+            "key_fact": "India's first and oldest commercial nuclear power station; established in 1969 with the assistance of the United States."
+        },
+        {
+            "plant_name": "Kudankulam Nuclear Power Plant (KKNPP)",
+            "state": "Tamil Nadu",
+            "operator": "NPCIL",
+            "key_fact": "The largest nuclear power station in India by installed capacity; built in collaboration with Russia (Rosatom)."
+        },
+        {
+            "plant_name": "Kakrapar Atomic Power Station (KAPS)",
+            "state": "Gujarat",
+            "operator": "NPCIL",
+            "key_fact": "Features India's first entirely indigenously developed 700 MW Pressurized Heavy Water Reactor (PHWR)."
+        },
+        {
+            "plant_name": "Kaiga Generating Station",
+            "state": "Karnataka",
+            "operator": "NPCIL",
+            "key_fact": "Set a world record in 2018 for the longest continuous operation of a nuclear reactor (962 days)."
+        },
+        {
+            "plant_name": "Narora Atomic Power Station (NAPS)",
+            "state": "Uttar Pradesh",
+            "operator": "NPCIL",
+            "key_fact": "The only nuclear power plant in Uttar Pradesh, located on the banks of the river Ganga."
+        },
+        {
+            "plant_name": "Madras Atomic Power Station (MAPS / Kalpakkam)",
+            "state": "Tamil Nadu",
+            "operator": "NPCIL",
+            "key_fact": "India's first fully indigenously constructed nuclear power station; also houses a Fast Breeder Test Reactor (FBTR)."
+        },
+        {
+            "plant_name": "Rajasthan Atomic Power Station (Rawatbhata)",
+            "state": "Rajasthan",
+            "operator": "NPCIL",
+            "key_fact": "India's second nuclear power plant; initially built with the collaboration of Canada (CANDU reactors)."
+        }
+    ],
+    "major_thermal_power_plants": [
+        {
+            "plant_name": "Vindhyachal Super Thermal Power Station",
+            "state": "Madhya Pradesh",
+            "fuel_type": "Coal",
+            "key_fact": "The largest thermal power plant in India by installed capacity (over 4,760 MW), operated by NTPC."
+        },
+        {
+            "plant_name": "Mundra Thermal Power Station",
+            "state": "Gujarat",
+            "fuel_type": "Coal",
+            "key_fact": "One of the largest privately-owned coal power plants in the world, operated by Adani Power."
+        },
+        {
+            "plant_name": "Neyveli Thermal Power Station",
+            "state": "Tamil Nadu",
+            "fuel_type": "Lignite (Brown Coal)",
+            "key_fact": "India's largest and most significant lignite-based power generation complex, operated by NLC India."
+        },
+        {
+            "plant_name": "Sipat Super Thermal Power Plant",
+            "state": "Chhattisgarh",
+            "fuel_type": "Coal",
+            "key_fact": "Operated by NTPC; notable for being one of the first plants in India to use supercritical boiler technology for higher efficiency."
+        },
+        {
+            "plant_name": "Ramagundam Super Thermal Power Station",
+            "state": "Telangana",
+            "fuel_type": "Coal",
+            "key_fact": "A major NTPC plant in South India; its reservoir hosts India's largest floating solar PV project."
+        },
+        {
+            "plant_name": "Talcher Super Thermal Power Station (Kaniha)",
+            "state": "Odisha",
+            "fuel_type": "Coal",
+            "key_fact": "A massive NTPC pithead power station that sources coal directly from the nearby Mahanadi Coalfields."
+        },
+        {
+            "plant_name": "Bokaro Thermal Power Station",
+            "state": "Jharkhand",
+            "fuel_type": "Coal",
+            "key_fact": "The first multipurpose mega thermal power plant set up by the Damodar Valley Corporation (DVC)."
+        }
+    ]
+}

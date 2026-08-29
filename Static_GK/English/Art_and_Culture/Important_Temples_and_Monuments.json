@@ -1,0 +1,146 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Complete exhaustive baseline of major historical monuments, ancient structures, and iconic temples of India for Static GK.",
+    "monuments_and_temples": [
+        {
+            "name": "Brihadisvara Temple (Tanjore)",
+            "location": "Thanjavur, Tamil Nadu",
+            "built_by_dynasty": "Raja Raja Chola I (Chola Dynasty)",
+            "architectural_style": "Dravidian Architecture",
+            "key_features": "Part of the UNESCO World Heritage Site 'Great Living Chola Temples'; entirely built of granite; features a massive vimana (temple tower) and a monolithic Nandi statue."
+        },
+        {
+            "name": "Sun Temple, Konark",
+            "location": "Puri District, Odisha",
+            "built_by_dynasty": "King Narasimhadeva I (Eastern Ganga Dynasty)",
+            "architectural_style": "Kalinga Architecture",
+            "key_features": "Conceived as a colossal chariot of the Sun God with 24 intricately carved stone wheels drawn by 7 horses; famously known as the 'Black Pagoda'."
+        },
+        {
+            "name": "Kailash Temple, Ellora (Cave 16)",
+            "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra",
+            "built_by_dynasty": "Krishna I (Rashtrakuta Dynasty)",
+            "architectural_style": "Rock-cut Dravidian variant",
+            "key_features": "The world's largest monolithic rock-cut structure, carved from the top down out of a single volcanic basalt cliff face."
+        },
+        {
+            "name": "Shore Temple, Mahabalipuram",
+            "location": "Chengalpattu, Tamil Nadu",
+            "built_by_dynasty": "Narasimhavarman II (Pallava Dynasty)",
+            "architectural_style": "Early Dravidian (Pallava style)",
+            "key_features": "One of the oldest structural stone temples in South India, overlooks the Bay of Bengal; part of the Group of Monuments at Mahabalipuram."
+        },
+        {
+            "name": "Khajuraho Temples",
+            "location": "Chhatarpur, Madhya Pradesh",
+            "built_by_dynasty": "Chandela Dynasty",
+            "architectural_style": "Nagara Architecture",
+            "key_features": "Famous for its erotic sculptures and Nagara-style shikhara towers; the Kandariya Mahadeva Temple is the largest and most prominent in this group."
+        },
+        {
+            "name": "Dilwara Jain Temples",
+            "location": "Mount Abu, Rajasthan",
+            "built_by_dynasty": "Vimal Shah and Tejpal (Solanki/Chalukya Ministers)",
+            "architectural_style": "Maru-Gurjara Architecture",
+            "key_features": "A complex of five marble temples globally renowned for their extraordinarily intricate and delicate white marble ceiling and pillar carvings."
+        },
+        {
+            "name": "Sanchi Stupa",
+            "location": "Raisen, Madhya Pradesh",
+            "built_by_dynasty": "Commissioned by Emperor Ashoka (Maurya Dynasty)",
+            "architectural_style": "Buddhist Architecture",
+            "key_features": "One of India's oldest stone structures; houses relics of Lord Buddha; famous for its beautifully carved gateways (Toranas) depicting Jataka tales."
+        },
+        {
+            "name": "Hampi Monuments (Virupaksha Temple)",
+            "location": "Vijayanagara District, Karnataka",
+            "built_by_dynasty": "Vijayanagara Empire",
+            "architectural_style": "Vijayanagara Style",
+            "key_features": "Ruins of the medieval capital city of Vijayanagara; features the functional Virupaksha Temple, the Vittala Temple with its iconic Stone Chariot, and musical pillars."
+        },
+        {
+            "name": "Meenakshi Amman Temple",
+            "location": "Madurai, Tamil Nadu",
+            "built_by_dynasty": "Expanded significantly by the Nayak Kings",
+            "architectural_style": "Dravidian Architecture",
+            "key_features": "Dedicated to Meenakshi (Parvati) and Sundareswarar (Shiva); famous for its 14 towering, colorful gopurams decorated with thousands of mythological figures."
+        },
+        {
+            "name": "Ajanta and Ellora Caves",
+            "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra",
+            "built_by_dynasty": "Satavahana, Vakataka, Chalukya, and Rashtrakuta Dynasties",
+            "architectural_style": "Rock-cut Cave Architecture",
+            "key_features": "Ajanta features 30 rock-cut Buddhist caves famous for fresco paintings; Ellora features 34 caves representing Buddhism, Hinduism, and Jainism coexisting harmoniously."
+        },
+        {
+            "name": "Gol Gumbaz",
+            "location": "Vijayapura (Bijapur), Karnataka",
+            "built_by_dynasty": "Mohammed Adil Shah (Adil Shahi Dynasty)",
+            "architectural_style": "Indo-Islamic (Deccani Style)",
+            "key_features": "Mausoleum housing Adil Shah's tomb; features one of the largest domes in the world unsupported by pillars; contains the famous 'Whispering Gallery'."
+        },
+        {
+            "name": "Taj Mahal",
+            "location": "Agra, Uttar Pradesh",
+            "built_by_dynasty": "Emperor Shah Jahan (Mughal Empire)",
+            "architectural_style": "Mughal Architecture",
+            "key_features": "White marble mausoleum built in memory of Mumtaz Mahal; incorporates Persian, Islamic, and Indian styles; universally celebrated for its symmetric layout and pietra dura inlay work."
+        },
+        {
+            "name": "Qutub Minar Complex",
+            "location": "New Delhi, Delhi",
+            "built_by_dynasty": "Started by Qutb-ud-din Aibak, completed by Iltutmish (Delhi Sultanate)",
+            "architectural_style": "Indo-Islamic Architecture",
+            "key_features": "The world's tallest brick minaret (73 meters); the complex also contains the 4th-century iron pillar of Chandragupta II, famous for its rust-resistant composition."
+        },
+        {
+            "name": "Red Fort (Lal Qila)",
+            "location": "Old Delhi, Delhi",
+            "built_by_dynasty": "Emperor Shah Jahan (Mughal Empire)",
+            "architectural_style": "Mughal Architecture",
+            "key_features": "Built when the capital shifted from Agra to Shahjahanabad; constructed from red sandstone; historic seat of power where the Prime Minister hoists the national flag on Independence Day."
+        },
+        {
+            "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+            "location": "Mumbai, Maharashtra",
+            "built_by_dynasty": "Designed by Frederick William Stevens (British Raj Era)",
+            "architectural_style": "Victorian Gothic Revival & Indian Traditional Architecture",
+            "key_features": "An architectural blending of late 19th-century European structural ideas with traditional Indian palace crafts; serves as a major railway headquarters."
+        },
+        {
+            "name": "Victoria Memorial",
+            "location": "Kolkata, West Bengal",
+            "built_by_dynasty": "Designed by William Emerson (British Raj Era)",
+            "architectural_style": "Indo-Saracenic Revival Architecture",
+            "key_features": "A large marble building built using white Makrana marble (the same quarry as the Taj Mahal); dedicated to the memory of Queen Victoria."
+        },
+        {
+            "name": "Mahabodhi Temple Complex",
+            "location": "Bodh Gaya, Bihar",
+            "built_by_dynasty": "Originally built by Ashoka, rebuilt in brick during the Gupta period",
+            "architectural_style": "Late Gupta / Classical Indian Architecture",
+            "key_features": "Marks the location where Siddhartha Gautama (Lord Buddha) attained enlightenment under the sacred Bodhi Tree."
+        },
+        {
+            "name": "Sun Temple, Modhera",
+            "location": "Mehsana District, Gujarat",
+            "built_by_dynasty": "King Bhima I (Chaulukya/Solanki Dynasty)",
+            "architectural_style": "Maru-Gurjara Architecture",
+            "key_features": "Features a magnificent rectangular stepped tank called the 'Ramakund' lined with over 100 miniature shrines; no active worship takes place here today."
+        },
+        {
+            "name": "Kamakhya Temple",
+            "location": "Guwahati, Assam",
+            "built_by_dynasty": "Rebuilt by Chilarai (Koch Dynasty) and Ahom Kings",
+            "architectural_style": "Nilachal Architecture style",
+            "key_features": "One of the oldest and most revered Shakti Peethas in India, dedicated to Goddess Kamakhya; central hub for Tantric practices; hosts the annual Ambubachi Mela."
+        },
+        {
+            "name": "Lingaraja Temple",
+            "location": "Bhubaneswar, Odisha",
+            "built_by_dynasty": "Somavamsi Dynasty (with later additions by Ganga rulers)",
+            "architectural_style": "Kalinga Architecture",
+            "key_features": "The largest temple in Bhubaneswar ('The Temple City'); dedicated to Harihara (a combined form of Vishnu and Shiva); features a dominant deula tower."
+        }
+    ]
+}

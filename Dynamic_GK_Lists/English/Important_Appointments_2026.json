@@ -1,0 +1,71 @@
+﻿{
+  "last_updated": "2026-07-05",
+  "update_log": "Verified and maintained baseline of all Major National Appointments for the 2026 Exam Cycle, incorporating recent Army, Navy, and DRDO leadership changes.",
+  "appointments": [
+    {
+      "designation": "Chief Justice of India (CJI)",
+      "name": "Justice Surya Kant",
+      "status": "Active"
+    },
+    {
+      "designation": "Chief of Defence Staff (CDS)",
+      "name": "General N.S. Raja Subramani",
+      "status": "Active"
+    },
+    {
+      "designation": "Chief of the Army Staff",
+      "name": "General Dhiraj Seth",
+      "status": "Active"
+    },
+    {
+      "designation": "Chief of the Naval Staff",
+      "name": "Admiral Krishna Swaminathan",
+      "status": "Active"
+    },
+    {
+      "designation": "Chief of the Air Staff",
+      "name": "Air Chief Marshal Amar Preet Singh",
+      "status": "Active"
+    },
+    {
+      "designation": "Governor, Reserve Bank of India (RBI)",
+      "name": "Sanjay Malhotra",
+      "status": "Active"
+    },
+    {
+      "designation": "Chief Election Commissioner (CEC)",
+      "name": "Gyanesh Kumar",
+      "status": "Active"
+    },
+    {
+      "designation": "Chairman, ISRO",
+      "name": "Dr. V. Narayanan",
+      "status": "Active"
+    },
+    {
+      "designation": "Chairman, DRDO",
+      "name": "Rajesh Kumar Singh",
+      "status": "Active"
+    },
+    {
+      "designation": "Chairman, SEBI",
+      "name": "Tuhin Kanta Pandey",
+      "status": "Active"
+    },
+    {
+      "designation": "Chairman, UPSC",
+      "name": "Dr. Ajay Kumar",
+      "status": "Active"
+    },
+    {
+      "designation": "CEO, NITI Aayog",
+      "name": "Nidhi Chhibber",
+      "status": "Active"
+    },
+    {
+      "designation": "National Security Advisor (NSA)",
+      "name": "Ajit Doval",
+      "status": "Active"
+    }
+  ]
+}

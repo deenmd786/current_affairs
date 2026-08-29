@@ -1,0 +1,176 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of Vitamins (fat/water soluble), Minerals, their scientific names, and associated deficiency diseases for General Science Static GK.",
+    "fat_soluble_vitamins": [
+        {
+            "vitamin": "Vitamin A",
+            "scientific_name": "Retinol",
+            "deficiency_diseases": [
+                "Night Blindness",
+                "Xerophthalmia (dryness of conjunctiva)",
+                "Keratomalacia"
+            ],
+            "major_sources": "Carrots, spinach, sweet potatoes, liver, fish liver oil, milk."
+        },
+        {
+            "vitamin": "Vitamin D",
+            "scientific_name": "Calciferol",
+            "deficiency_diseases": [
+                "Rickets (in children - bowed legs)",
+                "Osteomalacia (in adults - soft bones)"
+            ],
+            "major_sources": "Sunlight (synthesized in skin), egg yolks, fatty fish, fortified dairy."
+        },
+        {
+            "vitamin": "Vitamin E",
+            "scientific_name": "Tocopherol",
+            "deficiency_diseases": [
+                "Hemolytic Anemia",
+                "Muscle weakness",
+                "Neurological problems",
+                "Decreased fertility (rare)"
+            ],
+            "major_sources": "Sunflower seeds, almonds, wheat germ oil, avocado."
+        },
+        {
+            "vitamin": "Vitamin K",
+            "scientific_name": "Phylloquinone",
+            "deficiency_diseases": [
+                "Hemorrhage (excessive bleeding due to non-clotting of blood)"
+            ],
+            "major_sources": "Green leafy vegetables (spinach, kale), broccoli, synthesized by intestinal bacteria."
+        }
+    ],
+    "water_soluble_vitamins": [
+        {
+            "vitamin": "Vitamin B1",
+            "scientific_name": "Thiamine",
+            "deficiency_diseases": [
+                "Beriberi (Wet and Dry)",
+                "Wernicke-Korsakoff syndrome (memory loss)"
+            ],
+            "major_sources": "Whole grains, pork, legumes, nuts, seeds."
+        },
+        {
+            "vitamin": "Vitamin B2",
+            "scientific_name": "Riboflavin",
+            "deficiency_diseases": [
+                "Ariboflavinosis",
+                "Cheilosis (cracked lips)",
+                "Angular stomatitis (cracks at corners of mouth)"
+            ],
+            "major_sources": "Milk, eggs, leafy greens, mushrooms."
+        },
+        {
+            "vitamin": "Vitamin B3",
+            "scientific_name": "Niacin",
+            "deficiency_diseases": [
+                "Pellagra (characterized by the 3 Ds: Dermatitis, Diarrhea, Dementia)"
+            ],
+            "major_sources": "Meat, poultry, fish, peanuts, whole grains."
+        },
+        {
+            "vitamin": "Vitamin B5",
+            "scientific_name": "Pantothenic Acid",
+            "deficiency_diseases": [
+                "Paresthesia (pins and needles sensation)",
+                "Fatigue (deficiency is extremely rare)"
+            ],
+            "major_sources": "Found in almost all plant and animal foods."
+        },
+        {
+            "vitamin": "Vitamin B6",
+            "scientific_name": "Pyridoxine",
+            "deficiency_diseases": [
+                "Anemia",
+                "Peripheral neuropathy",
+                "Seborrheic dermatitis",
+                "Depression"
+            ],
+            "major_sources": "Poultry, fish, potatoes, bananas."
+        },
+        {
+            "vitamin": "Vitamin B7",
+            "scientific_name": "Biotin",
+            "deficiency_diseases": [
+                "Hair loss (alopecia)",
+                "Scaly red rash around eyes/nose/mouth",
+                "Brittle nails"
+            ],
+            "major_sources": "Egg yolks, walnuts, peanuts, cauliflower."
+        },
+        {
+            "vitamin": "Vitamin B9",
+            "scientific_name": "Folic Acid / Folate",
+            "deficiency_diseases": [
+                "Megaloblastic Anemia",
+                "Neural tube birth defects in fetus (e.g., Spina Bifida)"
+            ],
+            "major_sources": "Dark green leafy vegetables, citrus fruits, legumes, fortified cereals."
+        },
+        {
+            "vitamin": "Vitamin B12",
+            "scientific_name": "Cobalamin / Cyanocobalamin",
+            "deficiency_diseases": [
+                "Pernicious Anemia",
+                "Nerve damage",
+                "Extreme fatigue"
+            ],
+            "major_sources": "Found exclusively in animal products (meat, fish, poultry, eggs, milk)."
+        },
+        {
+            "vitamin": "Vitamin C",
+            "scientific_name": "Ascorbic Acid",
+            "deficiency_diseases": [
+                "Scurvy (bleeding gums, poor wound healing, spots on skin)"
+            ],
+            "major_sources": "Citrus fruits (oranges, lemons), Indian Gooseberry (Amla), bell peppers, tomatoes."
+        }
+    ],
+    "essential_minerals": [
+        {
+            "mineral": "Iron",
+            "deficiency_diseases": [
+                "Iron-deficiency Anemia (fatigue, pale skin, shortness of breath)"
+            ],
+            "key_function": "Essential for the formation of hemoglobin in red blood cells to transport oxygen."
+        },
+        {
+            "mineral": "Iodine",
+            "deficiency_diseases": [
+                "Goitre (enlarged thyroid gland)",
+                "Cretinism (stunted physical and mental growth in children)"
+            ],
+            "key_function": "Required for the synthesis of thyroid hormones (T3 and T4)."
+        },
+        {
+            "mineral": "Calcium",
+            "deficiency_diseases": [
+                "Osteoporosis",
+                "Rickets",
+                "Brittle bones",
+                "Tetany (muscle spasms)"
+            ],
+            "key_function": "Crucial for bone and teeth structure, muscle contraction, and blood clotting."
+        },
+        {
+            "mineral": "Phosphorus",
+            "deficiency_diseases": [
+                "Bad teeth and bones",
+                "Muscle weakness",
+                "Loss of appetite"
+            ],
+            "key_function": "Works with calcium for bone formation; essential for ATP (energy) production."
+        },
+        {
+            "mineral": "Zinc",
+            "deficiency_diseases": [
+                "Delayed wound healing",
+                "Stunted growth",
+                "Loss of taste/smell",
+                "Weakened immune system"
+            ],
+            "key_function": "Vital for immune function, DNA synthesis, and cell division."
+        }
+    ]
+}

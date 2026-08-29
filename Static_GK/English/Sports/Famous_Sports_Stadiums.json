@@ -1,0 +1,118 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency sports stadiums in India and globally, focusing on location matching and capacity extremes for Sports Static GK.",
+    "largest_stadiums_by_category": [
+        {
+            "stadium_name": "Narendra Modi Stadium",
+            "location": "Ahmedabad, Gujarat",
+            "sport": "Cricket",
+            "key_fact": "The largest cricket stadium and the largest overall stadium in the world by capacity (132,000). Formerly known as Motera Stadium."
+        },
+        {
+            "stadium_name": "Birsa Munda International Hockey Stadium",
+            "location": "Rourkela, Odisha",
+            "sport": "Field Hockey",
+            "key_fact": "Recognized by Guinness World Records as the largest fully-seated hockey arena in the world (capacity ~21,800). Built for the 2023 Men's FIH Hockey World Cup."
+        },
+        {
+            "stadium_name": "Salt Lake Stadium (Vivekananda Yuba Bharati Krirangan)",
+            "location": "Kolkata, West Bengal",
+            "sport": "Football / Athletics",
+            "key_fact": "The largest football stadium in India by seating capacity (approx. 85,000)."
+        },
+        {
+            "stadium_name": "Buddh International Circuit",
+            "location": "Greater Noida, Uttar Pradesh",
+            "sport": "Formula One Racing",
+            "key_fact": "India's first and only motor racing circuit capable of hosting Formula One (hosted the Indian Grand Prix from 2011 to 2013)."
+        }
+    ],
+    "famous_cricket_stadiums_india": [
+        {
+            "stadium_name": "Eden Gardens",
+            "location": "Kolkata, West Bengal",
+            "key_fact": "Established in 1864, it is the oldest and second-largest cricket stadium in India. Often called the 'Mecca of Indian cricket'."
+        },
+        {
+            "stadium_name": "Wankhede Stadium",
+            "location": "Mumbai, Maharashtra",
+            "key_fact": "Headquarters of the BCCI (Board of Control for Cricket in India). Famous for hosting the 2011 Cricket World Cup Final where India won."
+        },
+        {
+            "stadium_name": "Arun Jaitley Stadium",
+            "location": "New Delhi",
+            "key_fact": "Formerly known as Feroz Shah Kotla Stadium. The second oldest functional international cricket stadium in India."
+        },
+        {
+            "stadium_name": "M. Chinnaswamy Stadium",
+            "location": "Bengaluru, Karnataka",
+            "key_fact": "The first cricket stadium in the world to use solar panels to generate a bulk of the electricity needed to run the stadium."
+        },
+        {
+            "stadium_name": "M. A. Chidambaram Stadium (Chepauk)",
+            "location": "Chennai, Tamil Nadu",
+            "key_fact": "Established in 1916, making it the oldest continuously used cricket stadium in India."
+        },
+        {
+            "stadium_name": "Green Park Stadium",
+            "location": "Kanpur, Uttar Pradesh",
+            "key_fact": "One of the few international cricket stadiums in India not owned by the state cricket association (owned by the Sports Department of UP)."
+        },
+        {
+            "stadium_name": "Barabati Stadium",
+            "location": "Cuttack, Odisha",
+            "key_fact": "An iconic venue that frequently hosts both cricket and football matches."
+        },
+        {
+            "stadium_name": "Sawai Mansingh Stadium",
+            "location": "Jaipur, Rajasthan",
+            "key_fact": "Built during the reign of Maharaja Sawai Man Singh II."
+        }
+    ],
+    "other_prominent_stadiums_india": [
+        {
+            "stadium_name": "Major Dhyan Chand National Stadium",
+            "location": "New Delhi",
+            "sport": "Field Hockey",
+            "key_fact": "Served as the venue for the first Asian Games in 1951."
+        },
+        {
+            "stadium_name": "Kalinga Stadium",
+            "location": "Bhubaneswar, Odisha",
+            "sport": "Multi-purpose (Famous for Hockey)",
+            "key_fact": "Co-hosted the 2023 Men's FIH Hockey World Cup along with the Birsa Munda Stadium."
+        },
+        {
+            "stadium_name": "Jawaharlal Nehru Stadium",
+            "location": "New Delhi",
+            "sport": "Multi-purpose",
+            "key_fact": "The main stadium for the 2010 Commonwealth Games."
+        }
+    ],
+    "iconic_international_stadiums": [
+        {
+            "stadium_name": "Lord's Cricket Ground",
+            "location": "London, England",
+            "sport": "Cricket",
+            "key_fact": "Widely known as the 'Home of Cricket'. Owned by the Marylebone Cricket Club (MCC)."
+        },
+        {
+            "stadium_name": "Melbourne Cricket Ground (MCG)",
+            "location": "Melbourne, Australia",
+            "sport": "Cricket / Australian Rules Football",
+            "key_fact": "The second-largest cricket stadium in the world and the largest in the Southern Hemisphere."
+        },
+        {
+            "stadium_name": "Roland Garros",
+            "location": "Paris, France",
+            "sport": "Tennis",
+            "key_fact": "Famous for its red clay courts. It is the premier venue for the French Open Grand Slam tournament."
+        },
+        {
+            "stadium_name": "Wimbledon (Centre Court)",
+            "location": "London, England",
+            "sport": "Tennis",
+            "key_fact": "The main court at the All England Lawn Tennis and Croquet Club, famous for hosting the Wimbledon Championships on grass."
+        }
+    ]
+}

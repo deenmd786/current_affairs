@@ -1,0 +1,188 @@
+﻿{
+  "last_updated": "2026-08-20",
+  "update_log": "वर्तमान तिथि के लिए सभी मुख्यमंत्रियों और राज्यपालों/उपराज्यपालों का सत्यापन और पुष्टि की गई है। यह हाल ही के 2026 राज्य विधानसभा चुनाव परिणामों और 2026 की राष्ट्रपति द्वारा राज्यपाल नियुक्तियों को दर्शाता है।",
+  "states": [
+    {
+      "state": "आंध्र प्रदेश",
+      "chief_minister": "एन. चंद्रबाबू नायडू",
+      "governor": "एस. अब्दुल नज़ीर"
+    },
+    {
+      "state": "अरुणाचल प्रदेश",
+      "chief_minister": "पेमा खांडू",
+      "governor": "कैवल्य त्रिविक्रम परनाइक"
+    },
+    {
+      "state": "असम",
+      "chief_minister": "हिमंत बिस्वा सरमा",
+      "governor": "लक्ष्मण प्रसाद आचार्य"
+    },
+    {
+      "state": "बिहार",
+      "chief_minister": "सम्राट चौधरी",
+      "governor": "सैयद अता हसनैन"
+    },
+    {
+      "state": "छत्तीसगढ़",
+      "chief_minister": "विष्णु देव साय",
+      "governor": "रमेन डेका"
+    },
+    {
+      "state": "गोवा",
+      "chief_minister": "प्रमोद सावंत",
+      "governor": "पूसापति अशोक गजपति राजू"
+    },
+    {
+      "state": "गुजरात",
+      "chief_minister": "भूपेंद्रभाई पटेल",
+      "governor": "आचार्य देवव्रत"
+    },
+    {
+      "state": "हरियाणा",
+      "chief_minister": "नायब सिंह सैनी",
+      "governor": "असीम कुमार घोष"
+    },
+    {
+      "state": "हिमाचल प्रदेश",
+      "chief_minister": "सुखविंदर सिंह सुक्खू",
+      "governor": "कविंदर गुप्ता"
+    },
+    {
+      "state": "झारखंड",
+      "chief_minister": "हेमंत सोरेन",
+      "governor": "संतोष कुमार गंगवार"
+    },
+    {
+      "state": "कर्नाटक",
+      "chief_minister": "डी. के. शिवकुमार",
+      "governor": "थावर चंद गहलोत"
+    },
+    {
+      "state": "केरल",
+      "chief_minister": "वी. डी. सतीसन",
+      "governor": "राजेंद्र विश्वनाथ अर्लेकर"
+    },
+    {
+      "state": "मध्य प्रदेश",
+      "chief_minister": "मोहन यादव",
+      "governor": "मंगूभाई सी. पटेल"
+    },
+    {
+      "state": "महाराष्ट्र",
+      "chief_minister": "देवेंद्र फड़णवीस",
+      "governor": "जिष्णु देव वर्मा"
+    },
+    {
+      "state": "मणिपुर",
+      "chief_minister": "युमनाम खेमचंद सिंह",
+      "governor": "अजय कुमार भल्ला"
+    },
+    {
+      "state": "मेघालय",
+      "chief_minister": "कॉनराड संगमा",
+      "governor": "सी. एच. विजयशंकर"
+    },
+    {
+      "state": "मिजोरम",
+      "chief_minister": "लालदुहोमा",
+      "governor": "वी. के. सिंह"
+    },
+    {
+      "state": "नागालैंड",
+      "chief_minister": "नेफियू रियो",
+      "governor": "नंद किशोर यादव"
+    },
+    {
+      "state": "ओडिशा",
+      "chief_minister": "मोहन चरण माझी",
+      "governor": "कंभमपति हरि बाबू"
+    },
+    {
+      "state": "पंजाब",
+      "chief_minister": "भगवंत मान",
+      "governor": "गुलाब चंद कटारिया"
+    },
+    {
+      "state": "राजस्थान",
+      "chief_minister": "भजन लाल शर्मा",
+      "governor": "हरिभाऊ बागड़े"
+    },
+    {
+      "state": "सिक्किम",
+      "chief_minister": "प्रेम सिंह तमांग",
+      "governor": "ओम प्रकाश माथुर"
+    },
+    {
+      "state": "तमिलनाडु",
+      "chief_minister": "सी. जोसेफ विजय",
+      "governor": "राजेंद्र विश्वनाथ अर्लेकर"
+    },
+    {
+      "state": "तेलंगाना",
+      "chief_minister": "रेवंत रेड्डी",
+      "governor": "शिव प्रताप शुक्ला"
+    },
+    {
+      "state": "त्रिपुरा",
+      "chief_minister": "माणिक साहा",
+      "governor": "इंद्र सेना रेड्डी नल्लू"
+    },
+    {
+      "state": "उत्तर प्रदेश",
+      "chief_minister": "योगी आदित्यनाथ",
+      "governor": "आनंदीबेन पटेल"
+    },
+    {
+      "state": "उत्तराखंड",
+      "chief_minister": "पुष्कर सिंह धामी",
+      "governor": "लेफ्टिनेंट जनरल गुरमीत सिंह"
+    },
+    {
+      "state": "पश्चिम बंगाल",
+      "chief_minister": "शुभेंदु अधिकारी",
+      "governor": "आर. एन. रवि"
+    }
+  ],
+  "union_territories": [
+    {
+      "union_territory": "अंडमान और निकोबार द्वीप समूह",
+      "chief_minister": "लागू नहीं",
+      "lieutenant_governor_or_administrator": "देवेंद्र कुमार जोशी"
+    },
+    {
+      "union_territory": "चंडीगढ़",
+      "chief_minister": "लागू नहीं",
+      "lieutenant_governor_or_administrator": "गुलाब चंद कटारिया"
+    },
+    {
+      "union_territory": "दादरा और नगर हवेली और दमन और दीव",
+      "chief_minister": "लागू नहीं",
+      "lieutenant_governor_or_administrator": "प्रफुल्ल पटेल"
+    },
+    {
+      "union_territory": "दिल्ली (राष्ट्रीय राजधानी क्षेत्र)",
+      "chief_minister": "रेखा गुप्ता",
+      "lieutenant_governor_or_administrator": "तरणजीत सिंह संधू"
+    },
+    {
+      "union_territory": "जम्मू और कश्मीर",
+      "chief_minister": "उमर अब्दुल्ला",
+      "lieutenant_governor_or_administrator": "मनोज सिन्हा"
+    },
+    {
+      "union_territory": "लद्दाख",
+      "chief_minister": "लागू नहीं",
+      "lieutenant_governor_or_administrator": "विनय कुमार सक्सेना"
+    },
+    {
+      "union_territory": "लक्षद्वीप",
+      "chief_minister": "लागू नहीं",
+      "lieutenant_governor_or_administrator": "प्रफुल्ल पटेल"
+    },
+    {
+      "union_territory": "पुडुचेरी",
+      "chief_minister": "एन. रंगासामी",
+      "lieutenant_governor_or_administrator": "कुनियिल कैलाशनाथन"
+    }
+  ]
+}

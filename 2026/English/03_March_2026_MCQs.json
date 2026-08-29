@@ -1,0 +1,702 @@
+﻿[
+  {
+    "id": "ca_2026_03_001",
+    "date": "2026-03-08",
+    "question": "Which country won the ICC Men's T20 World Cup in March 2026 by defeating New Zealand in the finals?",
+    "options": [
+      "Australia",
+      "England",
+      "India",
+      "South Africa"
+    ],
+    "answer": "India",
+    "explanation": "India won the 2026 ICC Men's T20 World Cup by defeating New Zealand by 96 runs in the final held on March 8, 2026.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_03_002",
+    "date": "2026-03-08",
+    "question": "The final match of the 2026 ICC Men's T20 World Cup was hosted at which stadium?",
+    "options": [
+      "Wankhede Stadium, Mumbai",
+      "Eden Gardens, Kolkata",
+      "M. Chinnaswamy Stadium, Bengaluru",
+      "Narendra Modi Stadium, Ahmedabad"
+    ],
+    "answer": "Narendra Modi Stadium, Ahmedabad",
+    "explanation": "The 2026 ICC Men's T20 World Cup final between India and New Zealand was hosted at the Narendra Modi Stadium in Ahmedabad.",
+    "tags": ["Sports", "National"]
+  },
+  {
+    "id": "ca_2026_03_015",
+    "date": "2026-03-15",
+    "question": "Who was named the Best International Cricketer (Men) for the 2024-25 season at the BCCI Naman Awards held in March 2026?",
+    "options": [
+      "Rohit Sharma",
+      "Virat Kohli",
+      "Shubman Gill",
+      "Jasprit Bumrah"
+    ],
+    "answer": "Shubman Gill",
+    "explanation": "Shubman Gill won the prestigious Polly Umrigar Award for Best International Cricketer (Men) at the BCCI Naman Awards 2026.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_03_004",
+    "date": "2026-03-15",
+    "question": "Who was awarded the Best International Cricketer (Women) at the 2026 BCCI Naman Awards?",
+    "options": [
+      "Harmanpreet Kaur",
+      "Smriti Mandhana",
+      "Deepti Sharma",
+      "Shafali Verma"
+    ],
+    "answer": "Smriti Mandhana",
+    "explanation": "Smriti Mandhana was named the Best International Cricketer (Women) for the 2024-25 season at the BCCI Naman Awards.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_03_005",
+    "date": "2026-03-15",
+    "question": "Which two cricket legends were bestowed with the Col. C.K. Nayudu Lifetime Achievement Award at the 2026 Naman Awards?",
+    "options": [
+      "Kapil Dev and Sunil Gavaskar",
+      "Roger Binny and Rahul Dravid",
+      "Sachin Tendulkar and Anil Kumble",
+      "Sourav Ganguly and VVS Laxman"
+    ],
+    "answer": "Roger Binny and Rahul Dravid",
+    "explanation": "Roger Binny and Rahul Dravid were honoured with the Col. C.K. Nayudu Lifetime Achievement Award for their outstanding service to Indian cricket.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_03_006",
+    "date": "2026-03-15",
+    "question": "Who received the BCCI Lifetime Achievement Award for Women in March 2026?",
+    "options": [
+      "Jhulan Goswami",
+      "Mithali Raj",
+      "Diana Edulji",
+      "Anjum Chopra"
+    ],
+    "answer": "Mithali Raj",
+    "explanation": "Mithali Raj received the BCCI Lifetime Achievement Award for Women in recognition of her extraordinary contribution to the growth of women's cricket.",
+    "tags": ["Awards", "Sports"]
+  },
+  {
+    "id": "ca_2026_03_007",
+    "date": "2026-03-28",
+    "question": "The Government of India opened nominations for the Rashtriya Vigyan Puraskar 2026. What is the maximum age limit for the Vigyan Yuva-Shanti Swarup Bhatnagar award?",
+    "options": [
+      "35 years",
+      "40 years",
+      "45 years",
+      "50 years"
+    ],
+    "answer": "45 years",
+    "explanation": "The Vigyan Yuva-Shanti Swarup Bhatnagar (VY-SSB) award is specifically designed to encourage young scientists who are up to 45 years of age.",
+    "tags": ["Awards", "Science"]
+  },
+  {
+    "id": "ca_2026_03_008",
+    "date": "2026-03-10",
+    "question": "In March 2026, which state became the second in India to officially announce the implementation of the Uniform Civil Code (UCC) after Uttarakhand?",
+    "options": [
+      "Assam",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": "Gujarat",
+    "explanation": "Gujarat became the second state in the country to implement the Uniform Civil Code (UCC) to ensure equal civil laws for all state residents.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_009",
+    "date": "2026-03-12",
+    "question": "The Maharashtra Assembly passed the Freedom of Religion Bill 2026. What is the maximum imprisonment term for unlawful religious conversion under this bill?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "answer": "7 years",
+    "explanation": "Under the newly passed Maharashtra Freedom of Religion Bill 2026, unlawful religious conversions carry a punishment of imprisonment up to seven years and a fine of Rs 1 lakh.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_010",
+    "date": "2026-03-05",
+    "question": "Parliament passed the Transgender Persons (Protection of Rights) Amendment Bill 2026. Which previous provision was notably removed by this amendment?",
+    "options": [
+      "Right to employment",
+      "Self-perceived gender identity",
+      "Educational reservations",
+      "Medical transition subsidies"
+    ],
+    "answer": "Self-perceived gender identity",
+    "explanation": "The 2026 Amendment Bill controversially removed the provision of self-perceived gender identity and excluded several socio-cultural identities from its ambit.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_011",
+    "date": "2026-03-14",
+    "question": "Kusunpur village recently became its state's first 'Smart Village' under a CSIR initiative. In which state is it located?",
+    "options": [
+      "Odisha",
+      "Jharkhand",
+      "Chhattisgarh",
+      "West Bengal"
+    ],
+    "answer": "Odisha",
+    "explanation": "Kusunpur village in the Kendrapada district of Odisha became the state's first smart village under an initiative launched by the Council of Scientific and Industrial Research (CSIR).",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_012",
+    "date": "2026-03-20",
+    "question": "Which state government launched 'Araku Kouni', a traditional tribal millet-based food menu, in March 2026?",
+    "options": [
+      "Telangana",
+      "Odisha",
+      "Andhra Pradesh",
+      "Madhya Pradesh"
+    ],
+    "answer": "Andhra Pradesh",
+    "explanation": "The Andhra Pradesh Government launched 'Araku Kouni', the state's first tribal millet-based food menu, to bring tribal diets into mainstream food culture.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_013",
+    "date": "2026-03-18",
+    "question": "The DRDO and Indian Navy successfully tested an Indigenous Air Droppable Container from a P-8I aircraft. What is its maximum payload capacity?",
+    "options": [
+      "50 kg",
+      "100 kg",
+      "150 kg",
+      "250 kg"
+    ],
+    "answer": "150 kg",
+    "explanation": "The Indigenous Air Droppable Container, tested off the coast of Goa, is designed to deliver payloads of up to 150 kg directly to naval ships operating in remote oceans.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_03_014",
+    "date": "2026-03-22",
+    "question": "The 11th edition of the joint military exercise 'LAMITIYE 2026' was conducted between India and which country?",
+    "options": [
+      "Maldives",
+      "Mauritius",
+      "Seychelles",
+      "Madagascar"
+    ],
+    "answer": "Seychelles",
+    "explanation": "Exercise LAMITIYE is a biennial joint military exercise between the Indian Army and the Seychelles Defence Forces.",
+    "tags": ["Defence", "International"]
+  },
+  {
+    "id": "ca_2026_03_015",
+    "date": "2026-03-25",
+    "question": "Exercise Sea Dragon 2026, a multinational anti-submarine warfare exercise in which the Indian Navy participated, was led by which country?",
+    "options": [
+      "Japan",
+      "Australia",
+      "United States",
+      "United Kingdom"
+    ],
+    "answer": "United States",
+    "explanation": "Exercise Sea Dragon is a US-led multinational naval exercise conducted near the Guam region aimed at enhancing anti-submarine warfare coordination.",
+    "tags": ["Defence", "International"]
+  },
+  {
+    "id": "ca_2026_03_016",
+    "date": "2026-03-10",
+    "question": "Union Minister Ashwini Vaishnaw launched 'MyWAVES' in March 2026. What is the primary focus of this initiative?",
+    "options": [
+      "Oceanic Research",
+      "National AI Skilling",
+      "Water Conservation",
+      "5G Network Expansion"
+    ],
+    "answer": "National AI Skilling",
+    "explanation": "MyWAVES is a National AI Skilling Initiative launched by the Ministry of Information & Broadcasting in partnership with Google and YouTube.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_017",
+    "date": "2026-03-12",
+    "question": "Which Ministry launched a real-time 'Internal Audit Portal' to transition from conventional manual audit processes to a centralized digital system?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Corporate Affairs",
+      "Ministry of Rural Development (MoRD)",
+      "Ministry of Home Affairs"
+    ],
+    "answer": "Ministry of Rural Development (MoRD)",
+    "explanation": "The Ministry of Rural Development (MoRD) launched the comprehensive 'Internal Audit Portal' to revolutionize rural governance and oversight.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_03_018",
+    "date": "2026-03-14",
+    "question": "Which Regional Rural Bank won the National Award for Outstanding Performance in SHG-Bank Linkage 2024-25 in March 2026?",
+    "options": [
+      "Kerala Gramin Bank",
+      "Karnataka Grameena Bank (KGB)",
+      "Baroda UP Bank",
+      "Prathama UP Gramin Bank"
+    ],
+    "answer": "Karnataka Grameena Bank (KGB)",
+    "explanation": "Karnataka Grameena Bank won the national award for its significant contribution to rural economic empowerment through the Self-Help Group (SHG) linkage program.",
+    "tags": ["Awards", "Banking"]
+  },
+  {
+    "id": "ca_2026_03_019",
+    "date": "2026-03-16",
+    "question": "Svatantra Microfin completed its amalgamation in March 2026 to become India's second-largest NBFC-MFI. Which company did it merge with?",
+    "options": [
+      "CreditAccess Grameen",
+      "Chaitanya India Fin Credit",
+      "Satin Creditcare",
+      "Muthoot Microfin"
+    ],
+    "answer": "Chaitanya India Fin Credit",
+    "explanation": "Svatantra Microfin amalgamated with Chaitanya India Fin Credit Private Limited to form the second-largest NBFC-MFI in the country.",
+    "tags": ["Economy", "Banking"]
+  },
+  {
+    "id": "ca_2026_03_020",
+    "date": "2026-03-11",
+    "question": "ISRO inaugurated the 'START 2026' programme in March. What does START stand for?",
+    "options": [
+      "Space Technology and Research Training",
+      "Satellite Tracking and Rocketry Training",
+      "Space Science and Technology Awareness Training",
+      "Solar Technology and Aerospace Research Training"
+    ],
+    "answer": "Space Science and Technology Awareness Training",
+    "explanation": "START (Space Science and Technology Awareness Training) is an online training program by ISRO designed to engage students in space science.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_021",
+    "date": "2026-03-10",
+    "question": "Which Indian navigational satellite completed its design mission life of 10 years in March 2026?",
+    "options": [
+      "GSAT-7",
+      "IRNSS-1A",
+      "IRNSS-1F",
+      "Cartosat-2"
+    ],
+    "answer": "IRNSS-1F",
+    "explanation": "Launched in March 2016, the IRNSS-1F satellite completed its 10-year design life when its onboard atomic clock stopped functioning, though it continues to provide broadcast messaging.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_022",
+    "date": "2026-03-24",
+    "question": "At its 213th board meeting in March 2026, SEBI approved wide-ranging regulatory changes. Where was this meeting held?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": "Mumbai",
+    "explanation": "SEBI held its 213th board meeting in Mumbai, approving major regulatory changes covering Alternative Investment Funds (AIFs) and foreign investors.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_03_023",
+    "date": "2026-03-19",
+    "question": "NITI Aayog sanctioned funds to support the RISE Centre in March 2026. What does RISE stand for in this context?",
+    "options": [
+      "Rural Incubation, Skilling and Entrepreneurship",
+      "Regional Institute for Science and Education",
+      "Rural Infrastructure and Social Empowerment",
+      "Retail Industry Skill Enhancement"
+    ],
+    "answer": "Rural Incubation, Skilling and Entrepreneurship",
+    "explanation": "NITI Aayog provided funds for the Rural Incubation, Skilling and Entrepreneurship (RISE) Centre located in Guntupalli, Andhra Pradesh.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_03_024",
+    "date": "2026-03-22",
+    "question": "According to a March 2026 Goldman Sachs report, India's inflation is projected to increase to what percentage in CY26?",
+    "options": [
+      "3.9%",
+      "4.2%",
+      "4.6%",
+      "5.1%"
+    ],
+    "answer": "4.6%",
+    "explanation": "Goldman Sachs revised its inflation forecast for India, projecting it to rise to 4.6% in CY26, up from its previous estimate of 3.9%.",
+    "tags": ["Economy"]
+  },
+  {
+    "id": "ca_2026_03_025",
+    "date": "2026-03-22",
+    "question": "The same Goldman Sachs report predicted India's Current Account Deficit (CAD) would widen to what percentage of GDP in CY26?",
+    "options": [
+      "1.2%",
+      "1.5%",
+      "2.0%",
+      "2.5%"
+    ],
+    "answer": "2.0%",
+    "explanation": "The report expects India's Current Account Deficit (CAD) to widen to 2% of the GDP due to shifting global macroeconomic factors.",
+    "tags": ["Economy"]
+  },
+  {
+    "id": "ca_2026_03_026",
+    "date": "2026-03-21",
+    "question": "What was the official theme for World Poetry Day observed by the UN on March 21, 2026?",
+    "options": [
+      "Voices of the Future",
+      "Poetry as a Bridge for Peace and Inclusion",
+      "Rhymes of Nature",
+      "Cultural Diversity through Verses"
+    ],
+    "answer": "Poetry as a Bridge for Peace and Inclusion",
+    "explanation": "The 27th World Poetry Day was observed globally with the theme 'Poetry as a Bridge for Peace and Inclusion'.",
+    "tags": ["International"]
+  },
+  {
+    "id": "ca_2026_03_027",
+    "date": "2026-03-21",
+    "question": "What was the theme for the 14th International Day of Forests observed on March 21, 2026?",
+    "options": [
+      "Forests and Economies",
+      "Forests and Climate Change",
+      "Restoration of Green Cover",
+      "Biodiversity and Habitats"
+    ],
+    "answer": "Forests and Economies",
+    "explanation": "The 14th International Day of Forests focused on the economic value and sustainability of woodlands with the theme 'Forests and Economies'.",
+    "tags": ["International", "Science"]
+  },
+  {
+    "id": "ca_2026_03_028",
+    "date": "2026-03-24",
+    "question": "Which city hosted the first-ever National Indoor Athletics Championships in March 2026?",
+    "options": [
+      "New Delhi",
+      "Pune",
+      "Bhubaneswar",
+      "Chennai"
+    ],
+    "answer": "Bhubaneswar",
+    "explanation": "The Athletics Federation of India hosted the inaugural National Indoor Athletics Championships at the Kalinga Stadium in Bhubaneswar, Odisha.",
+    "tags": ["Sports", "National"]
+  },
+  {
+    "id": "ca_2026_03_029",
+    "date": "2026-03-01",
+    "question": "Starting March 1, 2026, the government made facial recognition-based attendance mandatory for workers of which flagship scheme?",
+    "options": [
+      "PM Kisan Samman Nidhi",
+      "Ayushman Bharat",
+      "MGNREGS",
+      "PM Awas Yojana"
+    ],
+    "answer": "MGNREGS",
+    "explanation": "The government mandated facial recognition attendance for Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) workers via the NMMS app.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_03_030",
+    "date": "2026-03-01",
+    "question": "A massive nationwide vaccination campaign rolled out in March 2026 to protect adolescent girls against which disease?",
+    "options": [
+      "Rubella",
+      "Cervical Cancer (via HPV vaccine)",
+      "Tuberculosis",
+      "Hepatitis B"
+    ],
+    "answer": "Cervical Cancer (via HPV vaccine)",
+    "explanation": "The Ministry of Health and Family Welfare launched a nationwide free Human Papillomavirus (HPV) vaccination campaign to protect girls from cervical cancer.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_031",
+    "date": "2026-03-15",
+    "question": "Union Home Minister Amit Shah soft-launched Census-2027 in March. What is the unique technological feature of this upcoming census?",
+    "options": [
+      "It will use drone surveillance",
+      "It is India's first entirely digital census",
+      "It relies solely on Aadhaar integration",
+      "It will be conducted via SMS"
+    ],
+    "answer": "It is India's first entirely digital census",
+    "explanation": "Census-2027 will be India's first completely digital census, featuring citizen-led self-enumeration portals.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_032",
+    "date": "2026-03-15",
+    "question": "What is the estimated financial allocation approved for conducting the digital Census-2027?",
+    "options": [
+      "₹5,500 crore",
+      "₹8,250 crore",
+      "₹11,718 crore",
+      "₹15,000 crore"
+    ],
+    "answer": "₹11,718 crore",
+    "explanation": "The government allocated an estimated ₹11,718 crore to cover digital infrastructure, personnel training, and data security for Census-2027.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_03_033",
+    "date": "2026-03-25",
+    "question": "Under the new Income Tax Rules 2026, stock exchanges are required to maintain audit trails of transactions for how many years?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "answer": "7 years",
+    "explanation": "To improve transparency and data integrity, the new IT Rules 2026 mandate that stock exchanges must maintain audit trails for seven years without deleting transaction records.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_03_034",
+    "date": "2026-03-25",
+    "question": "The Income Tax Rules 2026 introduced a new compliance framework specifically regulating which type of financial instrument?",
+    "options": [
+      "Cryptocurrency staking",
+      "Zero-coupon bonds",
+      "Derivatives trading",
+      "Angel tax investments"
+    ],
+    "answer": "Zero-coupon bonds",
+    "explanation": "A specific zero-coupon bond framework was introduced within the new Income Tax rules to enhance regulatory oversight of these instruments.",
+    "tags": ["Economy", "Banking"]
+  },
+  {
+    "id": "ca_2026_03_035",
+    "date": "2026-03-31",
+    "question": "The RBI postponed the implementation of its new rules on 'capital market exposure' by three months. What is the new deadline?",
+    "options": [
+      "May 1, 2026",
+      "June 1, 2026",
+      "July 1, 2026",
+      "August 1, 2026"
+    ],
+    "answer": "July 1, 2026",
+    "explanation": "Following requests from banks for more operational clarity, the RBI pushed the implementation date of capital market exposure norms from April 1 to July 1, 2026.",
+    "tags": ["Banking", "Economy"]
+  },
+  {
+    "id": "ca_2026_03_036",
+    "date": "2026-03-28",
+    "question": "In March 2026, it was reported that India achieved its COP-26 NDC target 5 years early. What percentage of total installed electricity capacity is now from non-fossil sources?",
+    "options": [
+      "40.5%",
+      "45.2%",
+      "51.5%",
+      "60.0%"
+    ],
+    "answer": "51.5%",
+    "explanation": "India officially surpassed the halfway mark, with non-fossil sources accounting for 51.5% (262.74 GW) of its total installed electricity capacity.",
+    "tags": ["Economy", "Science"]
+  },
+  {
+    "id": "ca_2026_03_037",
+    "date": "2026-03-12",
+    "question": "Who was appointed as the new Head of Barclays Private Bank for India in March 2026?",
+    "options": [
+      "Adrish Ghosh",
+      "Werner Schlossmacher",
+      "Hiroshi Minoura",
+      "Neel Laungani"
+    ],
+    "answer": "Adrish Ghosh",
+    "explanation": "Adrish Ghosh was appointed to lead Barclays Private Bank's operations and accelerate growth in the Indian market.",
+    "tags": ["Appointments", "Banking"]
+  },
+  {
+    "id": "ca_2026_03_038",
+    "date": "2026-03-25",
+    "question": "Who was appointed as an Independent Director of Kotak Mahindra Bank for a four-year term starting early 2026?",
+    "options": [
+      "Alwyn D'Souza",
+      "Ramesh G. Iyer",
+      "Uday Kotak",
+      "Vijay Sonone"
+    ],
+    "answer": "Ramesh G. Iyer",
+    "explanation": "Kotak Mahindra Bank passed a resolution to officially appoint Ramesh G. Iyer as an Independent Director of the Bank.",
+    "tags": ["Appointments", "Banking"]
+  },
+  {
+    "id": "ca_2026_03_039",
+    "date": "2026-03-15",
+    "question": "Which state association won the award for the Best Performance in BCCI Domestic Tournaments (2024-25) at the Naman Awards?",
+    "options": [
+      "Karnataka State Cricket Association",
+      "Mumbai Cricket Association",
+      "Saurashtra Cricket Association",
+      "Vidarbha Cricket Association"
+    ],
+    "answer": "Mumbai Cricket Association",
+    "explanation": "The Mumbai Cricket Association won the top domestic honour for overall Best Performance across BCCI tournaments.",
+    "tags": ["Sports", "Awards"]
+  },
+  {
+    "id": "ca_2026_03_040",
+    "date": "2026-03-15",
+    "question": "Who received the BCCI award for taking the Highest Wickets in Women's One Day Internationals for the 2024-25 season?",
+    "options": [
+      "Pooja Vastrakar",
+      "Deepti Sharma",
+      "Renuka Singh",
+      "Radha Yadav"
+    ],
+    "answer": "Deepti Sharma",
+    "explanation": "All-rounder Deepti Sharma was recognised at the BCCI Naman Awards for securing the most wickets in Women's ODIs during the season.",
+    "tags": ["Sports", "Awards"]
+  },
+  {
+    "id": "ca_2026_03_041",
+    "date": "2026-03-18",
+    "question": "Which major domestic Squash tournament took place in India from March 18-22, 2026?",
+    "options": [
+      "Tata Open",
+      "JSW Indian Open",
+      "HCL SRFI Tour",
+      "Reliance Squash Classic"
+    ],
+    "answer": "JSW Indian Open",
+    "explanation": "The JSW Indian Open, India's biggest domestic squash event of the season, was held in the third week of March 2026.",
+    "tags": ["Sports"]
+  },
+  {
+    "id": "ca_2026_03_042",
+    "date": "2026-03-26",
+    "question": "The Men's Indian Open, a major international sporting event held in New Delhi in March 2026, is associated with which sport?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Badminton",
+      "Table Tennis"
+    ],
+    "answer": "Golf",
+    "explanation": "The Men's Indian Open, held from March 26-29, 2026, in New Delhi, is one of the premier professional Golf tournaments hosted in the country.",
+    "tags": ["Sports"]
+  },
+  {
+    "id": "ca_2026_03_043",
+    "date": "2026-03-25",
+    "question": "L&T Finance became a signatory to PCAF in March 2026 to measure financed emissions. What does PCAF stand for?",
+    "options": [
+      "Protocol for Carbon Assessment Funding",
+      "Partnership for Carbon Accounting Financials",
+      "Pollution Control and Assessment Forum",
+      "Paris Climate Agreement Fund"
+    ],
+    "answer": "Partnership for Carbon Accounting Financials",
+    "explanation": "As a climate commitment, L&T Finance signed the Partnership for Carbon Accounting Financials (PCAF) to properly track and manage its financed emissions.",
+    "tags": ["Economy", "International"]
+  },
+  {
+    "id": "ca_2026_03_044",
+    "date": "2026-03-10",
+    "question": "Which tech giants partnered with the Ministry of Information & Broadcasting to launch the 'MyWAVES' National AI Skilling Initiative?",
+    "options": [
+      "Microsoft and LinkedIn",
+      "Meta and WhatsApp",
+      "Google and YouTube",
+      "Amazon and AWS"
+    ],
+    "answer": "Google and YouTube",
+    "explanation": "The MyWAVES AI Skilling Programme was rolled out in an official partnership with Google and its video-sharing platform YouTube.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_03_045",
+    "date": "2026-03-19",
+    "question": "The NITI Aayog-funded RISE Centre focuses on training rural women in AI and solar installation. Which district in Andhra Pradesh is it located in?",
+    "options": [
+      "Visakhapatnam",
+      "NTR district",
+      "Guntur",
+      "Chittoor"
+    ],
+    "answer": "NTR district",
+    "explanation": "The RISE Centre is situated in Guntupalli in the Ibrahimpatnam mandal of the NTR district in Andhra Pradesh.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_03_046",
+    "date": "2026-03-15",
+    "question": "The first phase of Census-2027, known as the 'Houselisting and Housing Census', is scheduled to begin in which month of 2026?",
+    "options": [
+      "April 2026",
+      "June 2026",
+      "August 2026",
+      "October 2026"
+    ],
+    "answer": "April 2026",
+    "explanation": "The digital census roll-out begins its first phase—Houselisting and Housing Census—between April and September 2026.",
+    "tags": ["National"]
+  },
+  {
+    "id": "ca_2026_03_047",
+    "date": "2026-03-18",
+    "question": "The Indigenous Air Droppable Container tested by DRDO was specifically designed to be dropped from which maritime patrol aircraft?",
+    "options": [
+      "C-130J Super Hercules",
+      "P-8I Poseidon",
+      "HAL Tejas",
+      "Dornier Do 228"
+    ],
+    "answer": "P-8I Poseidon",
+    "explanation": "The container, carrying 150kg of supplies, was successfully dropped from the Indian Navy's P-8I long-range maritime patrol aircraft.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_03_048",
+    "date": "2026-03-14",
+    "question": "Who was appointed as the Best Umpire in Domestic Cricket (2023-24 season) at the BCCI Naman Awards in March 2026?",
+    "options": [
+      "Nitin Menon",
+      "Anil Chaudhary",
+      "Ulhas Gandhe",
+      "Virender Sharma"
+    ],
+    "answer": "Ulhas Gandhe",
+    "explanation": "Ulhas Gandhe, representing the Vidarbha Cricket Association, was awarded the Best Umpire in Domestic Cricket.",
+    "tags": ["Sports", "Awards"]
+  },
+  {
+    "id": "ca_2026_03_049",
+    "date": "2026-03-05",
+    "question": "During the semi-finals of the 2026 T20 World Cup, India defeated which team by just 7 runs to reach the final?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "England",
+      "South Africa"
+    ],
+    "answer": "England",
+    "explanation": "In a thrilling, high-scoring semi-final at the Wankhede Stadium, India (253/7) defeated England (246/7) by exactly 7 runs.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_03_050",
+    "date": "2026-03-14",
+    "question": "Which player won the Lala Amarnath Award for Best All-Rounder in Domestic Limited-Overs Competitions (2024-25) at the Naman Awards?",
+    "options": [
+      "Harsh Dubey",
+      "Ayush Mhatre",
+      "Washington Sundar",
+      "Nitish Kumar Reddy"
+    ],
+    "answer": "Ayush Mhatre",
+    "explanation": "Mumbai's Ayush Mhatre was honoured with the Lala Amarnath Award for his all-round excellence in domestic limited-overs cricket.",
+    "tags": ["Awards", "Sports"]
+  }
+]

@@ -1,0 +1,127 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of Maharatna and Navratna CPSEs, including the latest status upgrades (HAL as the 14th Maharatna) and specific eligibility criteria for Economics Static GK.",
+    "maharatna_companies": [
+        {
+            "company_name": "National Thermal Power Corporation (NTPC)",
+            "sector": "Power",
+            "year_of_status": "2010"
+        },
+        {
+            "company_name": "Oil and Natural Gas Corporation (ONGC)",
+            "sector": "Oil & Gas",
+            "year_of_status": "2010"
+        },
+        {
+            "company_name": "Steel Authority of India Limited (SAIL)",
+            "sector": "Steel",
+            "year_of_status": "2010"
+        },
+        {
+            "company_name": "Indian Oil Corporation Limited (IOCL)",
+            "sector": "Oil & Gas",
+            "year_of_status": "2010"
+        },
+        {
+            "company_name": "Coal India Limited (CIL)",
+            "sector": "Mining",
+            "year_of_status": "2011"
+        },
+        {
+            "company_name": "Bharat Heavy Electricals Limited (BHEL)",
+            "sector": "Heavy Engineering",
+            "year_of_status": "2013"
+        },
+        {
+            "company_name": "GAIL (India) Limited",
+            "sector": "Gas",
+            "year_of_status": "2013"
+        },
+        {
+            "company_name": "Bharat Petroleum Corporation Limited (BPCL)",
+            "sector": "Petroleum",
+            "year_of_status": "2017"
+        },
+        {
+            "company_name": "Hindustan Petroleum Corporation Limited (HPCL)",
+            "sector": "Petroleum",
+            "year_of_status": "2019"
+        },
+        {
+            "company_name": "Power Grid Corporation of India Limited (PGCIL)",
+            "sector": "Power Transmission",
+            "year_of_status": "2019"
+        },
+        {
+            "company_name": "Power Finance Corporation (PFC)",
+            "sector": "Power Finance",
+            "year_of_status": "2021"
+        },
+        {
+            "company_name": "REC Limited (Rural Electrification Corporation)",
+            "sector": "Power Finance",
+            "year_of_status": "2022"
+        },
+        {
+            "company_name": "Oil India Limited (OIL)",
+            "sector": "Oil & Gas",
+            "year_of_status": "2023"
+        },
+        {
+            "company_name": "Hindustan Aeronautics Limited (HAL)",
+            "sector": "Defence & Aerospace",
+            "year_of_status": "2024",
+            "key_fact": "The 14th and most recent company to be elevated to Maharatna status."
+        }
+    ],
+    "recent_navratna_upgrades": [
+        {
+            "company_name": "Indian Renewable Energy Development Agency (IREDA)",
+            "sector": "Renewable Energy Finance",
+            "key_fact": "Upgraded to Navratna status to boost green energy funding."
+        },
+        {
+            "company_name": "Indian Railway Catering & Tourism Corporation Ltd (IRCTC)",
+            "sector": "Railways",
+            "key_fact": "A highly profitable subsidiary of Indian Railways handling ticketing and catering."
+        },
+        {
+            "company_name": "Mazagon Dock Shipbuilders Limited (MDL)",
+            "sector": "Defence Shipbuilding",
+            "key_fact": "Key manufacturer of warships and submarines for the Indian Navy."
+        },
+        {
+            "company_name": "Solar Energy Corporation of India (SECI)",
+            "sector": "Renewable Energy",
+            "key_fact": "The primary agency of the Ministry of New and Renewable Energy."
+        },
+        {
+            "company_name": "Indian Railway Finance Corporation (IRFC)",
+            "sector": "Railway Finance",
+            "key_fact": "The financing arm of Indian Railways, recently upgraded due to massive profitability."
+        }
+    ],
+    "eligibility_criteria": [
+        {
+            "status_type": "Maharatna",
+            "investment_autonomy": "Can invest up to ₹5,000 crore or 15% of their net worth in a single project without government approval.",
+            "conditions": [
+                "Must already hold Navratna status.",
+                "Must be listed on the Indian stock exchange with minimum prescribed public shareholding.",
+                "Average annual turnover of more than ₹25,000 crore during the last 3 years.",
+                "Average annual net worth of more than ₹15,000 crore during the last 3 years.",
+                "Average annual net profit after tax of more than ₹5,000 crore during the last 3 years.",
+                "Must have significant global presence or international operations."
+            ]
+        },
+        {
+            "status_type": "Navratna",
+            "investment_autonomy": "Can invest up to ₹1,000 crore or 15% of their net worth in a single project without government approval.",
+            "conditions": [
+                "Must hold Miniratna Category - I status and be a Schedule 'A' company.",
+                "Must have obtained an 'Excellent' or 'Very Good' rating under the Memorandum of Understanding (MoU) system in 3 of the last 5 years.",
+                "Must achieve a composite score of 60 or above in 6 selected performance parameters (e.g., Net Profit to Net Worth, Earnings Per Share)."
+            ]
+        }
+    ]
+}

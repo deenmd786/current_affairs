@@ -1,0 +1,100 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of frequently tested scientific instruments and their practical applications for General Science Static GK.",
+    "weather_and_environment": [
+        {
+            "instrument": "Barometer",
+            "measurement_use": "Measures atmospheric pressure (sudden drop indicates a storm)."
+        },
+        {
+            "instrument": "Hygrometer",
+            "measurement_use": "Measures the relative humidity or moisture content in the air."
+        },
+        {
+            "instrument": "Anemometer",
+            "measurement_use": "Measures wind speed and direction."
+        },
+        {
+            "instrument": "Rain Gauge",
+            "measurement_use": "Measures the amount of liquid precipitation over a set period."
+        },
+        {
+            "instrument": "Seismograph",
+            "measurement_use": "Measures and records the intensity and duration of earthquakes."
+        }
+    ],
+    "medical_and_biology": [
+        {
+            "instrument": "Sphygmomanometer",
+            "measurement_use": "Measures blood pressure."
+        },
+        {
+            "instrument": "Stethoscope",
+            "measurement_use": "Used to listen to internal sounds of the body, mainly the heart and lungs."
+        },
+        {
+            "instrument": "Electrocardiograph (ECG)",
+            "measurement_use": "Records the electrical activity and rhythm of the heart."
+        },
+        {
+            "instrument": "Electroencephalograph (EEG)",
+            "measurement_use": "Records the electrical activity of the brain."
+        },
+        {
+            "instrument": "Endoscope",
+            "measurement_use": "Used to examine the interior of a hollow organ or cavity of the body."
+        }
+    ],
+    "physics_and_electrical": [
+        {
+            "instrument": "Ammeter",
+            "measurement_use": "Measures the strength of an electric current (connected in series)."
+        },
+        {
+            "instrument": "Voltmeter",
+            "measurement_use": "Measures the electric potential difference between two points (connected in parallel)."
+        },
+        {
+            "instrument": "Galvanometer",
+            "measurement_use": "Detects and measures very small electric currents."
+        },
+        {
+            "instrument": "Pyrometer",
+            "measurement_use": "Measures extremely high temperatures (e.g., surface of the sun or furnaces) where thermometers melt."
+        },
+        {
+            "instrument": "Calorimeter",
+            "measurement_use": "Measures the quantity of heat in a chemical reaction or physical change."
+        }
+    ],
+    "navigation_mechanics_and_fluids": [
+        {
+            "instrument": "Lactometer",
+            "measurement_use": "Measures the relative density of milk to determine its purity."
+        },
+        {
+            "instrument": "Hydrometer",
+            "measurement_use": "Measures the specific gravity (relative density) of liquids."
+        },
+        {
+            "instrument": "Altimeter",
+            "measurement_use": "Measures altitude, used extensively in aircraft."
+        },
+        {
+            "instrument": "Fathometer",
+            "measurement_use": "Measures the depth of the ocean."
+        },
+        {
+            "instrument": "Tachometer",
+            "measurement_use": "Measures the working speed (RPM - revolutions per minute) of an engine or shaft."
+        },
+        {
+            "instrument": "SONAR",
+            "measurement_use": "Sound Navigation and Ranging; uses sound waves to detect underwater objects like submarines."
+        },
+        {
+            "instrument": "RADAR",
+            "measurement_use": "Radio Detection and Ranging; uses radio waves to detect the position and speed of flying objects like aircraft."
+        }
+    ]
+}

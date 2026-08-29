@@ -1,0 +1,205 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency National and International Days, organized chronologically with historical significance for Static GK.",
+    "january_to_april": [
+        {
+            "date": "January 9",
+            "day_name": "Pravasi Bharatiya Divas (NRI Day)",
+            "significance": "Marks the return of Mahatma Gandhi from South Africa to Mumbai in 1915."
+        },
+        {
+            "date": "January 12",
+            "day_name": "National Youth Day",
+            "significance": "Celebrated on the birth anniversary of Swami Vivekananda."
+        },
+        {
+            "date": "January 15",
+            "day_name": "Indian Army Day",
+            "significance": "Commemorates Field Marshal K. M. Cariappa taking over as the first Indian Commander-in-Chief in 1949."
+        },
+        {
+            "date": "January 24",
+            "day_name": "National Girl Child Day",
+            "significance": "Initiated by the Ministry of Women and Child Development to raise awareness about the rights of the girl child."
+        },
+        {
+            "date": "January 25",
+            "day_name": "National Voters' Day",
+            "significance": "Marks the foundation day of the Election Commission of India in 1950."
+        },
+        {
+            "date": "February 4",
+            "day_name": "World Cancer Day",
+            "significance": "Led by the Union for International Cancer Control (UICC) to raise worldwide awareness."
+        },
+        {
+            "date": "February 28",
+            "day_name": "National Science Day",
+            "significance": "Marks the discovery of the 'Raman Effect' by Indian physicist Sir C.V. Raman (1928)."
+        },
+        {
+            "date": "March 8",
+            "day_name": "International Women's Day",
+            "significance": "Global day celebrating the social, economic, cultural, and political achievements of women."
+        },
+        {
+            "date": "March 22",
+            "day_name": "World Water Day",
+            "significance": "UN observance highlighting the importance of freshwater."
+        },
+        {
+            "date": "March 24",
+            "day_name": "World Tuberculosis (TB) Day",
+            "significance": "Marks the day in 1882 when Dr. Robert Koch announced his discovery of Mycobacterium tuberculosis."
+        },
+        {
+            "date": "April 7",
+            "day_name": "World Health Day",
+            "significance": "Marks the anniversary of the founding of the World Health Organization (WHO) in 1948."
+        },
+        {
+            "date": "April 22",
+            "day_name": "Earth Day",
+            "significance": "An annual global event to demonstrate support for environmental protection."
+        },
+        {
+            "date": "April 24",
+            "day_name": "National Panchayati Raj Day",
+            "significance": "Marks the passing of the Constitution (73rd Amendment) Act, 1992 that institutionalized Panchayati Raj."
+        }
+    ],
+    "may_to_august": [
+        {
+            "date": "May 1",
+            "day_name": "International Labour Day (May Day)",
+            "significance": "Dedicated to workers and laborers globally."
+        },
+        {
+            "date": "May 11",
+            "day_name": "National Technology Day",
+            "significance": "Commemorates the successful Pokhran-II nuclear tests (Operation Shakti) in 1998."
+        },
+        {
+            "date": "May 31",
+            "day_name": "World No Tobacco Day",
+            "significance": "Created by WHO to draw global attention to the tobacco epidemic."
+        },
+        {
+            "date": "June 5",
+            "day_name": "World Environment Day",
+            "significance": "The UN's principal vehicle for encouraging worldwide awareness and action for the environment."
+        },
+        {
+            "date": "June 21",
+            "day_name": "International Day of Yoga",
+            "significance": "Proposed by India and adopted by the UN; coincides with the Summer Solstice."
+        },
+        {
+            "date": "July 1",
+            "day_name": "National Doctor's Day",
+            "significance": "Honors the legendary physician and second Chief Minister of West Bengal, Dr. Bidhan Chandra Roy."
+        },
+        {
+            "date": "July 11",
+            "day_name": "World Population Day",
+            "significance": "Seeks to focus attention on the urgency and importance of population issues."
+        },
+        {
+            "date": "July 26",
+            "day_name": "Kargil Vijay Diwas",
+            "significance": "Named after the successful 'Operation Vijay' in 1999 to evict Pakistani intruders from the Kargil sector."
+        },
+        {
+            "date": "August 9",
+            "day_name": "International Day of the World's Indigenous Peoples",
+            "significance": "Also known as World Tribal Day; promotes and protects the rights of the world's indigenous population."
+        },
+        {
+            "date": "August 20",
+            "day_name": "Sadbhavana Diwas",
+            "significance": "Birth anniversary of former Prime Minister Rajiv Gandhi; promotes national integration and peace."
+        },
+        {
+            "date": "August 29",
+            "day_name": "National Sports Day",
+            "significance": "Celebrated on the birth anniversary of hockey legend Major Dhyan Chand."
+        }
+    ],
+    "september_to_december": [
+        {
+            "date": "September 5",
+            "day_name": "National Teachers' Day",
+            "significance": "Birth anniversary of Dr. Sarvepalli Radhakrishnan, India's first Vice-President and second President."
+        },
+        {
+            "date": "September 14",
+            "day_name": "Hindi Diwas",
+            "significance": "Marks the adoption of Hindi written in Devanagari script as the official language of the Republic of India (1949)."
+        },
+        {
+            "date": "September 16",
+            "day_name": "World Ozone Day",
+            "significance": "Commemorates the date of the signing of the Montreal Protocol on Substances that Deplete the Ozone Layer in 1987."
+        },
+        {
+            "date": "October 2",
+            "day_name": "International Day of Non-Violence",
+            "significance": "UN observance corresponding with Mahatma Gandhi's birthday."
+        },
+        {
+            "date": "October 8",
+            "day_name": "Indian Air Force Day",
+            "significance": "Marks the official foundation of the Indian Air Force in 1932."
+        },
+        {
+            "date": "October 24",
+            "day_name": "United Nations Day",
+            "significance": "Anniversary of the entry into force of the UN Charter in 1945."
+        },
+        {
+            "date": "October 31",
+            "day_name": "National Unity Day (Rashtriya Ekta Diwas)",
+            "significance": "Birth anniversary of Sardar Vallabhbhai Patel, the 'Iron Man of India'."
+        },
+        {
+            "date": "November 11",
+            "day_name": "National Education Day",
+            "significance": "Birth anniversary of Maulana Abul Kalam Azad, independent India's first Education Minister."
+        },
+        {
+            "date": "November 26",
+            "day_name": "Constitution Day (Samvidhan Divas)",
+            "significance": "Marks the adoption of the Constitution of India by the Constituent Assembly in 1949."
+        },
+        {
+            "date": "December 1",
+            "day_name": "World AIDS Day",
+            "significance": "Global initiative to unite in the fight against HIV, support people living with HIV, and commemorate those who have died."
+        },
+        {
+            "date": "December 4",
+            "day_name": "Indian Navy Day",
+            "significance": "Celebrates the achievements and role of the naval force; commemorates Operation Trident during the 1971 Indo-Pak War."
+        },
+        {
+            "date": "December 10",
+            "day_name": "Human Rights Day",
+            "significance": "The day the UN General Assembly adopted the Universal Declaration of Human Rights in 1948."
+        },
+        {
+            "date": "December 22",
+            "day_name": "National Mathematics Day",
+            "significance": "Birth anniversary of the legendary Indian mathematician Srinivasa Ramanujan."
+        },
+        {
+            "date": "December 23",
+            "day_name": "Kisan Diwas (Farmer's Day)",
+            "significance": "Birth anniversary of Chaudhary Charan Singh, the 5th Prime Minister of India, recognizing his championing of farmers' causes."
+        },
+        {
+            "date": "December 25",
+            "day_name": "Good Governance Day",
+            "significance": "Observed on the birth anniversary of former Prime Minister Atal Bihari Vajpayee."
+        }
+    ]
+}

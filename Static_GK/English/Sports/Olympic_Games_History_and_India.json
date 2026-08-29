@@ -1,0 +1,98 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of modern Olympic history, India's historical milestones, and latest performance at the 2024 Paris Olympics for Sports Static GK.",
+    "history_of_modern_olympics": [
+        {
+            "event": "First Modern Olympics",
+            "year": "1896",
+            "location": "Athens, Greece",
+            "key_fact": "Initiated by Baron Pierre de Coubertin, who founded the International Olympic Committee (IOC). 14 nations participated."
+        },
+        {
+            "event": "Olympic Flag and Symbol",
+            "year": "1920",
+            "location": "Antwerp, Belgium",
+            "key_fact": "The Olympic flag featuring the five interlaced rings (representing the five inhabited continents) was flown for the first time."
+        },
+        {
+            "event": "Olympic Flame Tradition",
+            "year": "1928",
+            "location": "Amsterdam, Netherlands",
+            "key_fact": "The Olympic flame was lit for the first time in the modern era, though the torch relay tradition began later in 1936 (Berlin)."
+        },
+        {
+            "event": "Women in the Olympics",
+            "year": "1900",
+            "location": "Paris, France",
+            "key_fact": "Women competed in the Olympics for the first time, participating in events like tennis and golf."
+        }
+    ],
+    "indias_historical_milestones": [
+        {
+            "category": "First Appearance",
+            "milestone": "Norman Pritchard (1900, Paris)",
+            "key_fact": "An Anglo-Indian athlete who won two silver medals in athletics, making India the first Asian nation to win an Olympic medal."
+        },
+        {
+            "category": "First Individual Medal (Independent India)",
+            "milestone": "K. D. Jadhav (1952, Helsinki)",
+            "key_fact": "Won a Bronze medal in Wrestling. He was the first athlete from independent India to win an individual Olympic medal."
+        },
+        {
+            "category": "First Woman Medalist",
+            "milestone": "Karnam Malleswari (2000, Sydney)",
+            "key_fact": "Won a Bronze medal in Weightlifting (69 kg category), becoming the first Indian woman to step on the Olympic podium."
+        },
+        {
+            "category": "First Individual Gold",
+            "milestone": "Abhinav Bindra (2008, Beijing)",
+            "key_fact": "Won Gold in the Men's 10m Air Rifle event."
+        },
+        {
+            "category": "First Track and Field Gold",
+            "milestone": "Neeraj Chopra (2020, Tokyo)",
+            "key_fact": "Won Gold in the Men's Javelin Throw, becoming independent India's first track and field Olympic medalist."
+        },
+        {
+            "category": "Most Dominant Sport",
+            "milestone": "Field Hockey",
+            "key_fact": "The Indian Men's Hockey team has won an astounding 8 Gold medals (6 consecutively from 1928 to 1956), 1 Silver, and 4 Bronze medals in Olympic history."
+        }
+    ],
+    "india_at_paris_2024": [
+        {
+            "overview": "Overall Performance",
+            "details": "India won a total of 6 medals (1 Silver, 5 Bronze), ranking 71st in the overall medals tally. This tied with London 2012 as India's second-highest medal count."
+        },
+        {
+            "athlete": "Manu Bhaker",
+            "sport_and_medal": "Shooting - Bronze (Women's 10m Air Pistol) & Bronze (Mixed 10m Air Pistol Team)",
+            "key_fact": "Created history by becoming the first Indian in the post-independence era to win TWO medals in a single edition of the Olympics."
+        },
+        {
+            "athlete": "Neeraj Chopra",
+            "sport_and_medal": "Athletics - Silver (Men's Javelin Throw)",
+            "key_fact": "Became the most successful individual Indian Olympian by adding a Silver to his historic Tokyo Gold."
+        },
+        {
+            "athlete": "Aman Sehrawat",
+            "sport_and_medal": "Wrestling - Bronze (Men's Freestyle 57kg)",
+            "key_fact": "At 21 years old, he became the youngest ever Indian to win an Olympic medal."
+        },
+        {
+            "athlete": "Sarabjot Singh",
+            "sport_and_medal": "Shooting - Bronze (Mixed 10m Air Pistol Team)",
+            "key_fact": "Partnered with Manu Bhaker to secure India's first-ever team medal in Olympic shooting."
+        },
+        {
+            "athlete": "Swapnil Kusale",
+            "sport_and_medal": "Shooting - Bronze (Men's 50m Rifle 3 Positions)",
+            "key_fact": "Made it India's biggest ever haul in a single sport (3 medals in shooting) at a single Olympics."
+        },
+        {
+            "athlete": "Indian Men's Hockey Team",
+            "sport_and_medal": "Field Hockey - Bronze",
+            "key_fact": "Secured back-to-back Olympic medals in Hockey for the first time in 52 years, defeating Spain for the Bronze."
+        }
+    ]
+}

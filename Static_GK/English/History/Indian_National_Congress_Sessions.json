@@ -1,0 +1,114 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Indian National Congress (INC) sessions, presidents, and their historical significance for History Static GK.",
+    "inc_sessions": [
+        {
+            "year": "1885",
+            "location": "Bombay",
+            "president": "W.C. Bonnerjee",
+            "significance": "The first session of the INC. Attended by 72 delegates. Lord Dufferin was the Viceroy."
+        },
+        {
+            "year": "1887",
+            "location": "Madras",
+            "president": "Badruddin Tyabji",
+            "significance": "The first Muslim President of the INC."
+        },
+        {
+            "year": "1888",
+            "location": "Allahabad",
+            "president": "George Yule",
+            "significance": "The first English (British) President of the INC."
+        },
+        {
+            "year": "1896",
+            "location": "Calcutta",
+            "president": "Rahimtullah M. Sayani",
+            "significance": "The national song 'Vande Mataram' (written by Bankim Chandra Chatterjee) was sung for the first time."
+        },
+        {
+            "year": "1905",
+            "location": "Benares",
+            "president": "Gopal Krishna Gokhale",
+            "significance": "Formal proclamation of the Swadeshi Movement against the partition of Bengal."
+        },
+        {
+            "year": "1906",
+            "location": "Calcutta",
+            "president": "Dadabhai Naoroji",
+            "significance": "The word 'Swaraj' (Self-Government) was used for the first time from the INC platform."
+        },
+        {
+            "year": "1907",
+            "location": "Surat",
+            "president": "Rash Behari Ghosh",
+            "significance": "The infamous 'Surat Split' occurred, dividing the Congress into Moderates and Extremists."
+        },
+        {
+            "year": "1911",
+            "location": "Calcutta",
+            "president": "Bishan Narayan Dar",
+            "significance": "The national anthem 'Jana Gana Mana' (written by Rabindranath Tagore) was sung for the first time."
+        },
+        {
+            "year": "1916",
+            "location": "Lucknow",
+            "president": "Ambica Charan Majumdar",
+            "significance": "The 'Lucknow Pact' was signed (alliance between INC and Muslim League). Moderates and Extremists were also reunited."
+        },
+        {
+            "year": "1917",
+            "location": "Calcutta",
+            "president": "Annie Besant",
+            "significance": "The first Woman President of the INC."
+        },
+        {
+            "year": "1924",
+            "location": "Belgaum",
+            "president": "Mahatma Gandhi",
+            "significance": "The first and only INC session presided over by Mahatma Gandhi."
+        },
+        {
+            "year": "1925",
+            "location": "Kanpur",
+            "president": "Sarojini Naidu",
+            "significance": "The first Indian Woman President of the INC."
+        },
+        {
+            "year": "1929",
+            "location": "Lahore",
+            "president": "Jawaharlal Nehru",
+            "significance": "Passed the historic 'Purna Swaraj' (Complete Independence) resolution. January 26 was declared as Independence Day."
+        },
+        {
+            "year": "1931",
+            "location": "Karachi",
+            "president": "Sardar Vallabhbhai Patel",
+            "significance": "Endorsed the Gandhi-Irwin Pact. Passed landmark resolutions on Fundamental Rights and the National Economic Programme."
+        },
+        {
+            "year": "1937",
+            "location": "Faizpur",
+            "president": "Jawaharlal Nehru",
+            "significance": "The first INC session to be held in a rural area (village)."
+        },
+        {
+            "year": "1938",
+            "location": "Haripura",
+            "president": "Subhas Chandra Bose",
+            "significance": "A National Planning Committee was set up under the chairmanship of Jawaharlal Nehru."
+        },
+        {
+            "year": "1939",
+            "location": "Tripuri",
+            "president": "Subhas Chandra Bose (Later resigned)",
+            "significance": "The 'Tripuri Crisis'. Subhas Chandra Bose defeated Gandhi's candidate Pattabhi Sitaramayya but resigned shortly after to form the Forward Bloc. Rajendra Prasad took over as President."
+        },
+        {
+            "year": "1946",
+            "location": "Meerut",
+            "president": "J.B. Kripalani",
+            "significance": "He was the President of the INC at the time of India's independence in 1947."
+        }
+    ]
+}

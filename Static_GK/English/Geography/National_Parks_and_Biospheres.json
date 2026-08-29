@@ -1,0 +1,126 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Complete exhaustive baseline of high-frequency National Parks, focusing on flagship species, superlatives, and state locations for Geography Static GK.",
+    "national_parks": [
+        {
+            "name": "Hemis National Park",
+            "state_or_ut": "Ladakh",
+            "flagship_species": "Snow Leopard",
+            "key_fact": "The largest national park in India; globally famous for having the highest density of snow leopards in any protected area."
+        },
+        {
+            "name": "South Button Island National Park",
+            "state_or_ut": "Andaman and Nicobar Islands",
+            "flagship_species": "Dugong, Coral Reefs",
+            "key_fact": "The smallest national park in India (only 0.03 sq km)."
+        },
+        {
+            "name": "Jim Corbett National Park",
+            "state_or_ut": "Uttarakhand",
+            "flagship_species": "Bengal Tiger",
+            "key_fact": "The oldest national park in India (established in 1936 as Hailey National Park); first park to come under the Project Tiger initiative."
+        },
+        {
+            "name": "Kaziranga National Park",
+            "state_or_ut": "Assam",
+            "flagship_species": "Great One-Horned Rhinoceros",
+            "key_fact": "UNESCO World Heritage Site; holds two-thirds of the world's Great One-horned Rhinoceros population."
+        },
+        {
+            "name": "Keibul Lamjao National Park",
+            "state_or_ut": "Manipur",
+            "flagship_species": "Sangai (Brow-antlered deer)",
+            "key_fact": "The only floating national park in the world, located on Loktak Lake; characterized by floating decomposed plant material called 'phumdis'."
+        },
+        {
+            "name": "Gir National Park",
+            "state_or_ut": "Gujarat",
+            "flagship_species": "Asiatic Lion",
+            "key_fact": "The only place in the world where Asiatic lions are found in the wild."
+        },
+        {
+            "name": "Kuno National Park",
+            "state_or_ut": "Madhya Pradesh",
+            "flagship_species": "African Cheetah",
+            "key_fact": "Selected for the historic Cheetah Reintroduction Project in 2022; animals were brought from Namibia and South Africa."
+        },
+        {
+            "name": "Namdapha National Park",
+            "state_or_ut": "Arunachal Pradesh",
+            "flagship_species": "Namdapha Flying Squirrel, Snow Leopard, Clouded Leopard",
+            "key_fact": "The only park in the world to harbor all four feline species of big cat (Tiger, Leopard, Snow Leopard, Clouded Leopard)."
+        },
+        {
+            "name": "Bhitarkanika National Park",
+            "state_or_ut": "Odisha",
+            "flagship_species": "Saltwater Crocodile",
+            "key_fact": "India's second-largest mangrove ecosystem; famous for mass nesting of Olive Ridley turtles at nearby Gahirmatha Beach."
+        },
+        {
+            "name": "Sundarbans National Park",
+            "state_or_ut": "West Bengal",
+            "flagship_species": "Royal Bengal Tiger",
+            "key_fact": "UNESCO World Heritage Site; largest mangrove forest in the world, heavily intersected by tidal waterways, mudflats, and small islands of salt-tolerant mangrove forests."
+        },
+        {
+            "name": "Silent Valley National Park",
+            "state_or_ut": "Kerala",
+            "flagship_species": "Lion-tailed Macaque",
+            "key_fact": "Located in the Nilgiri Hills; famous for the 'Save Silent Valley' environmental movement in the 1970s."
+        },
+        {
+            "name": "Periyar National Park",
+            "state_or_ut": "Kerala",
+            "flagship_species": "Asian Elephant, Bengal Tiger",
+            "key_fact": "Located high in the Cardamom Hills; unique because boat safaris on Periyar Lake are the primary way to view wildlife."
+        },
+        {
+            "name": "Bandipur National Park",
+            "state_or_ut": "Karnataka",
+            "flagship_species": "Indian Elephant, Tiger",
+            "key_fact": "Part of the Nilgiri Biosphere Reserve; shares its boundaries with Nagarhole, Mudumalai, and Wayanad."
+        },
+        {
+            "name": "Ranthambore National Park",
+            "state_or_ut": "Rajasthan",
+            "flagship_species": "Bengal Tiger",
+            "key_fact": "Famous for its diurnal tigers (active during the day) and the historic 10th-century Ranthambore Fort within the park."
+        },
+        {
+            "name": "Desert National Park",
+            "state_or_ut": "Rajasthan",
+            "flagship_species": "Great Indian Bustard",
+            "key_fact": "One of the largest national parks in India; an excellent example of the ecosystem of the Thar Desert."
+        },
+        {
+            "name": "Kanha National Park",
+            "state_or_ut": "Madhya Pradesh",
+            "flagship_species": "Barasingha (Swamp Deer)",
+            "key_fact": "The largest national park in Madhya Pradesh; famously inspired Rudyard Kipling's 'The Jungle Book'."
+        },
+        {
+            "name": "Manas National Park",
+            "state_or_ut": "Assam",
+            "flagship_species": "Pygmy Hog, Golden Langur, Wild Water Buffalo",
+            "key_fact": "A UNESCO Natural World Heritage site, a Project Tiger reserve, an elephant reserve, and a biosphere reserve."
+        },
+        {
+            "name": "Khangchendzonga National Park",
+            "state_or_ut": "Sikkim",
+            "flagship_species": "Snow Leopard, Red Panda",
+            "key_fact": "India's first and only 'Mixed' (Natural & Cultural) UNESCO World Heritage Site."
+        },
+        {
+            "name": "Valley of Flowers National Park",
+            "state_or_ut": "Uttarakhand",
+            "flagship_species": "Asiatic Black Bear, Snow Leopard",
+            "key_fact": "Known for its endemic alpine flowers; completely covered in snow during winter and only opens in summer."
+        },
+        {
+            "name": "Dachigam National Park",
+            "state_or_ut": "Jammu and Kashmir",
+            "flagship_species": "Hangul (Kashmir Stag)",
+            "key_fact": "The only area in the world where the critically endangered Hangul is found."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency International Boundary Lines (India and Global) for Geography Static GK.",
+    "indian_international_boundaries": [
+        {
+            "boundary_name": "Radcliffe Line",
+            "demarcated_between": "India and Pakistan (and Bangladesh)",
+            "key_fact": "Drawn by Sir Cyril Radcliffe in 1947 to partition British India into India and Pakistan. The East Radcliffe Line now forms the Indo-Bangladesh border."
+        },
+        {
+            "boundary_name": "McMahon Line",
+            "demarcated_between": "India and China",
+            "key_fact": "Proposed by Sir Henry McMahon at the 1914 Simla Convention. It serves as the de facto boundary in the eastern sector (Arunachal Pradesh). China disputes its legal status."
+        },
+        {
+            "boundary_name": "Durand Line",
+            "demarcated_between": "Pakistan and Afghanistan (India shares a small portion)",
+            "key_fact": "Demarcated by Sir Mortimer Durand in 1893. India officially shares a 106 km border with Afghanistan along this line in Pakistan-Occupied Kashmir (POK)."
+        },
+        {
+            "boundary_name": "Line of Control (LoC)",
+            "demarcated_between": "India and Pakistan (in J&K)",
+            "key_fact": "A de facto military boundary separating Indian-controlled and Pakistani-controlled parts of Jammu and Kashmir. Originally known as the Ceasefire Line, it was redesignated after the 1972 Simla Agreement."
+        },
+        {
+            "boundary_name": "Line of Actual Control (LAC)",
+            "demarcated_between": "India and China",
+            "key_fact": "A demarcation line that separates Indian-controlled territory from Chinese-controlled territory. Formed after the 1962 Sino-Indian War."
+        },
+        {
+            "boundary_name": "24th Parallel",
+            "demarcated_between": "India and Pakistan",
+            "key_fact": "Pakistan claims that this parallel should form the boundary in the Sir Creek area of the Rann of Kutch (Gujarat), but India heavily rejects this claim."
+        },
+        {
+            "boundary_name": "Palk Strait",
+            "demarcated_between": "India and Sri Lanka",
+            "key_fact": "A maritime boundary that separates the Indian state of Tamil Nadu from the island nation of Sri Lanka."
+        }
+    ],
+    "global_international_boundaries": [
+        {
+            "boundary_name": "38th Parallel North",
+            "demarcated_between": "North Korea and South Korea",
+            "key_fact": "Established after WWII in 1945 to divide the Korean peninsula. It remains a heavily fortified Demilitarized Zone (DMZ)."
+        },
+        {
+            "boundary_name": "49th Parallel (Medicine Line)",
+            "demarcated_between": "USA and Canada",
+            "key_fact": "The longest undefended international border in the world. Established by the Anglo-American Convention of 1818 and the Oregon Treaty of 1846."
+        },
+        {
+            "boundary_name": "Maginot Line",
+            "demarcated_between": "France and Germany",
+            "key_fact": "A massive line of concrete fortifications built by France before WWII to prevent German invasion, which the Germans bypassed by going through Belgium."
+        },
+        {
+            "boundary_name": "Siegfried Line (Westwall)",
+            "demarcated_between": "Germany and France",
+            "key_fact": "A defensive wall built by Germany along its western border opposite the French Maginot Line."
+        },
+        {
+            "boundary_name": "Hindenburg Line",
+            "demarcated_between": "Germany and Poland",
+            "key_fact": "A German defensive position built on the western front during WWI. Rendered irrelevant by the Treaty of Versailles."
+        },
+        {
+            "boundary_name": "Oder-Neisse Line",
+            "demarcated_between": "Germany and Poland",
+            "key_fact": "Runs along the Oder and Neisse rivers. Established at the Potsdam Conference after WWII and recognized by unified Germany in 1990."
+        },
+        {
+            "boundary_name": "Mannerheim Line",
+            "demarcated_between": "Finland and Russia (Soviet Union)",
+            "key_fact": "A defensive fortification built by Finland to defend against the Soviet Union during the Winter War (WWII)."
+        },
+        {
+            "boundary_name": "17th Parallel",
+            "demarcated_between": "North Vietnam and South Vietnam",
+            "key_fact": "Divided the two nations based on the 1954 Geneva Accords. It became irrelevant after the unification of Vietnam in 1976."
+        },
+        {
+            "boundary_name": "Blue Line",
+            "demarcated_between": "Lebanon and Israel",
+            "key_fact": "A border demarcation published by the United Nations in 2000 to determine whether Israel had fully withdrawn from Lebanon."
+        },
+        {
+            "boundary_name": "Green Line (UN Buffer Zone)",
+            "demarcated_between": "Republic of Cyprus and Turkish Cyprus",
+            "key_fact": "A demilitarized zone patrolled by the United Nations Peacekeeping Force in Cyprus (UNFICYP)."
+        },
+        {
+            "boundary_name": "31st Parallel North",
+            "demarcated_between": "Iran and Iraq",
+            "key_fact": "Marks a significant portion of the border between Iraq and Iran (and also separates the US states of Louisiana and Mississippi)."
+        }
+    ]
+}

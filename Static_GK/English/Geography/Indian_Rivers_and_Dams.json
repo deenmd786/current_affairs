@@ -1,0 +1,203 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of major Indian river systems, their tributaries, origins, and high-frequency multipurpose dams for Geography Static GK.",
+    "major_river_systems": [
+        {
+            "river_name": "Ganga",
+            "origin": "Gangotri Glacier (as Bhagirathi), Uttarakhand",
+            "major_tributaries": [
+                "Yamuna",
+                "Son",
+                "Ghaghara",
+                "Kosi",
+                "Gandak",
+                "Gomti"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Longest river in India (2525 km); called Padma in Bangladesh."
+        },
+        {
+            "river_name": "Yamuna",
+            "origin": "Yamunotri Glacier, Uttarakhand",
+            "major_tributaries": [
+                "Chambal",
+                "Betwa",
+                "Ken",
+                "Sindh"
+            ],
+            "drainage": "Merges with Ganga at Prayagraj (Triveni Sangam)",
+            "key_fact": "Longest tributary of the Ganga."
+        },
+        {
+            "river_name": "Indus",
+            "origin": "Bokhar Chu Glacier (Near Mansarovar Lake), Tibet",
+            "major_tributaries": [
+                "Jhelum",
+                "Chenab",
+                "Ravi",
+                "Beas",
+                "Sutlej"
+            ],
+            "drainage": "Arabian Sea",
+            "key_fact": "Enters India through Ladakh; forms the basis of the Indus Water Treaty."
+        },
+        {
+            "river_name": "Brahmaputra",
+            "origin": "Chemayungdung Glacier (Near Mansarovar Lake), Tibet",
+            "major_tributaries": [
+                "Teesta",
+                "Subansiri",
+                "Kameng",
+                "Manas",
+                "Lohit",
+                "Dibang"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Known as Yarlung Tsangpo in Tibet and Jamuna in Bangladesh; forms the world's largest river island, Majuli."
+        },
+        {
+            "river_name": "Godavari",
+            "origin": "Trimbakeshwar, Nashik, Maharashtra",
+            "major_tributaries": [
+                "Penganga",
+                "Wainganga",
+                "Indravati",
+                "Manjira",
+                "Pranahita"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Longest peninsular river; often called 'Dakshin Ganga' or 'Vridha Ganga'."
+        },
+        {
+            "river_name": "Krishna",
+            "origin": "Mahabaleshwar, Maharashtra",
+            "major_tributaries": [
+                "Tungabhadra",
+                "Bhima",
+                "Ghataprabha",
+                "Malaprabha",
+                "Musi"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Second largest east-flowing peninsular river."
+        },
+        {
+            "river_name": "Cauvery (Kaveri)",
+            "origin": "Talakaveri (Brahmagiri Hills), Karnataka",
+            "major_tributaries": [
+                "Hemavati",
+                "Kabini",
+                "Bhavani",
+                "Amaravati"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Often referred to as the 'Ganga of the South'."
+        },
+        {
+            "river_name": "Narmada",
+            "origin": "Amarkantak Plateau, Madhya Pradesh",
+            "major_tributaries": [
+                "Tawa",
+                "Barna",
+                "Kolar",
+                "Hiran"
+            ],
+            "drainage": "Arabian Sea",
+            "key_fact": "Longest west-flowing river; flows through a rift valley between the Vindhya and Satpura ranges."
+        },
+        {
+            "river_name": "Tapi (Tapti)",
+            "origin": "Multai (Betul district), Madhya Pradesh",
+            "major_tributaries": [
+                "Purna",
+                "Girna",
+                "Panjhra",
+                "Bori"
+            ],
+            "drainage": "Arabian Sea",
+            "key_fact": "Second largest west-flowing river; flows through a rift valley parallel to Narmada."
+        },
+        {
+            "river_name": "Mahanadi",
+            "origin": "Sihawa (Raipur district), Chhattisgarh",
+            "major_tributaries": [
+                "Seonath",
+                "Hasdeo",
+                "Mand",
+                "Ib",
+                "Ong",
+                "Tel"
+            ],
+            "drainage": "Bay of Bengal",
+            "key_fact": "Known for the catastrophic floods it brings to Odisha."
+        }
+    ],
+    "high_yield_dams_and_projects": [
+        {
+            "dam_name": "Tehri Dam",
+            "river": "Bhagirathi",
+            "state": "Uttarakhand",
+            "significance": "Highest dam in India (260.5 meters)."
+        },
+        {
+            "dam_name": "Hirakud Dam",
+            "river": "Mahanadi",
+            "state": "Odisha",
+            "significance": "Longest earthen dam in the world."
+        },
+        {
+            "dam_name": "Bhakra Nangal Dam",
+            "river": "Sutlej",
+            "state": "Himachal Pradesh / Punjab border",
+            "significance": "Largest dam in India by volume; its reservoir is known as Gobind Sagar."
+        },
+        {
+            "dam_name": "Sardar Sarovar Dam",
+            "river": "Narmada",
+            "state": "Gujarat",
+            "significance": "Largest dam of the Narmada Valley Project; heavily tested in relation to the Narmada Bachao Andolan."
+        },
+        {
+            "dam_name": "Nagarjuna Sagar Dam",
+            "river": "Krishna",
+            "state": "Telangana / Andhra Pradesh border",
+            "significance": "World's largest masonry dam."
+        },
+        {
+            "dam_name": "Idukki Arch Dam",
+            "river": "Periyar",
+            "state": "Kerala",
+            "significance": "One of the highest arch dams in Asia."
+        },
+        {
+            "dam_name": "Mettur Dam",
+            "river": "Cauvery",
+            "state": "Tamil Nadu",
+            "significance": "One of the largest and oldest dams in India; creates the Stanley Reservoir."
+        },
+        {
+            "dam_name": "Kallanai Dam (Grand Anicut)",
+            "river": "Cauvery",
+            "state": "Tamil Nadu",
+            "significance": "Oldest functional dam in India, originally built by Chola king Karikalan in the 2nd century AD."
+        },
+        {
+            "dam_name": "Tungabhadra Dam",
+            "river": "Tungabhadra",
+            "state": "Karnataka",
+            "significance": "A major multipurpose project; forms the Pampa Sagar reservoir."
+        },
+        {
+            "dam_name": "Almatti Dam",
+            "river": "Krishna",
+            "state": "Karnataka",
+            "significance": "Also known as Lal Bahadur Shastri Dam; crucial for North Karnataka."
+        },
+        {
+            "dam_name": "Rihand Dam",
+            "river": "Rihand (Tributary of Son)",
+            "state": "Uttar Pradesh",
+            "significance": "Creates Govind Ballabh Pant Sagar, India's largest artificial lake."
+        }
+    ]
+}

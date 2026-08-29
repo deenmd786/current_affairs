@@ -1,0 +1,197 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Exhaustive compilation of famous books and authors spanning Ancient India, the Freedom Struggle, contemporary award-winners, and international classics for Static GK.",
+    "ancient_and_medieval_literature": [
+        {
+            "book": "Arthashastra",
+            "author": "Chanakya (Kautilya)",
+            "significance": "An ancient Indian treatise on statecraft, economic policy, and military strategy."
+        },
+        {
+            "book": "Ashtadhyayi",
+            "author": "Panini",
+            "significance": "The foundational text of Sanskrit grammar and linguistics."
+        },
+        {
+            "book": "Abhijnanasakuntalam & Meghaduta",
+            "author": "Kalidasa",
+            "significance": "Masterpieces of Sanskrit poetry and drama from the Gupta period."
+        },
+        {
+            "book": "Panchatantra",
+            "author": "Vishnu Sharma",
+            "significance": "An ancient Indian collection of interrelated animal fables."
+        },
+        {
+            "book": "Harshacharita & Kadambari",
+            "author": "Banabhatta",
+            "significance": "Banabhatta was the court poet of King Harsha; 'Harshacharita' is the biography of the king."
+        },
+        {
+            "book": "Rajatarangini",
+            "author": "Kalhana",
+            "significance": "A historical chronicle of the kings of Kashmir; one of the earliest Indian historical texts."
+        },
+        {
+            "book": "Mudrarakshasa",
+            "author": "Vishakhadatta",
+            "significance": "A Sanskrit play narrating the ascent of king Chandragupta Maurya to power."
+        },
+        {
+            "book": "Ain-i-Akbari & Akbarnama",
+            "author": "Abul Fazl",
+            "significance": "Detailed documents recording the administration and history of Mughal Emperor Akbar's empire."
+        },
+        {
+            "book": "Baburnama",
+            "author": "Babur",
+            "significance": "The autobiography of the first Mughal Emperor, written in the Chagatai Turkic language."
+        },
+        {
+            "book": "Ramcharitmanas",
+            "author": "Tulsidas",
+            "significance": "An epic poem in the Awadhi language, retelling the Ramayana."
+        }
+    ],
+    "freedom_struggle_and_modern_india": [
+        {
+            "book": "The Discovery of India & Glimpses of World History",
+            "author": "Jawaharlal Nehru",
+            "significance": "Written during Nehru's imprisonment at Ahmednagar Fort (1942–1946)."
+        },
+        {
+            "book": "The Story of My Experiments with Truth & Hind Swaraj",
+            "author": "Mahatma Gandhi",
+            "significance": "Gandhi's autobiography and his seminal tract on Indian home rule."
+        },
+        {
+            "book": "India Wins Freedom",
+            "author": "Maulana Abul Kalam Azad",
+            "significance": "An autobiographical account from one of the chief architects of Indian independence."
+        },
+        {
+            "book": "Anandmath",
+            "author": "Bankim Chandra Chatterjee",
+            "significance": "Set in the background of the Sannyasi Rebellion; contains the national song 'Vande Mataram'."
+        },
+        {
+            "book": "Gitanjali",
+            "author": "Rabindranath Tagore",
+            "significance": "A collection of poems that won Tagore the Nobel Prize for Literature in 1913."
+        },
+        {
+            "book": "Annihilation of Caste",
+            "author": "B.R. Ambedkar",
+            "significance": "An undelivered speech and seminal text criticizing the Hindu caste system."
+        },
+        {
+            "book": "Poverty and Un-British Rule in India",
+            "author": "Dadabhai Naoroji",
+            "significance": "Formulated the 'Wealth Drain Theory', exposing the economic exploitation of India by the British."
+        },
+        {
+            "book": "Gita Rahasya",
+            "author": "Bal Gangadhar Tilak",
+            "significance": "Written in Mandalay prison; presents a detailed analysis of Karma Yoga in the Bhagavad Gita."
+        },
+        {
+            "book": "Unhappy India",
+            "author": "Lala Lajpat Rai",
+            "significance": "Written as a strong rebuttal to Katherine Mayo's highly biased book 'Mother India'."
+        }
+    ],
+    "contemporary_indian_and_award_winners": [
+        {
+            "book": "The God of Small Things",
+            "author": "Arundhati Roy",
+            "significance": "Winner of the Booker Prize (1997)."
+        },
+        {
+            "book": "Midnight's Children",
+            "author": "Salman Rushdie",
+            "significance": "Winner of the Booker Prize (1981) and the 'Booker of Bookers' (1993)."
+        },
+        {
+            "book": "The White Tiger",
+            "author": "Aravind Adiga",
+            "significance": "Winner of the Booker Prize (2008); a dark comedy about India's class struggle."
+        },
+        {
+            "book": "The Inheritance of Loss",
+            "author": "Kiran Desai",
+            "significance": "Winner of the Booker Prize (2006)."
+        },
+        {
+            "book": "Tomb of Sand (Ret Samadhi)",
+            "author": "Geetanjali Shree",
+            "significance": "Winner of the International Booker Prize (2022); the first Hindi novel to win the award."
+        },
+        {
+            "book": "A Suitable Boy",
+            "author": "Vikram Seth",
+            "significance": "One of the longest novels ever published in a single volume in the English language."
+        },
+        {
+            "book": "An Era of Darkness: The British Empire in India",
+            "author": "Shashi Tharoor",
+            "significance": "Won the Sahitya Akademi Award; details the destructive impact of British colonial rule."
+        },
+        {
+            "book": "The Namesake",
+            "author": "Jhumpa Lahiri",
+            "significance": "Explores the immigrant experience and clashes of culture; Lahiri also won the Pulitzer for 'Interpreter of Maladies'."
+        },
+        {
+            "book": "The Shadow Lines",
+            "author": "Amitav Ghosh",
+            "significance": "Sahitya Akademi Award-winning novel focusing on the impact of historical events on individual lives."
+        },
+        {
+            "book": "Playing It My Way",
+            "author": "Sachin Tendulkar (Co-authored with Boria Majumdar)",
+            "significance": "The official autobiography of the cricket legend."
+        }
+    ],
+    "international_classics_and_autobiographies": [
+        {
+            "book": "1984 & Animal Farm",
+            "author": "George Orwell",
+            "significance": "Dystopian classics warning against totalitarianism, mass surveillance, and Stalinism."
+        },
+        {
+            "book": "Long Walk to Freedom",
+            "author": "Nelson Mandela",
+            "significance": "The autobiography detailing Mandela's early life, coming of age, education, and 27 years in prison."
+        },
+        {
+            "book": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "significance": "A landmark volume in science writing that explores cosmology, black holes, and the Big Bang."
+        },
+        {
+            "book": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "significance": "Pulitzer Prize-winning novel dealing with serious issues of racial inequality and rape in the American South."
+        },
+        {
+            "book": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "significance": "A diary kept by a Jewish teenager while in hiding with her family during the Nazi occupation of the Netherlands."
+        },
+        {
+            "book": "Das Kapital",
+            "author": "Karl Marx",
+            "significance": "A foundational theoretical text in materialist philosophy, economics, and politics."
+        },
+        {
+            "book": "Wealth of Nations",
+            "author": "Adam Smith",
+            "significance": "Published in 1776; the foundational text of classical free-market economic theory."
+        },
+        {
+            "book": "The Origin of Species",
+            "author": "Charles Darwin",
+            "significance": "Introduced the scientific theory that populations evolve over the course of generations through a process of natural selection."
+        }
+    ]
+}

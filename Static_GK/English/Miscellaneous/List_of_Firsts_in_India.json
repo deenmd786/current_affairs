@@ -1,0 +1,115 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency 'First in India' data, categorized by Male, Female, and General milestones for Miscellaneous Static GK.",
+    "first_in_india_male": [
+        {
+            "title": "First President of India",
+            "name": "Dr. Rajendra Prasad",
+            "key_fact": "The longest-serving President in Indian history, serving two consecutive terms."
+        },
+        {
+            "title": "First Prime Minister of India",
+            "name": "Jawaharlal Nehru",
+            "key_fact": "The longest-serving Prime Minister of India. He died in office in 1964."
+        },
+        {
+            "title": "First Indian to win a Nobel Prize",
+            "name": "Rabindranath Tagore",
+            "key_fact": "Won the Nobel Prize in Literature in 1913 for his collection of poems, 'Gitanjali'."
+        },
+        {
+            "title": "First Chief Election Commissioner of India",
+            "name": "Sukumar Sen",
+            "key_fact": "Successfully oversaw India's first two general elections in 1951–52 and 1957."
+        },
+        {
+            "title": "First Indian in Space",
+            "name": "Rakesh Sharma",
+            "key_fact": "Flew aboard the Soviet spacecraft Soyuz T-11 in 1984. Famously described India from space as 'Sare Jahan Se Achha'."
+        },
+        {
+            "title": "First Field Marshal of India",
+            "name": "Sam Manekshaw",
+            "key_fact": "Led the Indian Army during the successful Indo-Pakistani War of 1971."
+        },
+        {
+            "title": "First Indian to swim across the English Channel",
+            "name": "Mihir Sen",
+            "key_fact": "Achieved this feat in 1958. He is also the only man to swim the oceans of the five continents in one calendar year."
+        }
+    ],
+    "first_in_india_female": [
+        {
+            "title": "First Woman President of India",
+            "name": "Pratibha Patil",
+            "key_fact": "Served as the 12th President of India from 2007 to 2012."
+        },
+        {
+            "title": "First Woman Prime Minister of India",
+            "name": "Indira Gandhi",
+            "key_fact": "The first and, to date, the only female Prime Minister of India."
+        },
+        {
+            "title": "First Woman Governor of an Indian State",
+            "name": "Sarojini Naidu",
+            "key_fact": "Known as the 'Nightingale of India'. She became the Governor of the United Provinces (now Uttar Pradesh) in 1947."
+        },
+        {
+            "title": "First Woman Chief Minister of an Indian State",
+            "name": "Sucheta Kripalani",
+            "key_fact": "Served as the head of the Uttar Pradesh government from 1963 to 1967."
+        },
+        {
+            "title": "First Woman Judge of the Supreme Court",
+            "name": "Justice M. Fathima Beevi",
+            "key_fact": "Appointed to the Supreme Court in 1989. She was also the first Muslim woman to be appointed to any higher judiciary."
+        },
+        {
+            "title": "First Woman IPS Officer",
+            "name": "Kiran Bedi",
+            "key_fact": "Joined the Indian Police Service in 1972 and later served as the Lieutenant Governor of Puducherry."
+        },
+        {
+            "title": "First Indian Woman in Space",
+            "name": "Kalpana Chawla",
+            "key_fact": "Flew on the Space Shuttle Columbia in 1997. Tragically died in the Columbia disaster in 2003."
+        },
+        {
+            "title": "First Indian Woman to win an Olympic Medal",
+            "name": "Karnam Malleswari",
+            "key_fact": "Won a Bronze medal in Weightlifting (69 kg category) at the 2000 Sydney Olympics."
+        }
+    ],
+    "first_in_india_general_and_events": [
+        {
+            "title": "First Artificial Satellite",
+            "event_or_entity": "Aryabhata",
+            "year": "1975",
+            "key_fact": "Named after the prominent Indian astronomer and mathematician. It was launched by the Soviet Union."
+        },
+        {
+            "title": "First Nuclear Test",
+            "event_or_entity": "Smiling Buddha (Pokhran-I)",
+            "year": "1974",
+            "key_fact": "Conducted at the Pokhran Test Range in Rajasthan, making India the sixth country in the world to successfully test a nuclear weapon."
+        },
+        {
+            "title": "First National Park",
+            "event_or_entity": "Hailey National Park (now Jim Corbett National Park)",
+            "year": "1936",
+            "key_fact": "Established in Uttarakhand to protect the endangered Bengal tiger."
+        },
+        {
+            "title": "First Passenger Train",
+            "event_or_entity": "Bombay (Bori Bunder) to Thane",
+            "year": "1853",
+            "key_fact": "Covered a distance of 34 kilometers (21 miles) and was hauled by three steam locomotives: Sahib, Sindh, and Sultan."
+        },
+        {
+            "title": "First Post Office",
+            "event_or_entity": "Calcutta (Kolkata) General Post Office",
+            "year": "1774",
+            "key_fact": "Established by Warren Hastings under the East India Company."
+        }
+    ]
+}

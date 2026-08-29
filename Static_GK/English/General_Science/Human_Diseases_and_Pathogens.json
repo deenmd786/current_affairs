@@ -1,0 +1,150 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency human diseases categorized by their causative pathogens (Bacterial, Viral, Protozoan, Fungal/Worm) for General Science Static GK.",
+    "bacterial_diseases": [
+        {
+            "disease": "Tuberculosis (TB)",
+            "pathogen": "Mycobacterium tuberculosis",
+            "affected_organ": "Lungs",
+            "mode_of_transmission": "Airborne droplets (coughing/sneezing)"
+        },
+        {
+            "disease": "Cholera",
+            "pathogen": "Vibrio cholerae",
+            "affected_organ": "Intestine",
+            "mode_of_transmission": "Contaminated water and food"
+        },
+        {
+            "disease": "Typhoid",
+            "pathogen": "Salmonella typhi",
+            "affected_organ": "Intestine (often detected via Widal Test)",
+            "mode_of_transmission": "Contaminated water and food"
+        },
+        {
+            "disease": "Tetanus (Lockjaw)",
+            "pathogen": "Clostridium tetani",
+            "affected_organ": "Nervous System (causes muscle spasms)",
+            "mode_of_transmission": "Infection through deep cuts or wounds"
+        },
+        {
+            "disease": "Leprosy (Hansen's Disease)",
+            "pathogen": "Mycobacterium leprae",
+            "affected_organ": "Skin and Peripheral Nerves",
+            "mode_of_transmission": "Prolonged close contact"
+        },
+        {
+            "disease": "Plague",
+            "pathogen": "Yersinia pestis",
+            "affected_organ": "Lymph nodes (Bubonic) and Lungs (Pneumonic)",
+            "mode_of_transmission": "Bite of infected rat fleas (Xenopsylla cheopis)"
+        },
+        {
+            "disease": "Diphtheria",
+            "pathogen": "Corynebacterium diphtheriae",
+            "affected_organ": "Throat and Respiratory tract",
+            "mode_of_transmission": "Airborne droplets"
+        },
+        {
+            "disease": "Whooping Cough (Pertussis)",
+            "pathogen": "Bordetella pertussis",
+            "affected_organ": "Respiratory system",
+            "mode_of_transmission": "Airborne droplets"
+        }
+    ],
+    "viral_diseases": [
+        {
+            "disease": "AIDS (Acquired Immunodeficiency Syndrome)",
+            "pathogen": "Human Immunodeficiency Virus (HIV)",
+            "affected_organ": "Immune System (targets T-helper white blood cells)",
+            "mode_of_transmission": "Infected blood, sexual contact, mother to child"
+        },
+        {
+            "disease": "Dengue Fever (Breakbone fever)",
+            "pathogen": "Dengue Virus (Flavivirus)",
+            "affected_organ": "Whole body, severely drops blood platelets",
+            "mode_of_transmission": "Bite of infected female Aedes aegypti mosquito"
+        },
+        {
+            "disease": "Rabies (Hydrophobia)",
+            "pathogen": "Rabies Virus (Rhabdovirus)",
+            "affected_organ": "Central Nervous System (Brain and Spinal Cord)",
+            "mode_of_transmission": "Saliva via animal bite (dogs, bats, monkeys)"
+        },
+        {
+            "disease": "Polio (Poliomyelitis)",
+            "pathogen": "Poliovirus",
+            "affected_organ": "Nervous System and Motor Neurons (causes paralysis)",
+            "mode_of_transmission": "Contaminated food and water"
+        },
+        {
+            "disease": "Hepatitis (A, B, C, D, E)",
+            "pathogen": "Hepatitis Viruses",
+            "affected_organ": "Liver (causes inflammation and jaundice)",
+            "mode_of_transmission": "A & E via contaminated water/food; B, C & D via infected blood/body fluids"
+        },
+        {
+            "disease": "Chickenpox",
+            "pathogen": "Varicella-Zoster Virus",
+            "affected_organ": "Skin and whole body",
+            "mode_of_transmission": "Airborne droplets or direct contact with blisters"
+        },
+        {
+            "disease": "Measles",
+            "pathogen": "Measles virus (Paramyxovirus)",
+            "affected_organ": "Respiratory tract and Skin",
+            "mode_of_transmission": "Airborne droplets"
+        }
+    ],
+    "protozoan_diseases": [
+        {
+            "disease": "Malaria",
+            "pathogen": "Plasmodium parasite (P. falciparum, P. vivax)",
+            "affected_organ": "Liver and Red Blood Cells (RBCs)",
+            "mode_of_transmission": "Bite of infected female Anopheles mosquito"
+        },
+        {
+            "disease": "Kala-azar (Black Fever / Visceral Leishmaniasis)",
+            "pathogen": "Leishmania donovani",
+            "affected_organ": "Bone marrow, Spleen, and Liver",
+            "mode_of_transmission": "Bite of infected female Sandfly (Phlebotomus)"
+        },
+        {
+            "disease": "Sleeping Sickness (African Trypanosomiasis)",
+            "pathogen": "Trypanosoma brucei",
+            "affected_organ": "Brain and Central Nervous System",
+            "mode_of_transmission": "Bite of infected Tsetse fly"
+        },
+        {
+            "disease": "Amoebic Dysentery (Amoebiasis)",
+            "pathogen": "Entamoeba histolytica",
+            "affected_organ": "Large Intestine",
+            "mode_of_transmission": "Contaminated food and water"
+        }
+    ],
+    "fungal_and_helminthic_diseases": [
+        {
+            "disease": "Ringworm",
+            "pathogen": "Fungi (Trichophyton, Microsporum)",
+            "affected_organ": "Skin, Scalp, and Nails",
+            "mode_of_transmission": "Direct contact with infected person, animals, or soil"
+        },
+        {
+            "disease": "Athlete's Foot",
+            "pathogen": "Fungus (Tinea pedis)",
+            "affected_organ": "Skin of the feet (between toes)",
+            "mode_of_transmission": "Walking barefoot in damp, contaminated areas (e.g., public showers)"
+        },
+        {
+            "disease": "Filariasis (Elephantiasis)",
+            "pathogen": "Worm (Wuchereria bancrofti)",
+            "affected_organ": "Lymphatic vessels (causes severe swelling of lower limbs)",
+            "mode_of_transmission": "Bite of infected female Culex mosquito"
+        },
+        {
+            "disease": "Ascariasis",
+            "pathogen": "Roundworm (Ascaris lumbricoides)",
+            "affected_organ": "Intestine",
+            "mode_of_transmission": "Ingesting eggs from contaminated soil or food"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency economic concepts, banking terminology, and inflation metrics for Economics Static GK.",
+    "macroeconomics_and_national_income": [
+        {
+            "term": "Gross Domestic Product (GDP)",
+            "definition": "The total monetary value of all final goods and services produced within the geographic boundaries of a country during a specific period (usually a year)."
+        },
+        {
+            "term": "Gross National Product (GNP)",
+            "definition": "GDP plus the net income from abroad. It measures the total value of goods and services produced by the citizens of a country, regardless of where they are located."
+        },
+        {
+            "term": "Fiscal Deficit",
+            "definition": "The difference between the government's total expenditure and its total receipts (excluding borrowing). It indicates how much the government needs to borrow."
+        },
+        {
+            "term": "Balance of Payments (BoP)",
+            "definition": "A systematic record of all economic transactions between the residents of one country and the rest of the world over a specific period."
+        }
+    ],
+    "monetary_policy_and_banking": [
+        {
+            "term": "Repo Rate",
+            "definition": "The rate at which the central bank (RBI in India) lends short-term money to commercial banks against securities."
+        },
+        {
+            "term": "Reverse Repo Rate",
+            "definition": "The rate at which the central bank borrows money from commercial banks. It is used to absorb excess liquidity from the market."
+        },
+        {
+            "term": "Cash Reserve Ratio (CRR)",
+            "definition": "The specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the central bank."
+        },
+        {
+            "term": "Statutory Liquidity Ratio (SLR)",
+            "definition": "The minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold, or other securities before providing credit to its customers."
+        },
+        {
+            "term": "Non-Performing Asset (NPA)",
+            "definition": "A loan or advance for which the principal or interest payment has remained overdue for a period of 90 days."
+        }
+    ],
+    "inflation_and_market_dynamics": [
+        {
+            "term": "Stagflation",
+            "definition": "A toxic economic situation characterized by slow economic growth (stagnation), high unemployment, and high inflation."
+        },
+        {
+            "term": "Deflation",
+            "definition": "A general decline in the prices of goods and services, indicating a negative inflation rate. Often associated with economic contraction."
+        },
+        {
+            "term": "Disinflation",
+            "definition": "A temporary slowing of the pace of price inflation. Prices are still rising, but at a slower rate than before."
+        },
+        {
+            "term": "Bull Market",
+            "definition": "A financial market condition in which prices of securities (stocks) are rising or are expected to rise, reflecting investor optimism."
+        },
+        {
+            "term": "Bear Market",
+            "definition": "A financial market condition in which prices of securities are falling, typically by 20% or more, reflecting widespread pessimism."
+        }
+    ],
+    "international_trade_and_investment": [
+        {
+            "term": "Foreign Direct Investment (FDI)",
+            "definition": "An investment made by a firm or individual in one country into business interests located in another country, establishing a lasting interest (usually ownership of 10% or more)."
+        },
+        {
+            "term": "Foreign Portfolio Investment (FPI)",
+            "definition": "Investment by non-residents in Indian securities including shares, government bonds, corporate bonds, etc. Unlike FDI, it does not offer direct control over the business."
+        },
+        {
+            "term": "Special Economic Zone (SEZ)",
+            "definition": "An area in a country that is subject to different economic regulations than other regions within the same country, primarily designed to attract foreign investment and boost exports."
+        }
+    ]
+}

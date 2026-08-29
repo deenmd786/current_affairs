@@ -1,0 +1,58 @@
+{
+    "last_updated": "2026-07-05",
+    "update_log": "2026 चक्र के लिए भारत से जुड़े द्विपक्षीय और बहुपक्षीय सैन्य अभ्यासों की संकलित सूची।",
+    "exercises": [
+        {
+            "exercise_name": "युद्ध अभ्यास",
+            "participating_countries": [
+                "भारत",
+                "अमेरिका"
+            ],
+            "type": "थल सेना",
+            "latest_edition_year": "2025",
+            "location": "अलास्का, अमेरिका"
+        },
+        {
+            "exercise_name": "मालाबार",
+            "participating_countries": [
+                "भारत",
+                "अमेरिका",
+                "जापान",
+                "ऑस्ट्रेलिया"
+            ],
+            "type": "नौसेना",
+            "latest_edition_year": "2025",
+            "location": "ऑस्ट्रेलिया का पूर्वी तट"
+        },
+        {
+            "exercise_name": "सूर्य किरण",
+            "participating_countries": [
+                "भारत",
+                "नेपाल"
+            ],
+            "type": "थल सेना",
+            "latest_edition_year": "2025",
+            "location": "पिथौरागढ़, उत्तराखंड"
+        },
+        {
+            "exercise_name": "मित्र शक्ति",
+            "participating_countries": [
+                "भारत",
+                "श्रीलंका"
+            ],
+            "type": "थल सेना",
+            "latest_edition_year": "2025",
+            "location": "पुणे, महाराष्ट्र"
+        },
+        {
+            "exercise_name": "गरुड़ शक्ति",
+            "participating_countries": [
+                "भारत",
+                "इंडोनेशिया"
+            ],
+            "type": "विशेष बल (Special Forces)",
+            "latest_edition_year": "2025",
+            "location": "जकार्ता, इंडोनेशिया"
+        }
+    ]
+}

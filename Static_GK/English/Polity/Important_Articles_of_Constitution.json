@@ -1,0 +1,152 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Baseline initialization of high-frequency Articles of the Indian Constitution categorized by Parts for Polity Static GK.",
+    "fundamental_rights_and_duties": [
+        {
+            "article": "Article 14",
+            "provision": "Equality before the law and equal protection of laws."
+        },
+        {
+            "article": "Article 17",
+            "provision": "Abolition of Untouchability and prohibition of its practice."
+        },
+        {
+            "article": "Article 19",
+            "provision": "Protection of six rights regarding freedom of: (speech and expression, assembly, association, movement, residence, and profession)."
+        },
+        {
+            "article": "Article 21",
+            "provision": "Protection of life and personal liberty (No person shall be deprived of his life or personal liberty except according to procedure established by law)."
+        },
+        {
+            "article": "Article 21A",
+            "provision": "Right to Education (Free and compulsory education to all children of the age of 6 to 14 years). Added by the 86th Amendment."
+        },
+        {
+            "article": "Article 32",
+            "provision": "Right to Constitutional Remedies (Issuance of writs). Called the 'heart and soul of the Constitution' by Dr. B.R. Ambedkar."
+        },
+        {
+            "article": "Article 40",
+            "provision": "Organization of village panchayats (Directive Principle)."
+        },
+        {
+            "article": "Article 44",
+            "provision": "Uniform Civil Code for the citizens throughout the territory of India."
+        },
+        {
+            "article": "Article 51A",
+            "provision": "Fundamental Duties of citizens. Added by the 42nd Amendment (Swaran Singh Committee)."
+        }
+    ],
+    "union_executive_and_parliament": [
+        {
+            "article": "Article 52",
+            "provision": "The President of India (There shall be a President of India)."
+        },
+        {
+            "article": "Article 61",
+            "provision": "Procedure for impeachment of the President."
+        },
+        {
+            "article": "Article 72",
+            "provision": "Power of President to grant pardons, reprieves, respites, or remissions of punishment."
+        },
+        {
+            "article": "Article 74",
+            "provision": "Council of Ministers to aid and advise President."
+        },
+        {
+            "article": "Article 76",
+            "provision": "Attorney-General for India (Highest law officer of the country)."
+        },
+        {
+            "article": "Article 110",
+            "provision": "Definition of 'Money Bills'. (Can only be introduced in the Lok Sabha)."
+        },
+        {
+            "article": "Article 112",
+            "provision": "Annual Financial Statement (Constitution does not use the word 'Budget')."
+        },
+        {
+            "article": "Article 123",
+            "provision": "Power of President to promulgate Ordinances during recess of Parliament."
+        }
+    ],
+    "judiciary_and_cag": [
+        {
+            "article": "Article 124",
+            "provision": "Establishment and constitution of the Supreme Court."
+        },
+        {
+            "article": "Article 129",
+            "provision": "Supreme Court to be a court of record (Power to punish for its contempt)."
+        },
+        {
+            "article": "Article 137",
+            "provision": "Review of judgments or orders by the Supreme Court (Curative petition origin)."
+        },
+        {
+            "article": "Article 143",
+            "provision": "Power of President to consult the Supreme Court (Advisory jurisdiction)."
+        },
+        {
+            "article": "Article 148",
+            "provision": "Comptroller and Auditor-General of India (CAG)."
+        },
+        {
+            "article": "Article 214",
+            "provision": "High Courts for States."
+        },
+        {
+            "article": "Article 226",
+            "provision": "Power of High Courts to issue certain writs."
+        }
+    ],
+    "constitutional_bodies_and_emergency": [
+        {
+            "article": "Article 243",
+            "provision": "Panchayats and Municipalities (Added by 73rd and 74th Amendments)."
+        },
+        {
+            "article": "Article 266",
+            "provision": "Consolidated Funds and public accounts of India and of the States."
+        },
+        {
+            "article": "Article 267",
+            "provision": "Contingency Fund of India (Placed at the disposal of the President)."
+        },
+        {
+            "article": "Article 280",
+            "provision": "Finance Commission (Constituted by the President every fifth year)."
+        },
+        {
+            "article": "Article 300A",
+            "provision": "Persons not to be deprived of property save by authority of law (Right to property - changed from a Fundamental Right to a Constitutional Right by 44th Amendment)."
+        },
+        {
+            "article": "Article 315",
+            "provision": "Public Service Commissions for the Union and for the States (UPSC & SPSC)."
+        },
+        {
+            "article": "Article 324",
+            "provision": "Superintendence, direction, and control of elections to be vested in an Election Commission."
+        },
+        {
+            "article": "Article 352",
+            "provision": "Proclamation of Emergency (National Emergency on grounds of war, external aggression, or armed rebellion)."
+        },
+        {
+            "article": "Article 356",
+            "provision": "Provisions in case of failure of constitutional machinery in States (President's Rule / State Emergency)."
+        },
+        {
+            "article": "Article 360",
+            "provision": "Provisions as to Financial Emergency."
+        },
+        {
+            "article": "Article 368",
+            "provision": "Power of Parliament to amend the Constitution and procedure therefor."
+        }
+    ]
+}

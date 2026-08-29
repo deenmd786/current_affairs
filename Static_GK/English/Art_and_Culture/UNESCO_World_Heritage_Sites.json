@@ -1,0 +1,262 @@
+﻿{
+    "last_updated": "2026-07-05",
+    "update_log": "Complete updated baseline of all official UNESCO World Heritage Sites in India categorized by Cultural, Natural, and Mixed sites for the 2026 Exam Cycle.",
+    "cultural_sites": [
+        {
+            "site_name": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+            "location": "Charaideo, Assam",
+            "year_inscribed": 2024,
+            "significance": "Late medieval mound-burial system of the Tai-Ahom dynasty, representing unique royal funerary traditions akin to the pyramids of Egypt."
+        },
+        {
+            "site_name": "Santiniketan",
+            "location": "Birbhum District, West Bengal",
+            "year_inscribed": 2023,
+            "significance": "Established by Rabindranath Tagore; an experimental school and university (Visva-Bharati) based on concepts of nature-based learning and global humanism."
+        },
+        {
+            "site_name": "Sacred Ensembles of the Hoysalas",
+            "location": "Belur, Halebidu, and Somanathapura (Karnataka)",
+            "year_inscribed": 2023,
+            "significance": "Includes the Chennakeshava, Hoysaleswara, and Keshava temples; highly unique for their star-shaped architectural plans and hyper-detailed soapstone carvings."
+        },
+        {
+            "site_name": "Dholavira: a Harappan City",
+            "location": "Kutch District, Gujarat",
+            "year_inscribed": 2021,
+            "significance": "One of the most remarkable archaeological sites of the Indus Valley Civilization; famous for its advanced water harvesting system and stone fortifications."
+        },
+        {
+            "site_name": "Kakatiya Rudreshwara (Ramappa) Temple",
+            "location": "Mulugu District, Telangana",
+            "year_inscribed": 2021,
+            "significance": "Built during the Kakatiya period using lightweight 'floating bricks'; features incredibly intricate polished black basalt carvings and brackets."
+        },
+        {
+            "site_name": "Jaipur City",
+            "location": "Jaipur, Rajasthan",
+            "year_inscribed": 2019,
+            "significance": "A fortified city planned in 1727 under Sawai Jai Singh II, designed using Vedic architectural principles (Vastu Shastra) and grid iron patterns."
+        },
+        {
+            "site_name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+            "location": "Mumbai, Maharashtra",
+            "year_inscribed": 2018,
+            "significance": "A collection of 19th-century Victorian Neo-Gothic public buildings and 20th-century Art Deco residential buildings flanking the Oval Maidan."
+        },
+        {
+            "site_name": "The Archaeological Site of Nalanda Mahavihara",
+            "location": "Nalanda, Bihar",
+            "year_inscribed": 2016,
+            "significance": "Remains of a major monastic and scholastic institution dating from the 3rd century BCE to the 13th century CE; the ancient world's premier residential university."
+        },
+        {
+            "site_name": "Rani-ki-Vav (the Queen’s Stepwell)",
+            "location": "Patan, Gujarat",
+            "year_inscribed": 2014,
+            "significance": "An exceptional multi-storey subterranean stepped well built by Queen Udayamati; designed as an inverted temple honoring Lord Vishnu."
+        },
+        {
+            "site_name": "Hill Forts of Rajasthan",
+            "location": "Chittorgarh, Kumbhalgarh, Sawai Madhopur, Jhalawar, Jaipur, and Jaisalmer (Rajasthan)",
+            "year_inscribed": 2013,
+            "significance": "Six majestic forts representing the defensive, military, and courtly architecture of Rajput princely states between the 8th and 18th centuries."
+        },
+        {
+            "site_name": "The Jantar Mantar, Jaipur",
+            "location": "Jaipur, Rajasthan",
+            "year_inscribed": 2010,
+            "significance": "An astronomical observation site built by Maharaja Jai Singh II; houses the world's largest stone sundial (Vrihat Samrat Yantra)."
+        },
+        {
+            "site_name": "Red Fort Complex",
+            "location": "Old Delhi, Delhi",
+            "year_inscribed": 2007,
+            "significance": "Constructed by Shah Jahan; represents the absolute peak of Mughal architectural creativity and royal palace complex design."
+        },
+        {
+            "site_name": "Champaner-Pavagadh Archaeological Park",
+            "location": "Panchmahal District, Gujarat",
+            "year_inscribed": 2004,
+            "significance": "Concentrated, unexcavated Hindu-Jain ruins alongside a 16th-century Islamic capital city, displaying a rare transition of architectural styles."
+        },
+        {
+            "site_name": "Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus)",
+            "location": "Mumbai, Maharashtra",
+            "year_inscribed": 2004,
+            "significance": "An outstanding example of Victorian Gothic Revival architecture in India blended with themes derived from traditional Indian palace designs."
+        },
+        {
+            "site_name": "Rock Shelters of Bhimbetka",
+            "location": "Raisen District, Madhya Pradesh",
+            "year_inscribed": 2003,
+            "significance": "Five clusters of natural rock shelters displaying prehistoric cave paintings that span from the Paleolithic and Mesolithic periods up to the historical era."
+        },
+        {
+            "site_name": "Mahabodhi Temple Complex at Bodh Gaya",
+            "location": "Bodh Gaya, Bihar",
+            "year_inscribed": 2002,
+            "significance": "One of the earliest brick structures surviving from the late Gupta period; directly marks the location where Lord Buddha achieved supreme enlightenment."
+        },
+        {
+            "site_name": "Humayun’s Tomb",
+            "location": "New Delhi, Delhi",
+            "year_inscribed": 1993,
+            "significance": "The first grand garden-tomb on the Indian subcontinent; served as the structural inspiration and prototype for the Taj Mahal."
+        },
+        {
+            "site_name": "Qutb Minar and its Monuments",
+            "location": "New Delhi, Delhi",
+            "year_inscribed": 1993,
+            "significance": "Features the 73-meter brick minaret, Quwwat-ul-Islam Mosque, and the rust-free iron pillar of Chandragupta II."
+        },
+        {
+            "site_name": "Buddhist Monuments at Sanchi",
+            "location": "Raisen District, Madhya Pradesh",
+            "year_inscribed": 1989,
+            "significance": "A complex of stupas, pillars, and monasteries; the Great Stupa is the oldest stone structure in India, commissioned by Ashoka."
+        },
+        {
+            "site_name": "Elephanta Caves",
+            "location": "Elephanta Island, Mumbai Harbour, Maharashtra",
+            "year_inscribed": 1987,
+            "significance": "Rock-cut cave temples primarily dedicated to Lord Shiva; famous for the colossal 7-meter high Trimurti sculpture."
+        },
+        {
+            "site_name": "Great Living Chola Temples",
+            "location": "Thanjavur, Gangaikonda Cholapuram, and Darasuram (Tamil Nadu)",
+            "year_inscribed": 1987,
+            "significance": "Includes Brihadisvara, Gangaikondacholisvaram, and Airavatesvara temples; brilliant examples of Chola architecture, sculpture, and bronze casting."
+        },
+        {
+            "site_name": "Group of Monuments at Pattadakal",
+            "location": "Bagalkot District, Karnataka",
+            "year_inscribed": 1987,
+            "significance": "Features a striking blend of Northern (Nagara) and Southern (Dravidian) temple architectural styles built under the Chalukya Dynasty."
+        },
+        {
+            "site_name": "Churches and Convents of Goa",
+            "location": "Old Goa, Goa",
+            "year_inscribed": 1986,
+            "significance": "Includes the Basilica of Bom Jesus (housing the relics of St. Francis Xavier); instrumental in spreading Manueline and Baroque art styles across Asia."
+        },
+        {
+            "site_name": "Fatehpur Sikri",
+            "location": "Agra District, Uttar Pradesh",
+            "year_inscribed": 1986,
+            "significance": "The short-lived capital city built by Emperor Akbar; features grand structures like the Buland Darwaza and Jama Masjid."
+        },
+        {
+            "site_name": "Group of Monuments at Hampi",
+            "location": "Vijayanagara District, Karnataka",
+            "year_inscribed": 1986,
+            "significance": "The opulent ruins of the capital of the Vijayanagara Empire; showcases advanced Dravidian civic, military, and religious architecture."
+        },
+        {
+            "site_name": "Khajuraho Group of Monuments",
+            "location": "Chhatarpur District, Madhya Pradesh",
+            "year_inscribed": 1986,
+            "significance": "Built by the Chandela Dynasty; features a harmonious balance of Hindu and Jain temples famous for their Nagara shikharas and expressive erotic sculptures."
+        },
+        {
+            "site_name": "Group of Monuments at Mahabalipuram",
+            "location": "Chengalpattu District, Tamil Nadu",
+            "year_inscribed": 1984,
+            "significance": "Built by Pallava kings; features rock-cut cave rathas (chariots), mandapas, the open-air relief 'Descent of the Ganges', and the stone Shore Temple."
+        },
+        {
+            "site_name": "Sun Temple, Konark",
+            "location": "Puri District, Odisha",
+            "year_inscribed": 1984,
+            "significance": "A masterpiece of Kalinga architecture built by King Narasimhadeva I; shaped as a monumental stone chariot for Surya, the Sun God."
+        },
+        {
+            "site_name": "Agra Fort",
+            "location": "Agra, Uttar Pradesh",
+            "year_inscribed": 1983,
+            "significance": "A massive 16th-century red sandstone walled city built by Akbar, serving as the primary seat of the Mughal Emperors until 1648."
+        },
+        {
+            "site_name": "Ajanta Caves",
+            "location": "Chhatrapati Sambhajinagar, Maharashtra",
+            "year_inscribed": 1983,
+            "significance": "30 rock-cut Buddhist caves containing masterpieces of ancient fresco paintings and sculptures dating from the 2nd century BCE."
+        },
+        {
+            "site_name": "Ellora Caves",
+            "location": "Chhatrapati Sambhajinagar, Maharashtra",
+            "year_inscribed": 1983,
+            "significance": "34 rock-cut structures honoring Buddhism, Hinduism, and Jainism; contains Cave 16, the monumental monolithic Kailash Temple."
+        },
+        {
+            "site_name": "Taj Mahal",
+            "location": "Agra, Uttar Pradesh",
+            "year_inscribed": 1983,
+            "significance": "An iconic white marble mausoleum constructed under Shah Jahan; widely revered as the absolute pinnacle of Mughal artistic achievement."
+        },
+        {
+            "site_name": "Mountain Railways of India",
+            "location": "Darjeeling (WB), Nilgiri (TN), and Kalka-Shimla (HP)",
+            "year_inscribed": 1999,
+            "significance": "Three narrow-gauge hill railways representing brilliant engineering solutions to establishing regular rail links across rugged mountain terrains."
+        },
+        {
+            "site_name": "The Architectural Work of Le Corbusier",
+            "location": "Chandigarh",
+            "year_inscribed": 2016,
+            "significance": "The Complexe du Capitole in Chandigarh, recognized as an outstanding global contribution to the Modern Movement in architecture."
+        }
+    ],
+    "natural_sites": [
+        {
+            "site_name": "Great Himalayan National Park Conservation Area",
+            "location": "Kullu Region, Himachal Pradesh",
+            "year_inscribed": 2014,
+            "significance": "Characterized by high alpine peaks, meadows, and riverine forests; acts as a crucial refuge for endangered species like the snow leopard and Western Tragopan."
+        },
+        {
+            "site_name": "Western Ghats",
+            "location": "Maharashtra, Goa, Karnataka, Tamil Nadu, and Kerala",
+            "year_inscribed": 2012,
+            "significance": "Older than the Himalayas; a global biodiversity hotspot containing exceptionally high levels of endemism in its montane forest ecosystems."
+        },
+        {
+            "site_name": "Sundarbans National Park",
+            "location": "West Bengal",
+            "year_inscribed": 1987,
+            "significance": "The world's largest area of mangrove forests, formed by the delta of the Ganga, Brahmaputra, and Meghna rivers; primary habitat of the Bengal Tiger."
+        },
+        {
+            "site_name": "Keoladeo National Park",
+            "location": "Bharatpur, Rajasthan",
+            "year_inscribed": 1985,
+            "significance": "A man-made wetland reserve that serves as a highly critical wintering ground for thousands of rare and endangered migratory waterfowl and birds."
+        },
+        {
+            "site_name": "Manas Wildlife Sanctuary",
+            "location": "Assam",
+            "year_inscribed": 1985,
+            "significance": "Located in the foothills of the Himalayas; shelters unique and endangered endemic wildlife like the Pygmy Hog, Assam Roofed Turtle, and Golden Langur."
+        },
+        {
+            "site_name": "Kaziranga National Park",
+            "location": "Assam",
+            "year_inscribed": 1985,
+            "significance": "Undisturbed tall elephant grass meadows and swamps; home to the world’s largest population of the Great Indian One-horned Rhinoceros."
+        },
+        {
+            "site_name": "Nanda Devi and Valley of Flowers National Parks",
+            "location": "Chamoli District, Uttarakhand",
+            "year_inscribed": 1988,
+            "significance": "Comprises the rugged wilderness of Nanda Devi peak alongside the Valley of Flowers, globally renowned for its meadows of endemic alpine flowers."
+        }
+    ],
+    "mixed_sites": [
+        {
+            "site_name": "Khangchendzonga National Park",
+            "location": "North-West Sikkim",
+            "year_inscribed": 2016,
+            "significance": "India's only Mixed site. Features spectacular high-altitude landscapes centering around Mt. Khangchendzonga, embedded deep within unique Buddhist cultural myths and local folklore."
+        }
+    ]
+}

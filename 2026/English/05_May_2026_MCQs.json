@@ -1,0 +1,702 @@
+﻿[
+  {
+    "id": "ca_2026_05_001",
+    "date": "2026-05-30",
+    "question": "The Reserve Bank of India (RBI) Monetary Policy Committee (MPC) maintained the policy repo rate at what percentage in May 2026?",
+    "options": [
+      "6.50%",
+      "5.25%",
+      "5.50%",
+      "6.00%"
+    ],
+    "answer": "5.25%",
+    "explanation": "The RBI MPC kept the policy repo rate unchanged at 5.25%, maintaining a neutral stance to balance growth and inflation dynamics.",
+    "tags": ["Banking", "Economy", "RBI"]
+  },
+  {
+    "id": "ca_2026_05_002",
+    "date": "2026-05-09",
+    "question": "Who was appointed as the new Chief of Defence Staff (CDS) by the Government of India in May 2026?",
+    "options": [
+      "Lt Gen Upendra Dwivedi",
+      "Lt Gen N.S. Raja Subramani",
+      "Lt Gen Manoj Pande",
+      "Lt Gen Anil Chauhan"
+    ],
+    "answer": "Lt Gen N.S. Raja Subramani",
+    "explanation": "Lt Gen N.S. Raja Subramani (Retd) was appointed as the new Chief of Defence Staff, also functioning as Secretary to the Department of Military Affairs.",
+    "tags": ["Appointments", "Defence", "National"]
+  },
+  {
+    "id": "ca_2026_05_003",
+    "date": "2026-05-15",
+    "question": "Which country will host the G7 Leaders' Summit 2026 at Évian-les-Bains?",
+    "options": [
+      "Germany",
+      "Italy",
+      "France",
+      "Japan"
+    ],
+    "answer": "France",
+    "explanation": "France, holding the G7 Presidency for 2026, will host the G7 Leaders' Summit in June 2026 at Évian-les-Bains.",
+    "tags": ["International"]
+  },
+  {
+    "id": "ca_2026_05_004",
+    "date": "2026-05-20",
+    "question": "Which country recently became the 26th member of the International Big Cat Alliance (IBCA) initiated by India?",
+    "options": [
+      "Saudi Arabia",
+      "UAE",
+      "Oman",
+      "South Africa"
+    ],
+    "answer": "Saudi Arabia",
+    "explanation": "Saudi Arabia officially joined the International Big Cat Alliance (IBCA) as its 26th member, supporting global conservation efforts.",
+    "tags": ["International", "Environment"]
+  },
+  {
+    "id": "ca_2026_05_005",
+    "date": "2026-05-25",
+    "question": "The Santa Marta Climate Conference, focusing on transitioning away from fossil fuels, was co-hosted by the Netherlands and which other country?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Norway",
+      "Kenya"
+    ],
+    "answer": "Colombia",
+    "explanation": "The Santa Marta Climate Conference was co-hosted by Colombia and the Netherlands, bringing together over 50 countries to discuss fossil fuel transitions.",
+    "tags": ["International", "Environment"]
+  },
+  {
+    "id": "ca_2026_05_006",
+    "date": "2026-05-10",
+    "question": "In May 2026, the World Health Organization (WHO) declared a Global Health Emergency due to an outbreak of which virus in the DRC and Uganda?",
+    "options": [
+      "Zika Virus",
+      "Marburg Virus",
+      "Ebola Virus",
+      "Mpox"
+    ],
+    "answer": "Ebola Virus",
+    "explanation": "WHO declared Ebola a Global Health Emergency following a severe outbreak in the Democratic Republic of Congo and Uganda.",
+    "tags": ["International", "Science"]
+  },
+  {
+    "id": "ca_2026_05_007",
+    "date": "2026-05-12",
+    "question": "Which team won the Thomas Cup 2026 in Badminton?",
+    "options": [
+      "Indonesia",
+      "China",
+      "Denmark",
+      "India"
+    ],
+    "answer": "China",
+    "explanation": "China emerged victorious in the 34th edition of the Thomas Cup (Men's Team Badminton Championship) hosted in Denmark.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_05_008",
+    "date": "2026-05-12",
+    "question": "Which country won the Uber Cup 2026 (Women's Team Badminton Championship)?",
+    "options": [
+      "South Korea",
+      "China",
+      "Japan",
+      "Thailand"
+    ],
+    "answer": "South Korea",
+    "explanation": "South Korea won the 31st edition of the Uber Cup held in Denmark, defeating China in the finals.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_05_009",
+    "date": "2026-05-30",
+    "question": "Under the Citizenship (Amendment) Rules, 2026, which new document type was introduced for the Indian diaspora?",
+    "options": [
+      "Digital NRI Passport",
+      "electronic Overseas Citizen of India (e-OCI) card",
+      "Smart PIO Card",
+      "e-Visa Pro"
+    ],
+    "answer": "electronic Overseas Citizen of India (e-OCI) card",
+    "explanation": "The Ministry of Home Affairs introduced the e-OCI card under the newly notified Citizenship (Amendment) Rules, 2026, for paperless identity verification.",
+    "tags": ["National", "Schemes"]
+  },
+  {
+    "id": "ca_2026_05_010",
+    "date": "2026-05-28",
+    "question": "The Directorate General of Foreign Trade (DGFT) placed a total export ban on which agricultural commodity until September 2026?",
+    "options": [
+      "Wheat",
+      "Non-Basmati Rice",
+      "Sugar",
+      "Onion"
+    ],
+    "answer": "Sugar",
+    "explanation": "To prevent domestic shortages and price shocks amid El Niño predictions, the DGFT banned the export of all categories of sugar until 30th September 2026.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_05_011",
+    "date": "2026-05-22",
+    "question": "Which city is the headquarters of the newly created South Coast Railway Zone?",
+    "options": [
+      "Vijayawada",
+      "Visakhapatnam",
+      "Guntur",
+      "Secunderabad"
+    ],
+    "answer": "Visakhapatnam",
+    "explanation": "The South Coast Railway Zone, India's 19th railway zone, has been established with its headquarters in Visakhapatnam, Andhra Pradesh.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_05_012",
+    "date": "2026-05-18",
+    "question": "The Supreme Court (Number of Judges) Amendment Bill, 2026, seeks to increase the sanctioned strength of Supreme Court judges to how many (excluding the CJI)?",
+    "options": [
+      "33",
+      "35",
+      "37",
+      "40"
+    ],
+    "answer": "37",
+    "explanation": "The amendment bill increases the maximum number of Supreme Court judges from 33 to 37 (excluding the Chief Justice of India) to handle mounting caseloads.",
+    "tags": ["National", "Appointments"]
+  },
+  {
+    "id": "ca_2026_05_013",
+    "date": "2026-05-31",
+    "question": "Which city hosted the final of the Indian Premier League (IPL) 2026?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Kolkata",
+      "Ahmedabad"
+    ],
+    "answer": "Ahmedabad",
+    "explanation": "The IPL 2026 final was held at the Narendra Modi Stadium in Ahmedabad on May 31, 2026.",
+    "tags": ["Sports", "National"]
+  },
+  {
+    "id": "ca_2026_05_014",
+    "date": "2026-05-24",
+    "question": "Which 15-year-old batsman broke Chris Gayle's record by smashing 65 sixes in the IPL 2026 season?",
+    "options": [
+      "Vaibhav Sooryavanshi",
+      "Yashasvi Jaiswal",
+      "Riyan Parag",
+      "Shubman Gill"
+    ],
+    "answer": "Vaibhav Sooryavanshi",
+    "explanation": "Playing for Rajasthan Royals, Vaibhav Sooryavanshi set a new IPL record with 65 sixes in a single season, surpassing Chris Gayle's long-standing record.",
+    "tags": ["Sports", "National"]
+  },
+  {
+    "id": "ca_2026_05_015",
+    "date": "2026-05-29",
+    "question": "The RBI widened the Term Money Market by permitting the participation of which entities in May 2026?",
+    "options": [
+      "Retail Investors",
+      "Non-bank entities (NBFCs, HFCs)",
+      "Foreign Portfolio Investors (FPIs)",
+      "Cooperative Banks"
+    ],
+    "answer": "Non-bank entities (NBFCs, HFCs)",
+    "explanation": "To deepen short-term rupee funding, RBI allowed non-bank entities like NBFCs, Housing Finance Companies, and All-India Financial Institutions to participate in the Term Money Market.",
+    "tags": ["Banking", "Economy", "RBI"]
+  },
+  {
+    "id": "ca_2026_05_016",
+    "date": "2026-05-26",
+    "question": "What is the maximum compensation limit announced by the RBI for losses arising from small-value fraudulent digital transactions under its new framework?",
+    "options": [
+      "₹10,000",
+      "₹25,000",
+      "₹50,000",
+      "₹1,00,000"
+    ],
+    "answer": "₹25,000",
+    "explanation": "The RBI Governor announced a framework compensating customers up to ₹25,000 for small-value fraudulent digital transactions to strengthen consumer protection.",
+    "tags": ["Banking", "Economy", "RBI"]
+  },
+  {
+    "id": "ca_2026_05_017",
+    "date": "2026-05-14",
+    "question": "Who was appointed as the Government Nominee Director on the board of Canara Bank in May 2026?",
+    "options": [
+      "Ambrish Tripathi",
+      "Shalini Pandit",
+      "Dileep Sanghani",
+      "Rajnish Kumar"
+    ],
+    "answer": "Shalini Pandit",
+    "explanation": "Shalini Pandit was appointed as the Government Nominee Director on the board of Canara Bank.",
+    "tags": ["Appointments", "Banking"]
+  },
+  {
+    "id": "ca_2026_05_018",
+    "date": "2026-05-20",
+    "question": "Which Indian Navy sail training ship completed a historic trans-Atlantic passage as part of the Lokayan 26 Expedition?",
+    "options": [
+      "INS Tarangini",
+      "INS Sudarshini",
+      "INS Darshak",
+      "INS Trishul"
+    ],
+    "answer": "INS Sudarshini",
+    "explanation": "INS Sudarshini arrived in Antigua and Barbuda after completing a trans-Atlantic passage under the Lokayan 26 Expedition.",
+    "tags": ["Defence", "National"]
+  },
+  {
+    "id": "ca_2026_05_019",
+    "date": "2026-05-18",
+    "question": "The 'Bharat Innovates' programme is a national deep-tech initiative launched by which Union Ministry?",
+    "options": [
+      "Ministry of Science and Technology",
+      "Ministry of Electronics and IT",
+      "Ministry of Education",
+      "Ministry of Commerce and Industry"
+    ],
+    "answer": "Ministry of Education",
+    "explanation": "Bharat Innovates 2026 is a global accelerator framework designed by the Ministry of Education to connect India's deep-tech startups with international stakeholders.",
+    "tags": ["National", "Schemes", "Science"]
+  },
+  {
+    "id": "ca_2026_05_020",
+    "date": "2026-05-25",
+    "question": "Which organization classified over 110 newly discovered marine species from deep-sea surveys in Australia in May 2026?",
+    "options": [
+      "CSIRO",
+      "NASA",
+      "WHOI",
+      "NOAA"
+    ],
+    "answer": "CSIRO",
+    "explanation": "Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO) classified over 110 new marine species discovered during deep-sea expeditions.",
+    "tags": ["Science", "International"]
+  },
+  {
+    "id": "ca_2026_05_021",
+    "date": "2026-05-10",
+    "question": "Which country recently passed legislation establishing Europe's first fuel-by-fuel fossil exit roadmap, ending coal by 2030?",
+    "options": [
+      "Germany",
+      "France",
+      "Norway",
+      "Sweden"
+    ],
+    "answer": "France",
+    "explanation": "France launched Europe's first comprehensive fossil exit roadmap, pledging to end coal by 2030, oil by 2045, and natural gas by 2050.",
+    "tags": ["International", "Environment"]
+  },
+  {
+    "id": "ca_2026_05_022",
+    "date": "2026-05-15",
+    "question": "Who scored the highest individual score by an Indian in IPL history (152 not out) during the 2026 season?",
+    "options": [
+      "Virat Kohli",
+      "Shubman Gill",
+      "KL Rahul",
+      "Rohit Sharma"
+    ],
+    "answer": "KL Rahul",
+    "explanation": "Playing for Delhi Capitals, KL Rahul scored an unbeaten 152 off 66 balls, marking the highest individual score by an Indian in IPL history.",
+    "tags": ["Sports", "National"]
+  },
+  {
+    "id": "ca_2026_05_023",
+    "date": "2026-05-22",
+    "question": "The 22nd Shangri-La Dialogue, a premier defence and security summit, concluded in which country in May 2026?",
+    "options": [
+      "Japan",
+      "Singapore",
+      "Malaysia",
+      "South Korea"
+    ],
+    "answer": "Singapore",
+    "explanation": "The 22nd Shangri-La Dialogue, bringing together defense ministers and security experts from around the world, concluded in Singapore.",
+    "tags": ["International", "Defence"]
+  },
+  {
+    "id": "ca_2026_05_024",
+    "date": "2026-05-05",
+    "question": "DRDO successfully tested the ULPGM-V3 in May 2026. What type of weapon is it?",
+    "options": [
+      "Anti-Radiation Missile",
+      "Unmanned Aerial Vehicle",
+      "Laser Guided Precision Missile",
+      "Torpedo"
+    ],
+    "answer": "Laser Guided Precision Missile",
+    "explanation": "DRDO successfully test-fired the ULPGM-V3, advancing India's indigenous laser-guided precision missile capabilities.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_05_025",
+    "date": "2026-05-11",
+    "question": "What is the name of the new digital banking customer protection rules implemented by the RBI effective from July 2026?",
+    "options": [
+      "Digital Banking Framework 2026",
+      "Customer Protection Rules for Digital Banking",
+      "Cyber Safeguard Regulations",
+      "UPI Security Protocol"
+    ],
+    "answer": "Customer Protection Rules for Digital Banking",
+    "explanation": "The RBI notified new customer protection rules specifically tailored for the expanding digital banking ecosystem, set to enforce stricter fraud liability guidelines.",
+    "tags": ["Banking", "RBI"]
+  },
+  {
+    "id": "ca_2026_05_026",
+    "date": "2026-05-27",
+    "question": "As per the National Family Health Survey-6 (NFHS-6) released in May 2026, the Total Fertility Rate (TFR) in India has fallen below the replacement level of:",
+    "options": [
+      "2.3",
+      "2.1",
+      "1.9",
+      "2.5"
+    ],
+    "answer": "2.1",
+    "explanation": "The NFHS-6 report confirmed that India's Total Fertility Rate (TFR) has dropped below the demographic replacement level of 2.1.",
+    "tags": ["National", "Science"]
+  },
+  {
+    "id": "ca_2026_05_027",
+    "date": "2026-05-28",
+    "question": "Who serves as the current 53rd Chief Justice of India as of May 2026?",
+    "options": [
+      "Justice D.Y. Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice Surya Kant",
+      "Justice B.R. Gavai"
+    ],
+    "answer": "Justice Surya Kant",
+    "explanation": "Justice Surya Kant took over as the 53rd Chief Justice of India, a position highlighted during the Supreme Court judge strength expansion in May 2026.",
+    "tags": ["Appointments", "National"]
+  },
+  {
+    "id": "ca_2026_05_028",
+    "date": "2026-05-21",
+    "question": "Which Indian athlete won a medal at the Rabat Diamond League held in Morocco in May 2026?",
+    "options": [
+      "Neeraj Chopra",
+      "Avinash Sable",
+      "Murali Sreeshankar",
+      "Kishore Jena"
+    ],
+    "answer": "Avinash Sable",
+    "explanation": "Indian steeplechaser Avinash Sable delivered a strong performance at the Rabat Diamond League in Morocco.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_05_029",
+    "date": "2026-05-26",
+    "question": "What is the theme for World Milk Day observed on June 1, as announced in May 2026?",
+    "options": [
+      "Nutrition for All",
+      "Dairy and Sustainability",
+      "Celebrating Women Farmers",
+      "Milk: The Complete Food"
+    ],
+    "answer": "Celebrating Women Farmers",
+    "explanation": "The theme for World Milk Day 2026 was announced as 'Celebrating Women Farmers' to honor their contribution to the dairy supply chain.",
+    "tags": ["National", "International"]
+  },
+  {
+    "id": "ca_2026_05_030",
+    "date": "2026-05-19",
+    "question": "Who was appointed as the CEO of NITI Aayog with additional charge in May 2026?",
+    "options": [
+      "B.V.R. Subrahmanyam",
+      "Nidhi Chhibber",
+      "Parameswaran Iyer",
+      "Amitabh Kant"
+    ],
+    "answer": "Nidhi Chhibber",
+    "explanation": "Senior bureaucrat Nidhi Chhibber was assigned the additional charge of CEO, NITI Aayog during the senior civil services reshuffle.",
+    "tags": ["Appointments", "National"]
+  },
+  {
+    "id": "ca_2026_05_031",
+    "date": "2026-05-23",
+    "question": "Which major sports event commenced on 1 June 2026 in Warsaw, Poland?",
+    "options": [
+      "FIBA 3x3 Basketball World Cup",
+      "IHF Handball World Championship",
+      "ITTF Table Tennis Finals",
+      "World Athletics Relays"
+    ],
+    "answer": "FIBA 3x3 Basketball World Cup",
+    "explanation": "The FIBA 3x3 Basketball World Cup 2026 began in Warsaw, Poland, featuring top international teams.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_05_032",
+    "date": "2026-05-16",
+    "question": "Which state launched the 'Khet Bachao' campaign nationwide to protect agricultural lands?",
+    "options": [
+      "Punjab",
+      "Haryana",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Haryana",
+    "explanation": "The 'Khet Bachao' campaign was launched to advocate for farmers' land rights and prevent unauthorized industrial acquisitions.",
+    "tags": ["State", "Agriculture"]
+  },
+  {
+    "id": "ca_2026_05_033",
+    "date": "2026-05-24",
+    "question": "ISRO achieved a major milestone in May 2026 by crossing the launch of how many foreign satellites?",
+    "options": [
+      "350",
+      "400",
+      "434",
+      "500"
+    ],
+    "answer": "434",
+    "explanation": "With a successful commercial launch in May 2026, ISRO officially crossed the milestone of launching 434 foreign satellites for international clients.",
+    "tags": ["Science", "National"]
+  },
+  {
+    "id": "ca_2026_05_034",
+    "date": "2026-05-08",
+    "question": "Which global financial institution projected slower global growth for the latter half of 2026?",
+    "options": [
+      "Asian Development Bank",
+      "World Bank",
+      "IMF",
+      "Both World Bank and IMF"
+    ],
+    "answer": "Both World Bank and IMF",
+    "explanation": "The IMF and World Bank jointly projected slower global economic growth and lower inflation entering the second half of 2026 due to trade frictions.",
+    "tags": ["Economy", "International"]
+  },
+  {
+    "id": "ca_2026_05_035",
+    "date": "2026-05-02",
+    "question": "Which organization successfully achieved a long-duration Scramjet combustor test, boosting India's hypersonic programme?",
+    "options": [
+      "ISRO",
+      "DRDO",
+      "HAL",
+      "BrahMos Aerospace"
+    ],
+    "answer": "DRDO",
+    "explanation": "The Defence Research and Development Organisation (DRDO) successfully completed a long-duration Scramjet combustor test, a major step toward building hypersonic cruise missiles.",
+    "tags": ["Defence", "Science"]
+  },
+  {
+    "id": "ca_2026_05_036",
+    "date": "2026-05-27",
+    "question": "The Indian government completely exempted import duty on which crop to stabilize the domestic textile sector?",
+    "options": [
+      "Jute",
+      "Cotton",
+      "Silk",
+      "Wool"
+    ],
+    "answer": "Cotton",
+    "explanation": "The Centre notified a complete exemption of import duty on cotton to aid the domestic spinning and textile industry facing raw material shortages.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_05_037",
+    "date": "2026-05-13",
+    "question": "Which Grand Slam tournament is exclusively played on clay courts and began its main draw in May 2026?",
+    "options": [
+      "Australian Open",
+      "Wimbledon",
+      "US Open",
+      "Roland-Garros (French Open)"
+    ],
+    "answer": "Roland-Garros (French Open)",
+    "explanation": "The French Open, or Roland-Garros, began in late May 2026. It is the only Grand Slam tennis tournament played on clay courts.",
+    "tags": ["Sports", "International"]
+  },
+  {
+    "id": "ca_2026_05_038",
+    "date": "2026-05-17",
+    "question": "Who was elected as the new Chairman of IFFCO-MC Crop Science in May 2026?",
+    "options": [
+      "Dileep Sanghani",
+      "U.S. Awasthi",
+      "Rakesh Kapur",
+      "Balvinder Singh Nakai"
+    ],
+    "answer": "Dileep Sanghani",
+    "explanation": "Dileep Sanghani was unanimously elected as the new Chairman of IFFCO-MC Crop Science.",
+    "tags": ["Appointments", "Agriculture"]
+  },
+  {
+    "id": "ca_2026_05_039",
+    "date": "2026-05-28",
+    "question": "Which Indian city launched the 'Metro Monday' initiative to encourage public transport usage?",
+    "options": [
+      "Bengaluru",
+      "Delhi",
+      "Pune",
+      "Hyderabad"
+    ],
+    "answer": "Pune",
+    "explanation": "Pune launched the 'Metro Monday' campaign to promote the use of the newly expanded metro rail network and reduce vehicular traffic at the start of the week.",
+    "tags": ["State", "Environment"]
+  },
+  {
+    "id": "ca_2026_05_040",
+    "date": "2026-05-15",
+    "question": "India and which country elevated their bilateral ties to a 'Green Strategic Partnership' in May 2026?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "answer": "Norway",
+    "explanation": "India and Norway signed agreements to elevate their bilateral ties to a Green Strategic Partnership, focusing on renewable energy and sustainable marine technologies.",
+    "tags": ["International Relations", "National"]
+  },
+  {
+    "id": "ca_2026_05_041",
+    "date": "2026-05-09",
+    "question": "Which space agency is collaborating with the European Space Agency (ESA) to jointly launch the SMILE Space Mission?",
+    "options": [
+      "ISRO",
+      "NASA",
+      "CAS (Chinese Academy of Sciences)",
+      "JAXA"
+    ],
+    "answer": "CAS (Chinese Academy of Sciences)",
+    "explanation": "The SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency and the Chinese Academy of Sciences.",
+    "tags": ["Science", "International"]
+  },
+  {
+    "id": "ca_2026_05_042",
+    "date": "2026-05-22",
+    "question": "Which state recently approved a massive infrastructure package including the Ahmedabad–Dholera Semi High-Speed Rail Project?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": "Gujarat",
+    "explanation": "The Gujarat state cabinet approved key infrastructure projects, including the crucial Ahmedabad to Dholera Semi High-Speed Rail connection.",
+    "tags": ["State", "Economy"]
+  },
+  {
+    "id": "ca_2026_05_043",
+    "date": "2026-05-11",
+    "question": "Which organization signed an MoU with the Indian Cyber Crime Coordination Centre (I4C) to combat cyber financial frauds?",
+    "options": [
+      "NPCI",
+      "RBIH (Reserve Bank Innovation Hub)",
+      "SBI",
+      "NASSCOM"
+    ],
+    "answer": "RBIH (Reserve Bank Innovation Hub)",
+    "explanation": "I4C and the Reserve Bank Innovation Hub (RBIH) signed an MoU to develop advanced tech-based solutions for tracking and preventing cyber financial frauds.",
+    "tags": ["Banking", "National"]
+  },
+  {
+    "id": "ca_2026_05_044",
+    "date": "2026-05-14",
+    "question": "The Union Cabinet approved an expansion of the BharatNet project with an allocation of how much in May 2026?",
+    "options": [
+      "₹1,500 Crore",
+      "₹2,432 Crore",
+      "₹3,000 Crore",
+      "₹5,000 Crore"
+    ],
+    "answer": "₹2,432 Crore",
+    "explanation": "The Centre approved ₹2,432 Crore to accelerate the BharatNet Expansion project, aiming to connect remaining gram panchayats with high-speed optical fibre.",
+    "tags": ["National", "Economy"]
+  },
+  {
+    "id": "ca_2026_05_045",
+    "date": "2026-05-04",
+    "question": "Which northeastern state launched the 'Ginger Mission' to boost local agricultural exports?",
+    "options": [
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Assam"
+    ],
+    "answer": "Mizoram",
+    "explanation": "The Mizoram government officially launched the 'Mizoram Ginger Mission' to enhance the production, processing, and export of its high-quality organic ginger.",
+    "tags": ["State", "Agriculture"]
+  },
+  {
+    "id": "ca_2026_05_046",
+    "date": "2026-05-29",
+    "question": "Which state made the study of three languages mandatory for Classes 9 and 10 in its school curriculum?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "West Bengal"
+    ],
+    "answer": "Karnataka",
+    "explanation": "In alignment with new educational policies, the Karnataka government mandated a three-language formula for students in Classes 9 and 10.",
+    "tags": ["State", "Education"]
+  },
+  {
+    "id": "ca_2026_05_047",
+    "date": "2026-05-07",
+    "question": "According to the latest PLFS data released in May 2026, the urban unemployment rate in India fell to:",
+    "options": [
+      "7.2%",
+      "6.6%",
+      "5.9%",
+      "8.1%"
+    ],
+    "answer": "6.6%",
+    "explanation": "The Periodic Labour Force Survey (PLFS) reported that the urban unemployment rate for individuals aged 15 and above declined to 6.6%.",
+    "tags": ["Economy", "National"]
+  },
+  {
+    "id": "ca_2026_05_048",
+    "date": "2026-05-20",
+    "question": "Which organization projected India's GDP growth at 6.6% for the financial year 2026-27?",
+    "options": [
+      "RBI",
+      "SBI Research",
+      "Moody's",
+      "Fitch Ratings"
+    ],
+    "answer": "SBI Research",
+    "explanation": "State Bank of India (SBI) Research projected a resilient 6.6% GDP growth for India, citing strong domestic demand and infrastructure spending.",
+    "tags": ["Economy", "Banking"]
+  },
+  {
+    "id": "ca_2026_05_049",
+    "date": "2026-05-16",
+    "question": "Which country recently returned historic Chola era copper plates to India?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Netherlands",
+      "Germany"
+    ],
+    "answer": "Netherlands",
+    "explanation": "The Netherlands formally repatriated ancient Chola dynasty copper plates that were illegally exported decades ago back to India.",
+    "tags": ["National", "History", "International"]
+  },
+  {
+    "id": "ca_2026_05_050",
+    "date": "2026-05-01",
+    "question": "Who was appointed to lead Human Resources at Bharat Electronics Ltd (BEL) in May 2026?",
+    "options": [
+      "Shalini Pandit",
+      "Ambrish Tripathi",
+      "Dileep Sanghani",
+      "Rajiv Kumar"
+    ],
+    "answer": "Ambrish Tripathi",
+    "explanation": "Ambrish Tripathi was appointed to lead the Human Resources division at the defense PSU Bharat Electronics Ltd (BEL).",
+    "tags": ["Appointments", "Defence"]
+  }
+]
