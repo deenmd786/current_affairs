@@ -1,66 +1,66 @@
 {
     "index_metadata": {
-        "base_url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Current_Affairs",
+        "base_url": "https://raw.githubusercontent.com/deenmd786/current_affairs/refs/heads/main",
         "description": "Master Index File for 2026 Current Affairs, Dynamic GK, and Static GK (Bilingual) fetched via GitHub Raw URL"
     },
     "current_affairs_2026": [
         {
-            "file_name": "01_January_2026_MCQs.json",
+            "file_name": "01_January_2026.json",
             "title_en": "January 2026 Current Affairs",
             "title_hi": "जनवरी 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "02_February_2026_MCQs.json",
+            "file_name": "02_February_2026.json",
             "title_en": "February 2026 Current Affairs",
             "title_hi": "फरवरी 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "03_March_2026_MCQs.json",
+            "file_name": "03_March_2026.json",
             "title_en": "March 2026 Current Affairs",
             "title_hi": "मार्च 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "04_April_2026_MCQs.json",
+            "file_name": "04_April_2026.json",
             "title_en": "April 2026 Current Affairs",
             "title_hi": "अप्रैल 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "05_May_2026_MCQs.json",
+            "file_name": "05_May_2026.json",
             "title_en": "May 2026 Current Affairs",
             "title_hi": "मई 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "06_June_2026_MCQs.json",
+            "file_name": "06_June_2026.json",
             "title_en": "June 2026 Current Affairs",
             "title_hi": "जून 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "07_July_2026_MCQs.json",
+            "file_name": "07_July_2026.json",
             "title_en": "July 2026 Current Affairs",
             "title_hi": "जुलाई 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "08_August_2026_MCQs.json",
+            "file_name": "08_August_2026.json",
             "title_en": "August 2026 Current Affairs",
             "title_hi": "अगस्त 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "09_September_2026_MCQs.json",
+            "file_name": "09_September_2026.json",
             "title_en": "September 2026 Current Affairs",
             "title_hi": "सितंबर 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "10_October_2026_MCQs.json",
+            "file_name": "10_October_2026.json",
             "title_en": "October 2026 Current Affairs",
             "title_hi": "अक्टूबर 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "11_November_2026_MCQs.json",
+            "file_name": "11_November_2026.json",
             "title_en": "November 2026 Current Affairs",
             "title_hi": "नवंबर 2026 करेंट अफेयर्स"
         },
         {
-            "file_name": "12_December_2026_MCQs.json",
+            "file_name": "12_December_2026.json",
             "title_en": "December 2026 Current Affairs",
             "title_hi": "दिसंबर 2026 करेंट अफेयर्स"
         }

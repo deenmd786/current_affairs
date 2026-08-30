@@ -864,5 +864,536 @@
             "Important Days",
             "National"
         ]
+    },
+    {
+        "id": "ca_2026_08_051",
+        "date": "2026-08-23",
+        "question": "On August 23, 2026, India celebrated National Space Day. This day marks the successful lunar landing of which ISRO mission?",
+        "options": [
+            "Chandrayaan-2",
+            "Chandrayaan-3",
+            "Mangalyaan",
+            "Aditya-L1"
+        ],
+        "answer": "Chandrayaan-3",
+        "explanation": "August 23 is officially designated as National Space Day in India to commemorate the successful soft landing of the Chandrayaan-3 mission's Vikram lander on the Moon's south pole in 2023.",
+        "tags": [
+            "National",
+            "Science",
+            "Space",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_052",
+        "date": "2026-08-29",
+        "question": "National Sports Day is celebrated in India on August 29 to honor the birth anniversary of which legendary sports personality?",
+        "options": [
+            "Milkha Singh",
+            "Major Dhyan Chand",
+            "P.T. Usha",
+            "Balbir Singh Sr."
+        ],
+        "answer": "Major Dhyan Chand",
+        "explanation": "National Sports Day (Rashtriya Khel Divas) is observed on August 29 every year to commemorate the birth anniversary of hockey legend Major Dhyan Chand, who won three Olympic gold medals.",
+        "tags": [
+            "National",
+            "Sports",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_053",
+        "date": "2026-08-26",
+        "question": "Women's Equality Day is observed globally on August 26. What historical milestone does this day primarily commemorate?",
+        "options": [
+            "The founding of the UN Commission on the Status of Women",
+            "The passing of the Equal Pay Act",
+            "The adoption of the 19th Amendment granting US women the right to vote",
+            "The first International Women's Year"
+        ],
+        "answer": "The adoption of the 19th Amendment granting US women the right to vote",
+        "explanation": "Women's Equality Day commemorates August 26, 1920, when the 19th Amendment to the United States Constitution was certified, granting women the right to vote, a milestone recognized globally for equal rights.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_054",
+        "date": "2026-08-28",
+        "question": "August 28, 2026, marks the 12th anniversary of which flagship financial inclusion scheme launched by the Government of India?",
+        "options": [
+            "Pradhan Mantri Mudra Yojana (PMMY)",
+            "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+            "Atal Pension Yojana (APY)",
+            "Stand Up India Scheme"
+        ],
+        "answer": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "explanation": "Launched on August 28, 2014, the Pradhan Mantri Jan Dhan Yojana (PMJDY) completed 12 years in 2026. It is one of the world's largest financial inclusion initiatives aimed at providing banking access to every household.",
+        "tags": [
+            "Economy",
+            "Schemes",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_055",
+        "date": "2026-08-27",
+        "question": "India hosted the BWF World Championships in August 2026. Which Indian city served as the host for this prestigious global badminton tournament?",
+        "options": [
+            "New Delhi",
+            "Hyderabad",
+            "Bengaluru",
+            "Pune"
+        ],
+        "answer": "New Delhi",
+        "explanation": "India won the rights to host the prestigious BWF World Championships in 2026, with the Badminton Association of India (BAI) selecting New Delhi as the primary venue for the global event.",
+        "tags": [
+            "Sports",
+            "International",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_056",
+        "date": "2026-08-30",
+        "question": "The National Statistical Office (NSO) released the GDP growth data for Q1 (April-June) of FY 2026-27. In which sector did India see the highest growth momentum?",
+        "options": [
+            "Agriculture",
+            "Mining",
+            "Manufacturing and Construction",
+            "Public Administration"
+        ],
+        "answer": "Manufacturing and Construction",
+        "explanation": "According to the NSO data released at the end of August 2026, the Indian economy's Q1 growth was heavily driven by robust capital expenditure and expansion in the manufacturing and construction sectors.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_057",
+        "date": "2026-08-21",
+        "question": "World Senior Citizen's Day is celebrated annually on August 21 to raise awareness about issues affecting older adults. Who first proclaimed this day?",
+        "options": [
+            "Kofi Annan",
+            "Ronald Reagan",
+            "Indira Gandhi",
+            "Nelson Mandela"
+        ],
+        "answer": "Ronald Reagan",
+        "explanation": "World Senior Citizen's Day was officially established by former US President Ronald Reagan in 1988 when he signed a proclamation to honor and recognize the contributions of older adults.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_058",
+        "date": "2026-08-24",
+        "question": "World Gujarati Language Day is celebrated on August 24 to commemorate the birth anniversary of which prominent Gujarati poet and social reformer?",
+        "options": [
+            "Narsinh Mehta",
+            "Zaverchand Meghani",
+            "Kavi Narmad",
+            "Umashankar Joshi"
+        ],
+        "answer": "Kavi Narmad",
+        "explanation": "World Gujarati Language Day is observed on August 24 to honor the birth anniversary of Veer Narmad, a pioneering 19th-century Gujarati poet, playwright, and social reformer.",
+        "tags": [
+            "State",
+            "Important Days",
+            "Culture"
+        ]
+    },
+    {
+        "id": "ca_2026_08_059",
+        "date": "2026-08-29",
+        "question": "The International Day against Nuclear Tests is observed on August 29. It commemorates the closure of the Semipalatinsk nuclear test site located in which country?",
+        "options": [
+            "Russia",
+            "Kazakhstan",
+            "Ukraine",
+            "Marshall Islands"
+        ],
+        "answer": "Kazakhstan",
+        "explanation": "August 29 marks the International Day against Nuclear Tests, established by the UN to commemorate the historic 1991 closure of the Semipalatinsk test site in Kazakhstan.",
+        "tags": [
+            "International",
+            "Important Days",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_08_060",
+        "date": "2026-08-30",
+        "question": "National Small Industry Day is celebrated in India on August 30. Which ministry is primarily responsible for the development of these industries?",
+        "options": [
+            "Ministry of Heavy Industries",
+            "Ministry of MSME",
+            "Ministry of Commerce and Industry",
+            "Ministry of Skill Development"
+        ],
+        "answer": "Ministry of MSME",
+        "explanation": "National Small Industry Day recognizes the contribution of small-scale industries to India's growth. The Ministry of Micro, Small and Medium Enterprises (MSME) is the nodal ministry supporting this sector.",
+        "tags": [
+            "National",
+            "Economy",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_061",
+        "date": "2026-08-25",
+        "question": "The final Grand Slam tennis tournament of the year, the US Open, kicked off in late August 2026. In which New York City borough is the Billie Jean King National Tennis Center located?",
+        "options": [
+            "Manhattan",
+            "Brooklyn",
+            "Queens",
+            "The Bronx"
+        ],
+        "answer": "Queens",
+        "explanation": "The US Open is held annually at the USTA Billie Jean King National Tennis Center, which is situated in Flushing Meadows–Corona Park in the borough of Queens, New York.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_062",
+        "date": "2026-08-21",
+        "question": "August 21 is designated by the United Nations to honor and remember the victims of which specific international issue?",
+        "options": [
+            "Human Trafficking",
+            "Acts of Terrorism",
+            "Religious Violence",
+            "Enforced Disappearances"
+        ],
+        "answer": "Acts of Terrorism",
+        "explanation": "The UN recognizes August 21 as the International Day of Remembrance and Tribute to the Victims of Terrorism, aimed at standing in solidarity with victims and survivors of terror worldwide.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_063",
+        "date": "2026-08-28",
+        "question": "The Union Cabinet approved a massive new semiconductor packaging (ATMP) plant in late August 2026. This new facility is slated to be built in which state to boost the 'India Semiconductor Mission'?",
+        "options": [
+            "Gujarat",
+            "Assam",
+            "Karnataka",
+            "Tamil Nadu"
+        ],
+        "answer": "Assam",
+        "explanation": "Building on earlier approvals, the Cabinet cleared another major ATMP (Assembly, Testing, Marking, and Packaging) facility in Morigaon, Assam, significantly boosting the Northeast's tech infrastructure.",
+        "tags": [
+            "Economy",
+            "Technology",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_064",
+        "date": "2026-08-26",
+        "question": "August 26 marks the birth anniversary of Mother Teresa, who was awarded the Nobel Peace Prize in which year?",
+        "options": [
+            "1975",
+            "1979",
+            "1982",
+            "1985"
+        ],
+        "answer": "1979",
+        "explanation": "Mother Teresa, born on August 26, 1910, devoted her life to caring for the poor and sick. She was awarded the Nobel Peace Prize in 1979 for her humanitarian work.",
+        "tags": [
+            "History",
+            "Important Days",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_065",
+        "date": "2026-08-23",
+        "question": "The International Day for the Remembrance of the Slave Trade and its Abolition is observed on August 23. This date marks the beginning of a historic uprising in which country?",
+        "options": [
+            "Haiti",
+            "Jamaica",
+            "Brazil",
+            "United States"
+        ],
+        "answer": "Haiti",
+        "explanation": "August 23 commemorates the night in 1791 when an uprising began in Saint Domingue (modern-day Haiti), which played a crucial role in the abolition of the transatlantic slave trade.",
+        "tags": [
+            "International",
+            "History",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_066",
+        "date": "2026-08-24",
+        "question": "In a bid to democratize access to high-value assets, SEBI issued new guidelines in late August 2026 regulating fractional ownership in which sector?",
+        "options": [
+            "Start-up Equity",
+            "Commercial Real Estate",
+            "Sovereign Bonds",
+            "Precious Metals"
+        ],
+        "answer": "Commercial Real Estate",
+        "explanation": "SEBI implemented new regulatory frameworks for Small and Medium Real Estate Investment Trusts (SM REITs) to regulate and secure retail investments in fractional commercial real estate ownership.",
+        "tags": [
+            "Economy",
+            "SEBI",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_067",
+        "date": "2026-08-27",
+        "question": "The DRDO successfully test-fired the VL-SRSAM missile off the Odisha coast in August 2026. Which branch of the armed forces is this missile designed for?",
+        "options": [
+            "Indian Army",
+            "Indian Navy",
+            "Indian Air Force",
+            "Indian Coast Guard"
+        ],
+        "answer": "Indian Navy",
+        "explanation": "The Vertical Launch Short Range Surface to Air Missile (VL-SRSAM) is indigenously designed by DRDO specifically for deployment on Indian Naval warships to neutralize aerial threats at close ranges.",
+        "tags": [
+            "Defence",
+            "Science",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_068",
+        "date": "2026-08-21",
+        "question": "India and Singapore held their latest Defence Ministers' Dialogue in August 2026. Under India's foreign policy, Singapore is considered a key pillar of which strategic initiative?",
+        "options": [
+            "Look West Policy",
+            "Act East Policy",
+            "Neighborhood First Policy",
+            "SAGAR Initiative"
+        ],
+        "answer": "Act East Policy",
+        "explanation": "Singapore is a central partner in India's 'Act East Policy', which focuses on deepening economic, strategic, and cultural relations with the extended neighborhood in the Asia-Pacific region.",
+        "tags": [
+            "International Relations",
+            "Defence"
+        ]
+    },
+    {
+        "id": "ca_2026_08_069",
+        "date": "2026-08-29",
+        "question": "On National Sports Day 2026, the President of India distributed the National Sports Awards. Which of the following is India's highest sporting honor?",
+        "options": [
+            "Arjuna Award",
+            "Dronacharya Award",
+            "Major Dhyan Chand Khel Ratna Award",
+            "Maulana Abul Kalam Azad Trophy"
+        ],
+        "answer": "Major Dhyan Chand Khel Ratna Award",
+        "explanation": "The Major Dhyan Chand Khel Ratna Award is the highest sporting honor in India, awarded annually by the Ministry of Youth Affairs and Sports for spectacular and most outstanding performance over a period of four years.",
+        "tags": [
+            "Sports",
+            "Awards",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_070",
+        "date": "2026-08-22",
+        "question": "NITI Aayog released its updated Export Preparedness Index (EPI) in August 2026. Which state typically dominates the 'Coastal States' category in this index?",
+        "options": [
+            "Kerala",
+            "Odisha",
+            "Gujarat",
+            "West Bengal"
+        ],
+        "answer": "Gujarat",
+        "explanation": "Gujarat has consistently topped the Export Preparedness Index (EPI) released by NITI Aayog, supported by its robust port infrastructure and industry-friendly export policies.",
+        "tags": [
+            "Economy",
+            "State",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_071",
+        "date": "2026-08-25",
+        "question": "The Ministry of Defence signed a major contract with Goa Shipyard Limited (GSL) in August 2026 for the construction of advanced Fast Patrol Vessels (FPVs) for which agency?",
+        "options": [
+            "Indian Navy",
+            "Indian Coast Guard",
+            "Border Security Force",
+            "Marine Police"
+        ],
+        "answer": "Indian Coast Guard",
+        "explanation": "The contract was signed to enhance the Indian Coast Guard's capabilities, deploying these Fast Patrol Vessels for coastal security, anti-smuggling, and search and rescue operations.",
+        "tags": [
+            "Defence",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_072",
+        "date": "2026-08-26",
+        "question": "The Ministry of Housing and Urban Affairs announced the National Smart City Awards 2026. Which city has consecutively won the 'Best Smart City' title multiple times over the past years?",
+        "options": [
+            "Surat",
+            "Indore",
+            "Agra",
+            "Coimbatore"
+        ],
+        "answer": "Indore",
+        "explanation": "Indore (often alongside Surat) has been a consistent top performer, frequently bagging the 'Best Smart City' award for its exceptional urban sanitation, water management, and civic infrastructure.",
+        "tags": [
+            "National",
+            "Awards",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_08_073",
+        "date": "2026-08-30",
+        "question": "In August 2026, the Ministry of Agriculture advanced the rollout of 'AgriStack'. What is the primary purpose of the AgriStack initiative?",
+        "options": [
+            "Providing high-yield genetically modified seeds",
+            "Creating a unified digital public infrastructure for farmers",
+            "Setting up physical grain silos in all districts",
+            "Exporting excess wheat to African nations"
+        ],
+        "answer": "Creating a unified digital public infrastructure for farmers",
+        "explanation": "AgriStack is a collection of technology-based interventions in agriculture aimed at creating a unified digital public infrastructure to give farmers seamless access to credit, insurance, and direct benefit transfers.",
+        "tags": [
+            "Economy",
+            "Technology",
+            "Schemes"
+        ]
+    },
+    {
+        "id": "ca_2026_08_074",
+        "date": "2026-08-23",
+        "question": "On National Space Day 2026, ISRO provided an update on the 'Gaganyaan' mission. What is the designated name of the female-looking humanoid robot planned to fly on uncrewed test missions?",
+        "options": [
+            "Vyommitra",
+            "Daksh",
+            "Pragyan",
+            "Antariksh"
+        ],
+        "answer": "Vyommitra",
+        "explanation": "Vyommitra is a female-looking spacefaring humanoid robot developed by ISRO to fly aboard the uncrewed test flights of the Gaganyaan mission to simulate human functions and test life support systems.",
+        "tags": [
+            "Science",
+            "Space",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_075",
+        "date": "2026-08-27",
+        "question": "A unique agricultural product from the Northeast region was awarded a Geographical Indication (GI) tag in late August 2026. The GI registry is located in which Indian city?",
+        "options": [
+            "New Delhi",
+            "Chennai",
+            "Mumbai",
+            "Kolkata"
+        ],
+        "answer": "Chennai",
+        "explanation": "The Geographical Indications Registry, responsible for issuing GI tags for products that have a specific geographical origin and possess qualities due to that origin, is headquartered in Chennai, Tamil Nadu.",
+        "tags": [
+            "Economy",
+            "Culture",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_076",
+        "date": "2026-08-28",
+        "question": "Following the global health emergency declaration, the WHO expedited vaccine deployment for Mpox in August 2026. The virus is primarily endemic to which global region?",
+        "options": [
+            "Southeast Asia",
+            "Central and West Africa",
+            "South America",
+            "Eastern Europe"
+        ],
+        "answer": "Central and West Africa",
+        "explanation": "Mpox (formerly Monkeypox) is a viral zoonotic disease that occurs primarily in tropical rainforest areas of Central and West Africa, though it has caused international outbreaks.",
+        "tags": [
+            "International",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_08_077",
+        "date": "2026-08-24",
+        "question": "According to the RBI data released in late August 2026, India's foreign exchange (forex) reserves hit a historic milestone. Which of the following forms the largest component of India's forex reserves?",
+        "options": [
+            "Gold",
+            "Special Drawing Rights (SDRs)",
+            "Foreign Currency Assets (FCAs)",
+            "Reserve Position with the IMF"
+        ],
+        "answer": "Foreign Currency Assets (FCAs)",
+        "explanation": "Foreign Currency Assets (FCAs) make up the vast majority (usually over 85%) of India's total foreign exchange reserves, consisting of major global currencies like the US Dollar, Euro, and Pound.",
+        "tags": [
+            "Economy",
+            "Banking",
+            "RBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_078",
+        "date": "2026-08-25",
+        "question": "World Water Week, a leading annual event on global water issues, convened in late August 2026. It is organized every year by the International Water Institute located in which city?",
+        "options": [
+            "Geneva",
+            "Stockholm",
+            "Amsterdam",
+            "Oslo"
+        ],
+        "answer": "Stockholm",
+        "explanation": "World Water Week is the leading annual global event for addressing the planet's water issues, organized by the Stockholm International Water Institute (SIWI) in Sweden.",
+        "tags": [
+            "Environment",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_079",
+        "date": "2026-08-30",
+        "question": "August 30 is globally recognized as the International Day of the Victims of Enforced Disappearances. Which UN document forms the basis of the international legal framework preventing this?",
+        "options": [
+            "Universal Declaration of Human Rights",
+            "Geneva Conventions",
+            "Rome Statute",
+            "International Convention for the Protection of All Persons from Enforced Disappearance"
+        ],
+        "answer": "International Convention for the Protection of All Persons from Enforced Disappearance",
+        "explanation": "The UN General Assembly adopted the International Convention for the Protection of All Persons from Enforced Disappearance in 2006 to prevent enforced disappearances and secure justice for victims.",
+        "tags": [
+            "International",
+            "Important Days",
+            "Polity"
+        ]
+    },
+    {
+        "id": "ca_2026_08_080",
+        "date": "2026-08-22",
+        "question": "On August 22, the UN observes the International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief. The resolution to establish this day was introduced by which country?",
+        "options": [
+            "Poland",
+            "Saudi Arabia",
+            "India",
+            "United States"
+        ],
+        "answer": "Poland",
+        "explanation": "The UN General Assembly designated August 22 as this international day in 2019, following a resolution spearheaded by Poland with cross-regional support to combat religious intolerance.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
     }
 ]
