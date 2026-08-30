@@ -1,0 +1,855 @@
+﻿[
+    {
+        "id": "ca_2026_07_001",
+        "date": "2026-07-12",
+        "question": "Who won the Men's Singles title at the 2026 Wimbledon Championships by defending his crown?",
+        "options": [
+            "Carlos Alcaraz",
+            "Novak Djokovic",
+            "Alexander Zverev",
+            "Jannik Sinner"
+        ],
+        "answer": "Jannik Sinner",
+        "explanation": "Jannik Sinner successfully defended his Wimbledon Men's Singles title by defeating Germany's Alexander Zverev in the final on July 12, 2026.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_07_002",
+        "date": "2026-07-11",
+        "question": "Which player claimed her maiden Grand Slam women's singles title at the 2026 Wimbledon Championships?",
+        "options": [
+            "Karolína Muchová",
+            "Linda Nosková",
+            "Iga Świątek",
+            "Aryna Sabalenka"
+        ],
+        "answer": "Linda Nosková",
+        "explanation": "Linda Nosková won her first-ever Grand Slam women's singles title by defeating Karolína Muchová in the 2026 Wimbledon final.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_07_003",
+        "date": "2026-07-23",
+        "question": "Which city hosted the opening of the 23rd Commonwealth Games in July 2026?",
+        "options": [
+            "Birmingham",
+            "Gold Coast",
+            "Glasgow",
+            "Victoria"
+        ],
+        "answer": "Glasgow",
+        "explanation": "The 23rd Commonwealth Games officially opened in Glasgow, Scotland, on July 23, 2026, hosting athletes from 74 nations.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_07_004",
+        "date": "2026-07-26",
+        "question": "Which Indian weightlifter secured a Gold medal in the Women's 48kg category at the Glasgow Commonwealth Games 2026?",
+        "options": [
+            "Bindyarani Devi",
+            "Gyaneshwari Yadav",
+            "Mirabai Chanu",
+            "Karnam Malleswari"
+        ],
+        "answer": "Mirabai Chanu",
+        "explanation": "Mirabai Chanu won the Gold medal for India in the Women's 48kg weightlifting event at the 2026 Commonwealth Games in Glasgow.",
+        "tags": [
+            "Sports",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_005",
+        "date": "2026-07-27",
+        "question": "Sharmila Dhankar won a Gold medal for India at the 2026 Commonwealth Games in which event?",
+        "options": [
+            "Women's Shot Put F57",
+            "Women's Javelin Throw",
+            "Women's High Jump",
+            "Women's Discus Throw"
+        ],
+        "answer": "Women's Shot Put F57",
+        "explanation": "Sharmila Dhankar secured the Gold medal in the Women's Shot Put F57 Para-Athletics event at the Glasgow 2026 Commonwealth Games.",
+        "tags": [
+            "Sports",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_006",
+        "date": "2026-07-18",
+        "question": "Which Indian private space startup became the first to successfully place a rocket into Low Earth Orbit (LEO) with its Vikram 1 Test Flight 1 in July 2026?",
+        "options": [
+            "Agnikul Cosmos",
+            "Skyroot Aerospace",
+            "Pixxel",
+            "Dhruva Space"
+        ],
+        "answer": "Skyroot Aerospace",
+        "explanation": "Skyroot Aerospace made history on July 18, 2026, when its Vikram 1 Test Flight 1 successfully reached Low Earth Orbit and deployed its payloads.",
+        "tags": [
+            "Science",
+            "Space",
+            "Economy"
+        ]
+    },
+    {
+        "id": "ca_2026_07_007",
+        "date": "2026-07-30",
+        "question": "The upper stage of which ISRO launch vehicle, originally launched for the CMS-03 mission, safely re-entered Earth's atmosphere on July 30, 2026?",
+        "options": [
+            "PSLV-C55",
+            "GSLV-F12",
+            "LVM3-M5",
+            "SSLV-D2"
+        ],
+        "answer": "LVM3-M5",
+        "explanation": "The upper stage (C25) of ISRO's Launch Vehicle Mark 3 (LVM3-M5) safely re-entered the atmosphere over the Atlantic Ocean on July 30, 2026.",
+        "tags": [
+            "Science",
+            "Space"
+        ]
+    },
+    {
+        "id": "ca_2026_07_008",
+        "date": "2026-07-15",
+        "question": "Under India's 2026 BRICS chairmanship, the 16th BRICS Health Ministers' Meeting was held in which Indian city?",
+        "options": [
+            "New Delhi",
+            "Chandigarh",
+            "Pune",
+            "Hyderabad"
+        ],
+        "answer": "Chandigarh",
+        "explanation": "The 16th BRICS Health Ministers' Meeting concluded in Chandigarh in July 2026, leading to the launch of the BRICS Mission for Healthy Lifestyle.",
+        "tags": [
+            "International Relations",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_009",
+        "date": "2026-07-24",
+        "question": "What milestone anniversary of Income Tax Day (Aaykar Diwas) did India celebrate on July 24, 2026?",
+        "options": [
+            "150th",
+            "160th",
+            "167th",
+            "175th"
+        ],
+        "answer": "167th",
+        "explanation": "July 24, 2026, marked the 167th anniversary of Income Tax Day in India, commemorating the introduction of income tax by Sir James Wilson in 1860.",
+        "tags": [
+            "Economy",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_010",
+        "date": "2026-07-20",
+        "question": "Which Indian bank signed an MoU with the Andhra Pradesh government to establish India's first bank-led Quantum Finance Hub at Amaravati?",
+        "options": [
+            "State Bank of India",
+            "HDFC Bank",
+            "Punjab National Bank",
+            "Bank of Baroda"
+        ],
+        "answer": "Punjab National Bank",
+        "explanation": "Punjab National Bank (PNB) partnered with the Government of Andhra Pradesh to set up the PNB Quantum Finance Hub at Amaravati Quantum Valley.",
+        "tags": [
+            "Banking",
+            "Economy",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_07_011",
+        "date": "2026-07-10",
+        "question": "India's first-ever Tri-Service all-women circumnavigation sailing expedition, which successfully completed a 314-day voyage in July 2026, was named what?",
+        "options": [
+            "Sagar Parikrama",
+            "Samudra Pradakshina",
+            "Navika Sagar",
+            "Jal Tarangini"
+        ],
+        "answer": "Samudra Pradakshina",
+        "explanation": "The 'Samudra Pradakshina' expedition, crewed by nine women officers from the Army, Navy, and Air Force on the IASV Triveni, successfully concluded its global voyage in Mumbai.",
+        "tags": [
+            "Defence",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_012",
+        "date": "2026-07-18",
+        "question": "Who was appointed as the new Chief Executive Officer (CEO) of NITI Aayog in July 2026?",
+        "options": [
+            "B.V.R. Subrahmanyam",
+            "Parameswaran Iyer",
+            "Anurag Jain",
+            "Amitabh Kant"
+        ],
+        "answer": "Anurag Jain",
+        "explanation": "Anurag Jain was appointed as the CEO of NITI Aayog in July 2026, taking charge of India's premier policy think tank.",
+        "tags": [
+            "Appointments",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_013",
+        "date": "2026-07-22",
+        "question": "During the Farnborough International Airshow 2026, Raghu Vamsi Aerospace announced a Rs 600 crore investment to build a superalloy manufacturing facility in which state?",
+        "options": [
+            "Karnataka",
+            "Tamil Nadu",
+            "Telangana",
+            "Maharashtra"
+        ],
+        "answer": "Telangana",
+        "explanation": "Raghu Vamsi Aerospace announced a major Rs 600 crore investment to set up an integrated nickel-based superalloy manufacturing facility in Telangana.",
+        "tags": [
+            "Economy",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_07_014",
+        "date": "2026-07-28",
+        "question": "Which Indian badminton star made history by becoming the first Indian to win the Japan Open in July 2026?",
+        "options": [
+            "Lakshya Sen",
+            "HS Prannoy",
+            "PV Sindhu",
+            "Saina Nehwal"
+        ],
+        "answer": "PV Sindhu",
+        "explanation": "PV Sindhu secured her place in history by becoming the first Indian shuttler to win the prestigious Japan Open tournament in July 2026.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_07_015",
+        "date": "2026-07-05",
+        "question": "In a major regulatory update for Mutual Funds in July 2026, SEBI permitted which of the following mechanisms to help manage liquidity effectively?",
+        "options": [
+            "Cryptocurrency holding",
+            "Intraday Borrowing",
+            "Real Estate direct trading",
+            "Uncapped international equity investments"
+        ],
+        "answer": "Intraday Borrowing",
+        "explanation": "SEBI permitted Intraday Borrowing for Mutual Funds to bridge short-term liquidity mismatches and ensure smoother settlement operations.",
+        "tags": [
+            "Economy",
+            "SEBI"
+        ]
+    },
+    {
+        "id": "ca_2026_07_016",
+        "date": "2026-07-16",
+        "question": "The Union Cabinet approved the 'BHAVYA-Rasayan Scheme' in July 2026 to boost manufacturing and innovation in which sector?",
+        "options": [
+            "Pharmaceuticals",
+            "Chemicals and Petrochemicals",
+            "Green Hydrogen",
+            "Semiconductors"
+        ],
+        "answer": "Chemicals and Petrochemicals",
+        "explanation": "The BHAVYA-Rasayan Scheme was approved by the Cabinet to strengthen India's domestic capabilities in the chemicals and petrochemicals manufacturing sectors.",
+        "tags": [
+            "Economy",
+            "Schemes"
+        ]
+    },
+    {
+        "id": "ca_2026_07_017",
+        "date": "2026-07-01",
+        "question": "National Doctor's Day is celebrated across India on July 1 to honor the birth and death anniversary of which legendary physician?",
+        "options": [
+            "Dr. APJ Abdul Kalam",
+            "Dr. Bidhan Chandra Roy",
+            "Dr. Sushruta",
+            "Dr. Homi Bhabha"
+        ],
+        "answer": "Dr. Bidhan Chandra Roy",
+        "explanation": "July 1 is observed as National Doctor's Day in memory of Dr. Bidhan Chandra Roy, an eminent physician and the second Chief Minister of West Bengal.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_018",
+        "date": "2026-07-11",
+        "question": "Observed globally on July 11, what is the significance of this United Nations designated day?",
+        "options": [
+            "World Oceans Day",
+            "World Environment Day",
+            "World Population Day",
+            "World Refugee Day"
+        ],
+        "answer": "World Population Day",
+        "explanation": "World Population Day is observed annually on July 11 to raise awareness about global demographic issues, including reproductive health and sustainable development.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_019",
+        "date": "2026-07-15",
+        "question": "India's 8th Trade Policy Review was successfully conducted in July 2026 at the headquarters of which international organization?",
+        "options": [
+            "World Bank",
+            "International Monetary Fund (IMF)",
+            "World Trade Organization (WTO)",
+            "World Economic Forum (WEF)"
+        ],
+        "answer": "World Trade Organization (WTO)",
+        "explanation": "India successfully completed its 8th Trade Policy Review at the WTO in Geneva, showcasing its robust economic resilience and open trade policies.",
+        "tags": [
+            "Economy",
+            "International Relations"
+        ]
+    },
+    {
+        "id": "ca_2026_07_020",
+        "date": "2026-07-26",
+        "question": "Which historic military milestone does India commemorate every year on July 26 as 'Kargil Vijay Diwas'?",
+        "options": [
+            "The liberation of Goa",
+            "The victory in the 1971 Indo-Pak War",
+            "The successful recapture of peaks during the 1999 Kargil conflict",
+            "The first nuclear test at Pokhran"
+        ],
+        "answer": "The successful recapture of peaks during the 1999 Kargil conflict",
+        "explanation": "Kargil Vijay Diwas is celebrated on July 26 to honor the Indian armed forces' victory in Operation Vijay in 1999.",
+        "tags": [
+            "Defence",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_021",
+        "date": "2026-07-25",
+        "question": "Which core sector registered the highest annual growth of 43.9% according to the Index of Core Industries data released in July 2026?",
+        "options": [
+            "Cement",
+            "Electricity",
+            "Iron Ore",
+            "Steel"
+        ],
+        "answer": "Iron Ore",
+        "explanation": "Following its inclusion as the 9th core industry, Iron Ore recorded a massive 43.9% annual growth in production for the tracking period reported in July 2026.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_022",
+        "date": "2026-07-08",
+        "question": "Which new Indian Navy ship was officially commissioned into service in July 2026 to augment anti-submarine and coastal defence?",
+        "options": [
+            "INS Mahendragiri",
+            "INS Malvan",
+            "INS Mormugao",
+            "INS Surat"
+        ],
+        "answer": "INS Malvan",
+        "explanation": "INS Malvan was commissioned into the Indian Navy in July 2026, significantly boosting the nation's maritime security and coastal patrol capabilities.",
+        "tags": [
+            "Defence",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_023",
+        "date": "2026-07-19",
+        "question": "In July 2026, the BRICS nations officially adopted a joint declaration focusing on which specific sector of the economy?",
+        "options": [
+            "Space Exploration",
+            "Labour and Employment",
+            "Cryptocurrency Regulation",
+            "Maritime Shipping"
+        ],
+        "answer": "Labour and Employment",
+        "explanation": "The BRICS Labour Declaration was adopted to foster collaboration on employment generation, workers' rights, and skill development across member states.",
+        "tags": [
+            "International Relations",
+            "Economy"
+        ]
+    },
+    {
+        "id": "ca_2026_07_024",
+        "date": "2026-07-21",
+        "question": "India and which country elevated their bilateral relationship to a 'Strategic Partnership' during a diplomatic summit in July 2026?",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "Fiji",
+            "Canada"
+        ],
+        "answer": "New Zealand",
+        "explanation": "India and New Zealand upgraded their bilateral ties to a formal Strategic Partnership, encompassing enhanced defense, trade, and technological cooperation.",
+        "tags": [
+            "International Relations"
+        ]
+    },
+    {
+        "id": "ca_2026_07_025",
+        "date": "2026-07-04",
+        "question": "To enhance transparency and prevent malpractices in national exams, which act came into strict enforcement with fast-track courts established in Delhi in July 2026?",
+        "options": [
+            "National Testing Agency Reform Act",
+            "Public Exams (Prevention of Unfair Means) Act",
+            "Educational Integrity Bill",
+            "UPSC Transparency Ordinance"
+        ],
+        "answer": "Public Exams (Prevention of Unfair Means) Act",
+        "explanation": "The Public Exams (Prevention of Unfair Means) Act was strictly enforced, leading to the establishment of dedicated fast-track courts to heavily penalize paper leaks.",
+        "tags": [
+            "National",
+            "Polity"
+        ]
+    },
+    {
+        "id": "ca_2026_07_026",
+        "date": "2026-07-29",
+        "question": "International Tiger Day is observed annually on July 29 to promote the conservation of tigers. In which country did the summit establishing this day take place?",
+        "options": [
+            "India",
+            "Russia",
+            "China",
+            "Nepal"
+        ],
+        "answer": "Russia",
+        "explanation": "International Tiger Day was established in 2010 at the St. Petersburg Tiger Summit in Russia to raise awareness about the declining tiger population.",
+        "tags": [
+            "Environment",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_07_027",
+        "date": "2026-07-15",
+        "question": "NITI Aayog released the 'Investment Friendliness Index 2026' in July. What is the primary purpose of this index?",
+        "options": [
+            "To rank global countries for FDI",
+            "To assess and rank Indian states based on their business and investment climate",
+            "To evaluate startup valuation growth",
+            "To measure agricultural output"
+        ],
+        "answer": "To assess and rank Indian states based on their business and investment climate",
+        "explanation": "The Investment Friendliness Index 2026 by NITI Aayog evaluates states on regulatory ease, infrastructure, and policies to foster a competitive investment ecosystem.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_028",
+        "date": "2026-07-12",
+        "question": "July 12 is celebrated internationally as World Malala Day. It marks the birthday of Malala Yousafzai, who is the youngest recipient of which prestigious award?",
+        "options": [
+            "Booker Prize",
+            "Nobel Peace Prize",
+            "Right Livelihood Award",
+            "Sakharov Prize"
+        ],
+        "answer": "Nobel Peace Prize",
+        "explanation": "World Malala Day honors Malala Yousafzai, the global education activist from Pakistan and the youngest ever Nobel Peace Prize laureate.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_029",
+        "date": "2026-07-06",
+        "question": "The DRDO signed significant contracts in July 2026 for the production of AEW&C Mk-II systems. What does AEW&C stand for?",
+        "options": [
+            "Airborne Early Warning and Control",
+            "Advanced Electronic Warfare & Communication",
+            "Aerospace Engineering Weapon & Combat",
+            "Anti-Aircraft Engagement Warning & Control"
+        ],
+        "answer": "Airborne Early Warning and Control",
+        "explanation": "AEW&C stands for Airborne Early Warning and Control. The Mk-II systems will significantly enhance the Indian Air Force's aerial surveillance and command capabilities.",
+        "tags": [
+            "Defence",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_07_030",
+        "date": "2026-07-28",
+        "question": "Indian athlete Gulveer Singh won a Silver medal at the Glasgow CWG 2026 in which specific track and field event?",
+        "options": [
+            "Men's 1500m",
+            "Men's 5000m",
+            "Men's 10,000m",
+            "Men's Marathon"
+        ],
+        "answer": "Men's 10,000m",
+        "explanation": "Gulveer Singh secured the Silver medal in the Men's 10,000m Athletics event at the 2026 Commonwealth Games.",
+        "tags": [
+            "Sports",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_031",
+        "date": "2026-07-27",
+        "question": "Sarvesh Kushare brought glory to India by winning a Silver medal at the 2026 Commonwealth Games in which athletics discipline?",
+        "options": [
+            "Long Jump",
+            "Triple Jump",
+            "High Jump",
+            "Pole Vault"
+        ],
+        "answer": "High Jump",
+        "explanation": "Sarvesh Kushare won the Silver medal in the Men's High Jump event during the Glasgow Commonwealth Games 2026.",
+        "tags": [
+            "Sports",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_032",
+        "date": "2026-07-27",
+        "question": "Valluri Ajaya Babu won a Silver medal for India at the 2026 CWG in weightlifting. Which weight category did he compete in?",
+        "options": [
+            "Men's 67kg",
+            "Men's 73kg",
+            "Men's 79kg",
+            "Men's 89kg"
+        ],
+        "answer": "Men's 79kg",
+        "explanation": "Valluri Ajaya Babu competed in the Men's 79kg weightlifting category and secured a Silver medal at the Glasgow Games.",
+        "tags": [
+            "Sports",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_033",
+        "date": "2026-07-23",
+        "question": "India celebrates National Broadcasting Day on July 23 to commemorate the first radio broadcast in the country from which station?",
+        "options": [
+            "Delhi Station",
+            "Bombay Station",
+            "Calcutta Station",
+            "Madras Station"
+        ],
+        "answer": "Bombay Station",
+        "explanation": "National Broadcasting Day honors the first radio broadcast in India, which took place from the Bombay Station of the Indian Broadcasting Company in 1927.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_034",
+        "date": "2026-07-02",
+        "question": "Who was reappointed as the Chairman of the Central Board of Direct Taxes (CBDT) in July 2026?",
+        "options": [
+            "Nitin Gupta",
+            "Ravi Agrawal",
+            "Sangeeta Singh",
+            "JB Mohapatra"
+        ],
+        "answer": "Ravi Agrawal",
+        "explanation": "Ravi Agrawal was granted an extension and reappointed as the Chairman of the apex direct tax body, CBDT, in July 2026.",
+        "tags": [
+            "Appointments",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_035",
+        "date": "2026-07-14",
+        "question": "In July 2026, the long-range surface-to-air missile heavily discussed for Indian air defence system upgrades is named what?",
+        "options": [
+            "Akash-NG",
+            "Barak-8",
+            "Kusha",
+            "MRSAM"
+        ],
+        "answer": "Kusha",
+        "explanation": "Project Kusha aims to develop India's indigenous Long-Range Surface-to-Air Missile (LR-SAM) system, capable of detecting and destroying enemy projectiles from great distances.",
+        "tags": [
+            "Defence",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_07_036",
+        "date": "2026-07-18",
+        "question": "Nelson Mandela International Day is observed on July 18. He served as the first democratically elected President of which nation?",
+        "options": [
+            "Nigeria",
+            "Kenya",
+            "South Africa",
+            "Zimbabwe"
+        ],
+        "answer": "South Africa",
+        "explanation": "Nelson Mandela, the anti-apartheid revolutionary, served as the President of South Africa from 1994 to 1999.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_037",
+        "date": "2026-07-09",
+        "question": "Which public sector enterprise under the Ministry of Steel was upgraded to the 'Miniratna Category-I' status in July 2026?",
+        "options": [
+            "SAIL",
+            "NMDC",
+            "MECON",
+            "KIOCL"
+        ],
+        "answer": "MECON",
+        "explanation": "Metallurgical & Engineering Consultants (MECON) Limited was elevated to Miniratna Category-I status, granting it greater financial and operational autonomy.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_038",
+        "date": "2026-07-28",
+        "question": "World Nature Conservation Day is observed on July 28. What is its primary objective?",
+        "options": [
+            "To promote carbon trading",
+            "To protect natural resources and habitats for sustainable development",
+            "To exclusively ban plastic use",
+            "To fund alternative energy startups"
+        ],
+        "answer": "To protect natural resources and habitats for sustainable development",
+        "explanation": "The day emphasizes the preservation of Earth's natural resources, flora, and fauna, ensuring a healthy environment for future generations.",
+        "tags": [
+            "Environment",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_039",
+        "date": "2026-07-03",
+        "question": "Who assumed the role of Executive Director at the Reserve Bank of India (RBI) in July 2026?",
+        "options": [
+            "T. Rabi Sankar",
+            "Ravi Shankar",
+            "Swaminathan J",
+            "M. Rajeshwar Rao"
+        ],
+        "answer": "Ravi Shankar",
+        "explanation": "Ravi Shankar was officially appointed as an Executive Director by the RBI to oversee specific administrative and regulatory domains.",
+        "tags": [
+            "Banking",
+            "Appointments"
+        ]
+    },
+    {
+        "id": "ca_2026_07_040",
+        "date": "2026-07-20",
+        "question": "ISRO conducted three successful tests in July 2026 for the Crew Module of which upcoming human spaceflight mission?",
+        "options": [
+            "Chandrayaan-4",
+            "Mangalyaan-2",
+            "Gaganyaan",
+            "Shukrayaan"
+        ],
+        "answer": "Gaganyaan",
+        "explanation": "ISRO achieved a major milestone by successfully concluding three critical uncrewed tests for the Gaganyaan Crew Module ahead of its targeted manned launch.",
+        "tags": [
+            "Science",
+            "Space"
+        ]
+    },
+    {
+        "id": "ca_2026_07_041",
+        "date": "2026-07-17",
+        "question": "Which new forest database platform was launched in July 2026 to digitally map and track India's green cover and biodiversity?",
+        "options": [
+            "Vriksha-Net",
+            "InvenTree-meta",
+            "GreenDrive DB",
+            "Van-Rakshak Portal"
+        ],
+        "answer": "InvenTree-meta",
+        "explanation": "The 'InvenTree-meta' database was launched as a comprehensive digital repository to catalog, monitor, and manage forest resources and biodiversity.",
+        "tags": [
+            "Environment",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_07_042",
+        "date": "2026-07-22",
+        "question": "Which think tank released the comprehensive 'Bioeconomy Roadmap' for India in July 2026 to boost sustainable economic growth?",
+        "options": [
+            "Observer Research Foundation",
+            "CSIR",
+            "NITI Aayog",
+            "NASSCOM"
+        ],
+        "answer": "NITI Aayog",
+        "explanation": "NITI Aayog unveiled the Bioeconomy Roadmap, outlining strategies to integrate biotechnology with industrial processes to foster a sustainable economy.",
+        "tags": [
+            "Economy",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_07_043",
+        "date": "2026-07-13",
+        "question": "The 'Global Ayurveda Roadmap' was also published in July 2026. Which organization was heavily involved in its drafting to standardize alternative medicine globally?",
+        "options": [
+            "Ministry of Health and NITI Aayog",
+            "Patanjali Research Institute",
+            "World Health Organization (WHO) and IMA",
+            "All India Institute of Medical Sciences (AIIMS)"
+        ],
+        "answer": "Ministry of Health and NITI Aayog",
+        "explanation": "NITI Aayog, in coordination with the Ministry of AYUSH and Health, released the Global Ayurveda Roadmap to promote standardized Ayurvedic practices worldwide.",
+        "tags": [
+            "National",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_07_044",
+        "date": "2026-07-22",
+        "question": "The Borjuli Wetland, which was granted 'Biodiversity Heritage Site' status in July 2026, is situated in which region?",
+        "options": [
+            "Northeast India",
+            "Western Ghats",
+            "Thar Desert",
+            "Andaman Islands"
+        ],
+        "answer": "Northeast India",
+        "explanation": "The Borjuli Wetland, recognized for its unique flora and avian diversity in Assam (Northeast India), was officially tagged as a Biodiversity Heritage Site.",
+        "tags": [
+            "Environment",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_07_045",
+        "date": "2026-07-30",
+        "question": "World Day Against Trafficking in Persons is observed on July 30. Which UN agency typically leads the global campaign for this day?",
+        "options": [
+            "UNICEF",
+            "UNODC (United Nations Office on Drugs and Crime)",
+            "WHO",
+            "UNESCO"
+        ],
+        "answer": "UNODC (United Nations Office on Drugs and Crime)",
+        "explanation": "The UNODC coordinates the global campaign for the World Day Against Trafficking in Persons to raise awareness about the plight of human trafficking victims.",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_046",
+        "date": "2026-07-20",
+        "question": "International Chess Day is celebrated on July 20 to mark the founding of which governing body in 1924?",
+        "options": [
+            "World Chess Federation (FIDE)",
+            "International Chess Council",
+            "Global Chess Association",
+            "Chess Olympiad Committee"
+        ],
+        "answer": "World Chess Federation (FIDE)",
+        "explanation": "July 20 marks the date when the International Chess Federation (FIDE) was established in Paris in 1924.",
+        "tags": [
+            "Sports",
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_047",
+        "date": "2026-07-25",
+        "question": "In July 2026, the Indian Armed Forces participated in an international maritime exercise named 'Operation Southern Readiness 26-2'. What is its primary focus?",
+        "options": [
+            "Arctic exploration",
+            "Securing the Red Sea trade routes",
+            "Enhancing maritime security in the Western Indian Ocean",
+            "Anti-piracy in the South China Sea"
+        ],
+        "answer": "Enhancing maritime security in the Western Indian Ocean",
+        "explanation": "Operation Southern Readiness focuses on capacity building and maritime security cooperation among multinational forces in the strategic Western Indian Ocean region.",
+        "tags": [
+            "Defence",
+            "International Relations"
+        ]
+    },
+    {
+        "id": "ca_2026_07_048",
+        "date": "2026-07-02",
+        "question": "Which day is celebrated as 'GST Day' in India, commemorating the implementation of the Goods and Services Tax?",
+        "options": [
+            "July 1",
+            "July 15",
+            "April 1",
+            "December 31"
+        ],
+        "answer": "July 1",
+        "explanation": "GST was rolled out on the midnight of June 30 / July 1, 2017. Therefore, July 1 is celebrated annually as GST Day.",
+        "tags": [
+            "Economy",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_049",
+        "date": "2026-07-28",
+        "question": "World Hepatitis Day, observed on July 28, commemorates the birth of which Nobel-prize winning scientist who discovered the hepatitis B virus?",
+        "options": [
+            "Alexander Fleming",
+            "Baruch Blumberg",
+            "Louis Pasteur",
+            "Edward Jenner"
+        ],
+        "answer": "Baruch Blumberg",
+        "explanation": "July 28 honors Dr. Baruch Blumberg, who discovered the hepatitis B virus and subsequently developed a diagnostic test and vaccine for it.",
+        "tags": [
+            "Science",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_07_050",
+        "date": "2026-07-15",
+        "question": "World Youth Skills Day is observed on July 15. The 'Skill India Mission' was launched on this day in which year?",
+        "options": [
+            "2014",
+            "2015",
+            "2016",
+            "2018"
+        ],
+        "answer": "2015",
+        "explanation": "The Skill India Mission was launched on July 15, 2015, intentionally aligning with the UN's inaugural World Youth Skills Day.",
+        "tags": [
+            "National",
+            "Important Days",
+            "Schemes"
+        ]
+    }
+]

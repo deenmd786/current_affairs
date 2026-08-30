@@ -1,0 +1,868 @@
+﻿[
+    {
+        "id": "ca_2026_08_001",
+        "date": "2026-08-15",
+        "question": "On August 15, 2026, India celebrated which edition of its Independence Day?",
+        "options": [
+            "78th",
+            "79th",
+            "80th",
+            "81st"
+        ],
+        "answer": "80th",
+        "explanation": "On August 15, 2026, India celebrated its 80th Independence Day, marking 79 completed years of freedom since 1947.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_002",
+        "date": "2026-08-08",
+        "question": "Following the August 2026 Monetary Policy Committee (MPC) meeting, the Reserve Bank of India (RBI) decided to keep the repo rate unchanged at what percentage?",
+        "options": [
+            "6.00%",
+            "6.25%",
+            "6.50%",
+            "6.75%"
+        ],
+        "answer": "6.50%",
+        "explanation": "The RBI MPC, in its August 2026 bi-monthly meeting, decided to maintain the status quo, keeping the policy repo rate unchanged at 6.50% while focusing on withdrawal of accommodation.",
+        "tags": [
+            "Economy",
+            "Banking",
+            "RBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_003",
+        "date": "2026-08-07",
+        "question": "Which edition of National Handloom Day was observed across India on August 7, 2026, to honor the handloom weaving community?",
+        "options": [
+            "10th",
+            "11th",
+            "12th",
+            "14th"
+        ],
+        "answer": "12th",
+        "explanation": "The 12th National Handloom Day was observed on August 7, 2026. The day was first instituted in 2015 to commemorate the Swadeshi Movement launched on this date in 1905.",
+        "tags": [
+            "National",
+            "Important Days",
+            "Economy"
+        ]
+    },
+    {
+        "id": "ca_2026_08_004",
+        "date": "2026-08-14",
+        "question": "August 14 is observed annually in India to acknowledge the pain and suffering of millions during the 1947 partition. What is the day called?",
+        "options": [
+            "Partition Horrors Remembrance Day",
+            "National Unity Day",
+            "Martyrs' Memorial Day",
+            "Day of National Mourning"
+        ],
+        "answer": "Partition Horrors Remembrance Day",
+        "explanation": "August 14 is observed as 'Partition Horrors Remembrance Day' (Vibhajan Vibhishika Smriti Diwas) to remember the struggles and sacrifices of people during the partition of India.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_005",
+        "date": "2026-08-09",
+        "question": "In August 2026, the Indian Air Force commenced 'Exercise Tarang Shakti'. What is the significance of this exercise?",
+        "options": [
+            "It is a bilateral exercise with the US Air Force.",
+            "It is India's largest indigenous multi-national air exercise.",
+            "It is focused solely on airborne humanitarian aid drops.",
+            "It marks the induction of the indigenous AMCA fighter."
+        ],
+        "answer": "It is India's largest indigenous multi-national air exercise.",
+        "explanation": "Exercise Tarang Shakti is the largest multilateral air exercise ever hosted by India, involving air forces from over a dozen friendly nations to enhance interoperability.",
+        "tags": [
+            "Defence",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_006",
+        "date": "2026-08-12",
+        "question": "World Elephant Day is celebrated on August 12. Which Indian state currently holds the largest population of wild elephants?",
+        "options": [
+            "Assam",
+            "Kerala",
+            "Karnataka",
+            "Tamil Nadu"
+        ],
+        "answer": "Karnataka",
+        "explanation": "According to the latest wildlife census data, Karnataka continues to host the highest number of wild elephants in India, followed by Assam and Kerala.",
+        "tags": [
+            "Environment",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_08_007",
+        "date": "2026-08-10",
+        "question": "World Lion Day is observed on August 10. The Asiatic Lion is currently found in the wild only in which Indian national park?",
+        "options": [
+            "Jim Corbett National Park",
+            "Kaziranga National Park",
+            "Gir National Park",
+            "Ranthambore National Park"
+        ],
+        "answer": "Gir National Park",
+        "explanation": "World Lion Day raises awareness about lion conservation. The Gir National Park and Wildlife Sanctuary in Gujarat is the only natural habitat of the Asiatic lion in the world.",
+        "tags": [
+            "Environment",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_008",
+        "date": "2026-08-20",
+        "question": "Sadbhavana Diwas is celebrated on August 20 to commemorate the birth anniversary of which former Indian Prime Minister?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Lal Bahadur Shastri",
+            "Indira Gandhi",
+            "Rajiv Gandhi"
+        ],
+        "answer": "Rajiv Gandhi",
+        "explanation": "Sadbhavana Diwas (Harmony Day) is observed on August 20 every year to mark the birth anniversary of India's youngest Prime Minister, Rajiv Gandhi, promoting national integration and peace.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_009",
+        "date": "2026-08-13",
+        "question": "The Ministry of Environment, Forest and Climate Change added new wetlands to the Ramsar list on the eve of Independence Day 2026. What is India's new total number of Ramsar sites?",
+        "options": [
+            "88",
+            "92",
+            "95",
+            "100"
+        ],
+        "answer": "95",
+        "explanation": "With the addition of new ecologically sensitive wetlands in August 2026, India's total number of recognized Ramsar sites of international importance reached 95.",
+        "tags": [
+            "Environment",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_010",
+        "date": "2026-08-01",
+        "question": "UPI transaction volumes hit a new historic milestone. According to NPCI data released in early August 2026, how many UPI transactions were processed in July?",
+        "options": [
+            "10 Billion",
+            "15 Billion",
+            "18 Billion",
+            "20 Billion"
+        ],
+        "answer": "18 Billion",
+        "explanation": "NPCI data revealed that the Unified Payments Interface (UPI) processed a record-breaking 18 billion transactions in July 2026, reflecting immense digital payment penetration.",
+        "tags": [
+            "Economy",
+            "Banking",
+            "Technology"
+        ]
+    },
+    {
+        "id": "ca_2026_08_011",
+        "date": "2026-08-16",
+        "question": "Who was appointed as the new Cabinet Secretary of India in August 2026, succeeding the long-tenured Rajiv Gauba?",
+        "options": [
+            "T. V. Somanathan",
+            "Ajay Kumar Bhalla",
+            "Manoj Govil",
+            "Sanjay Malhotra"
+        ],
+        "answer": "T. V. Somanathan",
+        "explanation": "T. V. Somanathan, a senior IAS officer who previously served as the Finance Secretary, was appointed as the new Cabinet Secretary of India in August 2026.",
+        "tags": [
+            "Appointments",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_012",
+        "date": "2026-08-08",
+        "question": "August 8 marks the anniversary of the Quit India Movement. In which year was this historic movement launched by Mahatma Gandhi?",
+        "options": [
+            "1930",
+            "1942",
+            "1945",
+            "1947"
+        ],
+        "answer": "1942",
+        "explanation": "The Quit India Movement, also known as the August Kranti, was launched by Mahatma Gandhi on August 8, 1942, at the Gowalia Tank Maidan in Mumbai.",
+        "tags": [
+            "National",
+            "Important Days",
+            "History"
+        ]
+    },
+    {
+        "id": "ca_2026_08_013",
+        "date": "2026-08-05",
+        "question": "Which international organization held its 6th regional summit in Bangkok, Thailand, in early August 2026?",
+        "options": [
+            "ASEAN",
+            "SAARC",
+            "BIMSTEC",
+            "SCO"
+        ],
+        "answer": "BIMSTEC",
+        "explanation": "The 6th BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) Summit was hosted by Thailand in August 2026.",
+        "tags": [
+            "International Relations"
+        ]
+    },
+    {
+        "id": "ca_2026_08_014",
+        "date": "2026-08-19",
+        "question": "World Photography Day and World Humanitarian Day are both observed globally on which date?",
+        "options": [
+            "August 15",
+            "August 17",
+            "August 19",
+            "August 21"
+        ],
+        "answer": "August 19",
+        "explanation": "August 19 is dual-purposed internationally, recognized as both World Photography Day and World Humanitarian Day (honoring aid workers who risk their lives).",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_015",
+        "date": "2026-08-14",
+        "question": "In a major regulatory move in August 2026, SEBI proposed strict structural changes to retail trading in which market segment to curb speculative losses?",
+        "options": [
+            "Commodities Spot Market",
+            "Index Derivatives (F&O)",
+            "Sovereign Gold Bonds",
+            "Real Estate Investment Trusts (REITs)"
+        ],
+        "answer": "Index Derivatives (F&O)",
+        "explanation": "SEBI introduced stringent measures for the Index Futures and Options (F&O) segment, including higher contract sizes and restricted weekly expiries, to protect retail investors from highly speculative trading.",
+        "tags": [
+            "Economy",
+            "SEBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_016",
+        "date": "2026-08-06",
+        "question": "Hiroshima Day is observed on August 6 to solemnly remember the atomic bombing of the city. Which aircraft dropped the bomb named 'Little Boy'?",
+        "options": [
+            "Bockscar",
+            "Enola Gay",
+            "Memphis Belle",
+            "Spruce Goose"
+        ],
+        "answer": "Enola Gay",
+        "explanation": "On August 6, 1945, the US B-29 bomber 'Enola Gay' dropped the atomic bomb 'Little Boy' on Hiroshima. (Bockscar dropped 'Fat Man' on Nagasaki on August 9).",
+        "tags": [
+            "International",
+            "Important Days",
+            "History"
+        ]
+    },
+    {
+        "id": "ca_2026_08_017",
+        "date": "2026-08-03",
+        "question": "Which Indian state launched the 'Mukhyamantri Maiya Samman Yojana' in August 2026 to provide financial assistance to women?",
+        "options": [
+            "Madhya Pradesh",
+            "Jharkhand",
+            "Chhattisgarh",
+            "Rajasthan"
+        ],
+        "answer": "Jharkhand",
+        "explanation": "The Jharkhand government officially rolled out the 'Mukhyamantri Maiya Samman Yojana' in August 2026, providing a monthly DBT of ₹1000 to eligible women in the state.",
+        "tags": [
+            "State",
+            "Schemes"
+        ]
+    },
+    {
+        "id": "ca_2026_08_018",
+        "date": "2026-08-10",
+        "question": "World Biofuel Day is observed on August 10 to commemorate the research of which inventor, who first successfully ran an engine on peanut oil?",
+        "options": [
+            "Henry Ford",
+            "Nikolaus Otto",
+            "Rudolf Diesel",
+            "Gottlieb Daimler"
+        ],
+        "answer": "Rudolf Diesel",
+        "explanation": "World Biofuel Day honors Sir Rudolf Diesel, who on August 10, 1893, successfully operated his mechanical engine using peanut oil, pioneering the concept of biofuels.",
+        "tags": [
+            "Science",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_019",
+        "date": "2026-08-11",
+        "question": "Who was appointed as the new Chairperson of the Union Public Service Commission (UPSC) following the sudden resignation of Manoj Soni?",
+        "options": [
+            "Preeti Sudan",
+            "Rajiv Nayan Choubey",
+            "Sanjay Mitra",
+            "Pradeep Kumar Joshi"
+        ],
+        "answer": "Preeti Sudan",
+        "explanation": "Preeti Sudan, a former Union Health Secretary, was elevated to the post of Chairperson of the UPSC in August 2026 after Manoj Soni stepped down.",
+        "tags": [
+            "Appointments",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_020",
+        "date": "2026-08-17",
+        "question": "Who won the Men's Singles title at the 2026 Cincinnati Masters (Cincinnati Open) tennis tournament held in August?",
+        "options": [
+            "Novak Djokovic",
+            "Carlos Alcaraz",
+            "Jannik Sinner",
+            "Daniil Medvedev"
+        ],
+        "answer": "Carlos Alcaraz",
+        "explanation": "Carlos Alcaraz secured the 2026 Cincinnati Masters title, defeating Jannik Sinner in a hard-fought final on the American hard courts.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_021",
+        "date": "2026-08-15",
+        "question": "The 'Har Ghar Tiranga' campaign was launched once again for Independence Day 2026. Under which central government ministry is this initiative organized?",
+        "options": [
+            "Ministry of Home Affairs",
+            "Ministry of Culture",
+            "Ministry of Information and Broadcasting",
+            "Ministry of Defence"
+        ],
+        "answer": "Ministry of Culture",
+        "explanation": "The 'Har Ghar Tiranga' campaign is a flagship initiative organized by the Ministry of Culture under the overarching 'Azadi Ka Amrit Mahotsav' framework.",
+        "tags": [
+            "National",
+            "Schemes"
+        ]
+    },
+    {
+        "id": "ca_2026_08_022",
+        "date": "2026-08-04",
+        "question": "Which major public sector bank launched 'Project Shikhar', a comprehensive digital transformation drive, in August 2026?",
+        "options": [
+            "State Bank of India",
+            "Bank of Baroda",
+            "Canara Bank",
+            "Union Bank of India"
+        ],
+        "answer": "Bank of Baroda",
+        "explanation": "Bank of Baroda launched 'Project Shikhar' in August 2026 to overhaul its digital infrastructure and integrate advanced GenAI tools into its customer service app, 'bob World'.",
+        "tags": [
+            "Banking",
+            "Technology"
+        ]
+    },
+    {
+        "id": "ca_2026_08_023",
+        "date": "2026-08-13",
+        "question": "ISRO successfully conducted a static fire test of the propulsion system for its upcoming space docking experiment in August 2026. What is the mission named?",
+        "options": [
+            "DOCK-1",
+            "SPADEX",
+            "Gaganyaan-Link",
+            "Shukrayaan"
+        ],
+        "answer": "SPADEX",
+        "explanation": "ISRO's SPADEX (Space Docking Experiment) is a twin spacecraft mission intended to demonstrate autonomous docking and orbital rendezvous, a crucial step for India's future space station.",
+        "tags": [
+            "Science",
+            "Space"
+        ]
+    },
+    {
+        "id": "ca_2026_08_024",
+        "date": "2026-08-09",
+        "question": "August 9 is designated by the United Nations as the International Day of the World's Indigenous Peoples. Which Indian state has the highest percentage of tribal population relative to its total population?",
+        "options": [
+            "Madhya Pradesh",
+            "Mizoram",
+            "Jharkhand",
+            "Chhattisgarh"
+        ],
+        "answer": "Mizoram",
+        "explanation": "While Madhya Pradesh has the highest absolute number of tribals, Mizoram has the highest percentage of tribal population (over 94%) relative to its total state population.",
+        "tags": [
+            "International",
+            "Important Days",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_025",
+        "date": "2026-08-18",
+        "question": "The National Film Awards for 2026 were announced in August. The awards are organized by the Directorate of Film Festivals, which falls under which Ministry?",
+        "options": [
+            "Ministry of Culture",
+            "Ministry of Information and Broadcasting",
+            "Ministry of Communications",
+            "Ministry of Tourism"
+        ],
+        "answer": "Ministry of Information and Broadcasting",
+        "explanation": "The Directorate of Film Festivals, which administers the prestigious National Film Awards, operates under the Ministry of Information and Broadcasting.",
+        "tags": [
+            "Awards",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_026",
+        "date": "2026-08-14",
+        "question": "Which state's legislature passed a controversial resolution in August 2026 demanding the complete withdrawal of the Armed Forces (Special Powers) Act (AFSPA)?",
+        "options": [
+            "Manipur",
+            "Nagaland",
+            "Assam",
+            "Jammu and Kashmir"
+        ],
+        "answer": "Manipur",
+        "explanation": "The Manipur state assembly unanimously passed a resolution in August 2026 urging the Centre to revoke the Armed Forces (Special Powers) Act from the remaining areas of the state.",
+        "tags": [
+            "State",
+            "Polity"
+        ]
+    },
+    {
+        "id": "ca_2026_08_027",
+        "date": "2026-08-02",
+        "question": "Which Indian city became the first to successfully implement a city-wide AI-driven adaptive traffic control system, named 'Intelli-Flow', in August 2026?",
+        "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Pune",
+            "Indore"
+        ],
+        "answer": "Bengaluru",
+        "explanation": "Bengaluru officially launched 'Intelli-Flow', a fully AI-driven adaptive traffic signal system across all major junctions, designed to drastically reduce congestion in real-time.",
+        "tags": [
+            "Technology",
+            "State",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_028",
+        "date": "2026-08-12",
+        "question": "In August 2026, the World Health Organization (WHO) declared a global public health emergency over a new outbreak of which infectious disease in Central Africa?",
+        "options": [
+            "Ebola",
+            "Mpox (Monkeypox)",
+            "Marburg virus",
+            "Zika virus"
+        ],
+        "answer": "Mpox (Monkeypox)",
+        "explanation": "The WHO Director-General declared the escalating Mpox outbreak in Central Africa a Public Health Emergency of International Concern (PHEIC), prompting global alert measures.",
+        "tags": [
+            "International",
+            "Science"
+        ]
+    },
+    {
+        "id": "ca_2026_08_029",
+        "date": "2026-08-07",
+        "question": "Which country won the gold medal in Men's Hockey at the recent global sporting events, heavily celebrated in August 2026?",
+        "options": [
+            "India",
+            "Germany",
+            "Netherlands",
+            "Australia"
+        ],
+        "answer": "Netherlands",
+        "explanation": "The Netherlands secured the Men's Hockey gold medal, with the Indian Men's Hockey team securing a strong podium finish (Bronze) widely celebrated back home in August.",
+        "tags": [
+            "Sports",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_030",
+        "date": "2026-08-16",
+        "question": "To curb the menace of fake online reviews, the Bureau of Indian Standards (BIS) made which framework mandatory for e-commerce platforms in August 2026?",
+        "options": [
+            "IS 19000:2022",
+            "IS 25000:2024",
+            "IS 18000:2025",
+            "IS 21000:2026"
+        ],
+        "answer": "IS 19000:2022",
+        "explanation": "The government made the BIS standard 'IS 19000:2022 (Online Consumer Reviews)' legally mandatory for all e-commerce entities to verify the authenticity of customer reviews.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_031",
+        "date": "2026-08-11",
+        "question": "Which tech giant partnered with the Ministry of Skill Development in August 2026 to train 2 million Indian students in advanced Generative AI?",
+        "options": [
+            "Microsoft",
+            "Google",
+            "IBM",
+            "Amazon Web Services (AWS)"
+        ],
+        "answer": "Microsoft",
+        "explanation": "Microsoft India signed a massive MoU with the Ministry of Skill Development and Entrepreneurship to upskill 2 million youths across Tier-2 and Tier-3 cities in Generative AI tools.",
+        "tags": [
+            "Technology",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_032",
+        "date": "2026-08-05",
+        "question": "A massive catastrophic landslide struck which district of Kerala in early August, prompting an unprecedented multi-agency rescue operation?",
+        "options": [
+            "Idukki",
+            "Wayanad",
+            "Pathanamthitta",
+            "Kottayam"
+        ],
+        "answer": "Wayanad",
+        "explanation": "A devastating landslide wiped out multiple villages in the hilly district of Wayanad, Kerala, triggering massive rescue operations by the NDRF, Army, and Air Force.",
+        "tags": [
+            "State",
+            "Environment"
+        ]
+    },
+    {
+        "id": "ca_2026_08_033",
+        "date": "2026-08-20",
+        "question": "India signed its first-ever Bilateral Investment Treaty (BIT) with which Central Asian nation during a diplomatic visit in August 2026?",
+        "options": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Tajikistan"
+        ],
+        "answer": "Uzbekistan",
+        "explanation": "India and Uzbekistan formally signed a Bilateral Investment Treaty (BIT) in August 2026 to boost mutual investments and protect cross-border business interests.",
+        "tags": [
+            "International Relations",
+            "Economy"
+        ]
+    },
+    {
+        "id": "ca_2026_08_034",
+        "date": "2026-08-14",
+        "question": "What is the name of the new digital portal launched by the Ministry of Home Affairs to streamline FIR registrations and track criminal records under the new criminal laws?",
+        "options": [
+            "Nyaya-Setu",
+            "e-Sakshya",
+            "CrimeNet Pro",
+            "Bharat-Rakshak"
+        ],
+        "answer": "e-Sakshya",
+        "explanation": "The 'e-Sakshya' portal was launched by the MHA to allow police forces to capture, store, and digitally transmit digital evidence as mandated by the new Bharatiya Nyaya Sanhita (BNS) laws.",
+        "tags": [
+            "National",
+            "Polity",
+            "Technology"
+        ]
+    },
+    {
+        "id": "ca_2026_08_035",
+        "date": "2026-08-18",
+        "question": "In August 2026, which prominent Indian wrestler was officially elected to the United World Wrestling (UWW) Athletes' Commission?",
+        "options": [
+            "Bajrang Punia",
+            "Ravi Kumar Dahiya",
+            "Vinesh Phogat",
+            "Sakshi Malik"
+        ],
+        "answer": "Vinesh Phogat",
+        "explanation": "Following an eventful Olympic season and retirement announcements, Vinesh Phogat was elected to the prestigious UWW Athletes' Commission to represent global wrestlers' interests.",
+        "tags": [
+            "Sports",
+            "International",
+            "Appointments"
+        ]
+    },
+    {
+        "id": "ca_2026_08_036",
+        "date": "2026-08-16",
+        "question": "ISRO successfully launched the EOS-08 Earth Observation Satellite using which launch vehicle from Sriharikota?",
+        "options": [
+            "PSLV-C56",
+            "SSLV-D3",
+            "GSLV-F14",
+            "LVM3-M4"
+        ],
+        "answer": "SSLV-D3",
+        "explanation": "ISRO successfully conducted the third and final developmental flight (SSLV-D3) of the Small Satellite Launch Vehicle (SSLV), injecting the EOS-08 Earth Observation Satellite into its designated orbit.",
+        "tags": [
+            "Science",
+            "Space",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_037",
+        "date": "2026-08-10",
+        "question": "The Reserve Bank of India announced the nationwide rollout of the 'ULI' platform to transform frictionless credit delivery. What does ULI stand for?",
+        "options": [
+            "Universal Liquidity Interface",
+            "Unified Lending Interface",
+            "United Ledger Infrastructure",
+            "Unified Loan Integration"
+        ],
+        "answer": "Unified Lending Interface",
+        "explanation": "RBI Governor announced the launch of the Unified Lending Interface (ULI), designed to enable seamless, digital flow of data and expedite credit access to rural and MSME borrowers.",
+        "tags": [
+            "Banking",
+            "Economy",
+            "RBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_038",
+        "date": "2026-08-08",
+        "question": "In its August 2026 policy review, the RBI enhanced the per-transaction limit for tax payments through UPI from ₹1 lakh to what amount?",
+        "options": [
+            "₹2 Lakh",
+            "₹3 Lakh",
+            "₹5 Lakh",
+            "₹10 Lakh"
+        ],
+        "answer": "₹5 Lakh",
+        "explanation": "To facilitate easier high-value direct and indirect tax payments for individual taxpayers and small businesses, RBI increased the UPI per-transaction limit for tax payments to ₹5 lakh.",
+        "tags": [
+            "Banking",
+            "Economy",
+            "RBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_039",
+        "date": "2026-08-12",
+        "question": "International Youth Day is celebrated globally on August 12. What was the central theme designated by the United Nations for 2026?",
+        "options": [
+            "Green Skills for Youth",
+            "From Clicks to Progress: Youth Digital Pathways for Sustainable Development",
+            "Transforming Food Systems: Youth Innovation",
+            "Youth Engagement for Global Action"
+        ],
+        "answer": "From Clicks to Progress: Youth Digital Pathways for Sustainable Development",
+        "explanation": "International Youth Day on August 12 focused on leveraging youth-led digital innovations to advance the UN Sustainable Development Goals (SDGs).",
+        "tags": [
+            "International",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_040",
+        "date": "2026-08-13",
+        "question": "World Organ Donation Day is observed annually on August 13. Which Indian state has consistently led the country in deceased organ donations?",
+        "options": [
+            "Maharashtra",
+            "Tamil Nadu",
+            "Kerala",
+            "Gujarat"
+        ],
+        "answer": "Tamil Nadu",
+        "explanation": "Tamil Nadu has maintained a pioneering stance in organ donation and cadaver transplantation in India through the state-run TRANSTAN network.",
+        "tags": [
+            "National",
+            "Important Days",
+            "State"
+        ]
+    },
+    {
+        "id": "ca_2026_08_041",
+        "date": "2026-08-09",
+        "question": "Nagasaki Day is observed on August 9 to mark the atomic bombing of the city in 1945. What was the code name of the plutonium bomb dropped on Nagasaki?",
+        "options": [
+            "Little Boy",
+            "Fat Man",
+            "Trinity",
+            "Tsar Bomba"
+        ],
+        "answer": "Fat Man",
+        "explanation": "The atomic bomb dropped on Nagasaki on August 9, 1945, was codenamed 'Fat Man', dropped by the US B-29 bomber named Bockscar.",
+        "tags": [
+            "International",
+            "Important Days",
+            "History"
+        ]
+    },
+    {
+        "id": "ca_2026_08_042",
+        "date": "2026-08-19",
+        "question": "Which ancient language's preservation and promotion is commemorated annually on World Sanskrit Day (Vishwa Samskrita Dinam) on Shravana Purnima?",
+        "options": [
+            "Prakrit",
+            "Pali",
+            "Sanskrit",
+            "Maithili"
+        ],
+        "answer": "Sanskrit",
+        "explanation": "World Sanskrit Day is celebrated every year on the full moon day of the Hindu month of Shravana (Shravana Purnima) to promote the revitalisation and study of Sanskrit.",
+        "tags": [
+            "National",
+            "Important Days"
+        ]
+    },
+    {
+        "id": "ca_2026_08_043",
+        "date": "2026-08-05",
+        "question": "The Ministry of Skill Development and Entrepreneurship revised the 'Model Skill Loan Scheme' in August 2026, raising the maximum loan limit from ₹1.5 lakh to how much?",
+        "options": [
+            "₹3.5 Lakh",
+            "₹5 Lakh",
+            "₹7.5 Lakh",
+            "₹10 Lakh"
+        ],
+        "answer": "₹7.5 Lakh",
+        "explanation": "The Central Government expanded the Model Skill Loan Scheme by increasing the collateral-free loan ceiling to ₹7.5 lakh to help youth access advanced technical and vocational skilling programs.",
+        "tags": [
+            "Schemes",
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_044",
+        "date": "2026-08-14",
+        "question": "Which state assembly passed the 'Civil Code Bill' in August 2026, becoming the first state in independent India to implement a Uniform Civil Code (UCC) framework?",
+        "options": [
+            "Goa",
+            "Uttarakhand",
+            "Gujarat",
+            "Assam"
+        ],
+        "answer": "Uttarakhand",
+        "explanation": "Uttarakhand finalized and operationalized rules under its Uniform Civil Code (UCC) framework, establishing common civil laws across all communities within the state.",
+        "tags": [
+            "State",
+            "Polity"
+        ]
+    },
+    {
+        "id": "ca_2026_08_045",
+        "date": "2026-08-17",
+        "question": "India held the 3rd edition of the '2+2 Ministerial Dialogue' in New Delhi in August 2026 with which key East Asian partner country?",
+        "options": [
+            "South Korea",
+            "Japan",
+            "Vietnam",
+            "Indonesia"
+        ],
+        "answer": "Japan",
+        "explanation": "The India-Japan 2+2 Ministerial Dialogue took place in New Delhi, bringing together the Defence and Foreign Ministers of both countries to bolster Indo-Pacific security cooperation.",
+        "tags": [
+            "International Relations",
+            "Defence"
+        ]
+    },
+    {
+        "id": "ca_2026_08_046",
+        "date": "2026-08-01",
+        "question": "Under the 'PM Surya Ghar: Muft Bijli Yojana', households installing rooftop solar units receive up to how many units of free electricity every month?",
+        "options": [
+            "100 Units",
+            "200 Units",
+            "300 Units",
+            "400 Units"
+        ],
+        "answer": "300 Units",
+        "explanation": "The PM Surya Ghar: Muft Bijli Yojana provides substantial central subsidies to enable 1 crore households to generate and access up to 300 units of free solar power per month.",
+        "tags": [
+            "Schemes",
+            "Environment",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_047",
+        "date": "2026-08-18",
+        "question": "Which public sector undertaking (PSU) under the Ministry of Railways was granted the prestigious 'Navratna' status in August 2026?",
+        "options": [
+            "IRFC",
+            "RailTel Corporation of India",
+            "IRCON International",
+            "RITES Limited"
+        ],
+        "answer": "RailTel Corporation of India",
+        "explanation": "RailTel Corporation of India was officially upgraded to 'Navratna' category, allowing it greater financial flexibility to undertake large-scale domestic and overseas telecom and ICT projects.",
+        "tags": [
+            "Economy",
+            "National"
+        ]
+    },
+    {
+        "id": "ca_2026_08_048",
+        "date": "2026-08-06",
+        "question": "Which country assumed the rotating Presidency of the United Nations Security Council (UNSC) for the month of August 2026?",
+        "options": [
+            "Sierra Leone",
+            "Slovenia",
+            "Panama",
+            "Switzerland"
+        ],
+        "answer": "Sierra Leone",
+        "explanation": "Sierra Leone held the monthly rotating Presidency of the UN Security Council for August 2026, leading key debates on peacebuilding and counter-terrorism in Africa.",
+        "tags": [
+            "International Relations",
+            "International"
+        ]
+    },
+    {
+        "id": "ca_2026_08_049",
+        "date": "2026-08-11",
+        "question": "SEBI mandated that all listed companies must implement enhanced ESG (Environmental, Social, and Governance) disclosures through which reporting framework?",
+        "options": [
+            "BRSR Core",
+            "GRI-9 Standards",
+            "GreenCheck Framework",
+            "Carbon-Credit Matrix"
+        ],
+        "answer": "BRSR Core",
+        "explanation": "SEBI mandated top listed companies to report under the Business Responsibility and Sustainability Reporting (BRSR Core) framework with mandatory third-party value-chain assurance.",
+        "tags": [
+            "Economy",
+            "SEBI"
+        ]
+    },
+    {
+        "id": "ca_2026_08_050",
+        "date": "2026-08-20",
+        "question": "Akshay Urja Diwas (Renewable Energy Day) is observed in India on August 20 to raise awareness about the development of which energy sector?",
+        "options": [
+            "Nuclear Power",
+            "Thermal Energy",
+            "Renewable and Clean Energy",
+            "Coal Gasification"
+        ],
+        "answer": "Renewable and Clean Energy",
+        "explanation": "Akshay Urja Diwas is observed annually on August 20 to raise awareness about the adoption and vital role of renewable energy sources such as solar, wind, hydro, and bio-energy in India.",
+        "tags": [
+            "Environment",
+            "Important Days",
+            "National"
+        ]
+    }
+]
