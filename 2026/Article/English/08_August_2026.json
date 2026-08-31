@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "date": "2026-08-01",
         "total_articles": 4,
@@ -896,6 +896,42 @@
                 "description": "Scientists published new findings based on data from the Aditya-L1 solar observatory, revealing early magnetic warning signs that precede violent solar flares, crucial for protecting global satellite networks.",
                 "source": "The Hindu (Science & Tech)",
                 "link": "https://www.thehindu.com/sci-tech/science/aditya-l1-solar-flares-early-warning/article20260830.ece"
+            }
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "PM Modi meets Iran President Masoud Pezeshkian on the sidelines of SCO summit in Kyrgyzstan",
+                "description": "Prime Minister Modi underlined the need for continued efforts to ensure peace and stability in the region, and for safeguarding freedom of navigation and commerce",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/pm-modi-meet-iran-president-masoud-pezeshkian-on-the-sidelines-of-sco-summit-in-kyrgyzstan/article71410215.ece"
+            },
+            {
+                "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
+                "description": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
+            },
+            {
+                "title": "UPI completes 10 years of digital payments, sees 13,000-fold surge in transaction volume, 4,000-fold rise in value",
+                "description": "Annual UPI transaction volume rose from 1.78 crore in 2016-17 to more than 24,162 crore in 2025-26, an almost 13,000-fold increase, the Finance Ministry said in a statement",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/article71384088.ece"
+            },
+            {
+                "title": "Gross FDI hit 15-year high of $30.7 billion in April-June 2026",
+                "description": "A longer-term analysis also shows that inflows are starting to outpace outflows on a more regular basis. For instance, while net FDI was negative in six out of the last 12 months, it was negative in only one of the last six months.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/gross-fdi-hit-15-year-high-of-307-billion-in-april-june-2026/article71392237.ece"
+            },
+            {
+                "title": "3 Semiconductor Stocks with Strong Future Roadmaps in India - Equitymaster",
+                "description": "3 Semiconductor Stocks with Strong Future Roadmaps in India Equitymaster Govt notifies ₹1,27,500-crore Semicon 2.0; spells out eligibility norms, sops for chip ecosystem The Hindu India pushes semiconductor drive as experts warn of latecomer risks Nikkei Asia Government notifies Rs 1.27 lakh crore S",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3JTcFd4VVhpV212V053QVdwZzMzbUhFNEQ5M1RXVklvN09JVGZpeFZwUE5Ld2phcDFwWU91S1NGT25UbGc4MGVYWXNRa1Nod1J5VDNkcnJYQ3RwaXRmalg1eFBuaTJpNndtTS1OUm9OZ3RRREpGT0w4X2ZaLUhMWlVqczQ3RXc3QWZjbWZVWVkteURJdF9WYzJCNjJVQUN3eWNUeGhuLUJreWQ1LTNZaG1uWDk0cnNSSmxjSi1XWGRZSHJmRDBCUw?oc=5"
             }
         ]
     }
