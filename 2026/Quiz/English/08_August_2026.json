@@ -1,90 +1,98 @@
-﻿[
+[
     {
         "id": "ca_2026_08_001",
-        "date": "2026-08-15",
-        "question": "On August 15, 2026, India celebrated which edition of its Independence Day?",
+        "date": "2026-08-31",
+        "question": "On the sidelines of the SCO summit held in Kyrgyzstan, Prime Minister Narendra Modi met with the President of which country to discuss regional peace and freedom of navigation?",
         "options": [
-            "78th",
-            "79th",
-            "80th",
-            "81st"
+            "Iran",
+            "Uzbekistan",
+            "Tajikistan",
+            "Kazakhstan"
         ],
-        "answer": "80th",
-        "explanation": "On August 15, 2026, India celebrated its 80th Independence Day, marking 79 completed years of freedom since 1947.",
+        "answer": "Iran",
+        "explanation": "Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian on the sidelines of the SCO summit in Kyrgyzstan to underline the need for regional peace and freedom of navigation.",
         "tags": [
-            "National",
-            "Important Days"
-        ]
+            "International Relations",
+            "SCO"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/pm-modi-meet-iran-president-masoud-pezeshkian-on-the-sidelines-of-sco-summit-in-kyrgyzstan/article71410215.ece"
     },
     {
         "id": "ca_2026_08_002",
-        "date": "2026-08-08",
-        "question": "Following the August 2026 Monetary Policy Committee (MPC) meeting, the Reserve Bank of India (RBI) decided to keep the repo rate unchanged at what percentage?",
+        "date": "2026-08-31",
+        "question": "Who hosted the G-20 Finance Ministers and Central Bank Governors meeting in Asheville, U.S.?",
         "options": [
-            "6.00%",
-            "6.25%",
-            "6.50%",
-            "6.75%"
+            "Scott Bessent",
+            "Janet Yellen",
+            "Jerome Powell",
+            "Antony Blinken"
         ],
-        "answer": "6.50%",
-        "explanation": "The RBI MPC, in its August 2026 bi-monthly meeting, decided to maintain the status quo, keeping the policy repo rate unchanged at 6.50% while focusing on withdrawal of accommodation.",
+        "answer": "Scott Bessent",
+        "explanation": "U.S. Treasury Secretary Scott Bessent hosted the G-20 Finance Ministers and central bank governors meeting in Asheville, U.S.",
         "tags": [
-            "Economy",
-            "Banking",
-            "RBI"
-        ]
+            "International Events",
+            "G20"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
     },
     {
         "id": "ca_2026_08_003",
-        "date": "2026-08-07",
-        "question": "Which edition of National Handloom Day was observed across India on August 7, 2026, to honor the handloom weaving community?",
+        "date": "2026-08-31",
+        "question": "According to the Finance Ministry statement, by what factor did annual UPI transaction volume surge from 2016-17 to 2025-26?",
         "options": [
-            "10th",
-            "11th",
-            "12th",
-            "14th"
+            "Almost 13,000-fold",
+            "Almost 4,000-fold",
+            "Almost 8,000-fold",
+            "Almost 10,000-fold"
         ],
-        "answer": "12th",
-        "explanation": "The 12th National Handloom Day was observed on August 7, 2026. The day was first instituted in 2015 to commemorate the Swadeshi Movement launched on this date in 1905.",
+        "answer": "Almost 13,000-fold",
+        "explanation": "Annual UPI transaction volume increased from 1.78 crore in 2016-17 to over 24,162 crore in 2025-26, registering an almost 13,000-fold rise.",
         "tags": [
-            "National",
-            "Important Days",
-            "Economy"
-        ]
+            "Economy",
+            "Digital Payments"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/article71384088.ece"
     },
     {
         "id": "ca_2026_08_004",
-        "date": "2026-08-14",
-        "question": "August 14 is observed annually in India to acknowledge the pain and suffering of millions during the 1947 partition. What is the day called?",
+        "date": "2026-08-31",
+        "question": "According to the recent FDI data analysis, in how many of the last six months was net FDI negative?",
         "options": [
-            "Partition Horrors Remembrance Day",
-            "National Unity Day",
-            "Martyrs' Memorial Day",
-            "Day of National Mourning"
+            "Only one month",
+            "Three months",
+            "Six months",
+            "Four months"
         ],
-        "answer": "Partition Horrors Remembrance Day",
-        "explanation": "August 14 is observed as 'Partition Horrors Remembrance Day' (Vibhajan Vibhishika Smriti Diwas) to remember the struggles and sacrifices of people during the partition of India.",
+        "answer": "Only one month",
+        "explanation": "While net FDI was negative in six out of the last 12 months, the recent trend improved such that net FDI was negative in only one of the last six months.",
         "tags": [
-            "National",
-            "Important Days"
-        ]
+            "Economy",
+            "FDI"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/gross-fdi-hit-15-year-high-of-307-billion-in-april-june-2026/article71392237.ece"
     },
     {
         "id": "ca_2026_08_005",
-        "date": "2026-08-09",
-        "question": "In August 2026, the Indian Air Force commenced 'Exercise Tarang Shakti'. What is the significance of this exercise?",
+        "date": "2026-08-31",
+        "question": "What is the total financial outlay of the government-notified 'Semicon 2.0' scheme aimed at promoting India's chip ecosystem?",
         "options": [
-            "It is a bilateral exercise with the US Air Force.",
-            "It is India's largest indigenous multi-national air exercise.",
-            "It is focused solely on airborne humanitarian aid drops.",
-            "It marks the induction of the indigenous AMCA fighter."
+            "₹1,27,500 crore",
+            "₹95,000 crore",
+            "₹1,50,000 crore",
+            "₹76,000 crore"
         ],
-        "answer": "It is India's largest indigenous multi-national air exercise.",
-        "explanation": "Exercise Tarang Shakti is the largest multilateral air exercise ever hosted by India, involving air forces from over a dozen friendly nations to enhance interoperability.",
+        "answer": "₹1,27,500 crore",
+        "explanation": "The Government of India notified the ₹1,27,500-crore (Rs 1.27 lakh crore) Semicon 2.0 scheme detailing eligibility norms and incentives for the semiconductor chip ecosystem.",
         "tags": [
-            "Defence",
-            "International"
-        ]
+            "Technology",
+            "Government Schemes"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3JTcFd4VVhpV212V053QVdwZzMzbUhFNEQ5M1RXVklvN09JVGZpeFZwUE5Ld2phcDFwWU91S1NGT25UbGc4MGVYWXNRa1Nod1J5VDNkcnJYQ3RwaXRmalg1eFBuaTJpNndtTS1OUm9OZ3RRREpGT0w4X2ZaLUhMWlVqczQ3RXc3QWZjbWZVWVkteURJdF9WYzJCNjJVQUN3eWNUeGhuLUJreWQ1LTNZaG1uWDk0cnNSSmxjSi1XWGRZSHJmRDBCUw?oc=5"
     },
     {
         "id": "ca_2026_08_006",
