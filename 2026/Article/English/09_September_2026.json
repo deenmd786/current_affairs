@@ -1,1 +1,38 @@
-﻿[]
+[
+    {
+        "date": "2026-09-01",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Citing lack of jurisdiction, India rejects Hague court’s Indus Waters Treaty ruling",
+                "description": "MEA says India has 'never recognised the existence in law of this illegally-constituted and so-called Court of Arbitration'",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/citing-lack-of-jurisdiction-india-rejects-hague-courts-indus-waters-treaty-ruling/article71411927.ece"
+            },
+            {
+                "title": "Bihar, Jharkhand sign agreement on sharing Sone River water",
+                "description": "Bihar CM says his State has been allocated 5.75 million-acre feet of the river water, and Jharkhand 2 MAF. The two States had a dispute over sharing 7.75 MAF of water allocated for the then undivided Bihar under a 1973 agreement",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/bihar-jharkhand-sign-agreement-on-sharing-sone-river-water/article71411282.ece"
+            },
+            {
+                "title": "India’s GDP growth at 7.8% in Q1, slower than last quarter but quicker than last year",
+                "description": "The stronger performance in Q1 of this year as compared to last year has been driven by the manufacturing sector as well as some broad services categories such as utilities, financial services, real estate, IT, and public administration and defence.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+            },
+            {
+                "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
+                "description": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
+            },
+            {
+                "title": "Government Notifies Semicon 2.0 Scheme - GK Today",
+                "description": "Government Notifies Semicon 2.0 Scheme GK Today IT Ministry notifies semicon scheme’s second phase The Hindu Domestic chip design to receive big push through Rs 1.27 lakh crore Semicon 2.0 The Indian Express Semicon 2.0 cuts fabrication subsidy to 40%, puts Rs 1.27 lakh crore into chip supply chain ",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMnZiTkpyaEZLaFZydkJRdEpVNDF0OHBzWHhfaWRsU2xhNUV6S2gxSlhKb1pUTDdtWmpLc1lPSTdScHJ1YnhicHFTTGQtbFA0Y29Xb0UyOFMxYzJhYzJ3OXoyVzNmLTVtZnZTdkoxTQ?oc=5"
+            }
+        ]
+    }
+]
