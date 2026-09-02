@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-05",
-    "update_log": "Baseline Initialization of Major International Organizations and Heads of State for the 2026 Exam Cycle.",
+    "last_updated": "2026-09-02",
+    "update_log": "Updated ADB President to Masato Kanda.",
     "organizations": [
         {
             "organization": "United Nations (UN)",
@@ -35,7 +35,7 @@
         {
             "organization": "Asian Development Bank (ADB)",
             "head_designation": "President",
-            "name": "Masatsugu Asakawa",
+            "name": "Masato Kanda",
             "headquarters": "Manila, Philippines"
         }
     ],
