@@ -188,5 +188,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUc4THF5OGpZaXZ6REZQWVlHbnZoTTQtMjRvaHpTX3NNNjBTbUx6VEd6T2VyQjJOUkRSUzctdy1KZUp6UzRqY2hnejM4RFRtbENGOFJJcnh3UkhVQ3hnTUE4ZlFxMVJhWm5PMzhLSEhkSnBoYldqcWlVUkItOElTVGhZOHRJUGFBNWdRZmpFZG9SUkpTNEJDSmo5MGNFS2JwMlNOTXRQOUHGLUI1U1c0cDhsbHJVN0hicWFWY2ZkYmp1bkNfWXhmMGVR0gHQAUFVX3lxTE5SVlpfeG95dzBHekh1X3M0VTZRWmc2U050ZVI2WG0zOHRSb2tqWTBTLUg4NGx1Z000M3JhTXpfXzRuWG5xVk9ac2s4VThnTmo3M2pyQkFHSlVNMjVhV0V5aThXY1VGekdzdjY1anN3dUdER3VxaGpSaDQ0d0xId0NVNmdvX2d0S2l2LTNKU3FDeDVQR3NDVlZXR0VubTBpd20wOVZyanA3NWdBQ2lGQ2dfMmh3cllOaG1wU2poTVJGek9aTTdIUXEwcko2ZV9ZNGo?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-03",
+        "question": "जापानी एजेंसी JCR द्वारा हाल ही में क्रेडिट रेटिंग में किए गए सुधार के अनुसार, भारत की रेटिंग A- में अपग्रेड होने का प्रत्यक्ष लाभ क्या है?",
+        "options": [
+            "भारत भविष्य में कम लागत पर ऋण ले सकता है, जिससे सरकारी खजाने पर ब्याज का बोझ कम होगा।",
+            "भारत को जापानी सरकार से प्रत्यक्ष वित्तीय अनुदान प्राप्त होगा।",
+            "भारत की प्रत्यक्ष विदेशी निवेश सीमाएं स्वतः दोगुनी हो जाएंगी।",
+            "भारत अपने बाहरी ब्याज भुगतानों को पूरी तरह से समाप्त कर देगा।"
+        ],
+        "answer": "भारत भविष्य में कम लागत पर ऋण ले सकता है, जिससे सरकारी खजाने पर ब्याज का बोझ कम होगा।",
+        "explanation": "JCR से उच्च रेटिंग मिलने का अर्थ है कि भारत भविष्य में कम लागत पर ऋण ले सकता है। इसके परिणामस्वरूप सरकारी खजाने पर ब्याज का बोझ कम होगा।",
+        "tags": [
+            "Economy",
+            "Credit Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-03",
+        "question": "पिछले वर्ष की तुलना में पहली तिमाही (Q1) में भारत के 7.8% के मजबूत जीडीपी प्रदर्शन को किन प्रमुख क्षेत्रों ने गति दी?",
+        "options": [
+            "केवल कृषि और भारी खनन क्षेत्र",
+            "विनिर्माण क्षेत्र और व्यापक सेवाएं जैसे उपयोगिताएं, वित्तीय सेवाएं और आईटी",
+            "केवल ई-कॉमर्स और फार्मास्युटिकल निर्यात क्षेत्र",
+            "पर्यटन और घरेलू विमानन परिवहन क्षेत्र"
+        ],
+        "answer": "विनिर्माण क्षेत्र और व्यापक सेवाएं जैसे उपयोगिताएं, वित्तीय सेवाएं और आईटी",
+        "explanation": "पहली तिमाही (Q1) में मजबूत प्रदर्शन विनिर्माण क्षेत्र के साथ-साथ उपयोगिताओं, वित्तीय सेवाओं, रियल एस्टेट, आईटी, लोक प्रशासन और रक्षा सहित विभिन्न सेवा श्रेणियों द्वारा संचालित था।",
+        "tags": [
+            "Economy",
+            "GDP Growth"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-03",
+        "question": "निम्नलिखित संयुक्त राष्ट्र (UN) अधिकारियों में से कौन भारत में आयोजित ब्रिक्स (BRICS) शिखर सम्मेलन में भाग लेने वाले हैं?",
+        "options": [
+            "बान की-मून",
+            "एंटोनियो गुटेरेस",
+            "कोफी अन्नान",
+            "टेड्रोस एडहानॉम"
+        ],
+        "answer": "एंटोनियो गुटेरेस",
+        "explanation": "संयुक्त राष्ट्र के महासचिव एंटोनियो गुटेरेस भारत में आयोजित ब्रिक्स शिखर सम्मेलन में भाग लेने वाले हैं।",
+        "tags": [
+            "International Relations",
+            "BRICS"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJUzqvOGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-03",
+        "question": "देश भर में नीट (NEET) परीक्षा का विरोध कर रहे छात्र प्रदर्शनकारियों के खिलाफ प्राथमिकी (FIR) रद्द करने के लिए सर्वोच्च न्यायालय ने किस संवैधानिक प्रावधान का प्रयोग किया?",
+        "options": [
+            "अनुच्छेद 32",
+            "अनुच्छेद 142",
+            "अनुच्छेद 226",
+            "अनुच्छेद 370"
+        ],
+        "answer": "अनुच्छेद 142",
+        "explanation": "सर्वोच्च न्यायालय ने देश भर में छात्र प्रदर्शनकारियों के खिलाफ दर्ज प्राथमिकी (FIR) को रद्द करने के लिए भारतीय संविधान के अनुच्छेद 142 का उपयोग किया।",
+        "tags": [
+            "Polity",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-03",
+        "question": "नागालैंड विधानसभा में पुनः पेश किए गए संशोधित FNTA विधेयक के तहत किस निकाय की स्थापना का प्रस्ताव है?",
+        "options": [
+            "फ्रंटियर नागालैंड टेरिटोरियल काउंसिल",
+            "फ्रंटियर नागालैंड टेरिटोरियल अथॉरिटी",
+            "नागालैंड ऑटोनामस बॉर्डर डेवलपमेंट कमीशन",
+            "ईस्टर्न नागालैंड एडमिनिस्ट्रेटिव बोर्ड"
+        ],
+        "answer": "फ्रंटियर नागालैंड टेरिटोरियल अथॉरिटी",
+        "explanation": "नागालैंड विधानसभा में पुनः पेश किए गए FNTA विधेयक का उद्देश्य 'फ्रंटियर नागालैंड टेरिटोरियल अथॉरिटी' (Frontier Nagaland Territorial Authority) की स्थापना करना है।",
+        "tags": [
+            "Polity",
+            "State Legislation"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
     }
 ]
