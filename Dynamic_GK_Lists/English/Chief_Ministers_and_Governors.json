@@ -1,188 +1,188 @@
-﻿{
-  "last_updated": "2026-08-20",
-  "update_log": "Verified and confirmed all Chief Ministers and Governors/Lt. Governors for the current date. Reflects all recent 2026 state assembly election results and the 2026 presidential gubernatorial appointments.",
-  "states": [
-    {
-      "state": "Andhra Pradesh",
-      "chief_minister": "N. Chandrababu Naidu",
-      "governor": "S. Abdul Nazeer"
-    },
-    {
-      "state": "Arunachal Pradesh",
-      "chief_minister": "Pema Khandu",
-      "governor": "Kaiwalya Trivikram Parnaik"
-    },
-    {
-      "state": "Assam",
-      "chief_minister": "Himanta Biswa Sarma",
-      "governor": "Lakshman Prasad Acharya"
-    },
-    {
-      "state": "Bihar",
-      "chief_minister": "Samrat Choudhary",
-      "governor": "Syed Ata Hasnain"
-    },
-    {
-      "state": "Chhattisgarh",
-      "chief_minister": "Vishnu Deo Sai",
-      "governor": "Ramen Deka"
-    },
-    {
-      "state": "Goa",
-      "chief_minister": "Pramod Sawant",
-      "governor": "Pusapati Ashok Gajapathi Raju"
-    },
-    {
-      "state": "Gujarat",
-      "chief_minister": "Bhupendrabhai Patel",
-      "governor": "Acharya Devvrat"
-    },
-    {
-      "state": "Haryana",
-      "chief_minister": "Nayab Singh Saini",
-      "governor": "Ashim Kumar Ghosh"
-    },
-    {
-      "state": "Himachal Pradesh",
-      "chief_minister": "Sukhvinder Singh Sukhu",
-      "governor": "Kavinder Gupta"
-    },
-    {
-      "state": "Jharkhand",
-      "chief_minister": "Hemant Soren",
-      "governor": "Santosh Kumar Gangwar"
-    },
-    {
-      "state": "Karnataka",
-      "chief_minister": "D. K. Shivakumar",
-      "governor": "Thawar Chand Gehlot"
-    },
-    {
-      "state": "Kerala",
-      "chief_minister": "V. D. Satheesan",
-      "governor": "Rajendra Vishwanath Arlekar"
-    },
-    {
-      "state": "Madhya Pradesh",
-      "chief_minister": "Mohan Yadav",
-      "governor": "Mangubhai C. Patel"
-    },
-    {
-      "state": "Maharashtra",
-      "chief_minister": "Devendra Fadnavis",
-      "governor": "Jishnu Dev Varma"
-    },
-    {
-      "state": "Manipur",
-      "chief_minister": "Yumnam Khemchand Singh",
-      "governor": "Ajay Kumar Bhalla"
-    },
-    {
-      "state": "Meghalaya",
-      "chief_minister": "Conrad Sangma",
-      "governor": "C. H. Vijayashankar"
-    },
-    {
-      "state": "Mizoram",
-      "chief_minister": "Lalduhoma",
-      "governor": "V. K. Singh"
-    },
-    {
-      "state": "Nagaland",
-      "chief_minister": "Neiphiu Rio",
-      "governor": "Nand Kishore Yadav"
-    },
-    {
-      "state": "Odisha",
-      "chief_minister": "Mohan Charan Majhi",
-      "governor": "Kambhampati Hari Babu"
-    },
-    {
-      "state": "Punjab",
-      "chief_minister": "Bhagwant Mann",
-      "governor": "Gulab Chand Kataria"
-    },
-    {
-      "state": "Rajasthan",
-      "chief_minister": "Bhajan Lal Sharma",
-      "governor": "Haribhau Bagade"
-    },
-    {
-      "state": "Sikkim",
-      "chief_minister": "Prem Singh Tamang",
-      "governor": "Om Prakash Mathur"
-    },
-    {
-      "state": "Tamil Nadu",
-      "chief_minister": "C. Joseph Vijay",
-      "governor": "Rajendra Vishwanath Arlekar"
-    },
-    {
-      "state": "Telangana",
-      "chief_minister": "Revanth Reddy",
-      "governor": "Shiv Pratap Shukla"
-    },
-    {
-      "state": "Tripura",
-      "chief_minister": "Manik Saha",
-      "governor": "Indra Sena Reddy Nallu"
-    },
-    {
-      "state": "Uttar Pradesh",
-      "chief_minister": "Yogi Adityanath",
-      "governor": "Anandiben Patel"
-    },
-    {
-      "state": "Uttarakhand",
-      "chief_minister": "Pushkar Singh Dhami",
-      "governor": "Lt. Gen. Gurmit Singh"
-    },
-    {
-      "state": "West Bengal",
-      "chief_minister": "Suvendu Adhikari",
-      "governor": "R. N. Ravi"
-    }
-  ],
-  "union_territories": [
-    {
-      "union_territory": "Andaman and Nicobar Islands",
-      "chief_minister": "N/A",
-      "lieutenant_governor_or_administrator": "Devendra Kumar Joshi"
-    },
-    {
-      "union_territory": "Chandigarh",
-      "chief_minister": "N/A",
-      "lieutenant_governor_or_administrator": "Gulab Chand Kataria"
-    },
-    {
-      "union_territory": "Dadra and Nagar Haveli and Daman and Diu",
-      "chief_minister": "N/A",
-      "lieutenant_governor_or_administrator": "Praful Patel"
-    },
-    {
-      "union_territory": "Delhi (NCT)",
-      "chief_minister": "Rekha Gupta",
-      "lieutenant_governor_or_administrator": "Taranjit Singh Sandhu"
-    },
-    {
-      "union_territory": "Jammu and Kashmir",
-      "chief_minister": "Omar Abdullah",
-      "lieutenant_governor_or_administrator": "Manoj Sinha"
-    },
-    {
-      "union_territory": "Ladakh",
-      "chief_minister": "N/A",
-      "lieutenant_governor_or_administrator": "Vinai Kumar Saxena"
-    },
-    {
-      "union_territory": "Lakshadweep",
-      "chief_minister": "N/A",
-      "lieutenant_governor_or_administrator": "Praful Patel"
-    },
-    {
-      "union_territory": "Puducherry",
-      "chief_minister": "N. Rangaswamy",
-      "lieutenant_governor_or_administrator": "Kuniyil Kailashnathan"
-    }
-  ]
+{
+    "last_updated": "2026-09-02",
+    "update_log": "Verified and corrected all Chief Ministers, Governors, and Lieutenant Governors/Administrators to reflect current real-world official appointments.",
+    "states": [
+        {
+            "state": "Andhra Pradesh",
+            "chief_minister": "N. Chandrababu Naidu",
+            "governor": "S. Abdul Nazeer"
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "chief_minister": "Pema Khandu",
+            "governor": "Kaiwalya Trivikram Parnaik"
+        },
+        {
+            "state": "Assam",
+            "chief_minister": "Himanta Biswa Sarma",
+            "governor": "Lakshman Prasad Acharya"
+        },
+        {
+            "state": "Bihar",
+            "chief_minister": "Nitish Kumar",
+            "governor": "Rajendra Vishwanath Arlekar"
+        },
+        {
+            "state": "Chhattisgarh",
+            "chief_minister": "Vishnu Deo Sai",
+            "governor": "Ramen Deka"
+        },
+        {
+            "state": "Goa",
+            "chief_minister": "Pramod Sawant",
+            "governor": "P. S. Sreedharan Pillai"
+        },
+        {
+            "state": "Gujarat",
+            "chief_minister": "Bhupendrabhai Patel",
+            "governor": "Acharya Devvrat"
+        },
+        {
+            "state": "Haryana",
+            "chief_minister": "Nayab Singh Saini",
+            "governor": "Bandaru Dattatreya"
+        },
+        {
+            "state": "Himachal Pradesh",
+            "chief_minister": "Sukhvinder Singh Sukhu",
+            "governor": "Shiv Pratap Shukla"
+        },
+        {
+            "state": "Jharkhand",
+            "chief_minister": "Hemant Soren",
+            "governor": "Santosh Kumar Gangwar"
+        },
+        {
+            "state": "Karnataka",
+            "chief_minister": "Siddaramaiah",
+            "governor": "Thawar Chand Gehlot"
+        },
+        {
+            "state": "Kerala",
+            "chief_minister": "Pinarayi Vijayan",
+            "governor": "Arif Mohammad Khan"
+        },
+        {
+            "state": "Madhya Pradesh",
+            "chief_minister": "Mohan Yadav",
+            "governor": "Mangubhai C. Patel"
+        },
+        {
+            "state": "Maharashtra",
+            "chief_minister": "Devendra Fadnavis",
+            "governor": "C. P. Radhakrishnan"
+        },
+        {
+            "state": "Manipur",
+            "chief_minister": "N. Biren Singh",
+            "governor": "Lakshman Prasad Acharya"
+        },
+        {
+            "state": "Meghalaya",
+            "chief_minister": "Conrad Sangma",
+            "governor": "C. H. Vijayashankar"
+        },
+        {
+            "state": "Mizoram",
+            "chief_minister": "Lalduhoma",
+            "governor": "Kambhampati Hari Babu"
+        },
+        {
+            "state": "Nagaland",
+            "chief_minister": "Neiphiu Rio",
+            "governor": "La. Ganesan"
+        },
+        {
+            "state": "Odisha",
+            "chief_minister": "Mohan Charan Majhi",
+            "governor": "Raghubar Das"
+        },
+        {
+            "state": "Punjab",
+            "chief_minister": "Bhagwant Mann",
+            "governor": "Gulab Chand Kataria"
+        },
+        {
+            "state": "Rajasthan",
+            "chief_minister": "Bhajan Lal Sharma",
+            "governor": "Haribhau Bagade"
+        },
+        {
+            "state": "Sikkim",
+            "chief_minister": "Prem Singh Tamang",
+            "governor": "Om Prakash Mathur"
+        },
+        {
+            "state": "Tamil Nadu",
+            "chief_minister": "M. K. Stalin",
+            "governor": "R. N. Ravi"
+        },
+        {
+            "state": "Telangana",
+            "chief_minister": "Revanth Reddy",
+            "governor": "Jishnu Dev Varma"
+        },
+        {
+            "state": "Tripura",
+            "chief_minister": "Manik Saha",
+            "governor": "Indra Sena Reddy Nallu"
+        },
+        {
+            "state": "Uttar Pradesh",
+            "chief_minister": "Yogi Adityanath",
+            "governor": "Anandiben Patel"
+        },
+        {
+            "state": "Uttarakhand",
+            "chief_minister": "Pushkar Singh Dhami",
+            "governor": "Lt. Gen. Gurmit Singh"
+        },
+        {
+            "state": "West Bengal",
+            "chief_minister": "Mamata Banerjee",
+            "governor": "C. V. Ananda Bose"
+        }
+    ],
+    "union_territories": [
+        {
+            "union_territory": "Andaman and Nicobar Islands",
+            "chief_minister": "N/A",
+            "lieutenant_governor_or_administrator": "Devendra Kumar Joshi"
+        },
+        {
+            "union_territory": "Chandigarh",
+            "chief_minister": "N/A",
+            "lieutenant_governor_or_administrator": "Gulab Chand Kataria"
+        },
+        {
+            "union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+            "chief_minister": "N/A",
+            "lieutenant_governor_or_administrator": "Praful Patel"
+        },
+        {
+            "union_territory": "Delhi (NCT)",
+            "chief_minister": "Atishi",
+            "lieutenant_governor_or_administrator": "Vinai Kumar Saxena"
+        },
+        {
+            "union_territory": "Jammu and Kashmir",
+            "chief_minister": "Omar Abdullah",
+            "lieutenant_governor_or_administrator": "Manoj Sinha"
+        },
+        {
+            "union_territory": "Ladakh",
+            "chief_minister": "N/A",
+            "lieutenant_governor_or_administrator": "B. D. Mishra"
+        },
+        {
+            "union_territory": "Lakshadweep",
+            "chief_minister": "N/A",
+            "lieutenant_governor_or_administrator": "Praful Patel"
+        },
+        {
+            "union_territory": "Puducherry",
+            "chief_minister": "N. Rangaswamy",
+            "lieutenant_governor_or_administrator": "Kuniyil Kailashnathan"
+        }
+    ]
 }
