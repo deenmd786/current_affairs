@@ -3,9 +3,9 @@
         "index_name": "Henley Passport Index 2024",
         "released_by": "Henley & Partners",
         "india_rank": "82",
-        "top_country": "France, Germany, Italy, Japan, Singapore, Spain",
+        "top_country": "Singapore",
         "status": "Active",
-        "last_updated": "2026-09-02"
+        "last_updated": "2026-09-03"
     },
     {
         "index_name": "World Press Freedom Index 2024",
@@ -13,7 +13,7 @@
         "india_rank": "159",
         "top_country": "Norway",
         "status": "Active",
-        "last_updated": "2026-09-02"
+        "last_updated": "2026-09-03"
     },
     {
         "index_name": "Global Hunger Index (GHI) 2024",
@@ -21,7 +21,7 @@
         "india_rank": "105",
         "top_country": "Belarus, Bosnia and Herzegovina (Joint Top)",
         "status": "Active",
-        "last_updated": "2026-09-02"
+        "last_updated": "2026-09-03"
     },
     {
         "index_name": "Human Development Index (HDI) 2023-24",
@@ -29,7 +29,7 @@
         "india_rank": "134",
         "top_country": "Switzerland",
         "status": "Active",
-        "last_updated": "2026-09-02"
+        "last_updated": "2026-09-03"
     },
     {
         "index_name": "Global Innovation Index 2024",
@@ -37,6 +37,6 @@
         "india_rank": "39",
         "top_country": "Switzerland",
         "status": "Active",
-        "last_updated": "2026-09-02"
+        "last_updated": "2026-09-03"
     }
 ]
