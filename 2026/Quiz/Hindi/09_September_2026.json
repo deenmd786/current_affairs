@@ -1,1 +1,382 @@
-[]
+[
+    {
+        "id": "ca_2026_09_006",
+        "date": "2026-09-01",
+        "question": "2026-2027 के कार्यकाल के लिए किस देश ने शंघाई सहयोग संगठन (SCO) की अध्यक्षता ग्रहण की?",
+        "options": [
+            "भारत",
+            "पाकिस्तान",
+            "अफगानिस्तान",
+            "उज्बेकिस्तान"
+        ],
+        "answer": "पाकिस्तान",
+        "explanation": "समाचार के अनुसार, पाकिस्तान ने 2026-2027 की अवधि के लिए शंघाई सहयोग संगठन (SCO) की अध्यक्षता ग्रहण की।",
+        "tags": [
+            "अंतर्राष्ट्रीय संबंध",
+            "SCO"
+        ],
+        "source": "द हिंदू (राष्ट्रीय)",
+        "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-address-annual-sco-summit-september-1-2026/article71414028.ece"
+    },
+    {
+        "id": "ca_2026_09_007",
+        "date": "2026-09-01",
+        "question": "अगस्त 2026 के जीएसटी (GST) राजस्व डेटा के अनुसार, आयात से होने वाले राजस्व में कितने प्रतिशत की वृद्धि हुई?",
+        "options": [
+            "14.8%",
+            "29%",
+            "7.8%",
+            "12.5%"
+        ],
+        "answer": "29%",
+        "explanation": "रिपोर्ट में इस बात पर प्रकाश डाला गया है कि अगस्त 2026 में जबकि कुल जीएसटी (GST) राजस्व 14.8% बढ़कर लगभग ₹2 लाख करोड़ हो गया, आयात से होने वाले राजस्व में 29% की वृद्धि हुई।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "GST"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/gross-gst-mop-up-grows-15-to-2-lakh-crore-in-august/article71414164.ece"
+    },
+    {
+        "id": "ca_2026_09_008",
+        "date": "2026-09-01",
+        "question": "Q1 में भारत की सकल घरेलू उत्पाद (GDP) वृद्धि दर कितनी दर्ज की गई?",
+        "options": [
+            "6.8%",
+            "7.2%",
+            "7.8%",
+            "8.4%"
+        ],
+        "answer": "7.8%",
+        "explanation": "उपयोगिता और सेवा श्रेणियों के साथ-साथ विनिर्माण द्वारा संचालित, भारत ने Q1 में 7.8% की जीडीपी (GDP) वृद्धि दर दर्ज की।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "GDP"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_009",
+        "date": "2026-09-01",
+        "question": "किस संवैधानिक निकाय के बारे में उल्लेख किया गया है कि वह संघ के भीतर एक समान करने वाली शक्ति (equalising force) के रूप में अपने मूल जनादेश से दूर जाने का जोखिम उठा रहा है?",
+        "options": [
+            "14वां वित्त आयोग",
+            "15वां वित्त आयोग",
+            "16वां वित्त आयोग",
+            "भारत का विधि आयोग"
+        ],
+        "answer": "16वां वित्त आयोग",
+        "explanation": "विश्लेषण में यह बात सामने आई है कि सोलहवां वित्त आयोग राजकोषीय संघवाद में एक समान करने वाली शक्ति के रूप में कार्य करने के अपने प्राथमिक जनादेश से भटकने का जोखिम उठा रहा है।",
+        "tags": [
+            "राजव्यवस्था",
+            "राजकोषीय संघवाद"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece"
+    },
+    {
+        "id": "ca_2026_09_010",
+        "date": "2026-09-01",
+        "question": "सिंधु जल संधि के संबंध में स्थायी मध्यस्थता न्यायालय (Permanent Court of Arbitration) के आदेश को भारत ने किस विशिष्ट आधार पर खारिज कर दिया?",
+        "options": [
+            "अधिकार क्षेत्र का अभाव",
+            "वित्तीय पूर्वाग्रह",
+            "सबूतों का अभाव",
+            "प्रक्रियात्मक देरी"
+        ],
+        "answer": "अधिकार क्षेत्र का अभाव",
+        "explanation": "भारत ने मध्यस्थता के फैसले को 'अवैध' बताते हुए और यह कहते हुए कि न्यायालय का 'कोई अधिकार क्षेत्र नहीं' है, सिंधु जल संधि पर स्थायी मध्यस्थता न्यायालय के आदेश को खारिज कर दिया।",
+        "tags": [
+            "अंतर्राष्ट्रीय कानून",
+            "सिंधु जल संधि"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmRpRDhuWnZ5NkRaYmNBcVdfcm1JRWxGeTZkYnVKMFJaX2hWd1Nja0YzOHpFcmNFNVdhRzF0VzdEYlFHT2FnTHpzWHo2emtzaXpuSTRLaWpyMnV2R1B6Y1NjR29NalE3LXBUUEs5LWNZNmlETGl1cWVBVjVZcENCcE14aGVCdVVoQXhuZElEZm43enM5WHgyMndhbkFieXVNS2Z1QXpHVDFsZ2dHaU81a9IBtgFBVV95cUxPaVlXRVFSa3VUVDRZMlVEWlU3bzdaekhsbllFbGsyVm1MSWpId1FZR1VXNGpjR0c5X01zcDJmTzNYa0xNcVJIZFE4bDJfbzFRTlcteDlBZ2NuMmNfRzlSaEQwSzB0SElaWW1ScmNIQklkcDdmS1ZEZUdpZ0F0aldadTBlQWU5dXd4enVwSVZweVlCQWlfTVA0d1R6MzYybjFvcnBidGQwZ0FER0tLcE02VlhILU5Tdw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_011",
+        "date": "2026-09-02",
+        "question": "हाल के आर्थिक आंकड़ों के अनुसार, Q1 में भारत की GDP वृद्धि दर कितनी दर्ज की गई थी?",
+        "options": [
+            "7.8%",
+            "6.5%",
+            "8.2%",
+            "7.1%"
+        ],
+        "answer": "7.8%",
+        "explanation": "विनिर्माण और सेवा क्षेत्रों में मजबूत प्रदर्शन के कारण Q1 में भारत की GDP 7.8% की दर से बढ़ी।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "GDP"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_012",
+        "date": "2026-09-02",
+        "question": "अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट द्वारा G-20 वित्त मंत्रियों और केंद्रीय बैंक के गवर्नरों की बैठक की मेजबानी अमेरिका के किस शहर में की जा रही है?",
+        "options": [
+            "एशविले",
+            "न्यूयॉर्क",
+            "वाशिंगटन डी.सी.",
+            "शिकागो"
+        ],
+        "answer": "एशविले",
+        "explanation": "G-20 वित्त मंत्रियों और केंद्रीय बैंक के गवर्नरों की बैठक एशविले में हो रही है, जिसकी मेजबानी अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट कर रहे हैं।",
+        "tags": [
+            "अंतर्राष्ट्रीय संबंध",
+            "G20"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
+    },
+    {
+        "id": "ca_2026_09_013",
+        "date": "2026-09-02",
+        "question": "भारतीय रक्षा बलों में एयर वाइस मार्शल के पद तक पहुंचने वाली पहली गैर-चिकित्सा महिला अधिकारी कौन बनी हैं?",
+        "options": [
+            "शक्ति शर्मा",
+            "पद्मावती बंदोपाध्याय",
+            "शालिजा धामी",
+            "अवनी चतुर्वेदी"
+        ],
+        "answer": "शक्ति शर्मा",
+        "explanation": "शक्ति शर्मा ने भारतीय रक्षा बलों में एयर वाइस मार्शल का पद प्राप्त करने वाली पहली गैर-चिकित्सा महिला अधिकारी बनकर इतिहास रच दिया है।",
+        "tags": [
+            "रक्षा",
+            "चर्चा में रहे व्यक्ति"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOVRHcEdLM1BBU2lKbjZkd3dPd2RHTVZLTmZpYmJSZWxzdDRTOWVpYkJscFViV3lsc29MV1JGUkxZWmZjLTNudy1DWF9KT05QVzBybFY1M2JpdnNFZWlCVmxrbklDdXRJSVU1RGhMZVZpRGFtQU5uSmtNUWNkM3BOdXN3WXFSV0xfLVRNNzdINng2bVlPRnVsTTQxeDQxYUlDNEdWX1VkamZKUXJlNVpBYmdkbGhJbHFtZy1Ba19LdjVfUEFWVjdqUXo4d0FxUzBJSDZyNzRCSzRkRFUyZVEwbDdCc1R6MlVjb2F4WWJUWHNwR2Q5enlPRnR0QmRzMDlwVGFaSi1fRnk2dXJCb19UckdwdFY4Y0nSAZwCQVVfeXFMT2E5a0FDSHpFc2NnNmFScE9oQmx3QmlWVXk1NEpMdnMxYTBrWTFRRDlqUFRmSGxqd21iZlNOMEFJRDBhUm1wTURwUGpzOS1acl9RYTlSVmkyaV9lLU54NDNLdGxBSy1KdUFmdjhtMDZua25FbUN1V2ZPalVhbnVKc0Zjc3F6MUlkVzVGZXNqTUpHNlZqcnJZalA3TnFpTlFaeFAxYzBXNElqTXM3bGhHODRyQmZ5cWxlbmxCbVByMFpxZktXcWxHOEZTcDBRN2U3RlI1VDcyRmdnY29sUFNXMW43dm5sc2xFQjlfWXlzX0gyQkliMHhHMGxzaUgxOWhfYUZ0a21ncEpYNW9jUThHQ19hQXFvQlF6VWM3cVU?oc=5"
+    },
+    {
+        "id": "ca_2026_09_014",
+        "date": "2026-09-02",
+        "question": "सिंधु जल संधि पर हेग कोर्ट के मध्यस्थता फैसले के संबंध में भारत का आधिकारिक रुख क्या था?",
+        "options": [
+            "भारत ने यह कहते हुए फैसले को खारिज कर दिया कि अदालत का 'कोई अधिकार क्षेत्र नहीं' है",
+            "भारत ने सशर्त रूप से फैसले को स्वीकार कर लिया",
+            "भारत ने संयुक्त राष्ट्र द्वारा पुनर्मूल्यांकन का अनुरोध किया",
+            "भारत ने अदालत के मध्यस्थता फैसले का स्वागत किया"
+        ],
+        "answer": "भारत ने यह कहते हुए फैसले को खारिज कर दिया कि अदालत का 'कोई अधिकार क्षेत्र नहीं' है",
+        "explanation": "भारत ने सिंधु जल संधि पर हेग कोर्ट के फैसले को खारिज कर दिया, मध्यस्थता के फैसले को अवैध करार दिया और कहा कि अदालत का कोई अधिकार क्षेत्र नहीं है।",
+        "tags": [
+            "राजव्यवस्था",
+            "अंतर्राष्ट्रीय विवाद"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmRpRDhuWnZ5NkRaYmNBcVdfcm1JRWxGeTZkYnVKMFJaX2hWd1Nja0YzOHpFcmNFNVdhRzF0VzdEYlFHT2FnTHpzWHo2emtzaXpuSTRLaWpyMnV2R1B6Y1NjR29NalE3LXBUUEs5LWNZNmlETGl1cWVBVjVZcENCcE14aGVCdVVoQXhuZElEZm43enM5WHgyMndhbkFieXVNS2Z1QXpHVDFsZ2dHaU81a9IBtgFBVV95cUxPaVlXRVFSa3VUVDRZMlVEWlU3bzdaekhsbllFbGsyVm1MSWpId1FZR1VXNGpjR0c5X01zcDJmTzNYa0xNcVJIZFE4bDJfbzFRTlcteDlBZ2NuMmNfRzlSaEQwSzB0SElaWW1ScmNIQklkcDdmS1ZEZUdpZ0F0aldadTBlQWU5dXd4enVwSVZweVlCQWlfTVA0d1R6MzYybjFvcnBidGQwZ0FER0tLcE02VlhILU5Tdw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_015",
+        "date": "2026-09-02",
+        "question": "नागालैंड विधानसभा में पेश किए गए विधेयक के संदर्भ में 'FNTA' का पूर्ण रूप क्या है?",
+        "options": [
+            "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
+            "संघीय नागालैंड जनजातीय संघ (Federal Nagaland Tribal Association)",
+            "फ्रंटियर नागालैंड परिवहन एजेंसी (Frontier Nagaland Transport Agency)",
+            "संघीय नागालैंड क्षेत्रीय प्रशासन (Federated Nagaland Territorial Administration)"
+        ],
+        "answer": "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
+        "explanation": "नागालैंड विधानसभा में पेश किए गए FNTA विधेयक का उद्देश्य फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority) की स्थापना करना है।",
+        "tags": [
+            "राजव्यवस्था",
+            "राज्य समाचार"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
+    },
+    {
+        "id": "ca_2026_09_016",
+        "date": "2026-09-03",
+        "question": "जापानी क्रेडिट रेटिंग एजेंसी JCR द्वारा भारत को कौन सी उन्नत (अपग्रेडेड) रेटिंग दी गई है?",
+        "options": [
+            "BBB+",
+            "A-",
+            "A+",
+            "AA-"
+        ],
+        "answer": "A-",
+        "explanation": "जापानी क्रेडिट रेटिंग एजेंसी JCR ने भारत की क्रेडिट रेटिंग को बढ़ाकर A- कर दिया है, जिससे देश को भविष्य में कम ब्याज लागत पर कर्ज लेने में मदद मिलेगी।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "क्रेडिट रेटिंग"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_017",
+        "date": "2026-09-03",
+        "question": "Q1FY27 में भारत का चालू खाता घाटा (CAD) बढ़कर कितना हो गया?",
+        "options": [
+            "$3.1 बिलियन",
+            "$4.2 बिलियन",
+            "$5.5 बिलियन",
+            "$6.0 बिलियन"
+        ],
+        "answer": "$4.2 बिलियन",
+        "explanation": "Q1FY27 में भारत का CAD बढ़कर $4.2 बिलियन हो गया क्योंकि व्यापारिक व्यापार घाटे और पोर्टफोलियो बहिर्प्रवाह ने सेवाओं और FDI से होने वाले लाभ की भरपाई कर दी।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "CAD"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/indias-cad-widens-to-42-billion-in-q1fy27/article71415332.ece"
+    },
+    {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-03",
+        "question": "विनिर्माण और सेवा क्षेत्र के प्रदर्शन से प्रेरित होकर, Q1 में भारत की GDP वृद्धि दर कितनी थी?",
+        "options": [
+            "6.8%",
+            "7.2%",
+            "7.8%",
+            "8.2%"
+        ],
+        "answer": "7.8%",
+        "explanation": "Q1 में भारत की GDP 7.8% की दर से बढ़ी, जो पिछली तिमाही से धीमी लेकिन पिछले साल की इसी अवधि की तुलना में तेज थी।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "GDP वृद्धि"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-03",
+        "question": "नई दिल्ली में होने वाले ब्रिक्स (BRICS) शिखर सम्मेलन के किस संस्करण में संयुक्त राष्ट्र प्रमुख एंटोनियो गुटेरेस भाग लेने वाले हैं?",
+        "options": [
+            "15वां ब्रिक्स शिखर सम्मेलन",
+            "16वां ब्रिक्स शिखर सम्मेलन",
+            "17वां ब्रिक्स शिखर सम्मेलन",
+            "18वां ब्रिक्स शिखर सम्मेलन"
+        ],
+        "answer": "18वां ब्रिक्स शिखर सम्मेलन",
+        "explanation": "संयुक्त राष्ट्र प्रमुख एंटोनियो गुटेरेस नई दिल्ली में आयोजित होने वाले 18वें ब्रिक्स शिखर सम्मेलन में भाग ले रहे हैं, जिसमें नवाचार और डिजिटल सहयोग पर ध्यान केंद्रित किया जाएगा।",
+        "tags": [
+            "अंतर्राष्ट्रीय घटनाक्रम",
+            "ब्रिक्स (BRICS)"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjYtdWMtWEtSeTVjY05OUTFrYWI0Z25TdVdJWDROLVBVNGw0WGRSR01ycmNOeVJ3azg1a3hqempQdmE4cHMyQ0l5MngxcU5PQzRYZFlHbnlnVG9uUjhnbHJ6TkluZ2ZnRWdhWHZWemtMVFNuM25VSTBobkQ3NnllUi1TVUdiWWFjbWNzNHJOcVhqSmRBS0o2bWZ5aWkyU2ZlaUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-03",
+        "question": "सुप्रीम कोर्ट ने NEET-UG प्रदर्शनकारियों के खिलाफ FIR को रद्द करने के लिए किस संवैधानिक प्रावधान का इस्तेमाल किया?",
+        "options": [
+            "अनुच्छेद 32",
+            "अनुच्छेद 136",
+            "अनुच्छेद 142",
+            "अनुच्छेद 226"
+        ],
+        "answer": "अनुच्छेद 142",
+        "explanation": "सुप्रीम कोर्ट ने पांच राज्यों में Gen Z NEET-UG प्रदर्शनकारियों के खिलाफ दर्ज FIR को रद्द करने के लिए अनुच्छेद 142 का इस्तेमाल किया।",
+        "tags": [
+            "भारतीय राजव्यवस्था",
+            "सुप्रीम कोर्ट"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUc4THF5OGpZaXZ6REZQWVlHbnZoTTQtMjRvaHpTX3NNNjBTbUx6VEd6T2VyQjJOUkRSUzctdy1KZUp6UzRqY2hgzM4RFRtbENGOFJJcnh3UkhVQ3hnTUE4ZlFxMVJhWm5PMzhLSEhkSnBoYldqcWlVUkItOElTVGhZOHRJUGFBNWdRZmpFZG9SUkpTNEJDSmo5MGNFS2JwMlNOTXRQOUhGLUI1U1c0cDhsbHJVN0hicWFWY2ZkYmp1bkNfWXhmMGVR0gHQAUFVX3lxTE5SVlpfeG95dzBHekh1X3M0VTZRWmc2U050ZVI2WG0zOHRSb2tqWTBTLUg4NGx1Z000M3JhTXpfXzRuWG5xVk9ac2s4VThnTmo3M2pyQkFHSlVNMjVhV0V5aThXY1VGekdzdjY1anN3dUdER3VxaGpSaDQ0d0xId0NVNmdvX2d0S2l2LTNKU3FDeDVQR3NDVlZXR0VubTBpd20wOVZyanA3NWdBQ2lGQ2dfMmh3cllOaG1wU2poTVJGek9aTTdIUXEwcko2ZV9ZNGo?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-03",
+        "question": "जापानी एजेंसी JCR द्वारा हाल ही में क्रेडिट रेटिंग अपग्रेड के अनुसार, भारत की रेटिंग A- होने का प्रत्यक्ष लाभ क्या है?",
+        "options": [
+            "भारत भविष्य में कम लागत पर कर्ज ले सकता है, जिससे राजकोष पर ब्याज का बोझ कम होगा।",
+            "भारत को जापानी सरकार से प्रत्यक्ष वित्तीय अनुदान प्राप्त होगा।",
+            "भारत की प्रत्यक्ष विदेशी निवेश सीमा स्वतः ही दोगुनी हो जाएगी।",
+            "भारत अपने बाहरी ब्याज भुगतानों को पूरी तरह से समाप्त कर देगा।"
+        ],
+        "answer": "भारत भविष्य में कम लागत पर कर्ज ले सकता है, जिससे राजकोष पर ब्याज का बोझ कम होगा。",
+        "explanation": "JCR से उच्च रेटिंग का अर्थ है कि भारत भविष्य में कम लागत पर उधार ले सकता है। इसके परिणामस्वरूप राजकोष पर ब्याज का बोझ कम हो जाता है।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "क्रेडिट रेटिंग्स"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-03",
+        "question": "पिछले वर्ष की तुलना में 7.8% के मजबूत Q1 GDP प्रदर्शन को किन प्रमुख क्षेत्रों ने प्रेरित किया?",
+        "options": [
+            "विशेष रूप से कृषि और भारी खनन क्षेत्र",
+            "विनिर्माण क्षेत्र और उपयोगिताओं, वित्तीय सेवाओं और IT जैसी व्यापक सेवाएँ",
+            "केवल ई-कॉमर्स और फार्मास्युटिकल निर्यात क्षेत्र",
+            "पर्यटन और घरेलू विमानन परिवहन क्षेत्र"
+        ],
+        "answer": "विनिर्माण क्षेत्र और उपयोगिताओं, वित्तीय सेवाओं और IT जैसी व्यापक सेवाएँ",
+        "explanation": "Q1 में मजबूत प्रदर्शन विनिर्माण क्षेत्र के साथ-साथ उपयोगिताओं, वित्तीय सेवाओं, रियल एस्टेट, IT, लोक प्रशासन और रक्षा सहित सेवा श्रेणियों द्वारा संचालित था।",
+        "tags": [
+            "अर्थव्यवस्था",
+            "GDP वृद्धि"
+        ],
+        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-03",
+        "question": "भारत में आयोजित ब्रिक्स (BRICS) शिखर सम्मेलन में निम्नलिखित में से कौन सा संयुक्त राष्ट्र अधिकारी भाग लेने वाला है?",
+        "options": [
+            "बान की मून",
+            "एंटोनियो गुटेरेस",
+            "कोफी अन्नान",
+            "टेड्रोस अदनोम"
+        ],
+        "answer": "एंटोनियो गुटेरेस",
+        "explanation": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस भारत में आयोजित होने वाले ब्रिक्स शिखर सम्मेलन में भाग लेने वाले हैं।",
+        "tags": [
+            "अंतर्राष्ट्रीय संबंध",
+            "ब्रिक्स (BRICS)"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJVenF2OGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-03",
+        "question": "देश भर में NEET छात्र प्रदर्शनकारियों के खिलाफ FIR रद्द करने के लिए सुप्रीम कोर्ट ने किस संवैधानिक प्रावधान का उपयोग किया?",
+        "options": [
+            "अनुच्छेद 32",
+            "अनुच्छेद 142",
+            "अनुच्छेद 226",
+            "अनुच्छेद 370"
+        ],
+        "answer": "अनुच्छेद 142",
+        "explanation": "सुप्रीम कोर्ट ने देश भर में छात्र प्रदर्शनकारियों के खिलाफ दर्ज FIR रद्द करने के लिए भारतीय संविधान के अनुच्छेद 142 का इस्तेमाल किया।",
+        "tags": [
+            "राजव्यवस्था",
+            "न्यायपालिका"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-03",
+        "question": "नागालैंड विधानसभा में फिर से पेश किए गए संशोधित FNTA विधेयक के तहत किस निकाय की स्थापना का प्रस्ताव है?",
+        "options": [
+            "फ्रंटियर नागालैंड क्षेत्रीय परिषद (Frontier Nagaland Territorial Council)",
+            "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
+            "नागालैंड स्वायत्त सीमा विकास आयोग",
+            "पूर्वी नागालैंड प्रशासनिक बोर्ड"
+        ],
+        "answer": "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
+        "explanation": "नागालैंड विधानसभा में फिर से पेश किए गए FNTA विधेयक का उद्देश्य फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण की स्थापना करना है।",
+        "tags": [
+            "राजव्यवस्था",
+            "राज्य विधान"
+        ],
+        "source": "गूगल समाचार (भारत राष्ट्रीय)",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
+    }
+]
