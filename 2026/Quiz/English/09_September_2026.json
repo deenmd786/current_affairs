@@ -283,5 +283,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUc4THF5OGpZaXZ6REZQWVlHbnZoTTQtMjRvaHpTX3NNNjBTbUx6VEd6T2VyQjJOUkRSUzctdy1KZUp6UzRqY2hnejM4RFRtbENGOFJJcnh3UkhVQ3hnTUE4ZlFxMVJhWm5PMzhLSEhkSnBoYldqcWlVUkItOElTVGhZOHRJUGFBNWdRZmpFZG9SUkpTNEJDSmo5MGNFS2JwMlNOTXRQOUhGLUI1U1c0cDhsbHJVN0hicWFWY2ZkYmp1bkNfWXhmMGVR0gHQAUFVX3lxTE5SVlpfeG95dzBHekh1X3M0VTZRWmc2U050ZVI2WG0zOHRSb2tqWTBTLUg4NGx1Z000M3JhTXpfXzRuWG5xVk9ac2s4VThnTmo3M2pyQkFHSlVNMjVhV0V5aThXY1VGekdzdjY1anN3dUdER3VxaGpSaDQ0d0xId0NVNmdvX2d0S2l2LTNKU3FDeDVQR3NDVlZXR0VubTBpd20wOVZyanA3NWdBQ2lGQ2dfMmh3cllOaG1wU2poTVJGek9aTTdIUXEwcko2ZV9ZNGo?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-03",
+        "question": "According to the recent credit rating upgrade by Japanese agency JCR, what is the direct benefit of India's rating upgrade to A-?",
+        "options": [
+            "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
+            "India will receive direct financial grants from the Japanese government.",
+            "India's foreign direct investment limits will automatically double.",
+            "India will completely eliminate its external interest payments."
+        ],
+        "answer": "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
+        "explanation": "A higher rating from JCR means India can borrow at lower costs in the future. This results in a reduced interest burden on the exchequer.",
+        "tags": [
+            "Economy",
+            "Credit Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-03",
+        "question": "Which key sectors drove India's stronger Q1 GDP performance of 7.8% compared to the previous year?",
+        "options": [
+            "Agriculture and heavy mining sectors exclusively",
+            "Manufacturing sector and broad services such as utilities, financial services, and IT",
+            "E-commerce and pharmaceutical export sectors only",
+            "Tourism and domestic aviation transport sectors"
+        ],
+        "answer": "Manufacturing sector and broad services such as utilities, financial services, and IT",
+        "explanation": "The stronger performance in Q1 was driven by the manufacturing sector along with services categories including utilities, financial services, real estate, IT, public administration, and defence.",
+        "tags": [
+            "Economy",
+            "GDP Growth"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-03",
+        "question": "Who among the following UN officials is set to participate in the BRICS Summit hosted in India?",
+        "options": [
+            "Ban Ki-moon",
+            "António Guterres",
+            "Kofi Annan",
+            "Tedros Adhanom"
+        ],
+        "answer": "António Guterres",
+        "explanation": "UN Secretary General António Guterres is scheduled to participate in the BRICS Summit held in India.",
+        "tags": [
+            "International Relations",
+            "BRICS"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJVenF2OGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-03",
+        "question": "Which constitutional provision did the Supreme Court invoke to quash FIRs against NEET student protesters across the country?",
+        "options": [
+            "Article 32",
+            "Article 142",
+            "Article 226",
+            "Article 370"
+        ],
+        "answer": "Article 142",
+        "explanation": "The Supreme Court utilized Article 142 of the Indian Constitution to quash FIRs registered against student protesters across the country.",
+        "tags": [
+            "Polity",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-03",
+        "question": "What entity is proposed to be established under the revised FNTA Bill reintroduced in the Nagaland Legislative Assembly?",
+        "options": [
+            "Frontier Nagaland Territorial Council",
+            "Frontier Nagaland Territorial Authority",
+            "Nagaland Autonomous Border Development Commission",
+            "Eastern Nagaland Administrative Board"
+        ],
+        "answer": "Frontier Nagaland Territorial Authority",
+        "explanation": "The reintroduced FNTA Bill in the Nagaland Legislative Assembly aims to set up the Frontier Nagaland Territorial Authority.",
+        "tags": [
+            "Polity",
+            "State Legislation"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
     }
 ]
