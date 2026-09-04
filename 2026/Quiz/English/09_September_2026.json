@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_021",
-        "date": "2026-09-03",
-        "question": "According to the recent credit rating upgrade by Japanese agency JCR, what is the direct benefit of India's rating upgrade to A-?",
-        "options": [
-            "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
-            "India will receive direct financial grants from the Japanese government.",
-            "India's foreign direct investment limits will automatically double.",
-            "India will completely eliminate its external interest payments."
-        ],
-        "answer": "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
-        "explanation": "A higher rating from JCR means India can borrow at lower costs in the future. This results in a reduced interest burden on the exchequer.",
-        "tags": [
-            "Economy",
-            "Credit Ratings"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_022",
-        "date": "2026-09-03",
-        "question": "Which key sectors drove India's stronger Q1 GDP performance of 7.8% compared to the previous year?",
-        "options": [
-            "Agriculture and heavy mining sectors exclusively",
-            "Manufacturing sector and broad services such as utilities, financial services, and IT",
-            "E-commerce and pharmaceutical export sectors only",
-            "Tourism and domestic aviation transport sectors"
-        ],
-        "answer": "Manufacturing sector and broad services such as utilities, financial services, and IT",
-        "explanation": "The stronger performance in Q1 was driven by the manufacturing sector along with services categories including utilities, financial services, real estate, IT, public administration, and defence.",
-        "tags": [
-            "Economy",
-            "GDP Growth"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
-    },
-    {
-        "id": "ca_2026_09_023",
-        "date": "2026-09-03",
-        "question": "Who among the following UN officials is set to participate in the BRICS Summit hosted in India?",
-        "options": [
-            "Ban Ki-moon",
-            "António Guterres",
-            "Kofi Annan",
-            "Tedros Adhanom"
-        ],
-        "answer": "António Guterres",
-        "explanation": "UN Secretary General António Guterres is scheduled to participate in the BRICS Summit held in India.",
-        "tags": [
-            "International Relations",
-            "BRICS"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJVenF2OGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
-    },
-    {
-        "id": "ca_2026_09_024",
-        "date": "2026-09-03",
-        "question": "Which constitutional provision did the Supreme Court invoke to quash FIRs against NEET student protesters across the country?",
-        "options": [
-            "Article 32",
-            "Article 142",
-            "Article 226",
-            "Article 370"
-        ],
-        "answer": "Article 142",
-        "explanation": "The Supreme Court utilized Article 142 of the Indian Constitution to quash FIRs registered against student protesters across the country.",
-        "tags": [
-            "Polity",
-            "Judiciary"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
-    },
-    {
-        "id": "ca_2026_09_025",
-        "date": "2026-09-03",
-        "question": "What entity is proposed to be established under the revised FNTA Bill reintroduced in the Nagaland Legislative Assembly?",
-        "options": [
-            "Frontier Nagaland Territorial Council",
-            "Frontier Nagaland Territorial Authority",
-            "Nagaland Autonomous Border Development Commission",
-            "Eastern Nagaland Administrative Board"
-        ],
-        "answer": "Frontier Nagaland Territorial Authority",
-        "explanation": "The reintroduced FNTA Bill in the Nagaland Legislative Assembly aims to set up the Frontier Nagaland Territorial Authority.",
-        "tags": [
-            "Polity",
-            "State Legislation"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
-    },
-    {
         "id": "ca_2026_09_016",
         "date": "2026-09-04",
         "question": "At approximately what distance above the Earth will India's EOS-05 satellite operate in Geosynchronous orbit?",
@@ -378,5 +283,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-04",
+        "question": "At approximately what altitude above the Earth will India's EOS-05 satellite monitor from a Geosynchronous orbit?",
+        "options": [
+            "12,000 km",
+            "24,000 km",
+            "36,000 km",
+            "50,000 km"
+        ],
+        "answer": "36,000 km",
+        "explanation": "EOS-05 is India's first imaging satellite designed to monitor Earth from a Geosynchronous orbit located approximately 36,000 km above the Earth.",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-04",
+        "question": "What was the RBI's estimate for India's GDP growth for the April-June quarter, which was beaten by the actual 7.8% growth?",
+        "options": [
+            "6.5%",
+            "7.0%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7.0%",
+        "explanation": "India's Q1 GDP growth reached 7.8% for the April-June quarter, beating the RBI's estimate of 7.0%.",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-04",
+        "question": "To which rating level did the Japanese credit rating agency JCR recently upgrade India?",
+        "options": [
+            "BBB+",
+            "A-",
+            "A+",
+            "AA-"
+        ],
+        "answer": "A-",
+        "explanation": "Japanese credit rating agency JCR upgraded India's credit rating to A-, allowing India to borrow at lower costs in the future.",
+        "tags": [
+            "Economy",
+            "Banking & Finance"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-04",
+        "question": "How many defence pacts were inked between India and Belgium during recent bilateral discussions?",
+        "options": [
+            "5",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "10",
+        "explanation": "India and Belgium inked 10 defence pacts to boost bilateral ties spanning defence, trade, and fintech.",
+        "tags": [
+            "International Relations",
+            "Defence"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-04",
+        "question": "Türkiye (Turkey) joined the US-led Artemis Accords for space exploration as which numbered signatory country?",
+        "options": [
+            "51st",
+            "61st",
+            "71st",
+            "81st"
+        ],
+        "answer": "71st",
+        "explanation": "Turkey officially became the 71st country to join the US-led Artemis Accords for civil space exploration.",
+        "tags": [
+            "International Relations",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
     }
 ]
