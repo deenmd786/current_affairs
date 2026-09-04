@@ -1,67 +1,80 @@
 [
     {
         "designation": "Chief Justice of India (CJI)",
-        "name": "Justice Sanjiv Khanna",
-        "status": "Active"
+        "name": "Justice Surya Kant",
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chief of Defence Staff (CDS)",
         "name": "General Anil Chauhan",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chief of the Army Staff",
         "name": "General Upendra Dwivedi",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chief of the Naval Staff",
         "name": "Admiral Dinesh Kumar Tripathi",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chief of the Air Staff",
         "name": "Air Chief Marshal Amar Preet Singh",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Governor, Reserve Bank of India (RBI)",
         "name": "Sanjay Malhotra",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chief Election Commissioner (CEC)",
         "name": "Gyanesh Kumar",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chairman, ISRO",
-        "name": "S. Somanath",
-        "status": "Active"
+        "name": "Dr. V. Narayanan",
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chairman, DRDO",
         "name": "Dr. Samir V. Kamat",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chairman, SEBI",
-        "name": "Madhabi Puri Buch",
-        "status": "Active"
+        "name": "T. V. Somanathan",
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "Chairman, UPSC",
         "name": "Preeti Sudan",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "CEO, NITI Aayog",
         "name": "B.V.R. Subrahmanyam",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     },
     {
         "designation": "National Security Advisor (NSA)",
         "name": "Ajit Doval",
-        "status": "Active"
+        "status": "Active",
+        "last_updated": "2026-09-04"
     }
 ]
