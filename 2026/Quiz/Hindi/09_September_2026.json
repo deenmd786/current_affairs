@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_021",
-        "date": "2026-09-03",
-        "question": "जापानी एजेंसी JCR द्वारा हाल ही में क्रेडिट रेटिंग अपग्रेड के अनुसार, भारत की रेटिंग A- होने का प्रत्यक्ष लाभ क्या है?",
-        "options": [
-            "भारत भविष्य में कम लागत पर कर्ज ले सकता है, जिससे राजकोष पर ब्याज का बोझ कम होगा।",
-            "भारत को जापानी सरकार से प्रत्यक्ष वित्तीय अनुदान प्राप्त होगा।",
-            "भारत की प्रत्यक्ष विदेशी निवेश सीमा स्वतः ही दोगुनी हो जाएगी।",
-            "भारत अपने बाहरी ब्याज भुगतानों को पूरी तरह से समाप्त कर देगा।"
-        ],
-        "answer": "भारत भविष्य में कम लागत पर कर्ज ले सकता है, जिससे राजकोष पर ब्याज का बोझ कम होगा。",
-        "explanation": "JCR से उच्च रेटिंग का अर्थ है कि भारत भविष्य में कम लागत पर उधार ले सकता है। इसके परिणामस्वरूप राजकोष पर ब्याज का बोझ कम हो जाता है।",
-        "tags": [
-            "अर्थव्यवस्था",
-            "क्रेडिट रेटिंग्स"
-        ],
-        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_022",
-        "date": "2026-09-03",
-        "question": "पिछले वर्ष की तुलना में 7.8% के मजबूत Q1 GDP प्रदर्शन को किन प्रमुख क्षेत्रों ने प्रेरित किया?",
-        "options": [
-            "विशेष रूप से कृषि और भारी खनन क्षेत्र",
-            "विनिर्माण क्षेत्र और उपयोगिताओं, वित्तीय सेवाओं और IT जैसी व्यापक सेवाएँ",
-            "केवल ई-कॉमर्स और फार्मास्युटिकल निर्यात क्षेत्र",
-            "पर्यटन और घरेलू विमानन परिवहन क्षेत्र"
-        ],
-        "answer": "विनिर्माण क्षेत्र और उपयोगिताओं, वित्तीय सेवाओं और IT जैसी व्यापक सेवाएँ",
-        "explanation": "Q1 में मजबूत प्रदर्शन विनिर्माण क्षेत्र के साथ-साथ उपयोगिताओं, वित्तीय सेवाओं, रियल एस्टेट, IT, लोक प्रशासन और रक्षा सहित सेवा श्रेणियों द्वारा संचालित था।",
-        "tags": [
-            "अर्थव्यवस्था",
-            "GDP वृद्धि"
-        ],
-        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
-        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
-    },
-    {
-        "id": "ca_2026_09_023",
-        "date": "2026-09-03",
-        "question": "भारत में आयोजित ब्रिक्स (BRICS) शिखर सम्मेलन में निम्नलिखित में से कौन सा संयुक्त राष्ट्र अधिकारी भाग लेने वाला है?",
-        "options": [
-            "बान की मून",
-            "एंटोनियो गुटेरेस",
-            "कोफी अन्नान",
-            "टेड्रोस अदनोम"
-        ],
-        "answer": "एंटोनियो गुटेरेस",
-        "explanation": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस भारत में आयोजित होने वाले ब्रिक्स शिखर सम्मेलन में भाग लेने वाले हैं।",
-        "tags": [
-            "अंतर्राष्ट्रीय संबंध",
-            "ब्रिक्स (BRICS)"
-        ],
-        "source": "गूगल समाचार (भारत राष्ट्रीय)",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJVenF2OGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
-    },
-    {
-        "id": "ca_2026_09_024",
-        "date": "2026-09-03",
-        "question": "देश भर में NEET छात्र प्रदर्शनकारियों के खिलाफ FIR रद्द करने के लिए सुप्रीम कोर्ट ने किस संवैधानिक प्रावधान का उपयोग किया?",
-        "options": [
-            "अनुच्छेद 32",
-            "अनुच्छेद 142",
-            "अनुच्छेद 226",
-            "अनुच्छेद 370"
-        ],
-        "answer": "अनुच्छेद 142",
-        "explanation": "सुप्रीम कोर्ट ने देश भर में छात्र प्रदर्शनकारियों के खिलाफ दर्ज FIR रद्द करने के लिए भारतीय संविधान के अनुच्छेद 142 का इस्तेमाल किया।",
-        "tags": [
-            "राजव्यवस्था",
-            "न्यायपालिका"
-        ],
-        "source": "गूगल समाचार (भारत राष्ट्रीय)",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
-    },
-    {
-        "id": "ca_2026_09_025",
-        "date": "2026-09-03",
-        "question": "नागालैंड विधानसभा में फिर से पेश किए गए संशोधित FNTA विधेयक के तहत किस निकाय की स्थापना का प्रस्ताव है?",
-        "options": [
-            "फ्रंटियर नागालैंड क्षेत्रीय परिषद (Frontier Nagaland Territorial Council)",
-            "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
-            "नागालैंड स्वायत्त सीमा विकास आयोग",
-            "पूर्वी नागालैंड प्रशासनिक बोर्ड"
-        ],
-        "answer": "फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण (Frontier Nagaland Territorial Authority)",
-        "explanation": "नागालैंड विधानसभा में फिर से पेश किए गए FNTA विधेयक का उद्देश्य फ्रंटियर नागालैंड क्षेत्रीय प्राधिकरण की स्थापना करना है।",
-        "tags": [
-            "राजव्यवस्था",
-            "राज्य विधान"
-        ],
-        "source": "गूगल समाचार (भारत राष्ट्रीय)",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
-    },
-    {
         "id": "ca_2026_09_016",
         "date": "2026-09-04",
         "question": "भारत का EOS-05 उपग्रह भू-तुल्यकालिक (Geosynchronous) कक्षा में पृथ्वी से लगभग कितनी दूरी पर कार्य करेगा?",
@@ -378,5 +283,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-04",
+        "question": "भारत का EOS-05 उपग्रह पृथ्वी से लगभग कितनी ऊँचाई पर स्थित भू-तुल्यकालिक कक्षा (Geosynchronous orbit) से निगरानी करेगा?",
+        "options": [
+            "12,000 किमी",
+            "24,000 किमी",
+            "36,000 किमी",
+            "50,000 किमी"
+        ],
+        "answer": "36,000 किमी",
+        "explanation": "EOS-05 पृथ्वी से लगभग 36,000 किमी ऊपर स्थित भू-तुल्यकालिक कक्षा से पृथ्वी की निगरानी के लिए डिज़ाइन किया गया भारत का पहला इमेजिंग उपग्रह है।",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-04",
+        "question": "अप्रैल-जून तिमाही के लिए भारत की जीडीपी (GDP) वृद्धि दर का आरबीआई (RBI) का अनुमान क्या था, जिसे वास्तविक 7.8% की वृद्धि दर ने पार कर लिया?",
+        "options": [
+            "6.5%",
+            "7.0%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7.0%",
+        "explanation": "अप्रैल-जून तिमाही के लिए भारत की पहली तिमाही (Q1) की जीडीपी वृद्धि 7.8% तक पहुँच गई, जिसने आरबीआई के 7.0% के अनुमान को पीछे छोड़ दिया।",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-04",
+        "question": "जापानी क्रेडिट रेटिंग एजेंसी JCR ने हाल ही में भारत की रेटिंग को बढ़ाकर किस स्तर पर कर दिया है?",
+        "options": [
+            "BBB+",
+            "A-",
+            "A+",
+            "AA-"
+        ],
+        "answer": "A-",
+        "explanation": "जापानी क्रेडिट रेटिंग एजेंसी JCR ने भारत की क्रेडिट रेटिंग को बढ़ाकर A- कर दिया है, जिससे भारत भविष्य में कम लागत पर ऋण ले सकेगा।",
+        "tags": [
+            "Economy",
+            "Banking & Finance"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-04",
+        "question": "हाल ही में हुई द्विपक्षीय चर्चा के दौरान भारत और बेल्जियम के बीच कितने रक्षा समझौतों पर हस्ताक्षर किए गए?",
+        "options": [
+            "5",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "10",
+        "explanation": "भारत और बेल्जियम ने रक्षा, व्यापार और फिनटेक तक फैले द्विपक्षीय संबंधों को बढ़ावा देने के लिए 10 रक्षा समझौतों पर हस्ताक्षर किए।",
+        "tags": [
+            "International Relations",
+            "Defence"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-04",
+        "question": "तुर्की (Türkiye) अंतरिक्ष अन्वेषण के लिए अमेरिका के नेतृत्व वाले आर्टेमिस समझौते (Artemis Accords) में कौन-से हस्ताक्षरकर्ता देश के रूप में शामिल हुआ?",
+        "options": [
+            "51वें",
+            "61वें",
+            "71वें",
+            "81वें"
+        ],
+        "answer": "71वें",
+        "explanation": "तुर्की आधिकारिक तौर पर नागरिक अंतरिक्ष अन्वेषण के लिए अमेरिका के नेतृत्व वाले आर्टेमिस समझौते में शामिल होने वाला 71वाँ देश बन गया।",
+        "tags": [
+            "International Relations",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF_lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
     }
 ]
