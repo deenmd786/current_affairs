@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_016",
-        "date": "2026-09-03",
-        "question": "जापानी क्रेडिट रेटिंग एजेंसी JCR द्वारा भारत को कौन सी उन्नत (अपग्रेडेड) रेटिंग दी गई है?",
-        "options": [
-            "BBB+",
-            "A-",
-            "A+",
-            "AA-"
-        ],
-        "answer": "A-",
-        "explanation": "जापानी क्रेडिट रेटिंग एजेंसी JCR ने भारत की क्रेडिट रेटिंग को बढ़ाकर A- कर दिया है, जिससे देश को भविष्य में कम ब्याज लागत पर कर्ज लेने में मदद मिलेगी।",
-        "tags": [
-            "अर्थव्यवस्था",
-            "क्रेडिट रेटिंग"
-        ],
-        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_017",
-        "date": "2026-09-03",
-        "question": "Q1FY27 में भारत का चालू खाता घाटा (CAD) बढ़कर कितना हो गया?",
-        "options": [
-            "$3.1 बिलियन",
-            "$4.2 बिलियन",
-            "$5.5 बिलियन",
-            "$6.0 बिलियन"
-        ],
-        "answer": "$4.2 बिलियन",
-        "explanation": "Q1FY27 में भारत का CAD बढ़कर $4.2 बिलियन हो गया क्योंकि व्यापारिक व्यापार घाटे और पोर्टफोलियो बहिर्प्रवाह ने सेवाओं और FDI से होने वाले लाभ की भरपाई कर दी।",
-        "tags": [
-            "अर्थव्यवस्था",
-            "CAD"
-        ],
-        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
-        "link": "https://www.thehindu.com/business/Economy/indias-cad-widens-to-42-billion-in-q1fy27/article71415332.ece"
-    },
-    {
-        "id": "ca_2026_09_018",
-        "date": "2026-09-03",
-        "question": "विनिर्माण और सेवा क्षेत्र के प्रदर्शन से प्रेरित होकर, Q1 में भारत की GDP वृद्धि दर कितनी थी?",
-        "options": [
-            "6.8%",
-            "7.2%",
-            "7.8%",
-            "8.2%"
-        ],
-        "answer": "7.8%",
-        "explanation": "Q1 में भारत की GDP 7.8% की दर से बढ़ी, जो पिछली तिमाही से धीमी लेकिन पिछले साल की इसी अवधि की तुलना में तेज थी।",
-        "tags": [
-            "अर्थव्यवस्था",
-            "GDP वृद्धि"
-        ],
-        "source": "द हिंदू (अर्थव्यवस्था और व्यापार)",
-        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
-    },
-    {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-03",
-        "question": "नई दिल्ली में होने वाले ब्रिक्स (BRICS) शिखर सम्मेलन के किस संस्करण में संयुक्त राष्ट्र प्रमुख एंटोनियो गुटेरेस भाग लेने वाले हैं?",
-        "options": [
-            "15वां ब्रिक्स शिखर सम्मेलन",
-            "16वां ब्रिक्स शिखर सम्मेलन",
-            "17वां ब्रिक्स शिखर सम्मेलन",
-            "18वां ब्रिक्स शिखर सम्मेलन"
-        ],
-        "answer": "18वां ब्रिक्स शिखर सम्मेलन",
-        "explanation": "संयुक्त राष्ट्र प्रमुख एंटोनियो गुटेरेस नई दिल्ली में आयोजित होने वाले 18वें ब्रिक्स शिखर सम्मेलन में भाग ले रहे हैं, जिसमें नवाचार और डिजिटल सहयोग पर ध्यान केंद्रित किया जाएगा।",
-        "tags": [
-            "अंतर्राष्ट्रीय घटनाक्रम",
-            "ब्रिक्स (BRICS)"
-        ],
-        "source": "गूगल समाचार (भारत राष्ट्रीय)",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjYtdWMtWEtSeTVjY05OUTFrYWI0Z25TdVdJWDROLVBVNGw0WGRSR01ycmNOeVJ3azg1a3hqempQdmE4cHMyQ0l5MngxcU5PQzRYZFlHbnlnVG9uUjhnbHJ6TkluZ2ZnRWdhWHZWemtMVFNuM25VSTBobkQ3NnllUi1TVUdiWWFjbWNzNHJOcVhqSmRBS0o2bWZ5aWkyU2ZlaUE?oc=5"
-    },
-    {
-        "id": "ca_2026_09_020",
-        "date": "2026-09-03",
-        "question": "सुप्रीम कोर्ट ने NEET-UG प्रदर्शनकारियों के खिलाफ FIR को रद्द करने के लिए किस संवैधानिक प्रावधान का इस्तेमाल किया?",
-        "options": [
-            "अनुच्छेद 32",
-            "अनुच्छेद 136",
-            "अनुच्छेद 142",
-            "अनुच्छेद 226"
-        ],
-        "answer": "अनुच्छेद 142",
-        "explanation": "सुप्रीम कोर्ट ने पांच राज्यों में Gen Z NEET-UG प्रदर्शनकारियों के खिलाफ दर्ज FIR को रद्द करने के लिए अनुच्छेद 142 का इस्तेमाल किया।",
-        "tags": [
-            "भारतीय राजव्यवस्था",
-            "सुप्रीम कोर्ट"
-        ],
-        "source": "गूगल समाचार (भारत राष्ट्रीय)",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUc4THF5OGpZaXZ6REZQWVlHbnZoTTQtMjRvaHpTX3NNNjBTbUx6VEd6T2VyQjJOUkRSUzctdy1KZUp6UzRqY2hgzM4RFRtbENGOFJJcnh3UkhVQ3hnTUE4ZlFxMVJhWm5PMzhLSEhkSnBoYldqcWlVUkItOElTVGhZOHRJUGFBNWdRZmpFZG9SUkpTNEJDSmo5MGNFS2JwMlNOTXRQOUhGLUI1U1c0cDhsbHJVN0hicWFWY2ZkYmp1bkNfWXhmMGVR0gHQAUFVX3lxTE5SVlpfeG95dzBHekh1X3M0VTZRWmc2U050ZVI2WG0zOHRSb2tqWTBTLUg4NGx1Z000M3JhTXpfXzRuWG5xVk9ac2s4VThnTmo3M2pyQkFHSlVNMjVhV0V5aThXY1VGekdzdjY1anN3dUdER3VxaGpSaDQ0d0xId0NVNmdvX2d0S2l2LTNKU3FDeDVQR3NDVlZXR0VubTBpd20wOVZyanA3NWdBQ2lGQ2dfMmh3cllOaG1wU2poTVJGek9aTTdIUXEwcko2ZV9ZNGo?oc=5"
-    },
-    {
         "id": "ca_2026_09_021",
         "date": "2026-09-03",
         "question": "जापानी एजेंसी JCR द्वारा हाल ही में क्रेडिट रेटिंग अपग्रेड के अनुसार, भारत की रेटिंग A- होने का प्रत्यक्ष लाभ क्या है?",
@@ -378,5 +283,100 @@
         ],
         "source": "गूगल समाचार (भारत राष्ट्रीय)",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_016",
+        "date": "2026-09-04",
+        "question": "भारत का EOS-05 उपग्रह भू-तुल्यकालिक (Geosynchronous) कक्षा में पृथ्वी से लगभग कितनी दूरी पर कार्य करेगा?",
+        "options": [
+            "12,000 किमी",
+            "36,000 किमी",
+            "500 किमी",
+            "2,000 किमी"
+        ],
+        "answer": "36,000 किमी",
+        "explanation": "EOS-05 पृथ्वी से लगभग 36,000 किमी ऊपर स्थित भू-तुल्यकालिक कक्षा से पृथ्वी की निगरानी के लिए डिज़ाइन किया गया भारत का पहला इमेजिंग उपग्रह है।",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+    },
+    {
+        "id": "ca_2026_09_017",
+        "date": "2026-09-04",
+        "question": "अप्रैल-जून तिमाही के लिए भारतीय रिजर्व बैंक (RBI) का सकल घरेलू उत्पाद (GDP) वृद्धि का अनुमान क्या था, जिससे अधिक 7.8% की वास्तविक पहली तिमाही (Q1) की वृद्धि दर रही?",
+        "options": [
+            "6.5%",
+            "7%",
+            "7.5%",
+            "8%"
+        ],
+        "answer": "7%",
+        "explanation": "भारत की पहली तिमाही (Q1) की जीडीपी वृद्धि 7.8% तक पहुंच गई, जो अप्रैल-जून तिमाही के लिए आरबीआई के 7% के अनुमान से अधिक है।",
+        "tags": [
+            "Economy",
+            "Banking"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-04",
+        "question": "अंतरिक्ष अन्वेषण के लिए अमेरिका के नेतृत्व वाले आर्टेमिस समझौते (Artemis Accords) में शामिल होने वाला 71वां हस्ताक्षरकर्ता देश हाल ही में कौन सा बना है?",
+        "options": [
+            "तुर्की",
+            "बेल्जियम",
+            "मिस्र",
+            "ब्राजील"
+        ],
+        "answer": "तुर्की",
+        "explanation": "तुर्की (Türkiye) अंतरिक्ष अन्वेषण के लिए अमेरिका के नेतृत्व वाले आर्टेमिस समझौते में 71वें सदस्य देश के रूप में शामिल हो गया है।",
+        "tags": [
+            "International Relations",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF_lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-04",
+        "question": "किस भारतीय अंतरिक्ष मिशन ने सौर ज्वालाओं (solar flares) के प्रकट होने से पहले सूर्य पर प्रारंभिक चेतावनी संकेतों का पता लगाया?",
+        "options": [
+            "EOS-05",
+            "चंद्रयान-3",
+            "आदित्य-L1",
+            "एस्ट्रोसैट"
+        ],
+        "answer": "आदित्य-L1",
+        "explanation": "भारत के आदित्य-L1 सौर मिशन ने विशाल सौर ज्वाला विस्फोटों से पहले सूर्य पर शुरुआती संकेतों और चेतावनी चिह्नों का पता लगाया।",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-04",
+        "question": "भारतीय रक्षा मंत्री राजनाथ सिंह ने किस देश के मंत्री से पाकिस्तान के साथ कोई भी संवेदनशील तकनीक साझा न करने का अनुरोध किया?",
+        "options": [
+            "तुर्की",
+            "बेल्जियम",
+            "फ्रांस",
+            "जर्मनी"
+        ],
+        "answer": "बेल्जियम",
+        "explanation": "राजनाथ सिंह ने बेल्जियम के मंत्री से पाकिस्तान के साथ संवेदनशील तकनीक साझा न करने का अनुरोध किया, क्योंकि दोनों देशों ने आर्थिक और रक्षा सहयोग को गहरा किया है।",
+        "tags": [
+            "International Relations",
+            "Defense"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
     }
 ]
