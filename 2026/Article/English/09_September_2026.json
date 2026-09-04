@@ -106,5 +106,41 @@
                 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
             }
         ]
+    },
+    {
+        "date": "2026-09-04",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "ISRO successfully launches Earth observation satellite EOS-05",
+                "description": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+            },
+            {
+                "title": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data? | Business Matters",
+                "description": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+            },
+            {
+                "title": "Turkey becomes 71st country to join US-led Artemis Accords for space exploration - Firstpost",
+                "description": "Turkey becomes 71st country to join US-led Artemis Accords for space exploration Firstpost Turkey Joins Artemis Accords as 71st Member GK Today Türkiye joins Artemis Accords as 71st signatory Tech Review Africa Türkiye Joins NASA’s Artemis Accords as 71st Signatory Adda247 Türkiye Becomes 71st Signa",
+                "source": "Google News (Science & Tech)",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
+            },
+            {
+                "title": "Aditya-L1 catches Sun’s early warning signs before solar flares - Manorama Yearbook",
+                "description": "Aditya-L1 catches Sun’s early warning signs before solar flares Manorama Yearbook Solar flares explained: What these giant explosions on the Sun mean for us starlust.org Sun gives early clues before powerful solar flares, study finds | Tap to know more | Inshorts Inshorts Manipal and ISRO researcher",
+                "source": "Google News (Science & Tech)",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+            },
+            {
+                "title": "Don’t share any sensitive tech with Pak, Rajnath asks Belgian minister; both countries ink 10 defence pac - The Times of India",
+                "description": "Don’t share any sensitive tech with Pak, Rajnath asks Belgian minister; both countries ink 10 defence pac The Times of India India, Belgium reaffirm their commitment to deepening trade, investment and economic cooperation News On AIR India-Belgium signs eight contracts between arms companies, to app",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
+            }
+        ]
     }
 ]
