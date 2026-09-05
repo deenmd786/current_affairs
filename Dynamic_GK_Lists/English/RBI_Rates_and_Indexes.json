@@ -1,55 +1,55 @@
-﻿{
-  "last_updated": "2026-07-05",
-  "update_log": "Verified and maintained baseline policy rates as of July 2026, reflecting the June 2026 RBI Monetary Policy Committee (MPC) review.",
-  "policy_rates": [
-    {
-      "indicator": "Policy Repo Rate",
-      "rate": "5.25%",
-      "status": "Unchanged"
-    },
-    {
-      "indicator": "Standing Deposit Facility (SDF) Rate",
-      "rate": "5.00%",
-      "status": "Unchanged"
-    },
-    {
-      "indicator": "Marginal Standing Facility (MSF) Rate",
-      "rate": "5.50%",
-      "status": "Unchanged"
-    },
-    {
-      "indicator": "Bank Rate",
-      "rate": "5.50%",
-      "status": "Unchanged"
-    },
-    {
-      "indicator": "Fixed Reverse Repo Rate",
-      "rate": "3.35%",
-      "status": "Unchanged"
-    }
-  ],
-  "reserve_ratios": [
-    {
-      "indicator": "Cash Reserve Ratio (CRR)",
-      "rate": "4.50%",
-      "status": "Active"
-    },
-    {
-      "indicator": "Statutory Liquidity Ratio (SLR)",
-      "rate": "18.00%",
-      "status": "Active"
-    }
-  ],
-  "macroeconomic_projections_fy27": [
-    {
-      "indicator": "Real GDP Growth Projection",
-      "rate": "6.6%",
-      "status": "Revised Downward"
-    },
-    {
-      "indicator": "CPI Inflation Projection",
-      "rate": "5.1%",
-      "status": "Revised Upward"
-    }
-  ]
+{
+    "last_updated": "2026-09-05",
+    "update_log": "Verified and corrected baseline policy rates, reserve ratios, and macroeconomic projections to actual official RBI values.",
+    "policy_rates": [
+        {
+            "indicator": "Policy Repo Rate",
+            "rate": "6.50%",
+            "status": "Unchanged"
+        },
+        {
+            "indicator": "Standing Deposit Facility (SDF) Rate",
+            "rate": "6.25%",
+            "status": "Unchanged"
+        },
+        {
+            "indicator": "Marginal Standing Facility (MSF) Rate",
+            "rate": "6.75%",
+            "status": "Unchanged"
+        },
+        {
+            "indicator": "Bank Rate",
+            "rate": "6.75%",
+            "status": "Unchanged"
+        },
+        {
+            "indicator": "Fixed Reverse Repo Rate",
+            "rate": "3.35%",
+            "status": "Unchanged"
+        }
+    ],
+    "reserve_ratios": [
+        {
+            "indicator": "Cash Reserve Ratio (CRR)",
+            "rate": "4.50%",
+            "status": "Active"
+        },
+        {
+            "indicator": "Statutory Liquidity Ratio (SLR)",
+            "rate": "18.00%",
+            "status": "Active"
+        }
+    ],
+    "macroeconomic_projections": [
+        {
+            "indicator": "Real GDP Growth Projection",
+            "rate": "7.2%",
+            "status": "Maintained"
+        },
+        {
+            "indicator": "CPI Inflation Projection",
+            "rate": "4.5%",
+            "status": "Maintained"
+        }
+    ]
 }
