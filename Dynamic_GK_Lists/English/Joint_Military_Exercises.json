@@ -7,7 +7,8 @@
         ],
         "type": "Army",
         "latest_edition_year": "2024",
-        "location": "Mahajan Field Firing Range, Rajasthan, India"
+        "location": "Mahajan Field Firing Range, Rajasthan, India",
+        "last_updated": "2026-09-05"
     },
     {
         "exercise_name": "Malabar",
@@ -19,7 +20,8 @@
         ],
         "type": "Navy",
         "latest_edition_year": "2024",
-        "location": "Visakhapatnam, India"
+        "location": "Visakhapatnam, India",
+        "last_updated": "2026-09-05"
     },
     {
         "exercise_name": "Surya Kiran",
@@ -28,8 +30,9 @@
             "Nepal"
         ],
         "type": "Army",
-        "latest_edition_year": "2024",
-        "location": "Saljhandi, Nepal"
+        "latest_edition_year": "2023",
+        "location": "Saljhandi, Nepal",
+        "last_updated": "2026-09-05"
     },
     {
         "exercise_name": "Mitra Shakti",
@@ -39,7 +42,8 @@
         ],
         "type": "Army",
         "latest_edition_year": "2024",
-        "location": "Maduru Oya, Sri Lanka"
+        "location": "Maduru Oya, Sri Lanka",
+        "last_updated": "2026-09-05"
     },
     {
         "exercise_name": "Garuda Shakti",
@@ -49,6 +53,7 @@
         ],
         "type": "Special Forces",
         "latest_edition_year": "2024",
-        "location": "Jakarta, Indonesia"
+        "location": "Jakarta, Indonesia",
+        "last_updated": "2026-09-05"
     }
 ]
