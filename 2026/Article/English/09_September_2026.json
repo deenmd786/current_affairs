@@ -142,5 +142,41 @@
                 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
             }
         ]
+    },
+    {
+        "date": "2026-09-05",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Active collaboration between public, private sectors a must for the success of PM-SETU scheme: M.B. Patil",
+                "description": "There are 270 government ITIs across Karnataka. If industries come forward to adopt these ITIs, government would be happy to allow them to do so, says Sharan Prakash Patil",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/karnataka/active-collaboration-between-public-private-sectors-a-must-for-the-success-of-pm-setu-scheme-mb-patil/article71429506.ece"
+            },
+            {
+                "title": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data? | Business Matters",
+                "description": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+            },
+            {
+                "title": "Japanese credit rating agency JCR upgrades India to A-, Finance Ministry welcomes move",
+                "description": "A higher rating means that India can borrow at lower costs in the future, leading to a lower interest burden on the exchequer.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+            },
+            {
+                "title": "India Plans Mandatory Battery Storage at Solar and Wind Projects - Crude Oil Prices Today | OilPrice.com",
+                "description": "India Plans Mandatory Battery Storage at Solar and Wind Projects Crude Oil Prices Today | OilPrice.com India proposes mandatory battery storage for new renewable projects from July 2027 Reuters CEA proposes mandatory storage for solar, wind projects The Times of India CEA proposes mandatory energy s",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+            },
+            {
+                "title": "Aditya-L1 Detects Early Warning Signs Before Solar Flares - Drishti IAS",
+                "description": "Aditya-L1 Detects Early Warning Signs Before Solar Flares Drishti IAS New study captures Sun’s early warning signs before solar flares The Hindu From the Moon to the Sun, India readies next space mission Arab News PK AI Model Detects Solar Storm Warning Signs Hours in Advance ColombiaOne.com India’s",
+                "source": "Google News (Science & Tech)",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlzNjdxbnlRN1pibDZxOGNyOUFyNUw1bHc3eWFUQUwxTmtEVk4wRkFpaDdWZUtCR0NMc1MtakxZc1pHWE1oaFI1TTAzNlkyejVsZUVPUzYzUlZ6eHZEcEZ0TFpLdmdkaThaOFV3VFVGU25XSE9uT21tdVA1S2NuU2k0dV9sbjBLblRnN3dXS2kxODNFbjV2QXhNZFZfS0kxR2ZuMmpxSHZMTGRIM1FFWThvdHYycnhZdGc?oc=5"
+            }
+        ]
     }
 ]
