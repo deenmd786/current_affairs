@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_016",
-        "date": "2026-09-04",
-        "question": "At approximately what distance above the Earth will India's EOS-05 satellite operate in Geosynchronous orbit?",
-        "options": [
-            "12,000 km",
-            "36,000 km",
-            "500 km",
-            "2,000 km"
-        ],
-        "answer": "36,000 km",
-        "explanation": "EOS-05 is India’s first imaging satellite designed to monitor Earth from a Geosynchronous orbit located about 36,000 km above the Earth.",
-        "tags": [
-            "Science & Technology",
-            "Space"
-        ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
-    },
-    {
-        "id": "ca_2026_09_017",
-        "date": "2026-09-04",
-        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which was surpassed by the actual Q1 growth rate of 7.8%?",
-        "options": [
-            "6.5%",
-            "7%",
-            "7.5%",
-            "8%"
-        ],
-        "answer": "7%",
-        "explanation": "India's Q1 GDP growth reached 7.8%, beating the RBI's estimate of 7% for the April-June quarter.",
-        "tags": [
-            "Economy",
-            "Banking"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
-    },
-    {
-        "id": "ca_2026_09_018",
-        "date": "2026-09-04",
-        "question": "Which country recently became the 71st signatory to join the US-led Artemis Accords for space exploration?",
-        "options": [
-            "Turkey",
-            "Belgium",
-            "Egypt",
-            "Brazil"
-        ],
-        "answer": "Turkey",
-        "explanation": "Turkey (Türkiye) has joined the US-led Artemis Accords as the 71st member country for space exploration.",
-        "tags": [
-            "International Relations",
-            "Space"
-        ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
-    },
-    {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-04",
-        "question": "Which Indian space mission detected early warning signs on the Sun before the occurrence of solar flares?",
-        "options": [
-            "EOS-05",
-            "Chandrayaan-3",
-            "Aditya-L1",
-            "AstroSat"
-        ],
-        "answer": "Aditya-L1",
-        "explanation": "India's Aditya-L1 solar mission caught early clues and warning signs on the Sun prior to giant solar flare explosions.",
-        "tags": [
-            "Science & Technology",
-            "Space"
-        ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
-    },
-    {
-        "id": "ca_2026_09_020",
-        "date": "2026-09-04",
-        "question": "Indian Defense Minister Rajnath Singh asked the minister of which country not to share any sensitive technology with Pakistan?",
-        "options": [
-            "Turkey",
-            "Belgium",
-            "France",
-            "Germany"
-        ],
-        "answer": "Belgium",
-        "explanation": "Rajnath Singh requested the Belgian minister not to share sensitive tech with Pakistan, as both nations deepened economic and defense cooperation.",
-        "tags": [
-            "International Relations",
-            "Defense"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
-    },
-    {
         "id": "ca_2026_09_021",
         "date": "2026-09-04",
         "question": "At approximately what altitude above the Earth will India's EOS-05 satellite monitor from a Geosynchronous orbit?",
@@ -378,5 +283,100 @@
         ],
         "source": "Google News (Science & Tech)",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
+    },
+    {
+        "id": "ca_2026_09_016",
+        "date": "2026-09-05",
+        "question": "How many government Industrial Training Institutes (ITIs) are currently located across Karnataka, according to the news item?",
+        "options": [
+            "180",
+            "270",
+            "350",
+            "420"
+        ],
+        "answer": "270",
+        "explanation": "According to Sharan Prakash Patil, there are 270 government ITIs across Karnataka available for adoption by private industries.",
+        "tags": [
+            "Government Schemes",
+            "State News"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/active-collaboration-between-public-private-sectors-a-must-for-the-success-of-pm-setu-scheme-mb-patil/article71429506.ece"
+    },
+    {
+        "id": "ca_2026_09_017",
+        "date": "2026-09-05",
+        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which India's Q1 GDP actual growth rate of 7.8% surpassed?",
+        "options": [
+            "6.5%",
+            "7%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7%",
+        "explanation": "India's Q1 GDP reached 7.8%, exceeding the RBI's estimate of 7% for the April-June quarter.",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-05",
+        "question": "Which Japanese credit rating agency upgraded India's sovereign credit rating to 'A-'?",
+        "options": [
+            "JCR",
+            "R&I",
+            "S&P Tokyo",
+            "Fitch Japan"
+        ],
+        "answer": "JCR",
+        "explanation": "Japanese credit rating agency JCR upgraded India to A-, enabling future borrowing at lower costs.",
+        "tags": [
+            "Economy",
+            "Credit Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-05",
+        "question": "From which timeline does India propose to make battery storage mandatory for new solar and wind renewable energy projects?",
+        "options": [
+            "January 2026",
+            "July 2026",
+            "July 2027",
+            "December 2028"
+        ],
+        "answer": "July 2027",
+        "explanation": "India proposes mandatory battery storage implementation for new renewable energy projects starting from July 2027.",
+        "tags": [
+            "Renewable Energy",
+            "Policy"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-05",
+        "question": "Which Indian space mission detected early warning signs prior to solar flares on the Sun?",
+        "options": [
+            "Chandrayaan-3",
+            "Aditya-L1",
+            "AstroSat",
+            "Gaganyaan"
+        ],
+        "answer": "Aditya-L1",
+        "explanation": "India's solar observatory mission Aditya-L1 successfully detected early warning signs on the Sun prior to solar flares.",
+        "tags": [
+            "Science & Technology",
+            "Space Missions"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlzNjdxbnlRN1pibDZxOGNyOUFyNUw1bHc3eWFUQUwxTmtEVk4wRkFpaDdWZUtCR0NMc1MtakxZc1pHWE1oaFI1TTAzNlkyejVsZUVPUzYzUlZ6eHZEcEZ0TFpLdmdkaThaOFV3VFVGU25XSE9uT21tdVA1S2NuU2k0dV9sbjBLblRnN3dXS2kxODNFbjV2QXhNZFZfS0kxR2ZuMmpxSHZMTGRIM1FFWThvdHYycnhZdGc?oc=5"
     }
 ]
