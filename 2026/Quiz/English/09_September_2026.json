@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_021",
-        "date": "2026-09-04",
-        "question": "At approximately what altitude above the Earth will India's EOS-05 satellite monitor from a Geosynchronous orbit?",
-        "options": [
-            "12,000 km",
-            "24,000 km",
-            "36,000 km",
-            "50,000 km"
-        ],
-        "answer": "36,000 km",
-        "explanation": "EOS-05 is India's first imaging satellite designed to monitor Earth from a Geosynchronous orbit located approximately 36,000 km above the Earth.",
-        "tags": [
-            "Science & Technology",
-            "Space"
-        ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
-    },
-    {
-        "id": "ca_2026_09_022",
-        "date": "2026-09-04",
-        "question": "What was the RBI's estimate for India's GDP growth for the April-June quarter, which was beaten by the actual 7.8% growth?",
-        "options": [
-            "6.5%",
-            "7.0%",
-            "7.2%",
-            "7.5%"
-        ],
-        "answer": "7.0%",
-        "explanation": "India's Q1 GDP growth reached 7.8% for the April-June quarter, beating the RBI's estimate of 7.0%.",
-        "tags": [
-            "Economy",
-            "GDP"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
-    },
-    {
-        "id": "ca_2026_09_023",
-        "date": "2026-09-04",
-        "question": "To which rating level did the Japanese credit rating agency JCR recently upgrade India?",
-        "options": [
-            "BBB+",
-            "A-",
-            "A+",
-            "AA-"
-        ],
-        "answer": "A-",
-        "explanation": "Japanese credit rating agency JCR upgraded India's credit rating to A-, allowing India to borrow at lower costs in the future.",
-        "tags": [
-            "Economy",
-            "Banking & Finance"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_024",
-        "date": "2026-09-04",
-        "question": "How many defence pacts were inked between India and Belgium during recent bilateral discussions?",
-        "options": [
-            "5",
-            "8",
-            "10",
-            "12"
-        ],
-        "answer": "10",
-        "explanation": "India and Belgium inked 10 defence pacts to boost bilateral ties spanning defence, trade, and fintech.",
-        "tags": [
-            "International Relations",
-            "Defence"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRFJMNUZWbmgzZkluNEVrRjBwMnJVMnJxXzNOUHdXb1B5WVp1SFpkdEoybmY0WVFZNHdaU2w0ZHZwN3lVLXMtdmRoZlFOMXlyUXVmd19pYW5GU1RSaXJuejlaWlFXM25TZHl5djBwUE5yMHBMLUpGOGJsYTl4d3BqV0pHNnYxUUNZNXlIZHNlWHZzMEh2U2VoNkhBc0RyZDlqc3I4QTNwNDl1UnpYYXZaeXpzRXVlTHU1VDlYNlFMODZralZPSG1hdENrVDFTVjhJbHI2aUFTak1ORUh2X1B1a0FPSkZOR3Y0UFItRTB1MHZTU2JWZm02dVFac2NyVEdhVDVBbFB3TWlYZEp1SFZyMzQyUEZLQXJoZ2wtdHRiN2VNbDZ1QjVvemdocTlOeC0xd3c?oc=5"
-    },
-    {
-        "id": "ca_2026_09_025",
-        "date": "2026-09-04",
-        "question": "Türkiye (Turkey) joined the US-led Artemis Accords for space exploration as which numbered signatory country?",
-        "options": [
-            "51st",
-            "61st",
-            "71st",
-            "81st"
-        ],
-        "answer": "71st",
-        "explanation": "Turkey officially became the 71st country to join the US-led Artemis Accords for civil space exploration.",
-        "tags": [
-            "International Relations",
-            "Space"
-        ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbF9lbld4UWUyMDhrY1dYMTk5MkdZQ2diQjg5WFVPbEtyeG9Fa1dRemswWEJSU2w2aUVObVpKMXpWNmQyakJpTW13STdheDFHUkdYamdhMFlrZUVJWjFNMTk2QjZQVnRHVW5fWHptd05TeE9WTmY3c1JjWFk0QjZJZ1p2RndpY2M0MEpWTDg1RW5FTU1hZXJqVzR5UWZ5YmlHWklUUjd3aDduQVJIZkhWYV9HRXRsUkhuUmVleXBGRmllUnJt0gHKAUFVX3lxTE1WVlJERkRDVWhiRTZuRHNaRnd6ejJwRE4xNXprUkFiTFVOMDJHcWZ1NXRtOTdqRWhVRnh4bHNVY3RyNW11QVV6aXUwci1nazN5Wkg5WkYxOTBQTWxHMk5POWJQVm11VnUxM1M2cS1MVzhkVTdjVUNWbkIyNVRPU0pWNlVVR010SkVvZjI4R3VDMVhMaVFUdHEyWGRzdHBHWDhkODNHb0RPbWtYY1BEYTVRWkdOUG52S0MzaHdxNUo2N29KaDcwSUhuUmc?oc=5"
-    },
-    {
         "id": "ca_2026_09_016",
         "date": "2026-09-05",
         "question": "How many government Industrial Training Institutes (ITIs) are currently located across Karnataka, according to the news item?",
@@ -378,5 +283,100 @@
         ],
         "source": "Google News (Science & Tech)",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlzNjdxbnlRN1pibDZxOGNyOUFyNUw1bHc3eWFUQUwxTmtEVk4wRkFpaDdWZUtCR0NMc1MtakxZc1pHWE1oaFI1TTAzNlkyejVsZUVPUzYzUlZ6eHZEcEZ0TFpLdmdkaThaOFV3VFVGU25XSE9uT21tdVA1S2NuU2k0dV9sbjBLblRnN3dXS2kxODNFbjV2QXhNZFZfS0kxR2ZuMmpxSHZMTGRIM1FFWThvdHYycnhZdGc?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-05",
+        "question": "According to recent reports, ISRO successfully launched India's first imaging satellite into which type of orbit?",
+        "options": [
+            "Low Earth Orbit",
+            "Geo-orbit",
+            "Medium Earth Orbit",
+            "Polar Orbit"
+        ],
+        "answer": "Geo-orbit",
+        "explanation": "ISRO launched India's first geo-orbit imaging satellite into orbit, which Prime Minister Narendra Modi hailed as a reflection of excellence.",
+        "tags": [
+            "Science & Technology",
+            "ISRO"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHlPMUEzdlpnS2hRcmRTXzlQWm5aNUx4LWpWaFZFa2NJTlRtNkRNU2RVZHIyNTBUY1haM1l2aXd1LVJ4VE80ZXFxbkV0bkdfVUpVOTlFMkNFdEYtSFVrWEIxZEloVGQtcGFUTVZyT2s5Q1N2d21MN3U0YkVGNF9ib1FXNXJrYUt1cDRNX2Q4NHd4YnJERzU1OTln?oc=5"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-05",
+        "question": "To what age have seven Indian states agreed to raise the retirement age of judicial officers in the district judiciary?",
+        "options": [
+            "58 years",
+            "60 years",
+            "62 years",
+            "65 years"
+        ],
+        "answer": "62 years",
+        "explanation": "Seven states agreed to raise the retirement age of judicial officers to 62 years, with the Supreme Court encouraging other States and Union Territories to do the same.",
+        "tags": [
+            "Polity & Governance",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdldNVDFraHJVYWpKSEM0V0V2aUtwM08wQlptR21CLXJsLTZkUlE3T0lVcTBQSnhGMW5nS3pSejg0YkhtZ2lsdTZVTzc4b0RQMERVd01VcFVvSnJ3NUJaYmo0WDhTNVpMLVR0eEQ0ak9WWmFHWTBxQjVianVhakRkZWNZNjVxNko4N190cFdFT2NDdU9GZUxseEd1VkdmdVBmZ1pkU1pVdGlwZmhvWHFuczAyM011MHJKbzlHNDE5OGhHTlZzeDZwLTloWW9TMm1jZVFKb2FiS0JnU2lfUGdvUVMyUdIB8AFBVV95cUxQWjQ0clJDRE9hNFBnN1FkMThYb2UyVUVub3ZKY3U4WTVWYVppNEtYbWdIanhuR3B1Ri15Y0ZDLTJYN0VnTjlFZTMwSHFMLUJyaXVvNkptQkYydEloeGJIVjdzMmVNSzdDMjZuZTZxQ2RIaGpzMExMQzVTZ3A3UHZfSGtYdWdtcGJjdEFyQkNLN2pKRWt2YjRDQ0RZQUtjZHhOckpoU0VHdFFHQTA2MzRJMy1XU3NMYWJoSjVqWGtsQ1BDMlhXS1ZIdGVIZEVDUEp3SU5JNTBOTnNSZmJJLTBLbFZ6ZUwzNjA1ZnRwU1ZtWkY?oc=5"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-05",
+        "question": "What was India's reported Q1 GDP growth rate for the April-June quarter, which surpassed the RBI's estimate of 7%?",
+        "options": [
+            "7.2%",
+            "7.5%",
+            "7.8%",
+            "8.1%"
+        ],
+        "answer": "7.8%",
+        "explanation": "India's GDP grew at 7.8% for the April-June quarter, beating the Reserve Bank of India's estimate of 7%.",
+        "tags": [
+            "Economy",
+            "GDP Growth"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-05",
+        "question": "Which Japanese credit rating agency recently upgraded India's credit rating to 'A-'?",
+        "options": [
+            "Fitch Ratings",
+            "JCR",
+            "Moody's",
+            "S&P Global"
+        ],
+        "answer": "JCR",
+        "explanation": "Japanese credit rating agency JCR upgraded India to 'A-', which will allow India to borrow at lower costs in the future.",
+        "tags": [
+            "Economy",
+            "Credit Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-05",
+        "question": "From which month and year has the Central Electricity Authority (CEA) proposed mandatory battery storage for new solar and wind energy projects?",
+        "options": [
+            "January 2026",
+            "July 2026",
+            "January 2027",
+            "July 2027"
+        ],
+        "answer": "July 2027",
+        "explanation": "The CEA has proposed mandatory battery storage for new solar and wind renewable projects starting from July 2027.",
+        "tags": [
+            "Environment & Energy",
+            "Infrastructure"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
     }
 ]
