@@ -178,5 +178,41 @@
                 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
             }
         ]
+    },
+    {
+        "date": "2026-09-06",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
+                "description": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece"
+            },
+            {
+                "title": "Bengal CM calls for reducing screen time for students; says mobile phones should be restricted in schools",
+                "description": "Chief Minister Suvendu Adhikari announced that two ‘CM Shri’ schools, modelled after PM Shri schools, will be opened in each district",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece"
+            },
+            {
+                "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+                "description": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+            },
+            {
+                "title": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal",
+                "description": "The colleges have been asked to maintain a grievance log book. In the log book, the principal must record the date, brief nature of the grievance/query, and the action taken or resolution provided, wherever applicable.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece"
+            },
+            {
+                "title": "Spotlight on illegal coal trade in Meghalaya after truck accident",
+                "description": "A High Court-constituted panel has sought a detailed inquiry into whether the coal transported in the truck was legally auctioned or illegally mined",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece"
+            }
+        ]
     }
 ]
