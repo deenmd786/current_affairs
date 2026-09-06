@@ -378,5 +378,100 @@
         ],
         "source": "Google News (India Economy & Markets)",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_026",
+        "date": "2026-09-06",
+        "question": "Whom did BJP MP Dinesh Sharma succeed upon his appointment as the Lieutenant Governor of the Andaman and Nicobar Islands?",
+        "options": [
+            "Admiral D K Joshi (retd)",
+            "Manoj Sinha",
+            "R K Mathur",
+            "Devendra Kumar Joshi"
+        ],
+        "answer": "Admiral D K Joshi (retd)",
+        "explanation": "Dinesh Sharma succeeded Admiral D K Joshi (retd), who had served as the Lieutenant Governor of the Andaman and Nicobar Islands since October 8, 2017.",
+        "tags": [
+            "Appointments",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece"
+    },
+    {
+        "id": "ca_2026_09_027",
+        "date": "2026-09-06",
+        "question": "How many 'CM Shri' schools, modelled after PM Shri schools, are announced to be opened in each district?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two",
+        "explanation": "It was announced that two 'CM Shri' schools, which are modelled after PM Shri schools, will be opened in each district.",
+        "tags": [
+            "Education",
+            "State News"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece"
+    },
+    {
+        "id": "ca_2026_09_028",
+        "date": "2026-09-06",
+        "question": "According to the notification issued by the Bihar Home Department, the CBI does NOT require state permission to probe against which category of employees?",
+        "options": [
+            "Central Government employees",
+            "State Government employees",
+            "Panchayat level workers",
+            "State Judicial officers"
+        ],
+        "answer": "Central Government employees",
+        "explanation": "The notification issued by the Bihar Home Department specifies that the CBI will not require State government permission to take action against Central Government employees.",
+        "tags": [
+            "Governance",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+    },
+    {
+        "id": "ca_2026_09_029",
+        "date": "2026-09-06",
+        "question": "What record are engineering colleges instructed to maintain by VTU to document dates, brief nature of grievances, and action taken?",
+        "options": [
+            "Grievance log book",
+            "Student welfare portal",
+            "Principal's order book",
+            "Interaction summary diary"
+        ],
+        "answer": "Grievance log book",
+        "explanation": "VTU instructed colleges to maintain a grievance log book where principals must record the date, nature of the query, and any resolution provided.",
+        "tags": [
+            "Education",
+            "Governance"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece"
+    },
+    {
+        "id": "ca_2026_09_030",
+        "date": "2026-09-06",
+        "question": "Who sought a detailed inquiry into whether the coal transported in the truck accident in Meghalaya was legally auctioned or illegally mined?",
+        "options": [
+            "A High Court-constituted panel",
+            "The National Green Tribunal",
+            "The Central Bureau of Investigation",
+            "The Ministry of Coal"
+        ],
+        "answer": "A High Court-constituted panel",
+        "explanation": "Following a truck accident in Meghalaya, a High Court-constituted panel sought a detailed inquiry into whether the coal was legally auctioned or illegally mined.",
+        "tags": [
+            "Legal",
+            "Environment"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece"
     }
 ]
