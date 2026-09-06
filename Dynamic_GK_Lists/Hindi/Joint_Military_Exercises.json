@@ -8,7 +8,7 @@
         "type": "थल सेना",
         "latest_edition_year": "2024",
         "location": "महाजन फील्ड फायरिंग रेंज, राजस्थान, भारत",
-        "last_updated": "2026-09-05"
+        "last_updated": "2026-09-06"
     },
     {
         "exercise_name": "मालाबार",
@@ -20,8 +20,8 @@
         ],
         "type": "नौसेना",
         "latest_edition_year": "2024",
-        "location": "विशाखापट्टनम, भारत",
-        "last_updated": "2026-09-05"
+        "location": "विशाखापत्तनम, भारत",
+        "last_updated": "2026-09-06"
     },
     {
         "exercise_name": "सूर्य किरण",
@@ -31,8 +31,8 @@
         ],
         "type": "थल सेना",
         "latest_edition_year": "2023",
-        "location": "सलझंडी, नेपाल",
-        "last_updated": "2026-09-05"
+        "location": "पिथौरागढ़, उत्तराखंड, भारत",
+        "last_updated": "2026-09-06"
     },
     {
         "exercise_name": "मित्र शक्ति",
@@ -43,7 +43,7 @@
         "type": "थल सेना",
         "latest_edition_year": "2024",
         "location": "मादुरू ओया, श्रीलंका",
-        "last_updated": "2026-09-05"
+        "last_updated": "2026-09-06"
     },
     {
         "exercise_name": "गरुड़ शक्ति",
@@ -54,6 +54,6 @@
         "type": "विशेष बल",
         "latest_edition_year": "2024",
         "location": "जकार्ता, इंडोनेशिया",
-        "last_updated": "2026-09-05"
+        "last_updated": "2026-09-06"
     }
 ]
