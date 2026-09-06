@@ -178,5 +178,41 @@
                 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
             }
         ]
+    },
+    {
+        "date": "2026-09-06",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "भाजपा सांसद दिनेश शर्मा अंडमान और निकोबार द्वीप समूह के उपराज्यपाल नियुक्त",
+                "description": "श्री शर्मा एडमिरल डी के जोशी (सेवानिवृत्त) का स्थान लेंगे, जिन्होंने 8 अक्टूबर 2017 को अंडमान और निकोबार द्वीप समूह के उपराज्यपाल के रूप में पदभार संभाला था।",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece"
+            },
+            {
+                "title": "बंगाल की मुख्यमंत्री ने छात्रों के स्क्रीन टाइम को कम करने का आह्वान किया; कहा स्कूलों में मोबाइल फोन प्रतिबंधित होने चाहिए",
+                "description": "मुख्यमंत्री सुवेंदु अधिकारी ने घोषणा की कि 'पीएम श्री' स्कूलों की तर्ज पर प्रत्येक जिले में दो 'सीएम श्री' स्कूल खोले जाएंगे।",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece"
+            },
+            {
+                "title": "बिहार सरकार ने सीबीआई की शक्तियों को सीमित किया; राज्य के कर्मचारियों के खिलाफ जांच के लिए राज्य की मंजूरी अनिवार्य",
+                "description": "हालांकि, 3 सितंबर 2026 को बिहार गृह विभाग द्वारा जारी अधिसूचना में स्पष्ट रूप से कहा गया है कि केंद्र सरकार के कर्मचारियों के खिलाफ कार्रवाई करने के लिए सीबीआई को राज्य सरकार की अनुमति की आवश्यकता नहीं होगी।",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+            },
+            {
+                "title": "वीटीयू ने इंजीनियरिंग कॉलेजों के प्राचार्यों को छात्रों के साथ बातचीत और शिकायत निवारण के लिए समय निर्धारित करने का निर्देश दिया",
+                "description": "कॉलेजों को एक शिकायत लॉग बुक बनाए रखने के लिए कहा गया है। लॉग बुक में, प्राचार्य को तिथि, शिकायत/प्रश्न का संक्षिप्त विवरण, और जहां भी लागू हो, की गई कार्रवाई या प्रदान किया गया समाधान दर्ज करना होगा।",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece"
+            },
+            {
+                "title": "ट्रक हादसे के बाद मेघालय में अवैध कोयला व्यापार पर ध्यान केंद्रित",
+                "description": "उच्च न्यायालय द्वारा गठित एक पैनल ने इस बात की विस्तृत जांच की मांग की है कि ट्रक में ले जाया जा रहा कोयला कानूनी रूप से नीलाम किया गया था या अवैध रूप से खनन किया गया था।",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece"
+            }
+        ]
     }
 ]
