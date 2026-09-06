@@ -378,5 +378,100 @@
         ],
         "source": "Google News (India Economy & Markets)",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M3SCUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_026",
+        "date": "2026-09-06",
+        "question": "अंडमान और निकोबार द्वीप समूह के उपराज्यपाल के रूप में नियुक्त होने पर भाजपा सांसद दिनेश शर्मा ने किसका स्थान लिया?",
+        "options": [
+            "एडमिरल डी के जोशी (सेवानिवृत्त)",
+            "मनोज सिन्हा",
+            "आर के माथुर",
+            "देवेंद्र कुमार जोशी"
+        ],
+        "answer": "एडमिरल डी के जोशी (सेवानिवृत्त)",
+        "explanation": "दिनेश शर्मा ने एडमिरल डी के जोशी (सेवानिवृत्त) का स्थान लिया, जिन्होंने 8 अक्टूबर 2017 से अंडमान और निकोबार द्वीप समूह के उपराज्यपाल के रूप में कार्य किया था।",
+        "tags": [
+            "Appointments",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece"
+    },
+    {
+        "id": "ca_2026_09_027",
+        "date": "2026-09-06",
+        "question": "पीएम श्री स्कूलों की तर्ज पर प्रत्येक जिले में कितने 'सीएम श्री' स्कूल खोलने की घोषणा की गई है?",
+        "options": [
+            "एक",
+            "दो",
+            "तीन",
+            "चार"
+        ],
+        "answer": "दो",
+        "explanation": "यह घोषणा की गई कि प्रत्येक जिले में दो 'सीएम श्री' स्कूल खोले जाएंगे, जो पीएम श्री स्कूलों की तर्ज पर विकसित किए जाएंगे।",
+        "tags": [
+            "Education",
+            "State News"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece"
+    },
+    {
+        "id": "ca_2026_09_028",
+        "date": "2026-09-06",
+        "question": "बिहार गृह विभाग द्वारा जारी अधिसूचना के अनुसार, सीबीआई (CBI) को किस श्रेणी के कर्मचारियों के खिलाफ जांच के लिए राज्य सरकार की अनुमति की आवश्यकता नहीं है?",
+        "options": [
+            "केंद्र सरकार के कर्मचारी",
+            "राज्य सरकार के कर्मचारी",
+            "पंचायत स्तर के कार्यकर्ता",
+            "राज्य के न्यायिक अधिकारी"
+        ],
+        "answer": "केंद्र सरकार के कर्मचारी",
+        "explanation": "बिहार गृह विभाग द्वारा जारी अधिसूचना में निर्दिष्ट किया गया है कि सीबीआई को केंद्र सरकार के कर्मचारियों के खिलाफ कार्रवाई करने के लिए राज्य सरकार की अनुमति की आवश्यकता नहीं होगी।",
+        "tags": [
+            "Governance",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+    },
+    {
+        "id": "ca_2026_09_029",
+        "date": "2026-09-06",
+        "question": "वीटीयू (VTU) द्वारा इंजीनियरिंग कॉलेजों को तारीखों, शिकायतों के संक्षिप्त विवरण और की गई कार्रवाई को दर्ज करने के लिए कौन सा रिकॉर्ड बनाए रखने का निर्देश दिया गया है?",
+        "options": [
+            "शिकायत लॉग बुक",
+            "छात्र कल्याण पोर्टल",
+            "प्राचार्य आदेश पुस्तिका",
+            "इंटरैक्शन समरी डायरी"
+        ],
+        "answer": "शिकायत लॉग बुक",
+        "explanation": "वीटीयू ने कॉलेजों को शिकायत लॉग बुक बनाए रखने का निर्देश दिया है, जहां प्राचार्यों को तारीख, शिकायत/प्रश्न का विवरण और प्रदान किया गया समाधान दर्ज करना अनिवार्य है।",
+        "tags": [
+            "Education",
+            "Governance"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece"
+    },
+    {
+        "id": "ca_2026_09_030",
+        "date": "2026-09-06",
+        "question": "मेघालय में ट्रक दुर्घटना में ले जाए जा रहे कोयले की कानूनी रूप से नीलामी की गई थी या अवैध रूप से खनन किया गया था, इसकी विस्तृत जांच की मांग किसने की?",
+        "options": [
+            "उच्च न्यायालय द्वारा गठित एक समिति",
+            "राष्ट्रीय हरित अधिकरण",
+            "केंद्रीय अन्वेषण ब्यूरो",
+            "कोयला मंत्रालय"
+        ],
+        "answer": "उच्च न्यायालय द्वारा गठित एक समिति",
+        "explanation": "मेघालय में एक ट्रक दुर्घटना के बाद, उच्च न्यायालय द्वारा गठित एक समिति ने इस बात की विस्तृत जांच की मांग की कि कोयले की कानूनी रूप से नीलामी की गई थी या अवैध रूप से खनन किया गया था।",
+        "tags": [
+            "Legal",
+            "Environment"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece"
     }
 ]
