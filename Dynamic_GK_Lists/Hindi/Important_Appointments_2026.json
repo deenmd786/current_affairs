@@ -1,80 +1,80 @@
 [
     {
-        "designation": "भारत के मुख्य न्यायाधीश (CJI)",
-        "name": "न्यायमूर्ति सूर्य कांत",
+        "designation": "भारत के मुख्य न्यायाधीश (सीजेआई)",
+        "name": "जस्टिस सूर्य कांत",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "चीफ ऑफ डिफेंस स्टाफ (CDS)",
+        "designation": "चीफ ऑफ डिफेंस स्टाफ (सीडीएस)",
         "name": "जनरल अनिल चौहान",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
         "designation": "थल सेनाध्यक्ष",
         "name": "जनरल उपेन्द्र द्विवेदी",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
         "designation": "नौसेनाध्यक्ष",
         "name": "एडमिरल दिनेश कुमार त्रिपाठी",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
         "designation": "वायु सेनाध्यक्ष",
         "name": "एयर चीफ मार्शल अमर प्रीत सिंह",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "गवर्नर, भारतीय रिज़र्व बैंक (RBI)",
+        "designation": "गवर्नर, भारतीय रिज़र्व बैंक (आरबीआई)",
         "name": "संजय मल्होत्रा",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "मुख्य चुनाव आयुक्त (CEC)",
+        "designation": "मुख्य चुनाव आयुक्त (सीईसी)",
         "name": "ज्ञानेश कुमार",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "अध्यक्ष, इसरो (ISRO)",
+        "designation": "अध्यक्ष, इसरो",
         "name": "डॉ. वी. नारायणन",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "अध्यक्ष, डीआरडीओ (DRDO)",
+        "designation": "अध्यक्ष, डीआरडीओ",
         "name": "डॉ. समीर वी. कामत",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "अध्यक्ष, सेबी (SEBI)",
-        "name": "टी. वी. सोमनाथा",
+        "designation": "अध्यक्ष, सेबी",
+        "name": "माधवी पुरी बुच",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "अध्यक्ष, संघ लोक सेवा आयोग (UPSC)",
+        "designation": "अध्यक्ष, यूपीएससी",
         "name": "प्रीति सूदन",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "सीईओ, नीति आयोग (NITI Aayog)",
+        "designation": "सीईओ, नीति आयोग",
         "name": "बी.वी.आर. सुब्रह्मण्यम",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     },
     {
-        "designation": "राष्ट्रीय सुरक्षा सलाहकार (NSA)",
+        "designation": "राष्ट्रीय सुरक्षा सलाहकार (एनएसए)",
         "name": "अजीत डोभाल",
         "status": "सक्रिय",
-        "last_updated": "2026-09-04"
+        "last_updated": "2026-09-07"
     }
 ]
