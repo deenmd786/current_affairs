@@ -663,5 +663,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF_QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0HTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T1_lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF_RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_041",
+        "date": "2026-09-07",
+        "question": "भारतीय रिजर्व बैंक (RBI) द्वारा अप्रैल-जून तिमाही के लिए जीडीपी विकास दर का क्या अनुमान लगाया गया था, जिसे भारत की पहली तिमाही (Q1) की वास्तविक 7.8% जीडीपी विकास दर ने पार कर दिया?",
+        "options": [
+            "6.5%",
+            "7%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7%",
+        "explanation": "अप्रैल-जून तिमाही में भारत की पहली तिमाही (Q1) की जीडीपी विकास दर 7.8% रही, जो आरबीआई के 7% के अनुमान से अधिक है।",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_042",
+        "date": "2026-09-07",
+        "question": "समाचार रिपोर्ट के अनुसार, आरबीआई की फॉरेक्स स्वैप सुविधा के तहत विदेशी मुद्रा अनिवासी (बैंक) [FCNR (B)] जमा के माध्यम से कितनी राशि जुटाई गई थी?",
+        "options": [
+            "127 बिलियन डॉलर से अधिक",
+            "136 बिलियन डॉलर से अधिक",
+            "ठीक 100 बिलियन डॉलर",
+            "50 बिलियन डॉलर से कम"
+        ],
+        "answer": "127 बिलियन डॉलर से अधिक",
+        "explanation": "आरबीआई की विशेष फॉरेक्स स्वैप सुविधा ने कुल 136 बिलियन डॉलर से अधिक आकर्षित किए, जिसमें से विशेष रूप से FCNR (B) जमा के माध्यम से 127 बिलियन डॉलर से अधिक की राशि जुटाई गई थी।",
+        "tags": [
+            "Banking",
+            "RBI"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece"
+    },
+    {
+        "id": "ca_2026_09_043",
+        "date": "2026-09-07",
+        "question": "किस भारतीय सौर मिशन ने प्रमुख सौर ज्वालाओं (solar flares) से पहले शुरुआती चेतावनी के संकेत पकड़े, जिससे अंतरिक्ष मौसम की तैयारियों को आगे बढ़ाने में मदद मिली?",
+        "options": [
+            "चंद्रयान-3",
+            "गगनयान-1",
+            "आदित्य-L1",
+            "एस्ट्रोसैट"
+        ],
+        "answer": "आदित्य-L1",
+        "explanation": "भारत के आदित्य-L1 अंतरिक्ष यान ने प्रमुख सौर ज्वालाओं से पहले शुरुआती चेतावनी के संकेतों का सफलतापूर्वक पता लगाया, जिससे अंतरिक्ष मौसम पूर्वानुमान क्षमताओं में सुधार हुआ।",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_044",
+        "date": "2026-09-07",
+        "question": "हाल ही में कौन से दो बाघ अभयारण्य (टाइगर रिजर्व) भारत में गिद्धों के पुनः परिचय के लिए सबसे सफल स्थलों के रूप में उभरे हैं?",
+        "options": [
+            "जिम कॉर्बेट और राजाजी टाइगर रिजर्व",
+            "मेलघाट और पेंच टाइगर रिजर्व",
+            "बांदीपुर और नागरहोले टाइगर रिजर्व",
+            "रणथंभौर और सरिस्का टाइगर रिजर्व"
+        ],
+        "answer": "मेलघाट और पेंच टाइगर रिजर्व",
+        "explanation": "मेलघाट और पेंच टाइगर रिजर्व को देश में गिद्धों के पुनः परिचय के प्रयासों के लिए सबसे सफल स्थलों के रूप में मान्यता दी गई है।",
+        "tags": [
+            "Environment",
+            "Conservation"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJUSzk2dE00ZjdqRzNxbzh2SEJCdVZYWE9Dc3U0QTl1RXhBSi1RNzZ6cEJDdDU0ckVCcTBuLTZnNms3Q3RWTXhUc0dDd2s2Ymlwamh4cFFIdW9RS2dNYjNpV2ZWUWtfYjRKbFYycVRSTzNDRENCb3k2SXU0MkJWWUFCNi1XWWk5NlBwNVF5TDQyVWxkTzJZT2d3am5BWEh6R0JDUnZIZjlxOHRvM05yeDktbw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_045",
+        "date": "2026-09-07",
+        "question": "केंद्र सरकार ने हाल ही में कितने उच्च न्यायालयों में मुख्य न्यायाधीशों की नियुक्तियों को अधिसूचित किया है?",
+        "options": [
+            "पांच",
+            "छह",
+            "आठ",
+            "दस"
+        ],
+        "answer": "आठ",
+        "explanation": "केंद्र ने बॉम्बे उच्च न्यायालय में न्यायमूर्ति महेश चंद्र त्रिपाठी की नियुक्ति सहित आठ उच्च न्यायालयों में मुख्य न्यायाधीशों की नियुक्तियों को अधिसूचित किया।",
+        "tags": [
+            "Polity",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF9QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0HTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T19lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF9RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
     }
 ]
