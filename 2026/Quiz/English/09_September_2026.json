@@ -663,5 +663,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF9QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0hTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T19lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF9RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_041",
+        "date": "2026-09-07",
+        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which was exceeded by India's actual Q1 GDP growth rate of 7.8%?",
+        "options": [
+            "6.5%",
+            "7%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7%",
+        "explanation": "India’s Q1 GDP growth reached 7.8% for the April-June quarter, exceeding the RBI's estimate of 7%.",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_042",
+        "date": "2026-09-07",
+        "question": "According to the news report, how much money was mobilised via Foreign Currency Non-Resident (Bank) [FCNR (B)] deposits under the RBI's forex swap facility?",
+        "options": [
+            "More than $127 billion",
+            "Over $136 billion",
+            "Exactly $100 billion",
+            "Less than $50 billion"
+        ],
+        "answer": "More than $127 billion",
+        "explanation": "The RBI's special forex swap facility drew over $136 billion in total, with more than $127 billion mobilised specifically through FCNR (B) deposits.",
+        "tags": [
+            "Banking",
+            "RBI"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece"
+    },
+    {
+        "id": "ca_2026_09_043",
+        "date": "2026-09-07",
+        "question": "Which Indian solar mission caught early warning signs before major solar flares, helping advance space weather preparedness?",
+        "options": [
+            "Chandrayaan-3",
+            "Gaganyaan-1",
+            "Aditya-L1",
+            "AstroSat"
+        ],
+        "answer": "Aditya-L1",
+        "explanation": "India's Aditya-L1 spacecraft successfully detected early warning signs before major solar flares, enhancing space weather forecasting capabilities.",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_044",
+        "date": "2026-09-07",
+        "question": "Which two tiger reserves recently emerged as the most successful sites for vulture reintroduction in India?",
+        "options": [
+            "Jim Corbett and Rajaji Tiger Reserves",
+            "Melghat and Pench Tiger Reserves",
+            "Bandipur and Nagarhole Tiger Reserves",
+            "Ranthambore and Sariska Tiger Reserves"
+        ],
+        "answer": "Melghat and Pench Tiger Reserves",
+        "explanation": "Melghat and Pench Tiger Reserves have been recognized as the most successful locations for vulture reintroduction efforts in the country.",
+        "tags": [
+            "Environment",
+            "Conservation"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJUSzk2dE00ZjdqRzNxbzh2SEJCdVZYWE9Dc3U0QTl1RXhBSi1RNzZ6cEJDdDU0ckVCcTBuLTZnNms3Q3RWTXhUc0dDd2s2Ymlwamh4cFFIdW9RS2dNYjNpV2ZWUWtfYjRKbFYycVRSTzNDRENCb3k2SXU0MkJWWUFCNi1XWWk5NlBwNVF5TDQyVWxkTzJZT2d3am5BWEh6R0JDUnZIZjlxOHRvM05yeDktbw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_045",
+        "date": "2026-09-07",
+        "question": "The Central Government recently notified the appointments of Chief Justices across how many High Courts?",
+        "options": [
+            "Five",
+            "Six",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Eight",
+        "explanation": "The Centre notified appointments of Chief Justices across eight High Courts, including Justice Mahesh Chandra Tripathi to the Bombay High Court.",
+        "tags": [
+            "Polity",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF9QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0hTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T19lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF9RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
     }
 ]
