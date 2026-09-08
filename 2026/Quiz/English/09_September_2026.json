@@ -191,111 +191,54 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-03",
-        "question": "What upgraded rating was assigned to India by the Japanese credit rating agency JCR?",
+        "date": "2026-09-05",
+        "question": "How many government Industrial Training Institutes (ITIs) are currently located across Karnataka, according to the news item?",
         "options": [
-            "BBB+",
-            "A-",
-            "A+",
-            "AA-"
+            "180",
+            "270",
+            "350",
+            "420"
         ],
-        "answer": "A-",
-        "explanation": "Japanese credit rating agency JCR upgraded India's credit rating to A-, which will help the country borrow at lower interest costs in the future.",
+        "answer": "270",
+        "explanation": "According to Sharan Prakash Patil, there are 270 government ITIs across Karnataka available for adoption by private industries.",
         "tags": [
-            "Economy",
-            "Credit Rating"
+            "Government Schemes",
+            "State News"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/active-collaboration-between-public-private-sectors-a-must-for-the-success-of-pm-setu-scheme-mb-patil/article71429506.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-03",
-        "question": "To what figure did India's Current Account Deficit (CAD) widen in Q1FY27?",
+        "date": "2026-09-05",
+        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which India's Q1 GDP actual growth rate of 7.8% surpassed?",
         "options": [
-            "$3.1 billion",
-            "$4.2 billion",
-            "$5.5 billion",
-            "$6.0 billion"
+            "6.5%",
+            "7%",
+            "7.2%",
+            "7.5%"
         ],
-        "answer": "$4.2 billion",
-        "explanation": "India's CAD widened to $4.2 billion in Q1FY27 as merchandise trade deficits and portfolio outflows offset gains from services and FDI.",
+        "answer": "7%",
+        "explanation": "India's Q1 GDP reached 7.8%, exceeding the RBI's estimate of 7% for the April-June quarter.",
         "tags": [
             "Economy",
-            "CAD"
+            "GDP"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/indias-cad-widens-to-42-billion-in-q1fy27/article71415332.ece"
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-03",
-        "question": "What was India's GDP growth rate in Q1, as driven by manufacturing and services sector performance?",
+        "date": "2026-09-05",
+        "question": "Which Japanese credit rating agency upgraded India's sovereign credit rating to 'A-'?",
         "options": [
-            "6.8%",
-            "7.2%",
-            "7.8%",
-            "8.2%"
+            "JCR",
+            "R&I",
+            "S&P Tokyo",
+            "Fitch Japan"
         ],
-        "answer": "7.8%",
-        "explanation": "India's GDP grew at 7.8% in Q1, which was slower than the previous quarter but quicker than the same period last year.",
-        "tags": [
-            "Economy",
-            "GDP Growth"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
-    },
-    {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-03",
-        "question": "Which edition of the BRICS Summit in New Delhi is UN Chief António Guterres set to participate in?",
-        "options": [
-            "15th BRICS Summit",
-            "16th BRICS Summit",
-            "17th BRICS Summit",
-            "18th BRICS Summit"
-        ],
-        "answer": "18th BRICS Summit",
-        "explanation": "UN Chief Antonio Guterres is participating in the 18th BRICS Summit hosted in New Delhi, focusing on innovation and digital cooperation.",
-        "tags": [
-            "International Events",
-            "BRICS"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjYtdWMtWEtSeTVjY05OUTFrYWI0Z25TdVdJWDROLVBVNGw0WGRSR01ycmNOeVJ3azg1a3hqempQdmE4cHMyQ0l5MngxcU5PQzRYZFlHbnlnVG9uUjhnbHJ6TkluZ2ZnRWdhWHZWemtMVFNuM25VSTBobkQ3NnllUi1TVUdiWWFjbWNzNHJOcVhqSmRBS0o2bWZ5aWkyU2ZlaUE?oc=5"
-    },
-    {
-        "id": "ca_2026_09_020",
-        "date": "2026-09-03",
-        "question": "Which Constitutional Article did the Supreme Court invoke to quash FIRs against NEET-UG protesters?",
-        "options": [
-            "Article 32",
-            "Article 136",
-            "Article 142",
-            "Article 226"
-        ],
-        "answer": "Article 142",
-        "explanation": "The Supreme Court invoked Article 142 to quash FIRs filed against Gen Z NEET-UG protesters across five states.",
-        "tags": [
-            "Indian Polity",
-            "Supreme Court"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUc4THF5OGpZaXZ6REZQWVlHbnZoTTQtMjRvaHpTX3NNNjBTbUx6VEd6T2VyQjJOUkRSUzctdy1KZUp6UzRqY2hnejM4RFRtbENGOFJJcnh3UkhVQ3hnTUE4ZlFxMVJhWm5PMzhLSEhkSnBoYldqcWlVUkItOElTVGhZOHRJUGFBNWdRZmpFZG9SUkpTNEJDSmo5MGNFS2JwMlNOTXRQOUhGLUI1U1c0cDhsbHJVN0hicWFWY2ZkYmp1bkNfWXhmMGVR0gHQAUFVX3lxTE5SVlpfeG95dzBHekh1X3M0VTZRWmc2U050ZVI2WG0zOHRSb2tqWTBTLUg4NGx1Z000M3JhTXpfXzRuWG5xVk9ac2s4VThnTmo3M2pyQkFHSlVNMjVhV0V5aThXY1VGekdzdjY1anN3dUdER3VxaGpSaDQ0d0xId0NVNmdvX2d0S2l2LTNKU3FDeDVQR3NDVlZXR0VubTBpd20wOVZyanA3NWdBQ2lGQ2dfMmh3cllOaG1wU2poTVJGek9aTTdIUXEwcko2ZV9ZNGo?oc=5"
-    },
-    {
-        "id": "ca_2026_09_021",
-        "date": "2026-09-03",
-        "question": "According to the recent credit rating upgrade by Japanese agency JCR, what is the direct benefit of India's rating upgrade to A-?",
-        "options": [
-            "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
-            "India will receive direct financial grants from the Japanese government.",
-            "India's foreign direct investment limits will automatically double.",
-            "India will completely eliminate its external interest payments."
-        ],
-        "answer": "India can borrow at lower costs in the future, lowering the exchequer's interest burden.",
-        "explanation": "A higher rating from JCR means India can borrow at lower costs in the future. This results in a reduced interest burden on the exchequer.",
+        "answer": "JCR",
+        "explanation": "Japanese credit rating agency JCR upgraded India to A-, enabling future borrowing at lower costs.",
         "tags": [
             "Economy",
             "Credit Ratings"
@@ -304,79 +247,611 @@
         "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
     },
     {
-        "id": "ca_2026_09_022",
-        "date": "2026-09-03",
-        "question": "Which key sectors drove India's stronger Q1 GDP performance of 7.8% compared to the previous year?",
+        "id": "ca_2026_09_019",
+        "date": "2026-09-05",
+        "question": "From which timeline does India propose to make battery storage mandatory for new solar and wind renewable energy projects?",
         "options": [
-            "Agriculture and heavy mining sectors exclusively",
-            "Manufacturing sector and broad services such as utilities, financial services, and IT",
-            "E-commerce and pharmaceutical export sectors only",
-            "Tourism and domestic aviation transport sectors"
+            "January 2026",
+            "July 2026",
+            "July 2027",
+            "December 2028"
         ],
-        "answer": "Manufacturing sector and broad services such as utilities, financial services, and IT",
-        "explanation": "The stronger performance in Q1 was driven by the manufacturing sector along with services categories including utilities, financial services, real estate, IT, public administration, and defence.",
+        "answer": "July 2027",
+        "explanation": "India proposes mandatory battery storage implementation for new renewable energy projects starting from July 2027.",
+        "tags": [
+            "Renewable Energy",
+            "Policy"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-05",
+        "question": "Which Indian space mission detected early warning signs prior to solar flares on the Sun?",
+        "options": [
+            "Chandrayaan-3",
+            "Aditya-L1",
+            "AstroSat",
+            "Gaganyaan"
+        ],
+        "answer": "Aditya-L1",
+        "explanation": "India's solar observatory mission Aditya-L1 successfully detected early warning signs on the Sun prior to solar flares.",
+        "tags": [
+            "Science & Technology",
+            "Space Missions"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlzNjdxbnlRN1pibDZxOGNyOUFyNUw1bHc3eWFUQUwxTmtEVk4wRkFpaDdWZUtCR0NMc1MtakxZc1pHWE1oaFI1TTAzNlkyejVsZUVPUzYzUlZ6eHZEcEZ0TFpLdmdkaThaOFV3VFVGU25XSE9uT21tdVA1S2NuU2k0dV9sbjBLblRnN3dXS2kxODNFbjV2QXhNZFZfS0kxR2ZuMmpxSHZMTGRIM1FFWThvdHYycnhZdGc?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-05",
+        "question": "According to recent reports, ISRO successfully launched India's first imaging satellite into which type of orbit?",
+        "options": [
+            "Low Earth Orbit",
+            "Geo-orbit",
+            "Medium Earth Orbit",
+            "Polar Orbit"
+        ],
+        "answer": "Geo-orbit",
+        "explanation": "ISRO launched India's first geo-orbit imaging satellite into orbit, which Prime Minister Narendra Modi hailed as a reflection of excellence.",
+        "tags": [
+            "Science & Technology",
+            "ISRO"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHlPMUEzdlpnS2hRcmRTXzlQWm5aNUx4LWpWaFZFa2NJTlRtNkRNU2RVZHIyNTBUY1haM1l2aXd1LVJ4VE80ZXFxbkV0bkdfVUpVOTlFMkNFdEYtSFVrWEIxZEloVGQtcGFUTVZyT2s5Q1N2d21MN3U0YkVGNF9ib1FXNXJrYUt1cDRNX2Q4NHd4YnJERzU1OTln?oc=5"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-05",
+        "question": "To what age have seven Indian states agreed to raise the retirement age of judicial officers in the district judiciary?",
+        "options": [
+            "58 years",
+            "60 years",
+            "62 years",
+            "65 years"
+        ],
+        "answer": "62 years",
+        "explanation": "Seven states agreed to raise the retirement age of judicial officers to 62 years, with the Supreme Court encouraging other States and Union Territories to do the same.",
+        "tags": [
+            "Polity & Governance",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdldNVDFraHJVYWpKSEM0V0V2aUtwM08wQlptR21CLXJsLTZkUlE3T0lVcTBQSnhGMW5nS3pSejg0YkhtZ2lsdTZVTzc4b0RQMERVd01VcFVvSnJ3NUJaYmo0WDhTNVpMLVR0eEQ0ak9WWmFHWTBxQjVianVhakRkZWNZNjVxNko4N190cFdFT2NDdU9GZUxseEd1VkdmdVBmZ1pkU1pVdGlwZmhvWHFuczAyM011MHJKbzlHNDE5OGhHTlZzeDZwLTloWW9TMm1jZVFKb2FiS0JnU2lfUGdvUVMyUdIB8AFBVV95cUxQWjQ0clJDRE9hNFBnN1FkMThYb2UyVUVub3ZKY3U4WTVWYVppNEtYbWdIanhuR3B1Ri15Y0ZDLTJYN0VnTjlFZTMwSHFMLUJyaXVvNkptQkYydEloeGJIVjdzMmVNSzdDMjZuZTZxQ2RIaGpzMExMQzVTZ3A3UHZfSGtYdWdtcGJjdEFyQkNLN2pKRWt2YjRDQ0RZQUtjZHhOckpoU0VHdFFHQTA2MzRJMy1XU3NMYWJoSjVqWGtsQ1BDMlhXS1ZIdGVIZEVDUEp3SU5JNTBOTnNSZmJJLTBLbFZ6ZUwzNjA1ZnRwU1ZtWkY?oc=5"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-05",
+        "question": "What was India's reported Q1 GDP growth rate for the April-June quarter, which surpassed the RBI's estimate of 7%?",
+        "options": [
+            "7.2%",
+            "7.5%",
+            "7.8%",
+            "8.1%"
+        ],
+        "answer": "7.8%",
+        "explanation": "India's GDP grew at 7.8% for the April-June quarter, beating the Reserve Bank of India's estimate of 7%.",
         "tags": [
             "Economy",
             "GDP Growth"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/gdp-growth-comes-in-at-78-in-q1-slower-than-last-quarter-but-quicker-than-last-year/article71410830.ece"
-    },
-    {
-        "id": "ca_2026_09_023",
-        "date": "2026-09-03",
-        "question": "Who among the following UN officials is set to participate in the BRICS Summit hosted in India?",
-        "options": [
-            "Ban Ki-moon",
-            "António Guterres",
-            "Kofi Annan",
-            "Tedros Adhanom"
-        ],
-        "answer": "António Guterres",
-        "explanation": "UN Secretary General António Guterres is scheduled to participate in the BRICS Summit held in India.",
-        "tags": [
-            "International Relations",
-            "BRICS"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYUZ2OHljSklvT1NxVHVhUW5rdXg3dDJCZW9OcGk3R0ZUeTVRajRadUJ4YnVFbkhnUER4QlpFV3ZvdmIwNFFBQWNYUURhaGRRYk5NYXc2RlBaTVp4ODhtdHhzSk1LMW5zMFVzRDh0bENFME9uQS1vNFZzV3NnYVkwbkhwdTB1NXFSVFdBOTVEbnlpQTg3dmd3aXRXTUYyOGNIcTBEMFdOOTBMd29weVc2ZTY5NzNURTFVM2ttaFg4aGRhZkNkd2NjZU40b0ZnVVpIalHSAdgBQVVfeXFMTzhSN2hyUHV4cEhNWDJIdi1TWUNHNmRhTnZuWlFEZW5zRm9MVDNOZ1czS255NTJ1QlM3UFVQemx6MFVXT0ZSdUlUVUYtS0RTUUh1ejdsSzc1VzltanNUODRBLU51NVBOZkp4QWt2bUxZMWxVVERMVDFKZ01zamJkUGJPUEQwT2lzU05yMWllTjliWmVSNU5GNlVtOFFtRnllODQ3TTFRSktHQmotRGkwVDJVenF2OGpUcmdJdlZ5VVZOZnlKRHpaWUY2cFZyVjdLS19HWlcyNGJy?oc=5"
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
     },
     {
         "id": "ca_2026_09_024",
-        "date": "2026-09-03",
-        "question": "Which constitutional provision did the Supreme Court invoke to quash FIRs against NEET student protesters across the country?",
+        "date": "2026-09-05",
+        "question": "Which Japanese credit rating agency recently upgraded India's credit rating to 'A-'?",
         "options": [
-            "Article 32",
-            "Article 142",
-            "Article 226",
-            "Article 370"
+            "Fitch Ratings",
+            "JCR",
+            "Moody's",
+            "S&P Global"
         ],
-        "answer": "Article 142",
-        "explanation": "The Supreme Court utilized Article 142 of the Indian Constitution to quash FIRs registered against student protesters across the country.",
+        "answer": "JCR",
+        "explanation": "Japanese credit rating agency JCR upgraded India to 'A-', which will allow India to borrow at lower costs in the future.",
+        "tags": [
+            "Economy",
+            "Credit Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-05",
+        "question": "From which month and year has the Central Electricity Authority (CEA) proposed mandatory battery storage for new solar and wind energy projects?",
+        "options": [
+            "January 2026",
+            "July 2026",
+            "January 2027",
+            "July 2027"
+        ],
+        "answer": "July 2027",
+        "explanation": "The CEA has proposed mandatory battery storage for new solar and wind renewable projects starting from July 2027.",
+        "tags": [
+            "Environment & Energy",
+            "Infrastructure"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_026",
+        "date": "2026-09-06",
+        "question": "Whom did BJP MP Dinesh Sharma succeed upon his appointment as the Lieutenant Governor of the Andaman and Nicobar Islands?",
+        "options": [
+            "Admiral D K Joshi (retd)",
+            "Manoj Sinha",
+            "R K Mathur",
+            "Devendra Kumar Joshi"
+        ],
+        "answer": "Admiral D K Joshi (retd)",
+        "explanation": "Dinesh Sharma succeeded Admiral D K Joshi (retd), who had served as the Lieutenant Governor of the Andaman and Nicobar Islands since October 8, 2017.",
+        "tags": [
+            "Appointments",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece"
+    },
+    {
+        "id": "ca_2026_09_027",
+        "date": "2026-09-06",
+        "question": "How many 'CM Shri' schools, modelled after PM Shri schools, are announced to be opened in each district?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two",
+        "explanation": "It was announced that two 'CM Shri' schools, which are modelled after PM Shri schools, will be opened in each district.",
+        "tags": [
+            "Education",
+            "State News"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece"
+    },
+    {
+        "id": "ca_2026_09_028",
+        "date": "2026-09-06",
+        "question": "According to the notification issued by the Bihar Home Department, the CBI does NOT require state permission to probe against which category of employees?",
+        "options": [
+            "Central Government employees",
+            "State Government employees",
+            "Panchayat level workers",
+            "State Judicial officers"
+        ],
+        "answer": "Central Government employees",
+        "explanation": "The notification issued by the Bihar Home Department specifies that the CBI will not require State government permission to take action against Central Government employees.",
+        "tags": [
+            "Governance",
+            "Polity"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+    },
+    {
+        "id": "ca_2026_09_029",
+        "date": "2026-09-06",
+        "question": "What record are engineering colleges instructed to maintain by VTU to document dates, brief nature of grievances, and action taken?",
+        "options": [
+            "Grievance log book",
+            "Student welfare portal",
+            "Principal's order book",
+            "Interaction summary diary"
+        ],
+        "answer": "Grievance log book",
+        "explanation": "VTU instructed colleges to maintain a grievance log book where principals must record the date, nature of the query, and any resolution provided.",
+        "tags": [
+            "Education",
+            "Governance"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece"
+    },
+    {
+        "id": "ca_2026_09_030",
+        "date": "2026-09-06",
+        "question": "Who sought a detailed inquiry into whether the coal transported in the truck accident in Meghalaya was legally auctioned or illegally mined?",
+        "options": [
+            "A High Court-constituted panel",
+            "The National Green Tribunal",
+            "The Central Bureau of Investigation",
+            "The Ministry of Coal"
+        ],
+        "answer": "A High Court-constituted panel",
+        "explanation": "Following a truck accident in Meghalaya, a High Court-constituted panel sought a detailed inquiry into whether the coal was legally auctioned or illegally mined.",
+        "tags": [
+            "Legal",
+            "Environment"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece"
+    },
+    {
+        "id": "ca_2026_09_031",
+        "date": "2026-09-06",
+        "question": "What is the GDP growth rate of India highlighted by Prime Minister Narendra Modi as reflecting the country's underlying strength and potential?",
+        "options": [
+            "6.8%",
+            "7.2%",
+            "7.8%",
+            "8.1%"
+        ],
+        "answer": "7.8%",
+        "explanation": "Prime Minister Narendra Modi stated that India's 7.8% GDP growth reflects the underlying strength and potential of the nation's economy.",
+        "tags": [
+            "Economy",
+            "UPSC"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGRuVnB6Z0tkTGl2WjFSOWdkalY3MlNHd1o1QXBnWmNvLXVpXzFKX0E1TkgwMmJsRHlkeVJoOWtyWHNuX3FiQzZVVUpBNnJCRUdsRzh1Rk9KWmdKSy11enZFd0Y5c3JNYjYtaXQ2aVpmV1pSZWk5X3p6Y1BJRjNPdWVUeFdXN09NU0VDWEdzREYwZWY0OFFMY2Ezai0xVWw4LUZVNGU4em9VVjlqNWE0cHdvODl6ZUo5SVQ0WGkyc9IBxAFBVV95cUxQZ0dueDRBeDNtbFBhajZJdEg4M1dyLVU2Zzh5Z044d0xYNXhzU1VjMXI5ejk0WUR1QVE5QlRieVZBbHBmNnRXVmhRakZjRlViVHJpbDBuWm0tcFV3TDRlX045V0ZXLUpDZGVfY1lEaTROMkxMeDJlT25GeUFaUTFXcDk3aEFJczlTQm9fRmpUOE1OQTVLdFhNdjJVc2RjUFFQanB2a1JlZk9YWHRqdGJPNzVEd3JjQnFlanl6WFVZUU5zajFl?oc=5"
+    },
+    {
+        "id": "ca_2026_09_032",
+        "date": "2026-09-06",
+        "question": "In which Five-Year Plan has China included the Brahmaputra mega dam project for renewable energy?",
+        "options": [
+            "13th Five-Year Plan",
+            "14th Five-Year Plan",
+            "15th Five-Year Plan",
+            "16th Five-Year Plan"
+        ],
+        "answer": "15th Five-Year Plan",
+        "explanation": "China has included the Brahmaputra mega dam, dubbed the 'project of the century', in its 15th Five-Year Plan for renewable energy.",
+        "tags": [
+            "International Relations",
+            "UPSC"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece"
+    },
+    {
+        "id": "ca_2026_09_033",
+        "date": "2026-09-06",
+        "question": "Which Indian space mission successfully caught early warning signs before major solar flares, enhancing space weather preparedness?",
+        "options": [
+            "Chandrayaan-3",
+            "Aditya-L1",
+            "AstroSat",
+            "Gaganyaan"
+        ],
+        "answer": "Aditya-L1",
+        "explanation": "India's solar mission Aditya-L1 captured early warning signs before major solar flares, boosting space weather preparedness for power grids and satellite networks.",
+        "tags": [
+            "Science & Technology",
+            "Banking"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmZKdW1qQkVSRi0wbXhOWWJTUGNPeWctcUdJU1pOMDJVZTNBMGh1TVJhVW9SOXpUaHN6V1JLN3ExNXgxRjJYV1JwNzFkYktOVDROQUgtY1dudDdqSHVGSzYzUF9TUnpaQjg4enFuZHgyWmtHUGE1cE5NTkxocGpKYmNxYlNqMzdEaFk4NE9sc1NmNUVaOWFIbVJ0YUpyOWlzRmczNjBlc1pMSmpjZVd2NTk4LTBWeHdK?oc=5"
+    },
+    {
+        "id": "ca_2026_09_034",
+        "date": "2026-09-06",
+        "question": "The Centre recently cleared the appointment of Justice Mahesh Chandra Tripathi as the Chief Justice of which High Court?",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Allahabad High Court",
+            "Madras High Court"
+        ],
+        "answer": "Bombay High Court",
+        "explanation": "The Centre cleared the appointment of Justice Mahesh Chandra Tripathi as the Chief Justice of the Bombay High Court as part of new appointments across eight High Courts.",
+        "tags": [
+            "Polity",
+            "SSC"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVZMVklFUUJiWDhGQ3MwaEtkRldveUNWMlFWZDg2TExfTEJJcTZrSlZNSTdBU3kyYzh6amFBeGJNNm9fUGZKMWQxakV4ZXlkQ3RMQVNISmlveTRLenY2dGNLUVpHSjFYeFJ1TWU5cWVUSThZYnZJTlMtVmZSa2prUXNWa2dYVnQwd05JZ25kYkh2b2NqVTJ1RlB4RW1WUW90RXNv0gGrAUFVX3lxTE5iQzRPM0dQOFFHaXE2QzVmdXg5V1B2UHBodTZLeE9ObGZWVnRST19qUERaUEhXTTBKMHQwcVNJcUZJTl9vdVR4LUNzVUZ2QTlHSGRwSmkzVjZ0T3RWNjFPc2dDU29ZMXRLcWZoOXdHQnVsdkNON3RkcGpEZF9QVWFobTliU1IwejBVeko1MkdtNGQ2R214Y3dmWjlZT2lmam1pNWdYZ2FiWV84UQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_035",
+        "date": "2026-09-06",
+        "question": "Which date has been approved by the UN resolution to be observed as the 'International Day For Elimination Of Child, Early & Forced Marriage'?",
+        "options": [
+            "October 24",
+            "November 14",
+            "November 27",
+            "December 10"
+        ],
+        "answer": "November 27",
+        "explanation": "The United Nations approved a resolution designating November 27 as the International Day for the Elimination of Child, Early & Forced Marriage.",
+        "tags": [
+            "Important Days",
+            "SSC"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcGIxTGxpTGpDSFN1WDNMazJ1VUx5RUZkX09oeDVBV3FsMmh0ZmNvSklVbV9NaDBzTjNVNGlQdm1XdG42d2RFV0ppck9LWWowa0FwQmRwT05kTDktOHR2YmgzMTExc0daNl9od2FfZXZRT0JuV0Rhb2JCTWd3SWRvUUpXZmFFby1reDEtOXpNOUQxb3kxSW5SZWYxMlJwS3lteWlTRGR1MkJHbXdYcEszZjN1VmwyUXlvaGprdXpYWEpCdkx1U2pNQk1jLXQzQWtzVWFMaGg4aDJnODdDckJnRnh2MkIxQTQ4cFUyTVZFSVM5NDV6SUc4S2Q0TmdfZUZCTmRUQzcxVQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_036",
+        "date": "2026-09-07",
+        "question": "Which year has been designated as the 'India-France Year of Innovation' according to Prime Minister Narendra Modi?",
+        "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027"
+        ],
+        "answer": "2026",
+        "explanation": "Prime Minister Narendra Modi stated that 2026 is being celebrated as the India-France Year of Innovation, building on strategic, cultural, and political ties.",
+        "tags": [
+            "International Relations",
+            "Current Affairs"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/india-france-relations-have-reached-new-heights-pm-modi/article71436431.ece"
+    },
+    {
+        "id": "ca_2026_09_037",
+        "date": "2026-09-07",
+        "question": "Which credit rating was recently assigned to India after an upgrade by the Japanese credit rating agency JCR?",
+        "options": [
+            "BBB-",
+            "BBB+",
+            "A-",
+            "A+"
+        ],
+        "answer": "A-",
+        "explanation": "Japanese credit rating agency JCR upgraded India's rating to A-, allowing the country to borrow at lower costs in the future.",
+        "tags": [
+            "Economy",
+            "Banking"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
+    },
+    {
+        "id": "ca_2026_09_038",
+        "date": "2026-09-07",
+        "question": "India's Aditya-L1 solar mission recently detected early warning signs of which phenomenon?",
+        "options": [
+            "Solar flares",
+            "Lunar eclipses",
+            "Gamma-ray bursts",
+            "Geomagnetic reversals"
+        ],
+        "answer": "Solar flares",
+        "explanation": "Aditya-L1 successfully caught early warning signs before major solar flares, helping advance space weather preparedness.",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_039",
+        "date": "2026-09-07",
+        "question": "In which state did India and China hold their first Corps Commander-level meeting?",
+        "options": [
+            "Ladakh",
+            "Sikkim",
+            "Arunachal Pradesh",
+            "Uttarakhand"
+        ],
+        "answer": "Arunachal Pradesh",
+        "explanation": "India and China held their first Corps Commander-level meeting in Arunachal Pradesh as part of ongoing military dialogue.",
+        "tags": [
+            "Defence",
+            "International Relations"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHFOOXV0T09sRmhZakpUVTl0NWhRZ3otN1FMU0NLVk9xTnROYV82d0dPZy1SMmtPeXUtejJEUTdxYUVveVZPTzh6dHg3dFZETDVUT0l5aGNvUDhFbzRPVzAyLURvVEkxR1AxWkNRWjU5RHJWbXEwREZyQkJIU3RHNWtjaGpwTFR2MFRkM2FBZkZqTVVWRkk1VExKaFBBc1BxS2lISHRqR3FsQW92R1g1dTc5WkQ4WjlPQUHSAcABQVVfeXFMUGZ2Y3ExWnotUVA5blI2ZklyUWVOVEl2U0JOSGZ4MWZoQlp2b1VrNGM4VThINi1Oci1GcGJKdnRtZVA3MVFkM1otYXBETk1CbnhuLURvVmtNUHg2a2dBcGFnRzV2ME1BSmRkTDAyczVfN19kbnpzX2hBLVhHLVBHTDloWk1WMFlreWp0STFveE9xcXVPZ3pqTDA4cnhPQVJFN3EyV3BqZHZvQkFMRnlPejlibVAtckY0TW1wWjl6N1U1?oc=5"
+    },
+    {
+        "id": "ca_2026_09_040",
+        "date": "2026-09-07",
+        "question": "Justice Mahesh Chandra Tripathi was cleared for appointment as the Chief Justice of which High Court?",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Allahabad High Court",
+            "Calcutta High Court"
+        ],
+        "answer": "Bombay High Court",
+        "explanation": "The Centre cleared the appointment of Justice Mahesh Chandra Tripathi as the Chief Justice of the Bombay High Court among recent notifications for eight High Courts.",
         "tags": [
             "Polity",
             "Judiciary"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9WaW1oUVRfcFNQOVB3Z3lNdm9iME1jMXlkQmJmZEEwMG9nZmhfbkU0ZXlLLWtuU2d2OWliNUdhdG4yYlY0amZVRU1HejYycVdGWjFSSDBia042SlVKN2cxUGpGTnMyYVByc1AxcTduT1hDZk41N3B6NmlJU1loYVhJbm1FaWo5ek9JYzVOSDBrY200eTR6Y1JfNDJ6NUJYSVBueTYzclEwWVJPVG1RUm9HdmtpZ21HUWdjUjlEQdIBxAFBVV95cUxQWFkyODF3cVQ5LUpjSnVNZUZhT0c5bXh6YUpXenZ2WHMzMEVIZWgzQXVHaDFHWFlxamdzb3hGclRFQ1ktc1FTNEpMZnJTZkhacmRXMjBSdGdIaEpmQlpNdnUtQ3RrOTNvdmZoQ0JaNXpJXzNiV1dRenlWSVAxVDBDZm5sWVYxNzE1VU9TU2dpWC1pMFN1XzN3ajZIeU5kZUdBMVVRY2ZHV1ZBc0pHbWZZdzBCVXRJN2h0WG5oRUFybHJyX2FK?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF9QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0hTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T19lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF9RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
     },
     {
-        "id": "ca_2026_09_025",
-        "date": "2026-09-03",
-        "question": "What entity is proposed to be established under the revised FNTA Bill reintroduced in the Nagaland Legislative Assembly?",
+        "id": "ca_2026_09_041",
+        "date": "2026-09-07",
+        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which was exceeded by India's actual Q1 GDP growth rate of 7.8%?",
         "options": [
-            "Frontier Nagaland Territorial Council",
-            "Frontier Nagaland Territorial Authority",
-            "Nagaland Autonomous Border Development Commission",
-            "Eastern Nagaland Administrative Board"
+            "6.5%",
+            "7%",
+            "7.2%",
+            "7.5%"
         ],
-        "answer": "Frontier Nagaland Territorial Authority",
-        "explanation": "The reintroduced FNTA Bill in the Nagaland Legislative Assembly aims to set up the Frontier Nagaland Territorial Authority.",
+        "answer": "7%",
+        "explanation": "India’s Q1 GDP growth reached 7.8% for the April-June quarter, exceeding the RBI's estimate of 7%.",
         "tags": [
-            "Polity",
-            "State Legislation"
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_042",
+        "date": "2026-09-07",
+        "question": "According to the news report, how much money was mobilised via Foreign Currency Non-Resident (Bank) [FCNR (B)] deposits under the RBI's forex swap facility?",
+        "options": [
+            "More than $127 billion",
+            "Over $136 billion",
+            "Exactly $100 billion",
+            "Less than $50 billion"
+        ],
+        "answer": "More than $127 billion",
+        "explanation": "The RBI's special forex swap facility drew over $136 billion in total, with more than $127 billion mobilised specifically through FCNR (B) deposits.",
+        "tags": [
+            "Banking",
+            "RBI"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece"
+    },
+    {
+        "id": "ca_2026_09_043",
+        "date": "2026-09-07",
+        "question": "Which Indian solar mission caught early warning signs before major solar flares, helping advance space weather preparedness?",
+        "options": [
+            "Chandrayaan-3",
+            "Gaganyaan-1",
+            "Aditya-L1",
+            "AstroSat"
+        ],
+        "answer": "Aditya-L1",
+        "explanation": "India's Aditya-L1 spacecraft successfully detected early warning signs before major solar flares, enhancing space weather forecasting capabilities.",
+        "tags": [
+            "Science & Technology",
+            "Space"
+        ],
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhBQ3pOYVMxR2dOeTd2TWVkRlBZbVIxZHNRa09PcHdHMElYVU1qSENxUDdwd2I4dUVINmV0LWVQUEpqX0Z1MC0yM0ZTOHB2ZTc4WnNjY1cxMFJzQmE0LVA0QXZtUElIZDZ5aXh0bjhuMTFMREhGYUVzaXYxc24yZktnLWhUOVEtMXZmbldJaHdpN0E5WEdqQ3lpQ3ViclNlN2hpU1RGYy1ULUN5QXlRX2N2X1FoVFdRbkhJTlRsYVlaZ2VRMUE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_044",
+        "date": "2026-09-07",
+        "question": "Which two tiger reserves recently emerged as the most successful sites for vulture reintroduction in India?",
+        "options": [
+            "Jim Corbett and Rajaji Tiger Reserves",
+            "Melghat and Pench Tiger Reserves",
+            "Bandipur and Nagarhole Tiger Reserves",
+            "Ranthambore and Sariska Tiger Reserves"
+        ],
+        "answer": "Melghat and Pench Tiger Reserves",
+        "explanation": "Melghat and Pench Tiger Reserves have been recognized as the most successful locations for vulture reintroduction efforts in the country.",
+        "tags": [
+            "Environment",
+            "Conservation"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGFQbzU5MWVpcVNKNlIwTTVrbWxkWXZNZjIzNEliTUZOVEVJMG5lODQ2N1lnQWhqelJ0VzVDd2FtbXRsbDNxeWwxR2Q4NDJTOGhqcjZwakZGLWZjaTNHOEsybWkzNUI4b2dFVFc1VEd0VVhIUGJOcXI0S1hHbENrcVRHeTI3N1dCUF9sWk5TWEE?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJUSzk2dE00ZjdqRzNxbzh2SEJCdVZYWE9Dc3U0QTl1RXhBSi1RNzZ6cEJDdDU0ckVCcTBuLTZnNms3Q3RWTXhUc0dDd2s2Ymlwamh4cFFIdW9RS2dNYjNpV2ZWUWtfYjRKbFYycVRSTzNDRENCb3k2SXU0MkJWWUFCNi1XWWk5NlBwNVF5TDQyVWxkTzJZT2d3am5BWEh6R0JDUnZIZjlxOHRvM05yeDktbw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_045",
+        "date": "2026-09-07",
+        "question": "The Central Government recently notified the appointments of Chief Justices across how many High Courts?",
+        "options": [
+            "Five",
+            "Six",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Eight",
+        "explanation": "The Centre notified appointments of Chief Justices across eight High Courts, including Justice Mahesh Chandra Tripathi to the Bombay High Court.",
+        "tags": [
+            "Polity",
+            "Judiciary"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlFvVmk5TF9QR2p3dXpwR2ZuSlp5STlrUXVrZzVuMU13VFpSUjZBYTZvNFJQRnBoT1AxamFQTHVhTHQtRFFid3pLRTByM3hPejRSb2VUMnpGNGlHbEQ1dmhLeVNtZmpUZXMwNUtGVFluWHNvN0hTY2JQZjB6a2Fwel9xdmdqbGRqeElxT3pUbTZvek1HOGZ6VXhtRG51ODJCZkRYelhraWs4VXctU0lRVGtaaWV1aVB2T19lZXJlZDRrZUXSAcgBQVVfeXFMTjNxUkFScHBGSlpaNXpHWlNxbGJ6WjgxaE1lUEZXOHZaZkhXVlBISV80andBcjRkZzM1TUpwVmZZMm82a1NnX1cxRWljUGJDZW9RYzRhSF93eldhWXgtcUFSWXBWRndVTTFyczZfYW9kbzFWeFJpam5HWDgtTlRVWnhuYktTUF9RM2hYN0F0OEswYVJOQWFTQnYzYm5TSDJsYjhlLXhoYk5YMGhzbExmVG53cXVXbW1lXzVpNFNLTzh5OS10U0dic2c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_046",
+        "date": "2026-09-08",
+        "question": "With the U.K. recognizing India's carbon credit scheme under its carbon tax mechanism, what relief can U.K. importers of eligible Indian goods covered under CBAM seek?",
+        "options": [
+            "Carbon price relief",
+            "Tariff abolition relief",
+            "Freight subsidy relief",
+            "Customs clearance waiver"
+        ],
+        "answer": "Carbon price relief",
+        "explanation": "With the U.K.'s recognition of India's carbon credit scheme, U.K. importers of eligible Indian goods covered under CBAM will be able to seek carbon price relief.",
+        "tags": [
+            "Economy",
+            "International Relations"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece"
+    },
+    {
+        "id": "ca_2026_09_047",
+        "date": "2026-09-08",
+        "question": "Who among the following was sworn in as the Chief Justice of the Rajasthan High Court?",
+        "options": [
+            "Justice Sanjay Kumar Agrawal",
+            "Justice Sanjeev Prakash Sharma",
+            "Justice Munishwar Nath Bhandari",
+            "Justice Pankaj Mithal"
+        ],
+        "answer": "Justice Sanjay Kumar Agrawal",
+        "explanation": "Justice Sanjay Kumar Agrawal was sworn in as the Chief Justice of the Rajasthan High Court, succeeding the tenure of the acting Chief Justice.",
+        "tags": [
+            "Polity",
+            "Appointments"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/rajasthan/sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice/article71439110.ece"
+    },
+    {
+        "id": "ca_2026_09_048",
+        "date": "2026-09-08",
+        "question": "The Securities and Exchange Board of India (SEBI) has eased compliance norms for Foreign Portfolio Investors (FPIs) investing exclusively in which of the following?",
+        "options": [
+            "Government securities",
+            "Corporate bonds",
+            "Equity derivatives",
+            "Real estate investment trusts"
+        ],
+        "answer": "Government securities",
+        "explanation": "Market regulator SEBI eased compliance requirements specifically for Foreign Portfolio Investors (FPIs) that invest solely in government securities.",
+        "tags": [
+            "Banking",
+            "Economy"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdLSGdxZzdsdVRvZU9VLUFLTy0yZ1ltakFpUW1oQW04d0kxVTAwZ3JGbExKaGhyZVhyLW9UbnBXeWhGdW1ET0Q4NXE1bXlnLU94LUZ4S1B2M1lKb21weXRTbkpYZDFmQkdyY1dVcVJ4ZUJjZ2NtMXNnSjQxOUJFUlFieWhJQTBuNlUzc1RMcWRjUGJiaVU0MFZ2YTQzSFh2V2RLbXNMVEhQT2NVOW5jaThwOXZxVXpMa1NHOFRiSE1DRW1xdkExTTFfVGRfNXJEYzVaV3p5VGTSAd4BQVVfeXFMTU5NOE96VzRVS05Eb2g0QmlKUkREYklrbldweEt1VnlHWTVXU3JWRno0aWRuUTBzd2pkb1FoZURub1ZMS3ZSX3RQb0MxOVFSSmZNdXZGUkEzenRWRVpUdy1ZVmVVRmpreHVVV0J0WU1TanlNZVh3bGhDY2JqUG9SVFdEcHhPb1c0TTZUVWhvMnAwdlU1SXNROE1yclNJeDUzOHJhT2syV1ZRLUU4RzN2LW9mX2pSeENJQXVhUVM1WFpmNzB5UUpKNXhLQVNyd3RENmhzZzNGblp6MWlWSTFn?oc=5"
+    },
+    {
+        "id": "ca_2026_09_049",
+        "date": "2026-09-08",
+        "question": "What is the total value of defence acquisition proposals cleared by the Defence Acquisition Council (DAC) for the Army, Navy, and IAF?",
+        "options": [
+            "Rs 1.10 lakh crore",
+            "Rs 85,000 crore",
+            "Rs 2.00 lakh crore",
+            "Rs 50,000 crore"
+        ],
+        "answer": "Rs 1.10 lakh crore",
+        "explanation": "The Defence Acquisition Council (DAC) approved acquisition proposals worth over Rs 1.10 lakh crore for the Indian Armed Forces, with 98% sourced from Indian industry.",
+        "tags": [
+            "Defence",
+            "Current Affairs"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3hOdkJ2UDhQNnBpNFpWZDl1M25qMUxUWmUzMmRoR05Ia1FxbXMxLVdmWm12WXpNRzFMaU1MejZpYmI5Tk53TmU2SEt4Q1BGc2ZpcF9NZlhuTDlIenVUb1ZwNm1JQUZGU28wTFdOUUJ5SXZINTZ0ckFpTzNqUnNTR2xaNnd5RXRpNE9aTGI0bUNXcDYycGNFSzBTNzR3RlZHQW5fOHhVcHZPQXhPaGNuSXR3OFo1UTI4d1pqS1NuUWN6bWw4aU1yUtIBzgFBVV95cUxQallIQmFUa202M1VocnBOdE00RmZfMG9MSzVVWEc0TGx5MWFKdlRNMkZmQVR3c1A0N3VTbzZEVEVxYUg4TV9kLUhSWkNrZDU2QXhfdENvbVZBckM0VmkwLTVCUzg0OTB4Z25YdjFRS1FuQmJTMk1qdnRUQ3B6Q3gxRFhmWkxPTXlFRXNjVkUwMXN4bk5tTVRTS01kdklOUDJ2aEIzYnpuVVVBLTR2eGQ2ZFZFUU9PM1AxRF9tR1lqUXJwWElQdUsxN3lpazI3QQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_050",
+        "date": "2026-09-08",
+        "question": "Corps Commanders from India and China recently held border talks in which of the following states/regions?",
+        "options": [
+            "Arunachal Pradesh",
+            "Ladakh",
+            "Sikkim",
+            "Himachal Pradesh"
+        ],
+        "answer": "Arunachal Pradesh",
+        "explanation": "Indian and Chinese Corps Commanders held high-level military talks in Arunachal Pradesh's eastern sector to discuss border-related matters.",
+        "tags": [
+            "Defence",
+            "International Relations"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPai1INGlMX3hLWFhKQ185aTFTMmctcFZBUF9NTTlkVGtSNHc4UzY0d1M3TzdLVjJEQlIwOTdCb0dSWlQtRGRGcVYwSE1FYlJtbXBRUkN5dXk4bHUwei1CNnJvRHNBcWE2R2tFX1ZDOVlMTE1tZExFX3Q5WXZPWk1EVUZlZzVRUUxSbHEzRkNUQmdnZjRSV1ZNVmFDSm9HQTQ3Zk5zOGtNMGJMVVFYVXRr?oc=5"
     }
 ]
