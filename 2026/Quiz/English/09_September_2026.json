@@ -853,5 +853,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPai1INGlMX3hLWFhKQ185aTFTMmctcFZBUF9NTTlkVGtSNHc4UzY0d1M3TzdLVjJEQlIwOTdCb0dSWlQtRGRGcVYwSE1FYlJtbXBRUkN5dXk4bHUwei1CNnJvRHNBcWE2R2tFX1ZDOVlMTE1tZExFX3Q5WXZPWk1EVUZlZzVRUUxSbHEzRkNUQmdnZjRSV1ZNVmFDSm9HQTQ3Zk5zOGtNMGJMVVFYVXRr?oc=5"
+    },
+    {
+        "id": "ca_2026_09_051",
+        "date": "2026-09-09",
+        "question": "What amount in cess collections was flagged by the Public Accounts Committee for failing to be transferred to designated reserve funds?",
+        "options": [
+            "₹9,222 crore",
+            "₹8,500 crore",
+            "₹10,100 crore",
+            "₹6,750 crore"
+        ],
+        "answer": "₹9,222 crore",
+        "explanation": "The Public Accounts Committee flagged the failure to transfer ₹9,222 crore in cess collections to designated reserve funds. Panel chief K.C. Venugopal stated that cess proceeds must not be used to finance the fiscal deficit.",
+        "tags": [
+            "Economy",
+            "Public Finance"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
+    },
+    {
+        "id": "ca_2026_09_052",
+        "date": "2026-09-09",
+        "question": "Which sovereign credit rating agency recently upgraded India to an 'A' grade status for the first time since early 1988?",
+        "options": [
+            "Japan Credit Rating Agency",
+            "S&P Global Ratings",
+            "Fitch Ratings",
+            "Moody's Investors Service"
+        ],
+        "answer": "Japan Credit Rating Agency",
+        "explanation": "The Japan Credit Rating Agency recently upgraded India to an 'A' grade sovereign credit rating, marking India's return to the rating for the first time since early 1988.",
+        "tags": [
+            "Economy",
+            "Sovereign Ratings"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece"
+    },
+    {
+        "id": "ca_2026_09_053",
+        "date": "2026-09-09",
+        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June (Q1) quarter, which was beaten by the actual 7.8% growth rate?",
+        "options": [
+            "7%",
+            "6.5%",
+            "7.2%",
+            "7.5%"
+        ],
+        "answer": "7%",
+        "explanation": "India's Q1 GDP growth reached 7.8%, beating the Reserve Bank of India's (RBI) own estimate of 7% for the April-June quarter.",
+        "tags": [
+            "Economy",
+            "GDP"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
+    },
+    {
+        "id": "ca_2026_09_054",
+        "date": "2026-09-09",
+        "question": "In which city were luxury hotels experiencing a room crunch and soaring tariffs ahead of the upcoming BRICS Summit?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Bengaluru",
+            "Goa"
+        ],
+        "answer": "Delhi",
+        "explanation": "Luxury hotels in Delhi faced a severe room crunch and soaring tariffs ahead of the BRICS Summit held in the city.",
+        "tags": [
+            "Current Affairs",
+            "International Summit"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzFMMm1jNDRDZmFMNS1MWkU3X1FDNmIwVG91MVdmbko3NWpWU21jbGRWOHR1TFZmRTZNZm81X1hWNGRUOGNFYjNoeGhyMFVQWDlfTWVxMklaZ2Z6UUZoenhQRVJJXzl0MUtNZ0pSMXhNb3Nwcm1HaWxpNFVUNW9CYU5EUWpLVXcwcFRfTFg1cXo2bzFBQ0xaTy1uNlFQeVBEVFkyMG1GRHgzUnc0dkswS2ZlSTRBTExSbjV0aW9CQXpodw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_055",
+        "date": "2026-09-09",
+        "question": "What percentage of the ₹1.10 lakh-crore defence procurement proposals cleared by the Defence Acquisition Council (DAC) is set to be sourced from the Indian industry?",
+        "options": [
+            "98%",
+            "85%",
+            "90%",
+            "75%"
+        ],
+        "answer": "98%",
+        "explanation": "The Defence Acquisition Council cleared defence procurement proposals worth ₹1.10 lakh-crore, with 98% of it to be sourced directly from the domestic Indian industry.",
+        "tags": [
+            "Defence",
+            "Make in India"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPME1XMlVPelB2NEVUTzRrRjRVMGR5bVJQVHRWUkNxVWJGbGV0aFNaVnV0WDA4RHdGeHhqemdMdTVzeWI1X1NJZ3JuVkh0b2ppdDY2NUU4dkRlMXI5TnI2dmNuTERKSHBOMFVZUmxBazNqajVzUFMzZVFlUkZtQkFmS3ltVG9OQTA0NXRvUDVzR2JKQTQyek52X3NQM2YyQmpjbXduMGk2LU15MGhwSkd6Y2hnSVpnTlQxamlhSldtV25OUF9fa2F1Q3lxcmhSRXhnTlFuMkJ4OTFLQVRjbWVnVUdvbXNaVU9pMEV3V2pHR1ZtOG9mejA0S3Q5b2NHUdIBgwJBVV95cUxNTGxGYVdoWmxyQXFpYzV6RUlhOVJLNjU3ZnNlTnk5UHg2cEIyZ3VsMC1DU0hDeVpZZ3pOb1ZibF9RMUNLRmhHYk45dy1EWURGYUpnSlBaYm9yN3VZb3ZvT0NIUHc0NWk3Z1hYcWNOQ1d2SDNDMzJtRUd1T3o2YkJzVi1NUzR4MkdjNXFlQkFsaS03QXlHYVliMXRzaG1wVmpzdlR5YzBsUFBqZXlwX0pBMVo5RFZWa0pNMXJEdU1Jc2U5X0NsTGFCUXZTTDhvV1RXa1pETHRFR3REVExsdThkLU5RalNHZmZSSTBhdy1ZSHJVYTVKNDBHREJPMV85bWtBcjdJ?oc=5"
     }
 ]
