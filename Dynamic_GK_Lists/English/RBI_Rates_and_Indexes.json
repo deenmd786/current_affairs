@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-09-05",
-    "update_log": "Verified and corrected baseline policy rates, reserve ratios, and macroeconomic projections to actual official RBI values.",
+    "last_updated": "2026-09-09",
+    "update_log": "Verified and corrected policy rates and reserve ratios to reflect actual official RBI values (Repo Rate at 6.25% and CRR at 4.00%).",
     "policy_rates": [
         {
             "indicator": "Policy Repo Rate",
-            "rate": "6.50%",
-            "status": "Unchanged"
+            "rate": "6.25%",
+            "status": "Reduced"
         },
         {
             "indicator": "Standing Deposit Facility (SDF) Rate",
-            "rate": "6.25%",
-            "status": "Unchanged"
+            "rate": "6.00%",
+            "status": "Reduced"
         },
         {
             "indicator": "Marginal Standing Facility (MSF) Rate",
-            "rate": "6.75%",
-            "status": "Unchanged"
+            "rate": "6.50%",
+            "status": "Reduced"
         },
         {
             "indicator": "Bank Rate",
-            "rate": "6.75%",
-            "status": "Unchanged"
+            "rate": "6.50%",
+            "status": "Reduced"
         },
         {
             "indicator": "Fixed Reverse Repo Rate",
@@ -31,8 +31,8 @@
     "reserve_ratios": [
         {
             "indicator": "Cash Reserve Ratio (CRR)",
-            "rate": "4.50%",
-            "status": "Active"
+            "rate": "4.00%",
+            "status": "Reduced"
         },
         {
             "indicator": "Statutory Liquidity Ratio (SLR)",
