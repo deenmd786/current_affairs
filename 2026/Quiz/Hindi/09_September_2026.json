@@ -1043,5 +1043,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPME1XMlVPelB2NEVUTzRrRjRVMGR5bVJQVHRWUkNxVWJGbGV0aFNaVnV0WDA4RHdGeHhqemdMdTVzeWI1X1NJZ3JuVkh0b2ppdDY2NUU4dkRlMXI5TnI2dmNuTERKSHBOMFVZUmxBazNqajVzUFMzZVFlUkZtQkFmS3ltVG9OQTA0NXRvUDVzR2JKQTQyek52X3NQM2YyQmpjbXduMGk2LU15MGhwSkd6Y2hnSVpnTlQxamlhSldtV25OUF9fa2F1Q3lxcmhSRXhnTlFuMkJ4OTFLQVRjbWVnVUdvbXNaVU9pMEV3V2pHR1ZtOG9mejA0S3Q5b2NHUdIBgwJBVV95cUxNTGxGYVdoWmxyQXFpYzV6RUlhOVJLNjU3ZnNlTnk5UHg2cEIyZ3VsMC1DU0hDeVpZZ3pOb1ZibF_RMUNLRmhHYk45dy1EWURGYUpnSlBaYm9yN3VZb3ZvT0NIUHc0NWk3Z1hYcWNOQ1d2SDNDMzJtRUd1T3o2YkJzVi1NUzR4MkdjNXFlQkFsaS03QXlHYVliMXRzaG1wVmpzdlR5YzBsUFBqZXlwX0pBMVo5RFZWa0pNMXJEdU1Jc2U5X0NsTGFCUXZTTDhvV1RXa1pETHRFR3REVExsdThkLU5RalNHZmZSSTBhdy1ZSHJVYTVKNDBHREJPMV85bWtBcjdJ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_061",
+        "date": "2026-09-10",
+        "question": "HPCL के नेतृत्व वाले ऊर्जा कोष द्वारा उद्योग के रिफाइनिंग बिल में कितनी कटौती का लक्ष्य रखा गया है?",
+        "options": [
+            "₹50,000 करोड़",
+            "₹1 लाख करोड़",
+            "₹1.5 लाख करोड़",
+            "₹2 लाख करोड़"
+        ],
+        "answer": "₹1 लाख करोड़",
+        "explanation": "HPCL के नेतृत्व वाले ऊर्जा कोष का लक्ष्य डीप-टेक स्टार्टअप्स का समर्थन करना है, जिसका उद्देश्य उद्योग के रिफाइनिंग बिल को ₹1 लाख करोड़ तक कम करना है।",
+        "tags": [
+            "Economy",
+            "Energy Sector"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/karnataka/hpcl-led-energy-fund-to-back-deep-tech-start-ups-targets-to-cut-industrys-refining-bill-worth-1-lakh-crore/article71444081.ece"
+    },
+    {
+        "id": "ca_2026_09_062",
+        "date": "2026-09-10",
+        "question": "कृषि क्षेत्र में सौर ऊर्जा को बढ़ावा देने के लिए पीएम-कुसुम (PM-KUSUM) योजना किस वर्ष शुरू की गई थी?",
+        "options": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "answer": "2019",
+        "explanation": "कृषि क्षेत्र में सौर ऊर्जा के उपयोग का विस्तार करने के उद्देश्य से वर्ष 2019 में पीएम-कुसुम योजना शुरू की गई थी।",
+        "tags": [
+            "Government Schemes",
+            "Agriculture"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Industry/pm-kusum-20-announcement-likely-soon-agrivoltaics-to-get-dedicated-component/article71448484.ece"
+    },
+    {
+        "id": "ca_2026_09_063",
+        "date": "2026-09-10",
+        "question": "लोक लेखा समिति द्वारा नामित आरक्षित निधियों में स्थानांतरित न किए जाने के कारण कितनी उपकर (cess) संग्रह राशि पर आपत्ति जताई गई?",
+        "options": [
+            "₹7,500 करोड़",
+            "₹8,200 करोड़",
+            "₹9,222 करोड़",
+            "₹10,500 करोड़"
+        ],
+        "answer": "₹9,222 करोड़",
+        "explanation": "लोक लेखा समिति ने उपकर संग्रह के ₹9,222 करोड़ को उनके नामित आरक्षित निधियों में स्थानांतरित करने में विफलता को उजागर किया।",
+        "tags": [
+            "Polity",
+            "Public Finance"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
+    },
+    {
+        "id": "ca_2026_09_064",
+        "date": "2026-09-10",
+        "question": "श्रीलंका के वह राष्ट्रपति कौन हैं जिन्होंने कहा कि श्रीलंका की भूमि का उपयोग भारत-विरोधी गतिविधियों के लिए नहीं करने दिया जाएगा?",
+        "options": [
+            "अनुरा कुमारा दिसानायके",
+            "रानिल विक्रमसिंघे",
+            "गोटाबाया राजपक्षे",
+            "महिंदा राजपक्षे"
+        ],
+        "answer": "अनुरा कुमारा दिसानायके",
+        "explanation": "श्रीलंकाई राष्ट्रपति अनुरा कुमारा दिसानायके ने पुष्टि की कि श्रीलंका अपनी भूमि का उपयोग भारत-विरोधी गतिविधियों के लिए करने की अनुमति नहीं देगा।",
+        "tags": [
+            "International Relations",
+            "Defence"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEtBa002Nm1xZi1XWWoxOVBfZExHamVacExzdmVUWWh0QzZWRlROMlFPSjJ3NzdSZ2t2SkZ2ZUpvLXRSRTBIQ3d2TF93TnVJU2YzMExNR1psSEQ2dmYxREFod2pHOWtDb1F5amdveEJyOTZ5NzlNMGQzeUR2YXctbWtzUDN0cXhHS0lsdlVCN1M1MjI2VjEtUEFyUGVfUkhiMWUxal9tOXJaWVB1Um83eXNPd1p5VnJtOHFmc2lXQW54eWx2YmZoZENyS2pKYU1DRXBlMTRR?oc=5"
+    },
+    {
+        "id": "ca_2026_09_065",
+        "date": "2026-09-10",
+        "question": "केंद्रीय मंत्रिमंडल द्वारा मंजूर की गई नौ राज्यों में फैली रेलवे परियोजनाओं का कुल मूल्य कितना है?",
+        "options": [
+            "10,021 करोड़ रुपये",
+            "18,500 करोड़ रुपये",
+            "20,804 करोड़ रुपये",
+            "22,100 करोड़ रुपये"
+        ],
+        "answer": "20,804 करोड़ रुपये",
+        "explanation": "केंद्रीय मंत्रिमंडल ने नौ राज्यों में 20,804 करोड़ रुपये मूल्य की रेलवे मल्टीट्रैकिंग और कनेक्टिविटी परियोजनाओं को मंजूरी दी।",
+        "tags": [
+            "Infrastructure",
+            "Indian Railways"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNnFPV0huYzRJVDRYd1NlZEdyVlJES1hWMW13QmNmRWZITERlalh5RGZhcVNMWl9TOHZZZFNnWlBPUjd3N1JXS0NxbzBkbV9tcGFNcHZDazR0cERwejJ5VHJvd0VtaWtpM2s0ZXhZM1pGWGREVkcxUFdub3BXQ2ZpMkxkV2c2QWk1QThpUkV0b2hQbENtRThnWjY2SzJrdDNyamxzbUY1TE10ZFdva3N6SC11OHBfZFZLcmNIMU5peXg5UEM3ckI5bXVXU2VqMkZ3ekZiSEJYbk9KU3RxbVdtR1oxY0hKdy1l?oc=5"
     }
 ]
