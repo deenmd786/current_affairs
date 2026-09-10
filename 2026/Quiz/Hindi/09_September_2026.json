@@ -1138,5 +1138,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNnFPV0huYzRJVDRYd1NlZEdyVlJES1hWMW13QmNmRWZITERlalh5RGZhcVNMWl9TOHZZZFNnWlBPUjd3N1JXS0NxbzBkbV9tcGFNcHZDazR0cERwejJ5VHJvd0VtaWtpM2s0ZXhZM1pGWGREVkcxUFdub3BXQ2ZpMkxkV2c2QWk1QThpUkV0b2hQbENtRThnWjY2SzJrdDNyamxzbUY1TE10ZFdva3N6SC11OHBfZFZLcmNIMU5peXg5UEM3ckI5bXVXU2VqMkZ3ekZiSEJYbk9KU3RxbVdtR1oxY0hKdy1l?oc=5"
+    },
+    {
+        "id": "ca_2026_09_066",
+        "date": "2026-09-10",
+        "question": "In which year was the PM-KUSUM scheme originally launched?",
+        "options": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "answer": "2019",
+        "explanation": "The PM-KUSUM scheme was launched in 2019 to expand the use of solar energy in agriculture.",
+        "tags": [
+            "Government Schemes",
+            "Agriculture"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Industry/pm-kusum-20-announcement-likely-soon-agrivoltaics-to-get-dedicated-component/article71448484.ece"
+    },
+    {
+        "id": "ca_2026_09_067",
+        "date": "2026-09-10",
+        "question": "How many insurers are scheduled to begin their Ind AS transition starting from FY27?",
+        "options": [
+            "8",
+            "11",
+            "14",
+            "18"
+        ],
+        "answer": "11",
+        "explanation": "According to IRDAI, 11 insurers will begin their Ind AS transition from FY27, while the rest are tracked for FY28.",
+        "tags": [
+            "Insurance",
+            "Banking & Finance"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Industry/11-insurers-begin-ind-as-transition-from-fy27-irdai-tracks-rest-for-fy28/article71448276.ece"
+    },
+    {
+        "id": "ca_2026_09_068",
+        "date": "2026-09-10",
+        "question": "What total amount of un-transferred cess collections was flagged by the Public Accounts Committee?",
+        "options": [
+            "₹7,500 crore",
+            "₹8,100 crore",
+            "₹9,222 crore",
+            "₹10,500 crore"
+        ],
+        "answer": "₹9,222 crore",
+        "explanation": "The Public Accounts Committee flagged the failure to transfer ₹9,222 crore in cess collections to designated reserve funds.",
+        "tags": [
+            "Economy",
+            "Polity"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
+    },
+    {
+        "id": "ca_2026_09_069",
+        "date": "2026-09-10",
+        "question": "Which agency recently upgraded India's sovereign credit rating to 'A' grade for the first time since 1988?",
+        "options": [
+            "Moody's Investors Service",
+            "S&P Global Ratings",
+            "Fitch Ratings",
+            "Japan Credit Rating Agency"
+        ],
+        "answer": "Japan Credit Rating Agency",
+        "explanation": "The upgrade by Japan Credit Rating Agency returned India to an 'A' grade rating for the first time since early 1988.",
+        "tags": [
+            "Economy",
+            "International Relations"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece"
+    },
+    {
+        "id": "ca_2026_09_070",
+        "date": "2026-09-10",
+        "question": "What is the total approved cost for the railway multi-tracking projects across nine states?",
+        "options": [
+            "Rs 10,021 crore",
+            "Rs 15,200 crore",
+            "Rs 20,804 crore",
+            "Rs 25,000 crore"
+        ],
+        "answer": "Rs 20,804 crore",
+        "explanation": "The Cabinet approved railway multi-tracking projects across nine states with a total outlay of Rs 20,804 crore.",
+        "tags": [
+            "Infrastructure",
+            "Railways"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNnFPV0huYzRJVDRYd1NlZEdyVlJES1hWMW13QmNmRWZITERlalh5RGZhcVNMWl9TOHZZZFNnWlBPUjd3N1JXS0NxbzBkbV9tcGFNcHZDazR0cERwejJ5VHJvd0VtaWtpM2s0ZXhZM1pGWGREVkcxUFdub3BXQ2ZpMkxkV2c2QWk1QThpUkV0b2hQbENtRThnWjY2SzJrdDNyamxzbUY1TE10ZFdva3N6SC11OHBfZFZLcmNIMU5peXg5UEM3ckI5bXVXU2VqMkZ3ekZiSEJYbk9KU3RxbVdtR1oxY0hKdy1l?oc=5"
     }
 ]
