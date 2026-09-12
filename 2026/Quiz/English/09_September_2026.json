@@ -1518,5 +1518,81 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVjk0cjFHTllaUzdETlFSSThBZENVbGVaSUN0OHJBYnV4YWlsd1ZaeEVWUzVPTEJhdTRVVVhlc2RDWEc5MXROcjlwT0p2U1UzVjVDaDJwaENRZDRaUUZEWndiaUFjZ0hOT1ZOdG14dDZFTGdfcDRjQnhtVkVfSHZoTHFDTGJpZTB1QmYyUmRaMFZSaml4UFZIWGlncmhOOFo0RDBSOW15VU5pd1BqN2poYU1uM2dZS3NTdVhuUmdaYTE?oc=5"
+    },
+    {
+        "id": "ca_2026_09_086",
+        "date": "2026-09-12",
+        "question": "Which customer assistance feature was launched by NPCI alongside the new tap-and-pay option for UPI payments?",
+        "options": [
+            "MyUPI (UPI Help 2.0)",
+            "UPI Assist 3.0",
+            "Bharat Help Desk",
+            "UPI Care Direct"
+        ],
+        "answer": "MyUPI (UPI Help 2.0)",
+        "explanation": "NPCI launched MyUPI (UPI Help 2.0) along with the tap-and-pay feature for real-time UPI payments.",
+        "tags": [
+            "Banking",
+            "Economy"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDNyaWdOYUlVSzFYNWptZG5OS1RJNXlPLWRIM013SVktcE1BV2xmb0hxUDBWNHZMejJmVDA3SXRFUUJhY3g2d2UyV3BTaEhIbFdHczRFRzRMZGE2dzl6Z3B1MzlmUlZnX2NOZDlzZmRuSHVlUm8xZVNRanNxNHJoVVdNWUlLZm14a0N5Rzh5eWFDb2pzQTlRcjdxSjg5SThsUE14MzdpZkJMNDNSbXRFaU40MNIBuAFBVV95cUxPbnp1U1pRcXpFaFpHUU5wbXdSZjBaWVBvM3QxczBUY3hzMVJpNjllWE9Id3pyeWFoeFNCVDRSUGk1UHVncDlLOEg4SnlXcU1mdWd0UXU0UU84TEoyMjVtRG4tQjdxRVNaZ3FTZzdsQWdoYlk0S0w3eVdkRkZhUXQ1bmYxeVlEYi1sS1B4NTEtQS1saXBiTlZ6LUJoLXVqSVVvemRSZ1NZVjZrMWxlTDRZV0FqaXZIeTJF?oc=5"
+    },
+    {
+        "id": "ca_2026_09_087",
+        "date": "2026-09-12",
+        "question": "With which regional organization is India inching closer to signing a landmark Free Trade Agreement (FTA)?",
+        "options": [
+            "European Union (EU)",
+            "Association of Southeast Asian Nations (ASEAN)",
+            "African Union (AU)",
+            "Mercosur"
+        ],
+        "answer": "European Union (EU)",
+        "explanation": "The European Commission has taken steps towards final approval to sign a landmark Free Trade Agreement (FTA) with India.",
+        "tags": [
+            "International Relations",
+            "Economy"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0V5LXNVaFdFenNGQjJtek1JYWI5LVpzREdjTnU4TXg3dGNaZFVkQmIwQ3JMNE9KMUdSZUJrQ1JWT21kVkVUVGFscWxRbk0xc1JIbXdVeS1kMWdvazZlb1RIRmdwQ1dTcTB6WktfZFJoNDBibEVYZ2tiMU5oWmlWdm5hYXdHYkxsTjluZlgyZ1A4NU9ZaUk4ZWJkbHcxNmhPRmJGWVdPdmYweGpxdEZZRUVkeG8yMnFNS045ZndUSWFRbm5WUGRoSG9XT1FxdzVJNEVCeXJObGQtTThZelhvTNIB5wFBVV95cUxQRlJKXy1YNWNpdEMtSXdCSXN5RXlKRFQwbElGWDhIVUpYYm9uM3Qxd0Z4V0R5cFIzYWY0dENhWXZuWDcyb2JMakQzRU9Xb3RsNlgzdm9sUHpLYnlWVko2WXE3b0FjTDlXNmNCTnRuSmVFeTdXaHhpZ053Qm9wenVGWmRNa0RpWlJ0anNYYldPQUVpMjhDX0tQd3M4RERBMnhYNDlicWt0MGE5UTZTeWZsaHBIZTUtZTRMbk5RRkNwdkFDN1RmUVJaVDMtM0lsRy15MEFtUFpDTG52UXpHcl92eTVWVF9xM00?oc=5"
+    },
+    {
+        "id": "ca_2026_09_088",
+        "date": "2026-09-12",
+        "question": "What new all-time high level did India's overall foreign exchange reserves reach following a $11.475 billion increase in the previous reporting week?",
+        "options": [
+            "$740.803 billion",
+            "$680.500 billion",
+            "$712.450 billion",
+            "$800.000 billion"
+        ],
+        "answer": "$740.803 billion",
+        "explanation": "India's overall foreign exchange reserves touched a new record high of $740.803 billion after increasing by $11.475 billion in the previous reporting week.",
+        "tags": [
+            "Banking",
+            "Economy"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/indias-forex-reserves-jump-by-a-record-44903-billion/article71457685.ece"
+    },
+    {
+        "id": "ca_2026_09_089",
+        "date": "2026-09-12",
+        "question": "What is the length of the freight backbone created for India following the full operation of the Western Dedicated Freight Corridor (DFC)?",
+        "options": [
+            "2,843 km",
+            "1,850 km",
+            "3,100 km",
+            "2,400 km"
+        ],
+        "answer": "2,843 km",
+        "explanation": "The fully operational Western Dedicated Freight Corridor (DFC) provides India with a 2,843-km freight backbone for its logistics overhaul.",
+        "tags": [
+            "Infrastructure",
+            "Economy"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
     }
 ]
