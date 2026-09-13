@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_021",
-        "date": "2026-09-05",
-        "question": "हालिया रिपोर्टों के अनुसार, इसरो (ISRO) ने भारत के पहले इमेजिंग उपग्रह को किस प्रकार की कक्षा में सफलतापूर्वक प्रक्षेपित किया है?",
-        "options": [
-            "निम्न पृथ्वी कक्षा (Low Earth Orbit)",
-            "जियो-ऑर्बिट (Geo-orbit)",
-            "मध्यम पृथ्वी कक्षा (Medium Earth Orbit)",
-            "ध्रुवीय कक्षा (Polar Orbit)"
-        ],
-        "answer": "जियो-ऑर्बिट (Geo-orbit)",
-        "explanation": "इसरो ने भारत के पहले जियो-ऑर्बिट इमेजिंग उपग्रह को कक्षा में स्थापित किया, जिसे प्रधानमंत्री नरेंद्र मोदी ने उत्कृष्ट प्रदर्शन का प्रतीक बताया।",
-        "tags": [
-            "Science & Technology",
-            "ISRO"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHlPMUEzdlpnS2hRcmRTXzlQWm5aNUx4LWpWaFZFa2NJTlRtNkRNU2RVZHIyNTBUY1haM1l2aXd1LVJ4VE80ZXFxbkV0bkdfVUpVOTlFMkNFdEYtSFVrWEIxZEloVGQtcGFUTVZyT2s5Q1N2d21MN3U0YkVGNF9ib1FXNXJrYUt1cDRNX2Q4NHd4YnJERzU1OTln?oc=5"
-    },
-    {
-        "id": "ca_2026_09_022",
-        "date": "2026-09-05",
-        "question": "सात भारतीय राज्य जिला न्यायपालिका में न्यायिक अधिकारियों की सेवानिवृत्ति की आयु बढ़ाकर कितने वर्ष करने पर सहमत हुए हैं?",
-        "options": [
-            "58 वर्ष",
-            "60 वर्ष",
-            "62 वर्ष",
-            "65 वर्ष"
-        ],
-        "answer": "62 वर्ष",
-        "explanation": "सात राज्य न्यायिक अधिकारियों की सेवानिवृत्ति की आयु बढ़ाकर 62 वर्ष करने पर सहमत हुए हैं, तथा सर्वोच्च न्यायालय ने अन्य राज्यों और केंद्र शासित प्रदेशों को भी ऐसा ही करने के लिए प्रोत्साहित किया है।",
-        "tags": [
-            "Polity & Governance",
-            "Judiciary"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdldNVDFraHJVYWpKSEM0V0V2aUtwM08wQlptR21CLXJsLTZkUlE3T0lVcTBQSnhGMW5nS3pSejg0YkhtZ2lsdTZVTzc4b0RQMERVd01VcFVvSnJ3NUJaYmo0WDhTNVpMLVR0eEQ0ak9WWmFHWTBxQjVianVhakRkZWNZNjVxNko4N190cFdFT2NDdU9GZUxseEd1VkdmdVBmZ1pkU1pVdGlwZmhvWHFuczAyM011MHJKbzlHNDE5OGhHTlZzeDZwLTloWW9TMm1jZVFKb2FiS0JnU2lfUGdvUVMyUdIB8AFBVV95cUxQWjQ0clJDRE9hNFBnN1FkMThYb2UyVUVub3ZKY3U4WTVWYVppNEtYbWdIanhuR3B1Ri15Y0ZDLTJYN0VnTjlFZTMwSHFMLUJyaXVvNkptQkYydEloeGJIVjdzMmVNSzdDMjZuZTZxQ2RIaGpzMExMQzVTZ3A3UHZfSGtYdWdtcGJjdEFyQkNLN2pKRWt2YjRDQ0RZQUtjZHhOckpoU0VHdFFHQTA2MzRJMy1XU3NMYWJoSjVqWGtsQ1BDMlhXS1ZIdGVIZEVDUEp3SU5JNTBOTnNSZmJJLTBLbFZ6ZUwzNjA1ZnRwU1ZtWkY?oc=5"
-    },
-    {
-        "id": "ca_2026_09_023",
-        "date": "2026-09-05",
-        "question": "अप्रैल-जून तिमाही के लिए भारत की रिपोर्ट की गई पहली तिमाही (Q1) की जीडीपी वृद्धि दर कितनी रही, जिसने आरबीआई (RBI) के 7% के अनुमान को पीछे छोड़ दिया?",
-        "options": [
-            "7.2%",
-            "7.5%",
-            "7.8%",
-            "8.1%"
-        ],
-        "answer": "7.8%",
-        "explanation": "अप्रैल-जून तिमाही के लिए भारत की जीडीपी 7.8% की दर से बढ़ी, जो भारतीय रिजर्व बैंक के 7% के अनुमान से अधिक थी।",
-        "tags": [
-            "Economy",
-            "GDP Growth"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
-    },
-    {
-        "id": "ca_2026_09_024",
-        "date": "2026-09-05",
-        "question": "हाल ही में किस जापानी क्रेडिट रेटिंग एजेंसी ने भारत की क्रेडिट रेटिंग को बढ़ाकर 'A-' कर दिया है?",
-        "options": [
-            "फिच रेटिंग्स (Fitch Ratings)",
-            "जेसीआर (JCR)",
-            "मूडीज (Moody's)",
-            "एस एंड पी ग्लोबल (S&P Global)"
-        ],
-        "answer": "जेसीआर (JCR)",
-        "explanation": "जापानी क्रेडिट रेटिंग एजेंसी जेसीआर (JCR) ने भारत की रेटिंग को बढ़ाकर 'A-' कर दिया है, जिससे भारत को भविष्य में कम लागत पर ऋण प्राप्त करने में मदद मिलेगी।",
-        "tags": [
-            "Economy",
-            "Credit Ratings"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_025",
-        "date": "2026-09-05",
-        "question": "केंद्रीय विद्युत प्राधिकरण (CEA) ने किस माह और वर्ष से नई सौर और पवन ऊर्जा परियोजनाओं के लिए अनिवार्य बैटरी स्टोरेज का प्रस्ताव रखा है?",
-        "options": [
-            "जनवरी 2026",
-            "जुलाई 2026",
-            "जनवरी 2027",
-            "जुलाई 2027"
-        ],
-        "answer": "जुलाई 2027",
-        "explanation": "केंद्रीय विद्युत प्राधिकरण (CEA) ने जुलाई 2027 से शुरू होने वाली नई सौर और पवन नवीकरणीय ऊर्जा परियोजनाओं के लिए अनिवार्य बैटरी स्टोरेज का प्रस्ताव दिया है।",
-        "tags": [
-            "Environment & Energy",
-            "Infrastructure"
-        ],
-        "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M3SCUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
-    },
-    {
         "id": "ca_2026_09_026",
         "date": "2026-09-06",
         "question": "अंडमान और निकोबार द्वीप समूह के उपराज्यपाल के रूप में नियुक्त होने पर भाजपा सांसद दिनेश शर्मा ने किसका स्थान लिया?",
@@ -1594,5 +1499,100 @@
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzI4MHlZRkVhbUwyUDVnLTZxdmlMV1BhTmI2elN0dWtxVEJGakhzRFBaWEJ3MTdzUG1QbHRQN1ZJZGYta2xaRE5HT0V0aUVmcm16SWw0NmVET1lMdDRYY3FOcWNvYmhIeXlwLWFMZlBXekdkemlTdFVPVVc5Snd5RERRTWtHaXMxLWkzYzZOLWp0RmlBQWpDNTRRdnVRN2ttcDdGUkxtM0ktTDJWYzhBMWQ0S1lNUjNvMy1ndnd0MEdjUnpVOXp1UFNKbmfSAdMBQVVfeXFMTlZaVXE2RjZhTHVzTWVfUnd2LUhWVUVSZlA5S2NyTVh1S2l1cHdMcGJ4RGZYa3lWdzZVMHM5R0JtLU5yaUhqdmZtOTdETXllcDFITTJyNldRN29GQV_wQ05pUTBBbUo0MTBKTUxzOThyWndPQU9tbHBUcFVkczhtQVRKYXVzWVp5WFFGd1NyRVAyMnFJRlVvUGdNNmYtTHBEU3RHenItdG80ZDAwM0VfakExXzJCWmZSZXJHRDJjU0JQbXhXbGRRRjQzajkwQzdETFozbw?oc=5"
+    },
+    {
+        "id": "ca_2026_09_021",
+        "date": "2026-09-13",
+        "question": "BRICS समूह द्वारा अपने नवीनतम शिखर सम्मेलन के दौरान लचीलापन, नवाचार, बहुपक्षीय सुधार और आर्थिक एकीकरण पर बल देने के लिए किस घोषणा पत्र को अपनाया गया?",
+        "options": [
+            "नई दिल्ली घोषणा पत्र",
+            "कज़ान घोषणा पत्र",
+            "जोहान्सबर्ग घोषणा पत्र",
+            "बीजिंग घोषणा पत्र"
+        ],
+        "answer": "नई दिल्ली घोषणा पत्र",
+        "explanation": "ब्रिक्स समूह ने अपने नवीनतम शिखर सम्मेलन के दौरान 'नई दिल्ली घोषणा पत्र' को अपनाया, जिसमें भारत ने सदस्यों के बीच आम सहमति बनाने में एक प्रमुख कूटनीतिक भूमिका निभाई।",
+        "tags": [
+            "International Relations",
+            "BRICS"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQlpQWml3VWRBTHFoTWR1UVlHSkFKTTFrNzdCNHY3X3QyTmNYVUFVMjBTYXBqX01iR2x5TWJNY3p5T2czVEJmNnpPdm5mZ3JreFpLZzN2UVpGMWVwaEFlbWJZR1gycG1YMFNRdnNEc1d5Ujg3VDk4STNKTnM1MFB6WXZkYkE2dFU0R2hVSmYweHNBUjR3OXlvRFhIM21HV2lvNWRMd3Z1YjY5bU93Y3hnWWdCRWVWTFZCbGN2dWUwR180Z2tqU3VYcmp4cjdGelRlUVVvY2R2b9IB3gFBVV95cUxPODRXb1NpbTVSRW12U29QVEZEZHVqNDE5ZnFoU25iRTE5Nk1INmVNU3UtVmJKR3lIajRFZ0laUVR3TFpaWXVTZzA1VDZZRm12TWFDX0NuakJ5bFd3Skg4aWZBYjhfdVB6UDBuYVVObVROZlZHQk0wUE5OMUZhNk1ya2l2Z25rWmFDQjBYS0pLZ0hfR1hfaG16V0FzSXZ3NUxXUWI2a083ZUl2cHZhanZyc2ZpLXdfd2M0N0E3R3pHTFhqSXJxRjdmdmRYbjhrSlR6QTZSc3J4Wmw4NXBiV3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_022",
+        "date": "2026-09-13",
+        "question": "2021 में शुरू किए गए आरबीआई (RBI) के स्केल बेस्ड रेगुलेशन (Scale Based Regulation) ढांचे के तहत, टाटा संस को किस प्रकार वर्गीकृत किया गया है, जिससे तीन वर्षों के भीतर इसका सार्वजनिक सूचीकरण (public listing) अनिवार्य हो गया है?",
+        "options": [
+            "अपर लेयर एनबीएफसी (NBFC-UL)",
+            "टॉप लेयर एनबीएफसी (NBFC-TL)",
+            "मिडिल लेयर एनबीएफसी (NBFC-ML)",
+            "बेस लेयर एनबीएफसी (NBFC-BL)"
+        ],
+        "answer": "अपर लेयर एनबीएफसी (NBFC-UL)",
+        "explanation": "टाटा संस को आरबीआई के स्केल बेस्ड रेगुलेशन ढांचे के तहत इसके सिस्टमिक महत्व के कारण 'अपर लेयर' एनबीएफसी (NBFC-UL) के रूप में वर्गीकृत किया गया है, जिसके तहत इसे तीन वर्षों के भीतर सार्वजनिक रूप से सूचीबद्ध होना अनिवार्य है।",
+        "tags": [
+            "Banking & Finance",
+            "RBI"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDM0MjJnLTlEaWk4LTY0REdiZjRpTXhpRU0zeGI5Nkg0OEhJY2dEZlh2OXNUZmVKaDlZUllLcG9ERUEyTWhqVklVMlpGZk9GTFd2ek4xWS1WREZzYkhuX1ZVR0NUVW42VUtZYjN5NW1DTF8zU3FhRHFTOFBxbWh1Qi1xQVg?oc=5"
+    },
+    {
+        "id": "ca_2026_09_023",
+        "date": "2026-09-13",
+        "question": "एक सामान्य ब्रिक्स (BRICS) मुद्रा स्थापित करने के बजाय, भारत ने अंतर्राष्ट्रीय व्यापार को सुगम बनाने के लिए किस तंत्र की वकालत की है?",
+        "options": [
+            "राष्ट्रीय मुद्रा व्यापार निपटान",
+            "एक स्वर्ण-समर्थित क्षेत्रीय मुद्रा",
+            "विशेष आहरण अधिकार (SDR) विशेष रूप से",
+            "एक एकीकृत डिजिटल क्रिप्टोकरेंसी प्लेटफॉर्म"
+        ],
+        "answer": "राष्ट्रीय मुद्रा व्यापार निपटान",
+        "explanation": "भारत ने आधिकारिक तौर पर एक सामान्य ब्रिक्स मुद्रा की संभावना को खारिज कर दिया और इसके बजाय अंतर्राष्ट्रीय व्यापार को सुगम बनाने तथा लेनदेन लागत को कम करने के लिए राष्ट्रीय मुद्रा व्यापार निपटान की वकालत की।",
+        "tags": [
+            "Economy",
+            "International Trade"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOajl1TXpXS0pxZ2xBb25GU2U0Z3hFMnpRdVhQUmQ0c0QyWllrcDNnS2p5ZUVlT004elZpdVQ5ZUVMY0t1Qzh5ajNQUWRQUDR3SV9YZlYzOVNiV2V2OHRKcTNpQlk2N0xDak9lTWZoWi1KZTFqOWYyYXRXem5SQmo5OXlEZnpwREhNWWZSeU1hR3kxWFliNkg1SUx1UU5rcDBjMjQ5SEQwaVlSaG5HWHlvcGY4THZieDlnaXRBQUNGVUZSYlVnckp4OGx0anE1aEpxVC1uZ3pROVZqWEg5bGgySzJYeS1zUnF6QWtxaEdVZ1RmNm1fV21j?oc=5"
+    },
+    {
+        "id": "ca_2026_09_024",
+        "date": "2026-09-13",
+        "question": "पूर्ण रूप से परिचालन में आए डेडिकेटेड फ्रेट कॉरिडोर (DFCs) द्वारा समर्थित राष्ट्रीय लॉजिस्टिक्स नीति (National Logistics Policy) का मुख्य उद्देश्य क्या है?",
+        "options": [
+            "भारत की लॉजिस्टिक्स लागत को जीडीपी के 13-14% से घटाकर एकल अंक (single digits) में लाना",
+            "यात्री ट्रेनों की परिचालन गति बढ़ाकर 200 किमी/घंटा करना",
+            "2030 तक निजी सड़क परिवहन के पूर्ण विद्युतीकरण को अनिवार्य बनाना",
+            "सीमा पार माल ढुलाई पर सभी शुल्क बाधाओं को समाप्त करना"
+        ],
+        "answer": "भारत की लॉजिस्टिक्स लागत को जीडीपी के 13-14% से घटाकर एकल अंक (single digits) में लाना",
+        "explanation": "डेडिकेटेड फ्रेट कॉरिडोर का संचालन राष्ट्रीय लॉजिस्टिक्स नीति के उस लक्ष्य का समर्थन करता है जिसका उद्देश्य भारत की लॉजिस्टिक्स लागत को जीडीपी के 13-14% से घटाकर एकल अंक में लाना है।",
+        "tags": [
+            "Infrastructure",
+            "Logistics"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
+    },
+    {
+        "id": "ca_2026_09_025",
+        "date": "2026-09-13",
+        "question": "भारत और यूरोपीय संघ (EU) के बीच ऐतिहासिक मुक्त व्यापार समझौता (FTA) वर्तमान में किस निकाय से मंजूरी का इंतजार कर रहा है?",
+        "options": [
+            "ब्रसेल्स में यूरोपीय परिषद",
+            "फ्रैंकफर्ट में यूरोपीय सेंट्रल बैंक",
+            "यूरोपीय संघ का न्यायालय (Court of Justice)",
+            "द हेग में अंतर्राष्ट्रीय न्यायालय"
+        ],
+        "answer": "ब्रसेल्स में यूरोपीय परिषद",
+        "explanation": "भारत और यूरोपीय संघ अपने मुक्त व्यापार समझौते को अंतिम रूप देने के करीब हैं, जिसे ब्रसेल्स स्थित शीर्ष यूरोपीय परिषद से मंजूरी मिलना बाकी है।",
+        "tags": [
+            "International Trade",
+            "India-EU"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzI4MHlZRkVhbUwyUDVnLTZxdmlMV1BhTmI2elN0dWtxVEJGakhzRFBaWEJ3MTdzUG1QbHRQN1ZJZGYta2xaRE5HT0V0aUVmcm16SWw0NmVET1lMdDRYY3FOcWNvYmhIeXlwLWFMZlBXekdkemlTdFVPVVc5Snd5RERRTWtHaXMxLWkzYzZOLWp0RmlBQWpDNTRRdnVRN2ttcDdGUkxtM0ktTDJWYzhBMWQ0S1lNUjNvMy1ndnd0MEdjUnpVOXp1UFNKbmfSAdMBQVVfeXFMTlZaVXE2RjZhTHVzTWVfUnd2LUhWVUVSZlA5S2NyTVh1S2l1cHdMcGJ4RGZYa3lWdzZVMHM5R0JtLU5yaUhqdmZtOTdETXllcDFITTJyNldRN29GQV9wQ05pUTBBbUo0MTBKTUxzOThyWndPQU9tbHBUcFVkczhtQVRKYXVzWVp5WFFGd1NyRVAyMnFJRlVvUGdNNmYtTHBEU3RHenItdG80ZDAwM0VfakExXzJCWmZSZXJHRDJjU0JQbXhXbGRRRjQzajkwQzdETFozbw?oc=5"
     }
 ]
