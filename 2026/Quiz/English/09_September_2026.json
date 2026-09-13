@@ -190,101 +190,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2pRTUMtb0tia0ZGaFVXQXdjMXA3c19WcWNiLVdTZjFwMkYwSmdNN2NtWklHNEktNEtRWUhmMURQRDVFZG9NMjR6clN0RlZFZXZjVjVpRW9sc0EzNWVfM3ZzVldncDBjQVJTMUxzMXUyT19jN21fUlQ3NFMwVjNaQmFJeVd2YjZNd2lNQUtWaE5SVlMwd1pQenpFYVZkLURUeXByRjVR?oc=5"
     },
     {
-        "id": "ca_2026_09_016",
-        "date": "2026-09-05",
-        "question": "How many government Industrial Training Institutes (ITIs) are currently located across Karnataka, according to the news item?",
-        "options": [
-            "180",
-            "270",
-            "350",
-            "420"
-        ],
-        "answer": "270",
-        "explanation": "According to Sharan Prakash Patil, there are 270 government ITIs across Karnataka available for adoption by private industries.",
-        "tags": [
-            "Government Schemes",
-            "State News"
-        ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/karnataka/active-collaboration-between-public-private-sectors-a-must-for-the-success-of-pm-setu-scheme-mb-patil/article71429506.ece"
-    },
-    {
-        "id": "ca_2026_09_017",
-        "date": "2026-09-05",
-        "question": "What was the Reserve Bank of India's (RBI) GDP growth estimate for the April-June quarter, which India's Q1 GDP actual growth rate of 7.8% surpassed?",
-        "options": [
-            "6.5%",
-            "7%",
-            "7.2%",
-            "7.5%"
-        ],
-        "answer": "7%",
-        "explanation": "India's Q1 GDP reached 7.8%, exceeding the RBI's estimate of 7% for the April-June quarter.",
-        "tags": [
-            "Economy",
-            "GDP"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece"
-    },
-    {
-        "id": "ca_2026_09_018",
-        "date": "2026-09-05",
-        "question": "Which Japanese credit rating agency upgraded India's sovereign credit rating to 'A-'?",
-        "options": [
-            "JCR",
-            "R&I",
-            "S&P Tokyo",
-            "Fitch Japan"
-        ],
-        "answer": "JCR",
-        "explanation": "Japanese credit rating agency JCR upgraded India to A-, enabling future borrowing at lower costs.",
-        "tags": [
-            "Economy",
-            "Credit Ratings"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/japanese-credit-rating-agency-jcr-upgrades-india-to-a-finance-ministry-welcomes-move/article71419914.ece"
-    },
-    {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-05",
-        "question": "From which timeline does India propose to make battery storage mandatory for new solar and wind renewable energy projects?",
-        "options": [
-            "January 2026",
-            "July 2026",
-            "July 2027",
-            "December 2028"
-        ],
-        "answer": "July 2027",
-        "explanation": "India proposes mandatory battery storage implementation for new renewable energy projects starting from July 2027.",
-        "tags": [
-            "Renewable Energy",
-            "Policy"
-        ],
-        "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXdPU0VkV1lEZFNKOEU5M1NDUUtqQnBLa19rLVE1a2x3SWlSWFZvQmhvLVpTaG8tZkt3dElqNXZtVW9qVFFaSFNZQmgySDBGVFBDeTJJTXpYZGl6SUVTTU1pZ3g4d0otMWZnWC13dEFxSXpXbm1EdjZzN2hSTnAzaFRCVWZ0TThTRElhOU4yd0M2WTJtZVhtSHcxT2JudmlvZ3ZnWWVKdjh3Z2txYk9yN3RXSkpkZU5fYmNHTNIBwgFBVV95cUxOd211WU11bmN0VEUtOXI3a0dKamh4Mm50RGJUUzEtRXFjZmNpOGktMlI2cTFvNUctWExNbGdBRU1UUGlLVzI4cHlZYm0xV2trQXZmQ1dPX3VBZkFKeGxHQlRmblotSG5XV0Q2OVd4cGJ6WDJBaUg0TWg3TVJXa1M4VTdSSDkxUE4zX2FxRlFKVzhhUjNRZTZlZVJrcVlJOVd1Wm43cG8zazlJWjZZRlRPRjBhSmthM2I5Z0xKcjB2MHpVUQ?oc=5"
-    },
-    {
-        "id": "ca_2026_09_020",
-        "date": "2026-09-05",
-        "question": "Which Indian space mission detected early warning signs prior to solar flares on the Sun?",
-        "options": [
-            "Chandrayaan-3",
-            "Aditya-L1",
-            "AstroSat",
-            "Gaganyaan"
-        ],
-        "answer": "Aditya-L1",
-        "explanation": "India's solar observatory mission Aditya-L1 successfully detected early warning signs on the Sun prior to solar flares.",
-        "tags": [
-            "Science & Technology",
-            "Space Missions"
-        ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlzNjdxbnlRN1pibDZxOGNyOUFyNUw1bHc3eWFUQUwxTmtEVk4wRkFpaDdWZUtCR0NMc1MtakxZc1pHWE1oaFI1TTAzNlkyejVsZUVPUzYzUlZ6eHZEcEZ0TFpLdmdkaThaOFV3VFVGU25XSE9uT21tdVA1S2NuU2k0dV9sbjBLblRnN3dXS2kxODNFbjV2QXhNZFZfS0kxR2ZuMmpxSHZMTGRIM1FFWThvdHYycnhZdGc?oc=5"
-    },
-    {
         "id": "ca_2026_09_021",
         "date": "2026-09-05",
         "question": "According to recent reports, ISRO successfully launched India's first imaging satellite into which type of orbit?",
@@ -1594,5 +1499,100 @@
         ],
         "source": "The Hindu (Economy & Business)",
         "link": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
+    },
+    {
+        "id": "ca_2026_09_016",
+        "date": "2026-09-13",
+        "question": "Where is the headquarters of the New Development Bank (NDB) located?",
+        "options": [
+            "Shanghai, China",
+            "New Delhi, India",
+            "Beijing, China",
+            "Moscow, Russia"
+        ],
+        "answer": "Shanghai, China",
+        "explanation": "The New Development Bank (NDB), established by the BRICS bloc to fund infrastructure projects, is headquartered in Shanghai, China.",
+        "tags": [
+            "International Relations",
+            "BRICS"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQlpQWml3VWRBTHFoTWR1UVlHSkFKTTFrNzdCNHY3X3QyTmNYVUFVMjBTYXBqX01iR2x5TWJNY3p5T2czVEJmNnpPdm5mZ3JreFpLZzN2UVpGMWVwaEFlbWJZR1gycG1YMFNRdnNEc1d5Ujg3VDk4STNKTnM1MFB6WXZkYkE2dFU0R2hVSmYweHNBUjR3OXlvRFhIM21HV2lvNWRMd3Z1YjY5bU93Y3hnWWdCRWVWTFZCbGN2dWUwR180Z2tqU3VYcmp4cjdGelRlUVVvY2R2b9IB3gFBVV95cUxPODRXb1NpbTVSRW12U29QVEZEZHVqNDE5ZnFoU25iRTE5Nk1INmVNU3UtVmJKR3lIajRFZ0laUVR3TFpaWXVTZzA1VDZZRm12TWFDX0NuakJ5bFd3Skg4aWZBYjhfdVB6UDBuYVVObVROZlZHQk0wUE5OMUZhNk1ya2l2Z25rWmFDQjBYS0pLZ0hfR1hfaG16V0FzSXZ3NUxXUWI2a083ZUl2cHZhanZyc2ZpLXdfd2M0N0E3R3pHTFhqSXJxRjdmdmRYbjhrSlR6QTZSc3J4Wmw4NXBiV3c?oc=5"
+    },
+    {
+        "id": "ca_2026_09_017",
+        "date": "2026-09-13",
+        "question": "Under the RBI's Scale Based Regulation (SBR) framework, Core Investment Companies (CICs) classified under which category are mandated to list on stock exchanges within three years of identification?",
+        "options": [
+            "NBFC-Base Layer (NBFC-BL)",
+            "NBFC-Middle Layer (NBFC-ML)",
+            "NBFC-Upper Layer (NBFC-UL)",
+            "NBFC-Top Layer (NBFC-TL)"
+        ],
+        "answer": "NBFC-Upper Layer (NBFC-UL)",
+        "explanation": "Under the RBI's Scale Based Regulation (SBR) framework introduced in 2021, Core Investment Companies classified as NBFC-Upper Layer (NBFC-UL) are required to list on stock exchanges within three years of identification.",
+        "tags": [
+            "Banking",
+            "RBI Rules"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDM0MjJnLTlEaWk4LTY0REdiZjRpTXhpRU0zeGI5Nkg0OEhJY2dEZlh2OXNUZmVKaDlZUllLcG9ERUEyTWhqVklVMlpGZk9GTFd2ek4xWS1WREZzYkhuX1ZVR0NUVW42VUtZYjN5NW1DTF8zU3FhRHFTOFBxbWh1Qi1xQVg?oc=5"
+    },
+    {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-13",
+        "question": "In which year was the Securities and Exchange Board of India (SEBI) established as a statutory body?",
+        "options": [
+            "1988",
+            "1992",
+            "1995",
+            "2000"
+        ],
+        "answer": "1992",
+        "explanation": "SEBI was established as a statutory body under the Securities and Exchange Board of India Act, 1992.",
+        "tags": [
+            "Economy",
+            "Capital Markets"
+        ],
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM1lMVXgzMzJrUUdVRExnRXRTNlpBbmlacnZSenkxQmJMNnpCUjE2YlhaTXc4OU4wTTVLUXgwdXNpVmhUUEFsTVR4T1gxb0M5U0Q2YUNuN1pzNzNBdkFRYUt2VTFhYy0tNmJBRlVuWGk1SU5Zc3cyM2hIXzBCZjBQNzJ5RXJ3cjVDdjBEZEFqejVlVnlxTndWZm43ZkdDeE8tM2s0SjJvVU5OSERuRzNOSW1tRXRWOHkzZl93TWNPTTVBdXZCQTB5cll6bVQ2dWEwcmd30gHbAUFVX3lxTE1MWm9Ga0NwRGR2LVhCN0RUY0hXZmxvc1RaMmtKbWRkMk8ySjYzUmxScm5YTkRMNFlGeGRIZWVNSkJIU1FSWUNHNXN0eXQ1bTJEV1pEWDRhYTJjNG1menlzM3FjTjY3Z2c3NlRwWmdtak05aUxtV2JzNEpnMkg5U3F5Z1lrY09YdUNxelBPa0ZWVUF4bkJHWTNKSmhWWDI5RExRQXJHZXFpNlQycnMwSjZYVk5HekF3WXpnLWtzTVpvWW5KaW9VRXRKa29seUxMN1FxbHJ3cEVlMmZrQQ?oc=5"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-13",
+        "question": "The Western Dedicated Freight Corridor (WDFC) extends from Dadri in Uttar Pradesh to which destination in India?",
+        "options": [
+            "Mundra Port in Gujarat",
+            "Jawaharlal Nehru Port Trust (JNPT) in Maharashtra",
+            "Kolkata Port in West Bengal",
+            "Visakhapatnam Port in Andhra Pradesh"
+        ],
+        "answer": "Jawaharlal Nehru Port Trust (JNPT) in Maharashtra",
+        "explanation": "The Western Dedicated Freight Corridor (WDFC) runs from Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) in Maharashtra, significantly boosting freight transportation capacity.",
+        "tags": [
+            "Infrastructure",
+            "Indian Railways"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-13",
+        "question": "The upcoming landmark Free Trade Agreement (FTA) between India and the European Union is currently awaiting approval from which top body in Brussels?",
+        "options": [
+            "European Parliament",
+            "Council of the European Union",
+            "European Commission",
+            "European Central Bank"
+        ],
+        "answer": "Council of the European Union",
+        "explanation": "India and the EU are nearing the conclusion of an FTA, which is pending approval from the Council of the European Union in Brussels.",
+        "tags": [
+            "International Trade",
+            "Economy"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzI4MHlZRkVhbUwyUDVnLTZxdmlMV1BhTmI2elN0dWtxVEJGakhzRFBaWEJ3MTdzUG1QbHRQN1ZJZGYta2xaRE5HT0V0aUVmcm16SWw0NmVET1lMdDRYY3FOcWNvYmhIeXlwLWFMZlBXekdkemlTdFVPVVc5Snd5RERRTWtHaXMxLWkzYzZOLWp0RmlBQWpDNTRRdnVRN2ttcDdGUkxtM0ktTDJWYzhBMWQ0S1lNUjNvMy1ndnd0MEdjUnpVOXp1UFNKbmfSAdMBQVVfeXFMTlZaVXE2RjZhTHVzTWVfUnd2LUhWVUVSZlA5S2NyTVh1S2l1cHdMcGJ4RGZYa3lWdzZVMHM5R0JtLU5yaUhqdmZtOTdETXllcDFITTJyNldRN29GQV9wQ05pUTBBbUo0MTBKTUxzOThyWndPQU9tbHBUcFVkczhtQVRKYXVzWVp5WFFGd1NyRVAyMnFJRlVvUGdNNmYtTHBEU3RHenItdG80ZDAwM0VfakExXzJCWmZSZXJHRDJjU0JQbXhXbGRRRjQzajkwQzdETFozbw?oc=5"
     }
 ]
