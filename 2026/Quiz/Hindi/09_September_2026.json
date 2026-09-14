@@ -1503,18 +1503,18 @@
     {
         "id": "ca_2026_09_016",
         "date": "2026-09-14",
-        "question": "पूरे एशिया में क्रिकेट को बढ़ावा देने और विकसित करने के लिए एशियाई क्रिकेट परिषद (ACC) की स्थापना किस वर्ष की गई थी?",
+        "question": "एशियाई क्रिकेट परिषद (ACC) का मुख्यालय कहाँ स्थित है?",
         "options": [
-            "1975",
-            "1983",
-            "1988",
-            "1991"
+            "दुबई, यूएई",
+            "नई दिल्ली, भारत",
+            "कोलंबो, श्रीलंका",
+            "कुआलालंपुर, मलेशिया"
         ],
-        "answer": "1983",
-        "explanation": "महिला एशिया कप का आयोजन करने वाली एशियाई क्रिकेट परिषद (ACC) की स्थापना 1983 में पूरे एशिया में क्रिकेट को बढ़ावा देने और विकसित करने के लिए की गई थी।",
+        "answer": "दुबई, यूएई",
+        "explanation": "एशियाई क्रिकेट परिषद (ACC) की स्थापना 1983 में पूरे एशिया में क्रिकेट को बढ़ावा देने के लिए की गई थी और इसका मुख्यालय दुबई, यूएई में स्थित है।",
         "tags": [
             "Sports",
-            "Current Affairs"
+            "International Organizations"
         ],
         "source": "The Hindu (National)",
         "link": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece"
@@ -1522,56 +1522,56 @@
     {
         "id": "ca_2026_09_017",
         "date": "2026-09-14",
-        "question": "रक्षा मंत्रालय की एक रिपोर्ट के अनुसार, 'ऑपरेशन सिंदूर' के दौरान भारतीय वायु सेना के S-400 मिसाइल रक्षा प्रणाली ने कितनी दूरी पर लक्ष्य को सफलता पूर्वक भेदा था?",
+        "question": "भारत द्वारा अधिग्रहित S-400 ट्राइंफ वायु रक्षा प्रणाली को किस रूसी संस्था ने विकसित किया है?",
         "options": [
-            "250 किमी",
-            "314 किमी",
-            "400 किमी",
-            "500 किमी"
+            "अल्माज़-एंटी",
+            "रोस्टेक",
+            "टैक्टिकल मिसाइल्स कॉर्पोरेशन",
+            "यूनाइटेड एयरक्राफ्ट कॉर्पोरेशन"
         ],
-        "answer": "314 किमी",
-        "explanation": "रक्षा मंत्रालय की रिपोर्ट के अनुसार, भारतीय वायु सेना की S-400 ट्राइंफ मिसाइल रक्षा प्रणाली ने ऑपरेशन सिंदूर के दौरान 314 किमी की दूरी पर एक लक्ष्य को सफलतापूर्वक भेदा था।",
+        "answer": "अल्माज़-एंटी",
+        "explanation": "S-400 ट्राइंफ एक लंबी दूरी की मोबाइल सतह से हवा में मार करने वाली मिसाइल प्रणाली है जिसे रूस की अल्माज़-एंटी द्वारा विकसित किया गया है।",
         "tags": [
-            "Defence",
-            "Science and Technology"
+            "Defense",
+            "Science & Technology"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT01NcDJjRjVvd2M4VGlBeVRFN0VoVDBPVVZFWEl5dVc1cGE2aWkwbnl5d2RQcUdRS213c0ozWUxNRERCd1J0YS1oeWtuVllvTmRWLXZWX2RjRFVYTHE2YUo5bkV1ZElVY1ZDS1ZLZzNmenNQSXRWZjN2TWs4bmE2ZjNmVThNSWlULUpGd1U4RmJXOFVORjFHVkhCeHRVMEU1Q0taNlZzeXcxSV81RzZxSE52bS1FdDFvLVQ2Unp1X0VVUDY1MS1PaVVKbjJodzMzeFoyOElER3RDbnZUYkVvQXJYYXVac2PSAe4BQVVfeXFMTzBuaVNpekxxR181N0JnSkFlUkNSTldUeHFvS3MyT3VlYWd6cnFJMVJzbWlvanJQdDdVLUNSWWVRUzdjMFlTQTdJMGFsOThmWlBtTEtPUzhENUhQQVBjMXM3OFBEUnNhVXhva28tZGxQbG1DbEhzSDJVOEE4WXRTeF9XU1lPLXlDeDF1NHZNeEhmN3NyV1dvMlRsRXZZRy1qd2U2cG8wektrcVdCLXdKVld6YjFsbkFOamZzSi1Na29Vbjg1eHRPU19nYW5oVHpkRmplV0hMSE9ZemkxMHMza3BTa0F6ZnhUaWlqdlowZw?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT01NcDJjRjVvd2M4VGlBeVRFN0VoVDBPVVZFWEl5dVc1cGE2aWkwbnl5d2RQcUdRS213c0ozWUxNRERCd1J0YS1oeWtuVllvTmRWLXZWX2RjRFVYTHE2YUo5bkV1ZElVY1ZDS1ZLZzNmenNQSXRWZjN2TWs4bmE2ZjNmVThNSWlULUpGd1U4RmJXOFVORjFHVkhCeHRVMEU1Q0taNlZzeXcxSV81RzZxSE52bS1FdDFvLVQ2Unp1X0VVUDY1MS1PaVVKbjJodzMzeFoyOElER3RDbnZUYkVvQXJYYXVac2PSAe4BQVVfeXFMTzBuaVNpekxxR181N0JnSkFlUkNSTldUeHFvS3MyT3VlYWd6cnFJMVJzbWlvanJQdDdVLUNSWWVRUzdjMFlTQTdJMGFsOThmWlBtTEtPUzhENUhQQVBjMXM3OFBEUnNhVXhva28tZGxQbG1DbEhzSDJVOEE4WXRTeF9XU1lPLXlDeDF1NHZNeEhmN3NyV1dvMlRsRXZZRy1qd2U2cG8wektrcVdCLXdKVld6YjFsbkFOamZzSi1Na29Vbjg1eHRPU19nYW5oVHpkRmplV0HSEOYemkxMHMza3BTa0F6ZnhUaWlqdlowZw?oc=5"
     },
     {
         "id": "ca_2026_09_018",
         "date": "2026-09-14",
-        "question": "18वें ब्रिक्स (BRICS) शिखर सम्मेलन के समापन पर प्रमुख वैश्विक चुनौतियों पर सहमति को रेखांकित करते हुए किस घोषणापत्र को अपनाया गया?",
+        "question": "भारतीय संविधान के किस अनुच्छेद के तहत समान नागरिक संहिता (UCC) निहित है?",
         "options": [
-            "जोहान्सबर्ग घोषणापत्र",
-            "नई दिल्ली घोषणापत्र",
-            "कज़ान घोषणापत्र",
-            "बीजिंग घोषणापत्र"
+            "अनुच्छेद 39A",
+            "अनुच्छेद 44",
+            "अनुच्छेद 48A",
+            "अनुच्छेद 51A"
         ],
-        "answer": "नई दिल्ली घोषणापत्र",
-        "explanation": "18वां ब्रिक्स शिखर सम्मेलन प्रमुख वैश्विक चुनौतियों और बहु-संरेखित विदेश नीति पर आम सहमति पर जोर देते हुए 'नई दिल्ली घोषणापत्र' को अपनाने के साथ संपन्न हुआ।",
+        "answer": "अनुच्छेद 44",
+        "explanation": "समान नागरिक संहिता (UCC) भारतीय संविधान के भाग IV (राज्य नीति के निदेशक सिद्धांत) के तहत अनुच्छेद 44 में निहित है।",
         "tags": [
-            "International Relations",
-            "Summits"
+            "Polity",
+            "Indian Constitution"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHdIU3AyUEhvMjljZ1ZvWmZMdHN3OWRUVmtXZnk3d2VEQ2I3Y0RwUzU3TlVtSV9sYjViU0V6TnFHX25CanpzMFFXZFFnM1RseDZITVFEN1FaYzljUjYtU1lJSUliU3VZR1JyMm82aDVvQ1JLM1BIa1BiNHo3eUpsdUpzeWdwczd1OHdrQmV30gGTAUFVX3lxTE80QVRsbWJlZkpHbTJUSGV6MzlMeUN0QWc1SHYtQVNKOWxzODQyTDNURlp1amZHN2dFeE16dG0yWGQycG9XLTE1bnZBc0M5RHVua2R1elRqaVFrQS1qRUxELWp3ZFlCVkhoY2VNVGVJUlZaVHQ1UmFtZVpLZll2cnNBUXlKSEhWRlp4MWwtLWNCV0k2UQ?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWlFGMHNlYlFNZElHd1ZteUtKOGtMLXVrVGppR2RhMG5FTlJacVFBbEZ1WWl0eGVwWXJCTFNfakUxUHNiX1l4aVVZalVfYlVGZFd5Z1RpUmhsTHFhSDROclNtc0R0T014TXdQWVA2Qm1UeGlJd1FWb2kwSUJqU1JMWDhMU1hmRDh6UnkxVW9valJvemRkSUVnSnV6di1VcnBoOFJwd05aVWdMTTVoRE92cWg3VWl6Y2FJaFZRY2ZPM05md2h1dTdLbEpyRy0zUkJLaWZlUndR0gHcAUFVX3lxTE1VcE1FZEg1UnR6Q0J5dDF3REhoN21pTnpXbVh2QUdpYnlQbzUzZm9jZ3F4WW14b3JXdXg5WmhOMjBVQ0c4TVpWMTVONzZ6X2wteVJjLWI1MnhFNTBqQUxody1aVzRWb25aWk1oek1mTkszazdqSF9fc1pjWDEtdXJpUTF4UUlYV05xQ0h1akU4OTVUdk56QkRianR3QUh4RWtyLXlqam80R1NSTlc3cXdZeGtkR2VmeWNMVHhOZ2RzU0F3Qk9IVTJwanNwYzRRV3dUT1VxazI0UHJ4VHI?oc=5"
     },
     {
         "id": "ca_2026_09_019",
         "date": "2026-09-14",
-        "question": "भारत-यूरोपीय संघ (EU) मुक्त व्यापार समझौते (FTA) के ढांचे के तहत, पहले वर्ष में रियायती शुल्क (टैरिफ) पर यूरोपीय संघ की अधिकतम कितनी कारों को भारत में आयात करने की अनुमति है?",
+        "question": "प्रस्तावित व्यापार समझौते के तहत इसके प्रारंभिक वर्ष के दौरान यूरोपीय संघ की कितनी कारों को रियायती शुल्क दरों पर भारत में आयात करने की अनुमति है?",
         "options": [
-            "50,000",
-            "1 लाख",
-            "1.64 लाख",
-            "2.5 लाख"
+            "500,000",
+            "695,000",
+            "1,000,000",
+            "1,640,000"
         ],
-        "answer": "1 लाख",
-        "explanation": "भारत-यूरोपीय संघ मुक्त व्यापार समझौते का पारस्परिक ढांचा पहले वर्ष में रियायती शुल्कों पर यूरोपीय संघ की 1 लाख तक कारों के आयात की अनुमति देता है।",
+        "answer": "1,000,000",
+        "explanation": "प्रस्तावित भारत-ईयू व्यापार समझौता अपने शुरुआती वर्ष के दौरान यूरोपीय संघ से 1,000,000 कारों को रियायती शुल्क दरों पर आयात करने की अनुमति देता है।",
         "tags": [
             "Economy",
-            "Trade Agreements"
+            "International Trade"
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDNaSnYxb1NEckM5bkU4YkVtQ1dGR3JkS3JzS2dEVjZyR210aGJDdTY5ZjBkVHBDU21KaWpreU9qZDZRUzYzMU5sV1RpaWVld05Xd1lmUnFhVEctcE5qajJJOGEzTUFzeFUyNks5dzVOaEp5VGhOVENBY19fdERCSjZyVk0yYVhrYVZPU1NVYzhHUWt1TVhHQmhKbGE2MjF4M25qU3FVcWs5aEFBS0hoR2xzLWsyRTlEN2hEaWlmaXZfN0RqQnJjSWxB0gHPAUFVX3lxTE1GeUtBSjMxd3pKSU9PTFlidUVLRGVqRDFzWVV2dkMtWU1nVnM4VEw2Vk5DS3NUSTRGMHVnUTk0TWRidnE5Y1VjeHdSZVJPT01BWHlVRXFsbWR5RW1UMjJUNHBrbWJ0TTJjQ2tFMnVsc21LNXExMVg1OHZZNGVKbUxReHVqdkNsRVlTZkMzeUY4NjRuSkVrd3ZmR2lLbmJraXdSYVRzN0hJMFEyTDc2SGVKZVFxM0VBdm9sbXdVWmItZHNEYjJLZ2t4aFo4bXRfdw?oc=5"
@@ -1579,18 +1579,18 @@
     {
         "id": "ca_2026_09_020",
         "date": "2026-09-14",
-        "question": "ब्रिक्स सदस्य देशों ने तर्क दिया कि यूरोपीय संघ के CBAM जैसे एकतरफा उपाय UNFCCC के किस मूल सिद्धांत का उल्लंघन करते हैं?",
+        "question": "ब्रिक्स (BRICS) समूह ने तर्क दिया कि यूरोपीय संघ के कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) जैसे एकतरफा कार्बन टैक्स UNFCCC के किस प्रमुख सिद्धांत का उल्लंघन करते हैं?",
         "options": [
-            "प्रदूषणकर्ता भुगतान का सिद्धांत (Polluter Pays Principle)",
-            "पूर्वसावधानी का सिद्धांत (Precautionary Principle)",
-            "समान लेकिन विभेदित उत्तरदायित्व (CBDR-RC)",
-            "विस्तारित उत्पादक उत्तरदायित्व (Extended Producer Responsibility)"
+            "समान लेकिन अलग-अलग जिम्मेदारियां (CBDR)",
+            "प्रदूषक द्वारा भुगतान का सिद्धांत (Polluter Pays Principle)",
+            "एहतियाती सिद्धांत (Precautionary Principle)",
+            "अंतर-पीढ़ीगत समता (Intergenerational Equity)"
         ],
-        "answer": "समान लेकिन विभेदित उत्तरदायित्व (CBDR-RC)",
-        "explanation": "ब्रिक्स देशों का तर्क है कि यूरोपीय संघ के CBAM जैसे हरित टैरिफ UNFCCC के 'समान लेकिन विभेदित उत्तरदायित्व' (CBDR-RC) के सिद्धांत का विरोध करते हैं और WTO के नियमों का उल्लंघन करते हैं।",
+        "answer": "समान लेकिन अलग-अलग जिम्मेदारियां (CBDR)",
+        "explanation": "ब्रिक्स सदस्यों ने यूरोपीय संघ के CBAM का विरोध करते हुए कहा कि यह विश्व व्यापार संगठन के मानदंडों और UNFCCC के तहत समान लेकिन अलग-अलग जिम्मेदारियों (CBDR) के सिद्धांत का उल्लंघन करता है।",
         "tags": [
             "Environment",
-            "International Trade"
+            "International Relations"
         ],
         "source": "Google News (India National)",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTg0LXdaVFcwZnlJMkI3WmdMd2Y3MXEzV08yWjVEWTkyajV5R29oY3VNQUtJLVZVZDdBem9wNy14UHo5ZGZLTkJIOC1rLW1XbXhzbTFLWVl3T0FmTm9RUTBMZDB0V1pOblJQVm02dzc1alU5SlJsTzI3Nk9EbnFWbzNWcHJ0Um40bmtNZE1GYXFWSDhNekhWU2hNZWdIU195bE8teHd3bEF0V21KVjRXMlRwc3ZZTUVmZzJaNVZGeEVnTjkxVkt1dGZR?oc=5"
