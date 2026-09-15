@@ -1502,97 +1502,102 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-14",
-        "question": "Where is the headquarters of the Asian Cricket Council (ACC) located?",
+        "date": "2026-09-15",
+        "question": "Under which of the following legislation were amendments issued to bar banks from levying charges on UPI and RuPay debit card transactions up to ₹2,000?",
         "options": [
-            "Dubai, UAE",
-            "New Delhi, India",
-            "Colombo, Sri Lanka",
-            "Kuala Lumpur, Malaysia"
+            "Payment and Settlement Systems Act, 2007",
+            "Banking Regulation Act, 1949",
+            "Reserve Bank of India Act, 1934",
+            "National Payments Corporation of India Act, 2016"
         ],
-        "answer": "Dubai, UAE",
-        "explanation": "The Asian Cricket Council (ACC) was established in 1983 to promote cricket across Asia and has its headquarters in Dubai, UAE.",
+        "answer": "Payment and Settlement Systems Act, 2007",
+        "explanation": "The Union Government issued the decision to prohibit Merchant Discount Rate (MDR) on small transactions under amendments to the Payment and Settlement Systems Act, 2007. This step aims to deepen digital payments penetration and enhance financial inclusion.",
         "tags": [
-            "Sports",
-            "International Organizations"
+            "Economy",
+            "Banking",
+            "UPSC"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece"
+        "link": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-14",
-        "question": "Which Russian entity developed the S-400 Triumf air defense system acquired by India?",
+        "date": "2026-09-15",
+        "question": "Which body acts as the designated authority for cross-border power trade approvals under India's Cross-Border Electricity Trade (CBET) framework?",
         "options": [
-            "Almaz-Antey",
-            "Rostec",
-            "Tactical Missiles Corporation",
-            "United Aircraft Corporation"
+            "Central Electricity Authority (CEA)",
+            "National Hydroelectric Power Corporation (NHPC)",
+            "Power Grid Corporation of India (PGCIL)",
+            "Ministry of External Affairs (MEA)"
         ],
-        "answer": "Almaz-Antey",
-        "explanation": "The S-400 Triumf is a long-range mobile surface-to-air missile system developed by Russia's Almaz-Antey.",
+        "answer": "Central Electricity Authority (CEA)",
+        "explanation": "The Central Electricity Authority (CEA) serves as the designated authority responsible for granting approvals for cross-border power trade. This mechanism facilitates sub-regional energy integration initiatives, such as power exports to Nepal.",
         "tags": [
-            "Defense",
-            "Science & Technology"
+            "International Relations",
+            "Energy",
+            "SSC"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT01NcDJjRjVvd2M4VGlBeVRFN0VoVDBPVVZFWEl5dVc1cGE2aWkwbnl5d2RQcUdRS213c0ozWUxNRERCd1J0YS1oeWtuVllvTmRWLXZWX2RjRFVYTHE2YUo5bkV1ZElVY1ZDS1ZLZzNmenNQSXRWZjN2TWs4bmE2ZjNmVThNSWlULUpGd1U4RmJXOFVORjFHVkhCeHRVMEU1Q0taNlZzeXcxSV81RzZxSE52bS1FdDFvLVQ2Unp1X0VVUDY1MS1PaVVKbjJodzMzeFoyOElER3RDbnZUYkVvQXJYYXVac2PSAe4BQVVfeXFMTzBuaVNpekxxR181N0JnSkFlUkNSTldUeHFvS3MyT3VlYWd6cnFJMVJzbWlvanJQdDdVLUNSWWVRUzdjMFlTQTdJMGFsOThmWlBtTEtPUzhENUhQQVBjMXM3OFBEUnNhVXhva28tZGxQbG1DbEhzSDJVOEE4WXRTeF9XU1lPLXlDeDF1NHZNeEhmN3NyV1dvMlRsRXZZRy1qd2U2cG8wektrcVdCLXdKVld6YjFsbkFOamZzSi1Na29Vbjg1eHRPU19nYW5oVHpkRmplV0hMSE9ZemkxMHMza3BTa0F6ZnhUaWlqdlowZw?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-14",
-        "question": "Under which Article of the Indian Constitution is the Uniform Civil Code (UCC) enshrined?",
+        "date": "2026-09-15",
+        "question": "In which year was the Financial Action Task Force (FATF) established by the G7 countries?",
         "options": [
-            "Article 39A",
-            "Article 44",
-            "Article 48A",
-            "Article 51A"
+            "1989",
+            "1995",
+            "2001",
+            "2019"
         ],
-        "answer": "Article 44",
-        "explanation": "The Uniform Civil Code (UCC) is enshrined under Article 44 in Part IV (Directive Principles of State Policy) of the Indian Constitution.",
+        "answer": "1989",
+        "explanation": "The Financial Action Task Force (FATF) was established in 1989 by G7 countries and is headquartered in Paris. It functions as the global watchdog monitoring money laundering and terror financing.",
         "tags": [
-            "Polity",
-            "Indian Constitution"
+            "International Organizations",
+            "General Awareness",
+            "Banking"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWlFGMHNlYlFNZElHd1ZteUtKOGtMLXVrVGppR2RhMG5FTlJacVFBbEZ1WWl0eGVwWXJCTFNfakUxUHNiX1l4aVVZalVfYlVGZFd5Z1RpUmhsTHFhSDROclNtc0R0T014TXdQWVA2Qm1UeGlJd1FWb2kwSUJqU1JMWDhMU1hmRDh6UnkxVW9valJvemRkSUVnSnV6di1VcnBoOFJwd05aVWdMTTVoRE92cWg3VWl6Y2FJaFZRY2ZPM05md2h1dTdLbEpyRy0zUkJLaWZlUndR0gHcAUFVX3lxTE1VcE1FZEg1UnR6Q0J5dDF3REhoN21pTnpXbVh2QUdpYnlQbzUzZm9jZ3F4WW14b3JXdXg5WmhOMjBVQ0c4TVpWMTVONzZ6X2wteVJjLWI1MnhFNTBqQUxody1aVzRWb25aWk1oek1mTkszazdqSF9fc1pjWDEtdXJpUTF4UUlYV05xQ0h1akU4OTVUdk56QkRianR3QUh4RWtyLXlqam80R1NSTlc3cXdZeGtkR2VmeWNMVHhOZ2RzU0F3Qk9IVTJwanNwYzRRV3dUT1VxazI0UHJ4VHI?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQTJMYjVaemx2SU1acHlEVHlYci05ZnZNVVpIbHBkajh1YkVELVBjUXUxZnFUdjZUQXhfLTB1eFNTQTNyNVp4ZWhBRFhwU19kNTRURHJaU3BWTUZWTENOckVCTVNPNnpHUDRUSkFRd2FweUdVRUpGbkNpRVlOTVh1NFJLa2RTeW9hT0gza3p6S0gwSm9WMnNOc0RNU1NmSzQzYno1ZGxzQmF4dExEeFY3aGpJY0l0bGJzeDFHZHBrQlVkdlZEZFFieEY4ZmZpMk1pUEs1cFpQQXNMbkJTNWI3UDdzS2xxUVlqZ3RrZW51R2c3Tjk0U2M4UWN5QVpWbS15a2lhc045cjN4VW1w0gGSAkFVX3lxTE93T3ZLREdZNTNvR2xWb0dXa2ItZW9zb2ZsbEg0ZV9zWXlZQ05JWUllREZheFI3Nl9zXzJ4Wm5STTFLbkkzd0hkSmljS000QWt4Z2FuQkdSMllKUXNjZ2NSMmljWWlLdnJ5VjJha3RoVlhsSnk1VDJheTJ3SVJwMENJczNvU3ZmX09BMXViS0RSb1Z5eVNENm0wZGtiQzZOR19BNTZCZktOOG91cWpuY3dqS185NXQ1TUlBcU1jdXlKY3hpNW14REJ3UWt5MkNYalVIX01hNHNuczg4emR0SHFmTUJ3aTNyNEpjRVFXSnRQVHJEdGt0VV9qa3drcVBzRFNWNGM3T3BBaS1KSXp1c3FaVEE?oc=5"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-14",
-        "question": "How many European Union cars does the proposed trade agreement allow to be imported into India at reduced tariff rates during its initial year?",
+        "date": "2026-09-15",
+        "question": "What is the target bilateral trade value that India and Canada aim to achieve by 2030 through their proposed trade agreement negotiations?",
         "options": [
-            "500,000",
-            "695,000",
-            "1,000,000",
-            "1,640,000"
+            "$50 billion",
+            "$25 billion",
+            "$75 billion",
+            "$100 billion"
         ],
-        "answer": "1,000,000",
-        "explanation": "The proposed India-EU trade agreement allows the import of 1,000,000 cars from the EU at reduced tariff rates during its initial year.",
+        "answer": "$50 billion",
+        "explanation": "India and Canada initiated talks for an Early Progress Trade Agreement (EPTA) aiming to expand bilateral trade to $50 billion by 2030. Key focus areas include pharmaceuticals, clean energy, agriculture, and critical minerals.",
         "tags": [
             "Economy",
-            "International Trade"
+            "International Trade",
+            "UPSC"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDNaSnYxb1NEckM5bkU4YkVtQ1dGR3JkS3JzS2dEVjZyR210aGJDdTY5ZjBkVHBDU21KaWpreU9qZDZRUzYzMU5sV1RpaWVld05Xd1lmUnFhVEctcE5qajJJOGEzTUFzeFUyNks5dzVOaEp5VGhOVENBY19fdERCSjZyVk0yYVhrYVZPU1NVYzhHUWt1TVhHQmhKbGE2MjF4M25qU3FVcWs5aEFBS0hoR2xzLWsyRTlEN2hEaWlmaXZfN0RqQnJjSWxB0gHPAUFVX3lxTE1GeUtBSjMxd3pKSU9PTFlidUVLRGVqRDFzWVV2dkMtWU1nVnM4VEw2Vk5DS3NUSTRGMHVnUTk0TWRidnE5Y1VjeHdSZVJPT01BWHlVRXFsbWR5RW1UMjJUNHBrbWJ0TTJjQ2tFMnVsc21LNXExMVg1OHZZNGVKbUxReHVqdkNsRVlTZkMzeUY4NjRuSkVrd3ZmR2lLbmJraXdSYVRzN0hJMFEyTDc2SGVKZVFxM0VBdm9sbXdVWmItZHNEYjJLZ2t4aFo4bXRfdw?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/india-canada-begin-next-round-of-talks-on-proposed-trade-pact-official/article71465752.ece"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-14",
-        "question": "The BRICS bloc argued that unilateral carbon taxes like the EU's Carbon Border Adjustment Mechanism (CBAM) violate which key principle of the UNFCCC?",
+        "date": "2026-09-15",
+        "question": "What is the weightage of 'Manufactured Products' in India's Wholesale Price Index (WPI)?",
         "options": [
-            "Common But Differentiated Responsibilities (CBDR)",
-            "Polluter Pays Principle",
-            "Precautionary Principle",
-            "Intergenerational Equity"
+            "64.23%",
+            "22.62%",
+            "13.15%",
+            "50.00%"
         ],
-        "answer": "Common But Differentiated Responsibilities (CBDR)",
-        "explanation": "BRICS members opposed the EU's CBAM, stating it violates World Trade Organization norms and the principle of Common But Differentiated Responsibilities (CBDR) under the UNFCCC.",
+        "answer": "64.23%",
+        "explanation": "In India's Wholesale Price Index (WPI) basket, Manufactured Products hold the largest weightage at 64.23%. Primary Articles constitute 22.62%, while Fuel and Power account for 13.15%.",
         "tags": [
-            "Environment",
-            "International Relations"
+            "Economy",
+            "Inflation",
+            "Banking"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTg0LXdaVFcwZnlJMkI3WmdMd2Y3MXEzV08yWjVEWTkyajV5R29oY3VNQUtJLVZVZDdBem9wNy14UHo5ZGZLTkJIOC1rLW1XbXhzbTFLWVl3T0FmTm9RUTBMZDB0V1pOblJQVm02dzc1alU5SlJsTzI3Nk9EbnFWbzNWcHJ0Um40bmtNZE1GYXFWSDhNekhWU2hNZWdIU195bE8teHd3bEF0V21KVjRXMlRwc3ZZTUVmZzJaNVZGeEVnTjkxVkt1dGZR?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece"
     }
 ]
