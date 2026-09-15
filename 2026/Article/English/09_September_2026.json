@@ -512,5 +512,46 @@
                 "pubDate": "2026-09-12T21:35:00.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-15",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards",
+                "description": "The Union Government has prohibited banks from levying charges or Merchant Discount Rate (MDR) on transactions up to ₹2,000 executed via Unified Payments Interface (UPI) and RuPay debit cards. Issued under amendments to the Payment and Settlement Systems Act, 2007, this decision aims to boost digital payments penetration across small merchants. Developed by the National Payments Corporation of India (NPCI) in 2016, UPI operates under RBI guidelines. This zero-MDR mandate supports financial inclusion while strengthening digital financial infrastructure.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece",
+                "pubDate": "2026-09-14T20:48:08.000Z"
+            },
+            {
+                "title": "India approves expedited export of electricity to flood-hit Nepal",
+                "description": "The Union Ministry of Power approved the expedited export of electricity to flood-hit Nepal to meet its urgent energy demands. Managed under Cross-Border Electricity Trade (CBET) guidelines, the initiative highlights India’s Neighborhood First policy and bilateral energy cooperation. Central Electricity Authority (CEA) acts as the designated authority for cross-border power trade approvals. India and Nepal share sub-regional energy integration mechanisms, including power purchase agreements and joint hydro-project initiatives like the Arun-III power project, reinforcing regional power grid connectivity.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece",
+                "pubDate": "2026-09-14T14:05:44.000Z"
+            },
+            {
+                "title": "Pakistan names Jaish chief Masood Azhar among most wanted terrorists, hikes bounty to PKR 70 lakh ahead of FATF review | World News - Hindustan Times",
+                "description": "Pakistan announced a bounty of PKR 70 lakh for Jaish-e-Mohammed (JeM) chief Masood Azhar ahead of the Financial Action Task Force (FATF) plenary review. Azhar was designated a global terrorist by the UN Security Council’s 1267 Sanctions Committee in May 2019. FATF, established in 1989 by G7 countries and headquartered in Paris, monitors global money laundering and terror financing. Countries non-compliant with FATF anti-money laundering standards face placement on the Grey or Black Lists, incurring severe international financial restrictions.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQTJMYjVaemx2SU1acHlEVHlYci05ZnZNVVpIbHBkajh1YkVELVBjUXUxZnFUdjZUQXhfLTB1eFNTQTNyNVp4ZWhBRFhwU19kNTRURHJaU3BWTUZWTENOckVCTVNPNnpHUDRUSkFRd2FweUdVRUpGbkNpRVlOTVh1NFJLa2RTeW9hT0gza3p6S0gwSm9WMnNOc0RNU1NmSzQzYno1ZGxzQmF4dExEeFY3aGpJY0l0bGJzeDFHZHBrQlVkdlZEZFFieEY4ZmZpMk1pUEs1cFpQQXNMbkJTNWI3UDdzS2xxUVlqZ3RrZW51R2c3Tjk0U2M4UWN5QVpWbS15a2lhc045cjN4VW1w0gGSAkFVX3lxTE93T3ZLREdZNTNvR2xWb0dXa2ItZW9zb2ZsbEg0ZV9zWXlZQ05JWUllREZheFI3Nl9zXzJ4Wm5STTFLbkkzd0hkSmljS000QWt4Z2FuQkdSMllKUXNjZ2NSMmljWWlLdnJ5VjJha3RoVlhsSnk1VDJheTJ3SVJwMENJczNvU3ZmX09BMXViS0RSb1Z5eVNENm0wZGtiQzZOR19BNTZCZktOOG91cWpuY3dqS185NXQ1TUlBcU1jdXlKY3hpNW14REJ3UWt5MkNYalVIX01hNHNuczg4emR0SHFmTUJ3aTNyNEpjRVFXSnRQVHJEdGt0VV9qa3drcVBzRFNWNGM3T3BBaS1KSXp1c3FaVEE?oc=5",
+                "pubDate": "2026-09-14T10:41:06.000Z"
+            },
+            {
+                "title": "India, Canada begin next round of talks on proposed trade pact: Official",
+                "description": "India and Canada initiated negotiations for an Early Progress Trade Agreement (EPTA) as a step toward a full Comprehensive Economic Partnership Agreement (CEPA). Overseen by the Ministry of Commerce and Industry, the trade pact aims to expand bilateral trade to $50 billion by 2030. Key focus areas include pharmaceuticals, clean energy, agriculture, critical minerals, and services. Free Trade Agreements (FTAs) like CEPA lower tariff barriers, boost bilateral investments, and facilitate trade integration between negotiating partner nations.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/india-canada-begin-next-round-of-talks-on-proposed-trade-pact-official/article71465752.ece",
+                "pubDate": "2026-09-14T09:11:11.000Z"
+            },
+            {
+                "title": "WPI inflation rises to 9.92% in August on rising prices of food, fuel, manufactured items",
+                "description": "India's Wholesale Price Index (WPI) inflation rose to 9.92% in August, driven by surges in food, fuel, and manufactured items, which hit a series high of 8.37%. WPI measures wholesale price changes and is published monthly by the Office of the Economic Adviser, Ministry of Commerce and Industry, with 2011-12 as its base year. The index comprises Primary Articles (22.62%), Fuel and Power (13.15%), and Manufactured Products (64.23%). Unlike CPI, WPI excludes service sector inflation.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece",
+                "pubDate": "2026-09-14T07:33:09.000Z"
+            }
+        ]
     }
 ]
