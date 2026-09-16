@@ -553,5 +553,46 @@
                 "pubDate": "2026-09-14T07:33:09.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-16",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Decoding India’s GDP base revision",
+                "description": "India's Ministry of Statistics and Programme Implementation (MoSPI) periodically revises the base year for Gross Domestic Product (GDP) calculations to better reflect structural shifts in the economy. A major driver for upcoming revisions is the enhanced statistical coverage and improved measurement of the unorganized and unincorporated services sector. Updating base years aligns GDP estimates with international System of National Accounts (SNA) standards, capturing updated consumption patterns and new economic activities for precise macroeconomic policy formulation by the government and the RBI.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/opinion/op-ed/decoding-indias-gdp-base-revision/article71469721.ece",
+                "pubDate": "2026-09-15T19:27:27.000Z"
+            },
+            {
+                "title": "Six States, UT sign Kishau multipurpose project agreement; CM Sukhu hails ‘major victory’ for Himachal",
+                "description": "Six beneficiary states/UTs—including Himachal Pradesh, Uttarakhand, Haryana, Delhi, Uttar Pradesh, and Rajasthan—have signed an agreement for the Kishau Multipurpose Project. Located on the Tons River, a major tributary of the Yamuna River along the Uttarakhand-Himachal Pradesh border, this 660 MW hydro-electric project aims to generate power and provide irrigation and drinking water. Classified as a Project of National Importance, the central government funds 90% of the water component, enhancing inter-state water sharing, regional power grid supply, and flood moderation capabilities.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece",
+                "pubDate": "2026-09-15T18:46:03.000Z"
+            },
+            {
+                "title": "August retail inflation raises chances of RBI rate hike in October, say economists",
+                "description": "India's retail inflation, measured by the Consumer Price Index (CPI) released by the National Statistical Office (NSO), rose to a 20-month high of 4.8% in August, driven primarily by surging food prices. Under the Monetary Policy Framework, the Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) targets headline CPI inflation at 4% with a tolerance band of 2% to 6%. Rising inflationary pressures restrict the central bank's room for monetary easing and increase the likelihood of benchmark repo rate hikes to anchor inflation expectations.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/august-retail-inflation-raises-chances-of-rbi-rate-hike-in-october-say-economists/article71468683.ece",
+                "pubDate": "2026-09-15T13:58:38.000Z"
+            },
+            {
+                "title": "Expect EU to sign FTA and India-Canada negotiations to be completed by year-end, govt says",
+                "description": "The Union Ministry of Commerce and Industry announced significant progress in India's bilateral trade negotiations, expecting the completion of negotiations with Canada and major strides on the India-EU Free Trade Agreement (FTA). Additionally, trade talks with the U.S. focus on resolving bilateral tariff issues and finalizing a long-delayed interim trade agreement. FTAs aim to reduce tariff barriers, expand market access for Indian goods and services, streamline supply chains, and boost foreign direct investment (FDI) inflows across crucial industrial and service sectors.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/expect-eu-to-sign-fta-and-india-canada-negotiations-to-be-completed-by-year-end-govt-says/article71468436.ece",
+                "pubDate": "2026-09-15T13:33:44.000Z"
+            },
+            {
+                "title": "India’s 26% goods exports surge lowers August 2026 trade deficit",
+                "description": "According to the Department of Commerce, India's merchandise exports witnessed a robust 26% growth, outpacing import growth in both percentage and absolute terms to significantly narrow the trade deficit. The surge was driven by high demand in key engineering, petroleum, chemical, and electronics sectors. The trade deficit—the difference between the monetary value of merchandise imports and exports—directly influences the Current Account Deficit (CAD). Strong foreign trade metrics help bolster foreign exchange reserves and strengthen the Indian Rupee against macroeconomic volatility.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/indias-26-goods-exports-surge-lowers-august-2026-trade-deficit/article71468184.ece",
+                "pubDate": "2026-09-15T13:22:06.000Z"
+            }
+        ]
     }
 ]
