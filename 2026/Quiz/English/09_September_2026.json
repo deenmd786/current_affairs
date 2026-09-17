@@ -1502,102 +1502,97 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-16",
-        "question": "What is highlighted as a major driver for the upcoming GDP base year revision by the Ministry of Statistics and Programme Implementation (MoSPI)?",
+        "date": "2026-09-17",
+        "question": "According to the Pygmy Hog Conservation Programme details, what is the current IUCN Red List status of the Pygmy Hog (Porcula salvania)?",
         "options": [
-            "Enhanced statistical coverage of the unorganized and unincorporated services sector",
-            "Transitioning completely to cryptocurrency-based national accounting",
-            "Automating the collection of real-time stock market indices",
-            "Mandatory implementation of single-rate goods and services tax data"
+            "Critically Endangered",
+            "Endangered",
+            "Vulnerable",
+            "Near Threatened"
         ],
-        "answer": "Enhanced statistical coverage of the unorganized and unincorporated services sector",
-        "explanation": "According to the article, a major driver for upcoming GDP base year revisions is the enhanced statistical coverage and improved measurement of the unorganized and unincorporated services sector.",
+        "answer": "Endangered",
+        "explanation": "The Pygmy Hog is listed as Endangered under the IUCN Red List and is protected under Schedule I of India's Wildlife Protection Act, 1972.",
         "tags": [
-            "Economy",
-            "GDP",
-            "MoSPI"
+            "Environment",
+            "Biodiversity"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/opinion/op-ed/decoding-indias-gdp-base-revision/article71469721.ece"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-16",
-        "question": "The 660 MW Kishau Multipurpose Project, recently agreed upon by six states/UTs, is located on which river?",
+        "date": "2026-09-17",
+        "question": "Under the 1963 Sino-Pakistan Boundary Agreement, Pakistan unlawfully ceded over 5,000 sq km of Indian territory to China in which region?",
         "options": [
-            "Sutlej River",
-            "Tons River",
-            "Teesta River",
-            "Beas River"
+            "Aksai Chin",
+            "Shaksgam Valley",
+            "Galwan Valley",
+            "Siachen Glacier"
         ],
-        "answer": "Tons River",
-        "explanation": "The Kishau Multipurpose Project is located on the Tons River, a major tributary of the Yamuna River along the Uttarakhand-Himachal Pradesh border.",
+        "answer": "Shaksgam Valley",
+        "explanation": "Under the illegal 1963 Sino-Pakistan Boundary Agreement, Pakistan unlawfully ceded over 5,000 sq km of Indian territory in the Shaksgam Valley (PoK) to China.",
         "tags": [
-            "Geography",
-            "Infrastructure",
-            "Water Resources"
+            "International Relations",
+            "Polity & Governance"
         ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDQxeGJKWm9ORXY0emM0NFBCeDJxbGpWTW10cDBIQ1dKbkFuWDhhZ2lUWmcweFBSa185Y3hWTm5KZFI2WTkzemRkOHZnSG5sRUJ6S3dHeHZXYWFNX25WQjVUeUFYR3V3SWw1U3o1RXFhM1hqc1p0N2JscFpHWWpwenhnTVA2Mkp0STAtV2Q5dWI4SXlBWkFObGNja2tLOHVQR1VveXYzNnhhOGVHRzcyYnN5cW5pME9Ua0dDUU80UDZqYWVkeTF6eVFMa0JsZ0VGZl9NNjEtcHRRNi1nWjZn0gHmAUFVX3lxTE5WcDVzUHdRWmhZZnkwYzFkbjAycmZuSFBWT2hGMlhvWHVVVjIyNkFESHpkM0MwQWRWZlZYMHRuSW9NT241YW9nRDlEQ3hHU2dXOEozeDc1bDR5WElmUzE1bUlMZzZPM1ZyN1lhbDNyYzY4NmpTbVZLWTgwMVJsSnFJSnNiRjJ1cmRoX1lNcVJmdWw4Y3p4ZWxrbGRMRlFRcXMyR3JSMDBfZ3E1V3djT09wSzNDRXZMcHpTNldtdEpXV0JfUi1SVkZvVzRyUDF5MG9vWGtJckpySnJjZjdUQ2w1blJkbmJR?oc=5"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-16",
-        "question": "Under the Monetary Policy Framework, what target for headline CPI inflation does the RBI's Monetary Policy Committee aim to maintain?",
+        "date": "2026-09-17",
+        "question": "The Union Ministry of Labour and Employment recently revised the monthly wage ceiling under the Employees' Provident Fund Organisation (EPFO) to which figure?",
         "options": [
-            "Target of 3% with a tolerance band of 1% to 5%",
-            "Target of 4% with a tolerance band of 2% to 6%",
-            "Target of 5% with a tolerance band of 3% to 7%",
-            "Target of 6% with a tolerance band of 4% to 8%"
+            "₹18,000",
+            "₹20,000",
+            "₹22,500",
+            "₹25,000"
         ],
-        "answer": "Target of 4% with a tolerance band of 2% to 6%",
-        "explanation": "The text states that under the Monetary Policy Framework, the Reserve Bank of India's Monetary Policy Committee targets headline CPI inflation at 4% with a tolerance band of 2% to 6%.",
+        "answer": "₹25,000",
+        "explanation": "The Centre increased the EPFO monthly wage ceiling from ₹15,000 to ₹25,000, marking the first hike since 2014.",
         "tags": [
             "Economy",
-            "Inflation",
-            "RBI"
+            "Social Security"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/august-retail-inflation-raises-chances-of-rbi-rate-hike-in-october-say-economists/article71468683.ece"
+        "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-16",
-        "question": "According to the news item, what primary benefit do Free Trade Agreements (FTAs) aim to deliver?",
+        "date": "2026-09-17",
+        "question": "India's renegotiated Double Taxation Avoidance Agreements (DTAAs) align with the OECD/G20 BEPS framework by introducing which test to curb tax avoidance?",
         "options": [
-            "Reduce tariff barriers and expand market access for goods and services",
-            "Impose strict quotas on foreign direct investment inflows",
-            "Eliminate reserve requirements for international trade banks",
-            "Restrict supply chain participation exclusively to public sector enterprises"
+            "Principal Purpose Test (PPT)",
+            "Substance Over Form Test (SOFT)",
+            "Significant Economic Presence Test (SEPT)",
+            "General Anti-Avoidance Test (GAAT)"
         ],
-        "answer": "Reduce tariff barriers and expand market access for goods and services",
-        "explanation": "The article explains that FTAs aim to reduce tariff barriers, expand market access for Indian goods and services, streamline supply chains, and boost foreign direct investment (FDI) inflows.",
+        "answer": "Principal Purpose Test (PPT)",
+        "explanation": "Amendments to India's DTAAs introduce the Principal Purpose Test (PPT) to align bilateral treaties with the OECD/G20 Base Erosion and Profit Shifting (BEPS) framework.",
         "tags": [
-            "International Trade",
-            "FTAs",
-            "Economy"
+            "Economy",
+            "Taxation"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/expect-eu-to-sign-fta-and-india-canada-negotiations-to-be-completed-by-year-end-govt-says/article71468436.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQ290T2lnOEdlbzJQaWxhMDJFRmhENm9lTVVuVnA0R0JnZ1NTbjhocHljNTlXRkVpcFlDVC11cnlOWl9zQTlEYy0zN05HX29NRVNYdFhVelY2YklOd1ZIN2xxRWlEZFc0VFdpblVFb044N1ZIX2FwcDZXSlB4aVRTeERPZjVwdlRYRnc1dDV6YVlYZzM2NU43T3otaTVWam9ONTJndThMcmZGbG55U0xfeFp6dHdhdUYzcFdhV0VvWkt4aVMyODlGLUszY3ZId1puZWcxeEE4Tnkwc3djMnhQb2k5cTJEV2hpWl9ZdW5HUXRrZmR4Mm1SaTVjejZjNmlvcXhjb3hmcjZmN01JQ1pISHFISkl5bDFzZDd4ZGIxTVBPaWtyNUlkUWlCTmRkZDI1?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-16",
-        "question": "According to the description provided, how does the merchandise trade deficit impact the country's macroeconomic metrics?",
+        "date": "2026-09-17",
+        "question": "Which country's parliament recently ratified a bilateral trade agreement with India cutting tariffs on timber, dairy alternatives, and kiwi exports?",
         "options": [
-            "It directly influences the Current Account Deficit (CAD)",
-            "It eliminates the necessity of maintaining foreign exchange reserves",
-            "It automatically raises personal income tax brackets",
-            "It reduces government funding for domestic infrastructure projects"
+            "Australia",
+            "New Zealand",
+            "United Kingdom",
+            "Canada"
         ],
-        "answer": "It directly influences the Current Account Deficit (CAD)",
-        "explanation": "The article explicitly states that the trade deficit—the difference between the monetary value of merchandise imports and exports—directly influences the Current Account Deficit (CAD).",
+        "answer": "New Zealand",
+        "explanation": "The Parliament of New Zealand ratified a bilateral trade agreement with India that drastically reduces tariffs across export categories including timber, dairy alternatives, and kiwi.",
         "tags": [
-            "Economy",
-            "Foreign Trade",
-            "CAD"
+            "International Trade",
+            "Economy"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/indias-26-goods-exports-surge-lowers-august-2026-trade-deficit/article71468184.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5"
     }
 ]
