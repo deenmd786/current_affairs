@@ -1502,97 +1502,102 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-17",
-        "question": "पिग्मी हॉग संरक्षण कार्यक्रम के विवरण के अनुसार, पिग्मी हॉग (पोरकुला साल्वानिया) की वर्तमान आईयूसीएन (IUCN) रेड लिस्ट स्थिति क्या है?",
+        "date": "2026-09-18",
+        "question": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) के तहत शुरू किए गए 'इंडिया सेमीकंडक्टर मिशन' (ISM) का वित्तीय परिव्यय कितना है?",
         "options": [
-            "गंभीर रूप से संकटग्रस्त (Critically Endangered)",
-            "संकटग्रस्त (Endangered)",
-            "सुभेद्य (Vulnerable)",
-            "संकटापन्न (Near Threatened)"
+            "₹50,000 करोड़",
+            "₹65,000 करोड़",
+            "₹76,000 करोड़",
+            "₹85,000 करोड़"
         ],
-        "answer": "संकटग्रस्त (Endangered)",
-        "explanation": "पिग्मी हॉग आईयूसीएन (IUCN) रेड लिस्ट के तहत 'संकटग्रस्त' (Endangered) के रूप में सूचीबद्ध है और इसे भारत के वन्यजीव संरक्षण अधिनियम, 1972 की अनुसूची I के तहत संरक्षण प्राप्त है।",
+        "answer": "₹76,000 करोड़",
+        "explanation": "भारत को सेमीकंडक्टर विनिर्माण और डिजाइन के लिए एक वैश्विक केंद्र के रूप में स्थापित करने के लिए MeitY के तहत ₹76,000 करोड़ के परिव्यय के साथ इंडिया सेमीकंडक्टर मिशन (ISM) शुरू किया गया था।",
         "tags": [
-            "Environment",
-            "Biodiversity"
+            "Economy",
+            "Technology",
+            "Government Schemes"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece"
+        "link": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-17",
-        "question": "1963 के चीन-पाकिस्तान सीमा समझौते के तहत, पाकिस्तान ने गैर-कानूनी रूप से किस क्षेत्र में 5,000 वर्ग किलोमीटर से अधिक भारतीय क्षेत्र चीन को सौंप दिया था?",
+        "date": "2026-09-18",
+        "question": "विदेश मंत्रालय द्वारा अधिसूचित अद्यतन पासपोर्ट नियमों के अनुसार, 15 वर्ष से कम आयु के बच्चों को जारी किए जाने वाले 36-पेज वाले पासपोर्ट की वैधता अवधि कितनी है?",
         "options": [
-            "अक्साई चिन",
-            "शक्सगाम घाटी",
-            "गलवान घाटी",
-            "सियाचिन ग्लेशियर"
+            "3 वर्ष या जब तक बच्चा 15 वर्ष की आयु प्राप्त नहीं कर लेता",
+            "5 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
+            "10 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
+            "5 वर्ष या जब तक बच्चा 21 वर्ष की आयु प्राप्त नहीं कर लेता"
         ],
-        "answer": "शक्सगाम घाटी",
-        "explanation": "1963 के अवैध चीन-पाकिस्तान सीमा समझौते के तहत, पाकिस्तान ने गैर-कानूनी रूप से शक्सगाम घाटी (PoK) में 5,000 वर्ग किलोमीटर से अधिक भारतीय क्षेत्र चीन को सौंप दिया था।",
+        "answer": "5 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
+        "explanation": "विदेश मंत्रालय (MEA) के नए नियमों के तहत, 15 वर्ष से कम आयु के नाबालिगों को जारी किए जाने वाले 36-पेज के पासपोर्ट पांच वर्ष या बच्चे के 18 वर्ष का होने तक (जो भी पहले हो) वैध होंगे।",
         "tags": [
-            "International Relations",
-            "Polity & Governance"
+            "Polity",
+            "Governance",
+            "Current Affairs"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDQxeGJKWm9ORXY0emM0NFBCeDJxbGpWTW10cDBIQ1dKbkFuWDhhZ2lUWmcweFBSa185Y3hWTm5KZFI2WTkzemRkOHZnSG5sRUJ6S3dHeHZXYWFNX25WQjVUeUFYR3V3SWw1U3o1RXFhM1hqc1p0N2JscFpHWWpwenhnTVA2Mkp0STAtV2Q5dWI4SXlBWkFObGNja2tLOHVQR1VveXYzNnhhOGVHRzcyYnN5cW5pME9Ua0dDUU80UDZqYWVkeTF6eVFMa0JsZ0VGZl9NNjEtcHRRNi1nWjZn0gHmAUFVX3lxTE5WcDVzUHdRWmhZZnkwYzFkbjAycmZuSFBWT2hGMlhvWHVVVjIyNkFESHpkM0MwQWRWZlZYMHRuSW9NT241YW9nRDlEQ3hHU2dXOEozeDc1bDR5WElmUzE1bUlMZzZPM1ZyN1lhbDNyYzY4NmpTbVZLWTgwMVJsSnFJSnNiRjJ1cmRoX1lNcVJmdWw4Y3p4ZWxrbGRMRlFRcXMyR3JSMDBfZ3E1V3djT09wSzNDRXZMcHpTNldtdEpXV0JfUi1SVkZvVzRyUDF5MG9vWGtJckpySnJjZjdUQ2w1blJkbmJR?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcjkyZUxSOGVDSHh1ZWdMNlJLTXFkUEVpdjF0UGJjTEM4UEdCRzVSSzQwSWdvMkFHMU93b2cwSk54a1hDckpXUmRzSWFOMV80QzBxQTRBN1BxbDU1UEtxdHlkQTZSVE85ME5hVlNzSkg3ejNORjZaVFVTVUNBbFhjQVBsWHg5cjR3SXNKRTM3ZjRCOVBtNzNaU2t2aUg4RlVBM2ttNE9qTjJQZlhJM1hWMEhiZjF5c1dOYzM5Q296YTFqc1J5V2ZLUW42VTdsNWUtSWRwMElZbnJZbGPSAeABQVVfeXFMTTJETVFHTVY0VUgxU0wyaXlNV3Z4TURKUDJYeHRrR2dtck05dDk5YXpuY2NUTXpOZ3NWeS1jaDZ4Vm80dm10VmhsSk1MWVY5QWdWbTQzM0FDUk02MEJfYUcyOF9qUk9qWGYzRW9Rekx2QnlQdVp4M3NtWkNPWTB0WHNoMHpQdWNycUc4U0JMSU1uN1U5X2ZRWTcxbFctUy14dXV1UWJaa1lfbFAyWlZGdkZBMHRodXpTVUVkSm9BSDcyTTRUOWQ2dXFkZktrbGZxS0REQmVLM21rSE1qcHhRbHI?oc=5"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-17",
-        "question": "केंद्रीय श्रम एवं रोजगार मंत्रालय ने हाल ही में कर्मचारी भविष्य निधि संगठन (EPFO) के तहत मासिक वेतन सीमा को संशोधित करके कितना कर दिया है?",
+        "date": "2026-09-18",
+        "question": "कौन सा मंत्रालय 20% एथेनॉल मिश्रण (E20) को बढ़ावा देने के उद्देश्य से भारत के एथेनॉल मिश्रित पेट्रोल (EBP) कार्यक्रम का नेतृत्व करता है?",
         "options": [
-            "₹18,000",
-            "₹20,000",
-            "₹22,500",
-            "₹25,000"
+            "कृषि एवं किसान कल्याण मंत्रालय",
+            "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
+            "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय",
+            "वाणिज्य एवं उद्योग मंत्रालय"
         ],
-        "answer": "₹25,000",
-        "explanation": "केंद्र सरकार ने ईपीएफओ (EPFO) की मासिक वेतन सीमा को ₹15,000 से बढ़ाकर ₹25,000 कर दिया है, जो 2014 के बाद से पहली बढ़ोतरी है।",
+        "answer": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
+        "explanation": "कच्चे तेल के आयात पर निर्भरता को कम करने और उत्सर्जन को घटाने के लिए पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय द्वारा एथेनॉल मिश्रित पेट्रोल (EBP) कार्यक्रम का नेतृत्व किया जाता है।",
         "tags": [
             "Economy",
-            "Social Security"
+            "Energy",
+            "Government Schemes"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece"
+        "link": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-17",
-        "question": "कर अपवंचन (tax avoidance) को रोकने के लिए, भारत के संशोधित दोहरा कराधान निवारण समझौतों (DTAAs) में किस परीक्षण (test) को शामिल करके OECD/G20 BEPS ढांचे के अनुकूल बनाया गया है?",
+        "date": "2026-09-18",
+        "question": "किस ऐतिहासिक आयोग ने मूल रूप से त्रि-भाषा सूत्र (Three-Language Formula) की सिफारिश की थी, जिसे राष्ट्रीय शिक्षा नीति (NEP) 2020 में पुनः दोहराया गया था?",
         "options": [
-            "प्रिंसिपल पर्पस टेस्ट (PPT)",
-            "सब्सटेंस ओवर फॉर्म टेस्ट (SOFT)",
-            "सिग्निफिकेंट इकोनॉमिक प्रेजेंस टेस्ट (SEPT)",
-            "जनरल एंटी-अवॉयडेंस टेस्ट (GAAT)"
+            "राधाकृष्णन आयोग (1948)",
+            "मुदलियार आयोग (1952)",
+            "कोठारी आयोग (1968)",
+            "सरकारिया आयोग (1983)"
         ],
-        "answer": "प्रिंसिपल पर्पस टेस्ट (PPT)",
-        "explanation": "भारत के DTAAs में संशोधन द्विपक्षीय संधियों को OECD/G20 बेस इरोजन एंड प्रॉफिट शिफ्टिंग (BEPS) ढांचे के साथ संरेखित करने के लिए प्रिंसिपल पर्पस टेस्ट (PPT) की शुरुआत करते हैं।",
+        "answer": "कोठारी आयोग (1968)",
+        "explanation": "त्रि-भाषा सूत्र की सिफारिश मूल रूप से 1968 में कोठारी आयोग द्वारा की गई थी और बाद में राष्ट्रीय शिक्षा नीति (NEP) 2020 में इसकी पुनः पुष्टि की गई थी।",
         "tags": [
-            "Economy",
-            "Taxation"
+            "Education",
+            "Polity",
+            "Current Affairs"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQ290T2lnOEdlbzJQaWxhMDJFRmhENm9lTVVuVnA0R0JnZ1NTbjhocHljNTlXRkVpcFlDVC11cnlOWl9zQTlEYy0zN05HX29NRVNYdFhVelY2YklOd1ZIN2xxRWlEZFc0VFdpblVFb044N1ZIX2FwcDZXSlB4aVRTeERPZjVwdlRYRnc1dDV6YVlYZzM2NU43T3otaTVWam9ONTJndThMcmZGbG55U0xfeFp6dHdhdUYzcFdhV0VvWkt4aVMyODlGLUszY3ZId1puZWcxeEE4Tnkwc3djMnhQb2k5cTJEV2hpWl9ZdW5HUXRrZmR4Mm1SaTVjejZjNmlvcXhjb3hmcjZmN01JQ1pISHFISkl5bDFzZDd4ZGIxTVBPaWtyNUlkUWlCTmRkZDI1?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEtTYWI0LTBKUjdtVFU1RVBWTGFrR3FVeExFOWFnbjdBUm80RlRNSzJ1eDRrdFdlOHlhWjB5MURKcnVxRnFaQTJ4MlJGTTVvbUJwaGg1OG9BWXhVaXhsbmNUNXI3bEVJeDAtTTVGMjJ3RzRRQXU4bkc5SzRXUkFxYUxQYl83QnF0YTMxTVNfNk9DVEtKLThETU54Uk9yVFE3U3RlblFkWEJzYkFnaVAwbU5DOHZUTkNkbnVxV3Y5bVhPVDVQUHdqc1lsMEw5azV1dGprMjJFd3UxdzlkSkFOZTdkMklwS1XSAe4BQVVfeXFMTlZ1cnU5QThUVDQ0bjI1Sk1DaWc4bWNuVDBWWFMwYVY0SVNoUkF3SG0wblFnbEh2SUFSU2NtTEpVRWF5WlBKSDFJeG5JQjlCa1F3T1gtSXp6MGhlUlo0LUpzWGRrYTVGV0M4M1Y2bFVfb3pBRkR0RjZSYjg0eDRDbEV3T0xlUGlhZE5SQ1lDRkJHaVo2aUlTdEpvODQ4VUViYTJzYlE2YUhvUHpzZ3VzLWFjMjNXRHNOQ1pqSDF1TEQ2NlQ1NDNHMmNGV2JSVkcwVExtdzB6RkdGLXRXRzNwWlBPYk9QVjhNOXl2cnJ0QQ?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-17",
-        "question": "हाल ही में किस देश की संसद ने भारत के साथ एक द्विपक्षीय व्यापार समझौते की पुष्टि की, जिससे लकड़ी, डेयरी विकल्पों और कीवी के निर्यात पर टैरिफ (शुल्क) में कटौती की गई है?",
+        "date": "2026-09-18",
+        "question": "कॉर्पोरेट मामलों के मंत्रालय के तहत कौन सा नियामक निकाय दिवाला और शोधन अक्षमता संहिता (IBC), 2016 के तहत कार्यवाहियों को विनियमित करने के लिए कार्य करता है?",
         "options": [
-            "ऑस्ट्रेलिया",
-            "न्यूजीलैंड",
-            "यूनाइटेड किंगडम",
-            "कनाडा"
+            "भारतीय रिज़र्व बैंक (RBI)",
+            "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
+            "भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI)",
+            "प्रवर्तन निदेशालय (ED)"
         ],
-        "answer": "न्यूजीलैंड",
-        "explanation": "न्यूजीलैंड की संसद ने भारत के साथ एक द्विपक्षीय व्यापार समझौते का अनुसमर्थन (ratify) किया, जो लकड़ी, डेयरी विकल्पों और कीवी सहित निर्यात श्रेणियों में सीमा शुल्क को काफी कम करता है।",
+        "answer": "भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI)",
+        "explanation": "दिवाला और शोधन अक्षमता संहिता (IBC), 2016 को कॉर्पोरेट मामलों के मंत्रालय के तहत भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI) द्वारा विनियमित किया जाता है।",
         "tags": [
-            "International Trade",
-            "Economy"
+            "Economy",
+            "Polity",
+            "Governance"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0HMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece"
     }
 ]
