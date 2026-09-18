@@ -1502,97 +1502,102 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-17",
-        "question": "According to the Pygmy Hog Conservation Programme details, what is the current IUCN Red List status of the Pygmy Hog (Porcula salvania)?",
+        "date": "2026-09-18",
+        "question": "What is the financial outlay for the India Semiconductor Mission (ISM) launched under the Ministry of Electronics and Information Technology (MeitY)?",
         "options": [
-            "Critically Endangered",
-            "Endangered",
-            "Vulnerable",
-            "Near Threatened"
+            "₹50,000 crore",
+            "₹65,000 crore",
+            "₹76,000 crore",
+            "₹85,000 crore"
         ],
-        "answer": "Endangered",
-        "explanation": "The Pygmy Hog is listed as Endangered under the IUCN Red List and is protected under Schedule I of India's Wildlife Protection Act, 1972.",
+        "answer": "₹76,000 crore",
+        "explanation": "The India Semiconductor Mission (ISM) was launched under MeitY with an outlay of ₹76,000 crore to establish India as a global hub for semiconductor manufacturing and design.",
         "tags": [
-            "Environment",
-            "Biodiversity"
+            "Economy",
+            "Technology",
+            "Government Schemes"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece"
+        "link": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-17",
-        "question": "Under the 1963 Sino-Pakistan Boundary Agreement, Pakistan unlawfully ceded over 5,000 sq km of Indian territory to China in which region?",
+        "date": "2026-09-18",
+        "question": "According to the updated Passport Rules notified by the Ministry of External Affairs, what is the validity period of 36-page passports issued to children below 15 years of age?",
         "options": [
-            "Aksai Chin",
-            "Shaksgam Valley",
-            "Galwan Valley",
-            "Siachen Glacier"
+            "3 years or until the child reaches 15 years of age",
+            "5 years or until the child reaches 18 years of age",
+            "10 years or until the child reaches 18 years of age",
+            "5 years or until the child reaches 21 years of age"
         ],
-        "answer": "Shaksgam Valley",
-        "explanation": "Under the illegal 1963 Sino-Pakistan Boundary Agreement, Pakistan unlawfully ceded over 5,000 sq km of Indian territory in the Shaksgam Valley (PoK) to China.",
+        "answer": "5 years or until the child reaches 18 years of age",
+        "explanation": "Under the new MEA rules, 36-page passports issued to minors below 15 years will be valid for five years or until the child turns 18 years old, whichever occurs earlier.",
         "tags": [
-            "International Relations",
-            "Polity & Governance"
+            "Polity",
+            "Governance",
+            "Current Affairs"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDQxeGJKWm9ORXY0emM0NFBCeDJxbGpWTW10cDBIQ1dKbkFuWDhhZ2lUWmcweFBSa185Y3hWTm5KZFI2WTkzemRkOHZnSG5sRUJ6S3dHeHZXYWFNX25WQjVUeUFYR3V3SWw1U3o1RXFhM1hqc1p0N2JscFpHWWpwenhnTVA2Mkp0STAtV2Q5dWI4SXlBWkFObGNja2tLOHVQR1VveXYzNnhhOGVHRzcyYnN5cW5pME9Ua0dDUU80UDZqYWVkeTF6eVFMa0JsZ0VGZl9NNjEtcHRRNi1nWjZn0gHmAUFVX3lxTE5WcDVzUHdRWmhZZnkwYzFkbjAycmZuSFBWT2hGMlhvWHVVVjIyNkFESHpkM0MwQWRWZlZYMHRuSW9NT241YW9nRDlEQ3hHU2dXOEozeDc1bDR5WElmUzE1bUlMZzZPM1ZyN1lhbDNyYzY4NmpTbVZLWTgwMVJsSnFJSnNiRjJ1cmRoX1lNcVJmdWw4Y3p4ZWxrbGRMRlFRcXMyR3JSMDBfZ3E1V3djT09wSzNDRXZMcHpTNldtdEpXV0JfUi1SVkZvVzRyUDF5MG9vWGtJckpySnJjZjdUQ2w1blJkbmJR?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcjkyZUxSOGVDSHh1ZWdMNlJLTXFkUEVpdjF0UGJjTEM4UEdCRzVSSzQwSWdvMkFHMU93b2cwSk54a1hDckpXUmRzSWFOMV80QzBxQTRBN1BxbDU1UEtxdHlkQTZSVE85ME5hVlNzSkg3ejNORjZaVFVTVUNBbFhjQVBsWHg5cjR3SXNKRTM3ZjRCOVBtNzNaU2t2aUg4RlVBM2ttNE9qTjJQZlhJM1hWMEhiZjF5c1dOYzM5Q296YTFqc1J5V2ZLUW42VTdsNWUtSWRwMElZbnJZbGPSAeABQVVfeXFMTTJETVFHTVY0VUgxU0wyaXlNV3Z4TURKUDJYeHRrR2dtck05dDk5YXpuY2NUTXpOZ3NWeS1jaDZ4Vm80dm10VmhsSk1MWVY5QWdWbTQzM0FDUk02MEJfYUcyOF9qUk9qWGYzRW9Rekx2QnlQdVp4M3NtWkNPWTB0WHNoMHpQdWNycUc4U0JMSU1uN1U5X2ZRWTcxbFctUy14dXV1UWJaa1lfbFAyWlZGdkZBMHRodXpTVUVkSm9BSDcyTTRUOWQ2dXFkZktrbGZxS0REQmVLM21rSE1qcHhRbHI?oc=5"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-17",
-        "question": "The Union Ministry of Labour and Employment recently revised the monthly wage ceiling under the Employees' Provident Fund Organisation (EPFO) to which figure?",
+        "date": "2026-09-18",
+        "question": "Which ministry spearheads India's Ethanol Blended Petrol (EBP) Programme aimed at promoting 20% ethanol blending (E20)?",
         "options": [
-            "₹18,000",
-            "₹20,000",
-            "₹22,500",
-            "₹25,000"
+            "Ministry of Agriculture and Farmers Welfare",
+            "Ministry of Petroleum and Natural Gas",
+            "Ministry of Environment, Forest and Climate Change",
+            "Ministry of Commerce and Industry"
         ],
-        "answer": "₹25,000",
-        "explanation": "The Centre increased the EPFO monthly wage ceiling from ₹15,000 to ₹25,000, marking the first hike since 2014.",
+        "answer": "Ministry of Petroleum and Natural Gas",
+        "explanation": "The Ethanol Blended Petrol (EBP) Programme is spearheaded by the Ministry of Petroleum and Natural Gas to reduce crude oil import dependency and lower emissions.",
         "tags": [
             "Economy",
-            "Social Security"
+            "Energy",
+            "Government Schemes"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece"
+        "link": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-17",
-        "question": "India's renegotiated Double Taxation Avoidance Agreements (DTAAs) align with the OECD/G20 BEPS framework by introducing which test to curb tax avoidance?",
+        "date": "2026-09-18",
+        "question": "Which historic commission originally recommended the Three-Language Formula that was reaffirmed in the National Education Policy (NEP) 2020?",
         "options": [
-            "Principal Purpose Test (PPT)",
-            "Substance Over Form Test (SOFT)",
-            "Significant Economic Presence Test (SEPT)",
-            "General Anti-Avoidance Test (GAAT)"
+            "Radhakrishnan Commission (1948)",
+            "Mudaliar Commission (1952)",
+            "Kothari Commission (1968)",
+            "Sarkaria Commission (1983)"
         ],
-        "answer": "Principal Purpose Test (PPT)",
-        "explanation": "Amendments to India's DTAAs introduce the Principal Purpose Test (PPT) to align bilateral treaties with the OECD/G20 Base Erosion and Profit Shifting (BEPS) framework.",
+        "answer": "Kothari Commission (1968)",
+        "explanation": "The Three-Language Formula was originally recommended by the Kothari Commission in 1968 and later reaffirmed in the National Education Policy (NEP) 2020.",
         "tags": [
-            "Economy",
-            "Taxation"
+            "Education",
+            "Polity",
+            "Current Affairs"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQ290T2lnOEdlbzJQaWxhMDJFRmhENm9lTVVuVnA0R0JnZ1NTbjhocHljNTlXRkVpcFlDVC11cnlOWl9zQTlEYy0zN05HX29NRVNYdFhVelY2YklOd1ZIN2xxRWlEZFc0VFdpblVFb044N1ZIX2FwcDZXSlB4aVRTeERPZjVwdlRYRnc1dDV6YVlYZzM2NU43T3otaTVWam9ONTJndThMcmZGbG55U0xfeFp6dHdhdUYzcFdhV0VvWkt4aVMyODlGLUszY3ZId1puZWcxeEE4Tnkwc3djMnhQb2k5cTJEV2hpWl9ZdW5HUXRrZmR4Mm1SaTVjejZjNmlvcXhjb3hmcjZmN01JQ1pISHFISkl5bDFzZDd4ZGIxTVBPaWtyNUlkUWlCTmRkZDI1?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEtTYWI0LTBKUjdtVFU1RVBWTGFrR3FVeExFOWFnbjdBUm80RlRNSzJ1eDRrdFdlOHlhWjB5MURKcnVxRnFaQTJ4MlJGTTVvbUJwaGg1OG9BWXhVaXhsbmNUNXI3bEVJeDAtTTVGMjJ3RzRRQXU4bkc5SzRXUkFxYUxQYl83QnF0YTMxTVNfNk9DVEtKLThETU54Uk9yVFE3U3RlblFkWEJzYkFnaVAwbU5DOHZUTkNkbnVxV3Y5bVhPVDVQUHdqc1lsMEw5azV1dGprMjJFd3UxdzlkSkFOZTdkMklwS1XSAe4BQVVfeXFMTlZ1cnU5QThUVDQ0bjI1Sk1DaWc4bWNuVDBWWFMwYVY0SVNoUkF3SG0wblFnbEh2SUFSU2NtTEpVRWF5WlBKSDFJeG5JQjlCa1F3T1gtSXp6MGhlUlo0LUpzWGRrYTVGV0M4M1Y2bFVfb3pBRkR0RjZSYjg0eDRDbEV3T0xlUGlhZE5SQ1lDRkJHaVo2aUlTdEpvODQ4VUViYTJzYlE2YUhvUHpzZ3VzLWFjMjNXRHNOQ1pqSDF1TEQ2NlQ1NDNHMmNGV2JSVkcwVExtdzB6RkdGLXRXRzNwWlBPYk9QVjhNOXl2cnJ0QQ?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-17",
-        "question": "Which country's parliament recently ratified a bilateral trade agreement with India cutting tariffs on timber, dairy alternatives, and kiwi exports?",
+        "date": "2026-09-18",
+        "question": "Which regulatory body functions under the Ministry of Corporate Affairs to regulate proceedings under the Insolvency and Bankruptcy Code (IBC), 2016?",
         "options": [
-            "Australia",
-            "New Zealand",
-            "United Kingdom",
-            "Canada"
+            "Reserve Bank of India (RBI)",
+            "Securities and Exchange Board of India (SEBI)",
+            "Insolvency and Bankruptcy Board of India (IBBI)",
+            "Enforcement Directorate (ED)"
         ],
-        "answer": "New Zealand",
-        "explanation": "The Parliament of New Zealand ratified a bilateral trade agreement with India that drastically reduces tariffs across export categories including timber, dairy alternatives, and kiwi.",
+        "answer": "Insolvency and Bankruptcy Board of India (IBBI)",
+        "explanation": "The Insolvency and Bankruptcy Code (IBC), 2016 is regulated by the Insolvency and Bankruptcy Board of India (IBBI) under the Ministry of Corporate Affairs.",
         "tags": [
-            "International Trade",
-            "Economy"
+            "Economy",
+            "Polity",
+            "Governance"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece"
     }
 ]
