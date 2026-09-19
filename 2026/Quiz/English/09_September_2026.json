@@ -1503,93 +1503,93 @@
     {
         "id": "ca_2026_09_016",
         "date": "2026-09-19",
-        "question": "Which entity received four Dhruv Next Generation (NG) helicopters from HAL, marking the entry of the civil-certified variant into India's civil aviation sector?",
+        "question": "Which defense public sector undertaking launched the indigenous Ocean Research Vessel 'Sagar Manthan' valued at ₹840 crore?",
         "options": [
-            "Pawan Hans Limited",
-            "Indian Air Force",
-            "Airports Authority of India",
-            "SpiceJet Civil Aviation"
+            "Garden Reach Shipbuilders & Engineers (GRSE)",
+            "Mazagon Dock Shipbuilders Limited (MDL)",
+            "Cochin Shipyard Limited (CSL)",
+            "Goa Shipyard Limited (GSL)"
         ],
-        "answer": "Pawan Hans Limited",
-        "explanation": "Hindustan Aeronautics Limited (HAL) delivered four Dhruv Next Generation (NG) helicopters to Pawan Hans Limited (PHL). This marks the entry of the civil-certified Dhruv variant into India's civil aviation sector.",
+        "answer": "Garden Reach Shipbuilders & Engineers (GRSE)",
+        "explanation": "Garden Reach Shipbuilders & Engineers (GRSE), Kolkata, launched the indigenous Ocean Research Vessel 'Sagar Manthan' valued at ₹840 crore. The vessel supports India's Deep Ocean Mission under the Ministry of Earth Sciences.",
         "tags": [
             "Defence",
-            "Civil Aviation"
-        ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece"
-    },
-    {
-        "id": "ca_2026_09_017",
-        "date": "2026-09-19",
-        "question": "What is the total value of the indigenous oceanographic research vessel 'Sagar Manthan' launched by Garden Reach Shipbuilders & Engineers (GRSE)?",
-        "options": [
-            "₹840 crore",
-            "₹650 crore",
-            "₹1,200 crore",
-            "₹500 crore"
-        ],
-        "answer": "₹840 crore",
-        "explanation": "The advanced indigenous oceanographic research vessel 'Sagar Manthan' is valued at ₹840 crore. It was launched by GRSE for the Ministry of Earth Sciences and is expected to be operational by early 2028.",
-        "tags": [
-            "Defence & Technology",
             "Science & Technology"
         ],
         "source": "The Hindu (National)",
         "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
     },
     {
-        "id": "ca_2026_09_018",
+        "id": "ca_2026_09_017",
         "date": "2026-09-19",
-        "question": "As per the guidelines for Person-to-Merchant (P2M) UPI transactions above ₹2,000, what is the maximum cap on the Merchant Discount Rate (MDR) for transactions exceeding ₹75,000?",
+        "question": "According to the RBI clarifications on Merchant Discount Rate (MDR) for Person-to-Merchant (P2M) UPI transactions above ₹2,000, what is the maximum fee cap for payments of ₹75,000 or more?",
         "options": [
-            "₹300",
             "₹150",
+            "₹300",
             "₹500",
-            "₹250"
+            "₹1,000"
         ],
         "answer": "₹300",
-        "explanation": "A 0.4% Merchant Discount Rate (MDR) applies to Person-to-Merchant (P2M) UPI transactions above ₹2,000. For transactions exceeding ₹75,000, the fee is capped at ₹300.",
+        "explanation": "Starting October 15, a 0.4% MDR applies to P2M UPI transactions above ₹2,000, which is capped at a maximum of ₹300 for payments of ₹75,000 or more.",
         "tags": [
             "Banking & Economy",
-            "Digital Payments"
+            "RBI"
         ],
         "source": "The Hindu (Economy & Business)",
         "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
     },
     {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-19",
+        "question": "By which year does National Mineral Development Corporation (NMDC) aim to achieve Net Zero operational emissions?",
+        "options": [
+            "2030",
+            "2040",
+            "2047",
+            "2070"
+        ],
+        "answer": "2047",
+        "explanation": "National Mineral Development Corporation (NMDC) announced a structured three-phase roadmap to achieve Net Zero operational emissions by 2047. This operational target aligns with India's national commitment of Net Zero by 2070.",
+        "tags": [
+            "Environment",
+            "PSU"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece"
+    },
+    {
         "id": "ca_2026_09_019",
         "date": "2026-09-19",
-        "question": "Under which legislation was the National Testing Agency (NTA) established in 2017?",
+        "question": "What is the name of the HTT-40 basic trainer aircraft handed over by Hindustan Aeronautics Limited (HAL) to the Indian Air Force?",
         "options": [
-            "Societies Registration Act",
-            "Companies Act, 2013",
-            "University Grants Commission Act, 1956",
-            "Delhi Special Police Establishment Act"
+            "Ankur",
+            "Tejas",
+            "Dhruv-NG",
+            "Netra"
         ],
-        "answer": "Societies Registration Act",
-        "explanation": "The National Testing Agency (NTA) was established in 2017 under the Societies Registration Act. It conducts major national competitive entrance examinations under the Ministry of Education.",
+        "answer": "Ankur",
+        "explanation": "Hindustan Aeronautics Limited (HAL) delivered three HTT-40 basic trainer aircraft named 'Ankur' to the Indian Air Force. These indigenous aircraft are designed to enhance preliminary flight training for pilots.",
         "tags": [
-            "Polity & Governance",
-            "Education"
+            "Defence",
+            "Aatmanirbhar Bharat"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZzVUo4TVJPMmhrTlJpQi1EZmJ3YWoyWDNKZVVYM2xkZ2VZNGR5T2ZvZXc5ZGZYc2c3UHRuY0F6T0xmMjFxTTlQeXlVTURGejBwSEhudjNYb29mRWw1aWNMcWp5M0pEdUtTUXdVVDdCNTdobXNjYVRtdjE2NFdvVzdwX29oNHh1ZWctd3NuYm14OUROMGszb2ljd1R3SmZZNzd2c2FYQUQyYm82Q1BDN2UzRFJjQ0tQSDRjalljeUhjT2NfanN5WmJtUkx0Nmh3RVl4Q1NYZjU1UGdudTh3ZG5Rb9IB8AFBVV95cUxQN1pPazROd1o0bS1WOTBCdlRCNHV1ZlkwcVNkcVlzbVhaYmMxVWg4LTFMZ081SDdkRmY0am41ZWRhdDN0WnNfeEtUbHB4ak5xNkJ0bkFzVFJNQzBHcUpUT0FYdnduVjdtVzRFejd2VFV5ai14NU45UzJRZlZraWV5Ml9xYjB1SURlZEdJUTd5aXJUdkZGS2o3dlhWbWNFbWwzalF6M2RqWVZBVldER00zdXh5SFF1TlJYRUcxQkNPekpmMlB5REdNYWdxWnVyTjFaVE5lSWhtWlhmUVI4aXNRUzdvUGV4VVMtRGFYX1h1alI?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbjMtSGZmQzVmSmRpbmlKNjRPNGtjSWNXTlYyUVdxVHRxMDV4bFVWU0U5ajloMURucEJ2djlOSmx1Vm1adF93RW9YSVZsSFN4Q0k3NFN0SXhOc1NLT0lULTdzOXJpTk1XOWpoSGpSeEJickoybllLZmIzTkItZHk4MzJxcmtQc0NTd1B5ZlJTRURLdXBmdkVycW14bzNJZEo0ZG1JWHdMYTVWT3JBZjRYaVQ4TllNWUFIazVYZC1iTDJwRXRCcFZtNzduMU05ZlRzOWw0RXAybVZaTmN3ZmJrRVd4V3NURjIzeDdtdnpSRFc4VWc?oc=5"
     },
     {
         "id": "ca_2026_09_020",
         "date": "2026-09-19",
-        "question": "Which sanctuary has been selected to expand secure cheetah habitats beyond Kuno National Park under Project Cheetah?",
+        "question": "As Project Cheetah completed four years, to what total number has India's cheetah population increased?",
         "options": [
-            "Gandhi Sagar Sanctuary",
-            "Ranthambore National Park",
-            "Periyar Wildlife Sanctuary",
-            "Jim Corbett National Park"
+            "36",
+            "44",
+            "52",
+            "60"
         ],
-        "answer": "Gandhi Sagar Sanctuary",
-        "explanation": "Project Cheetah aims to manage cheetah metapopulations and genetic diversity by expanding secure habitats beyond Kuno National Park. Strategic focus is being placed on developing Gandhi Sagar Sanctuary for this purpose.",
+        "answer": "52",
+        "explanation": "Marking four years of Project Cheetah, India's cheetah population has increased to 52, boosted by cubs born at Kuno National Park in Madhya Pradesh.",
         "tags": [
-            "Environment & Ecology",
+            "Environment",
             "Wildlife"
         ],
         "source": "Google News (India National)",
