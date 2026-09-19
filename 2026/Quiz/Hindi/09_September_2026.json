@@ -1502,102 +1502,97 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-18",
-        "question": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) के तहत शुरू किए गए 'इंडिया सेमीकंडक्टर मिशन' (ISM) का वित्तीय परिव्यय कितना है?",
+        "date": "2026-09-19",
+        "question": "किस संस्था ने HAL से चार ध्रुव नेक्स्ट जनरेशन (NG) हेलीकॉप्टर प्राप्त किए, जो भारत के नागरिक उड्डयन क्षेत्र में सिविल-प्रमाणित संस्करण के प्रवेश का प्रतीक है?",
         "options": [
-            "₹50,000 करोड़",
-            "₹65,000 करोड़",
-            "₹76,000 करोड़",
-            "₹85,000 करोड़"
+            "पवन हंस लिमिटेड",
+            "भारतीय वायु सेना",
+            "भारतीय विमानपत्तन प्राधिकरण",
+            "स्पाइसजेट सिविल एविएशन"
         ],
-        "answer": "₹76,000 करोड़",
-        "explanation": "भारत को सेमीकंडक्टर विनिर्माण और डिजाइन के लिए एक वैश्विक केंद्र के रूप में स्थापित करने के लिए MeitY के तहत ₹76,000 करोड़ के परिव्यय के साथ इंडिया सेमीकंडक्टर मिशन (ISM) शुरू किया गया था।",
+        "answer": "पवन हंस लिमिटेड",
+        "explanation": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने पवन हंस लिमिटेड (PHL) को चार ध्रुव नेक्स्ट जनरेशन (NG) हेलीकॉप्टर सौंपे। यह भारत के नागरिक उड्डयन क्षेत्र में सिविल-प्रमाणित ध्रुव संस्करण के प्रवेश का प्रतीक है।",
         "tags": [
-            "Economy",
-            "Technology",
-            "Government Schemes"
+            "Defence",
+            "Civil Aviation"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece"
+        "link": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-18",
-        "question": "विदेश मंत्रालय द्वारा अधिसूचित अद्यतन पासपोर्ट नियमों के अनुसार, 15 वर्ष से कम आयु के बच्चों को जारी किए जाने वाले 36-पेज वाले पासपोर्ट की वैधता अवधि कितनी है?",
+        "date": "2026-09-19",
+        "question": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE) द्वारा लॉन्च किए गए स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का कुल मूल्य कितना है?",
         "options": [
-            "3 वर्ष या जब तक बच्चा 15 वर्ष की आयु प्राप्त नहीं कर लेता",
-            "5 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
-            "10 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
-            "5 वर्ष या जब तक बच्चा 21 वर्ष की आयु प्राप्त नहीं कर लेता"
+            "₹840 करोड़",
+            "₹650 करोड़",
+            "₹1,200 करोड़",
+            "₹500 करोड़"
         ],
-        "answer": "5 वर्ष या जब तक बच्चा 18 वर्ष की आयु प्राप्त नहीं कर लेता",
-        "explanation": "विदेश मंत्रालय (MEA) के नए नियमों के तहत, 15 वर्ष से कम आयु के नाबालिगों को जारी किए जाने वाले 36-पेज के पासपोर्ट पांच वर्ष या बच्चे के 18 वर्ष का होने तक (जो भी पहले हो) वैध होंगे।",
+        "answer": "₹840 करोड़",
+        "explanation": "उन्नत स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का मूल्य ₹840 करोड़ है। इसे GRSE द्वारा पृथ्वी विज्ञान मंत्रालय के लिए लॉन्च किया गया था और इसके 2028 की शुरुआत तक चालू होने की उम्मीद है।",
         "tags": [
-            "Polity",
-            "Governance",
-            "Current Affairs"
+            "Defence & Technology",
+            "Science & Technology"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcjkyZUxSOGVDSHh1ZWdMNlJLTXFkUEVpdjF0UGJjTEM4UEdCRzVSSzQwSWdvMkFHMU93b2cwSk54a1hDckpXUmRzSWFOMV80QzBxQTRBN1BxbDU1UEtxdHlkQTZSVE85ME5hVlNzSkg3ejNORjZaVFVTVUNBbFhjQVBsWHg5cjR3SXNKRTM3ZjRCOVBtNzNaU2t2aUg4RlVBM2ttNE9qTjJQZlhJM1hWMEhiZjF5c1dOYzM5Q296YTFqc1J5V2ZLUW42VTdsNWUtSWRwMElZbnJZbGPSAeABQVVfeXFMTTJETVFHTVY0VUgxU0wyaXlNV3Z4TURKUDJYeHRrR2dtck05dDk5YXpuY2NUTXpOZ3NWeS1jaDZ4Vm80dm10VmhsSk1MWVY5QWdWbTQzM0FDUk02MEJfYUcyOF9qUk9qWGYzRW9Rekx2QnlQdVp4M3NtWkNPWTB0WHNoMHpQdWNycUc4U0JMSU1uN1U5X2ZRWTcxbFctUy14dXV1UWJaa1lfbFAyWlZGdkZBMHRodXpTVUVkSm9BSDcyTTRUOWQ2dXFkZktrbGZxS0REQmVLM21rSE1qcHhRbHI?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-18",
-        "question": "कौन सा मंत्रालय 20% एथेनॉल मिश्रण (E20) को बढ़ावा देने के उद्देश्य से भारत के एथेनॉल मिश्रित पेट्रोल (EBP) कार्यक्रम का नेतृत्व करता है?",
+        "date": "2026-09-19",
+        "question": "₹2,000 से अधिक के पर्सन-टू-मर्चेंट (P2M) यूपीआई (UPI) लेन-देन के दिशा-निर्देशों के अनुसार, ₹75,000 से अधिक के लेन-देन के लिए मर्चेंट डिस्काउंट रेट (MDR) पर अधिकतम सीमा क्या है?",
         "options": [
-            "कृषि एवं किसान कल्याण मंत्रालय",
-            "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
-            "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय",
-            "वाणिज्य एवं उद्योग मंत्रालय"
+            "₹300",
+            "₹150",
+            "₹500",
+            "₹250"
         ],
-        "answer": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
-        "explanation": "कच्चे तेल के आयात पर निर्भरता को कम करने और उत्सर्जन को घटाने के लिए पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय द्वारा एथेनॉल मिश्रित पेट्रोल (EBP) कार्यक्रम का नेतृत्व किया जाता है।",
+        "answer": "₹300",
+        "explanation": "₹2,000 से अधिक के पर्सन-टू-मर्चेंट (P2M) यूपीआई लेन-देन पर 0.4% का मर्चेंट डिस्काउंट रेट (MDR) लागू होता है। ₹75,000 से अधिक के लेन-देन के लिए यह शुल्क अधिकतम ₹300 तय किया गया है।",
         "tags": [
-            "Economy",
-            "Energy",
-            "Government Schemes"
+            "Banking & Economy",
+            "Digital Payments"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece"
+        "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-18",
-        "question": "किस ऐतिहासिक आयोग ने मूल रूप से त्रि-भाषा सूत्र (Three-Language Formula) की सिफारिश की थी, जिसे राष्ट्रीय शिक्षा नीति (NEP) 2020 में पुनः दोहराया गया था?",
+        "date": "2026-09-19",
+        "question": "वर्ष 2017 में राष्ट्रीय परीक्षा एजेंसी (NTA) की स्थापना किस कानून/अधिनियम के तहत की गई थी?",
         "options": [
-            "राधाकृष्णन आयोग (1948)",
-            "मुदलियार आयोग (1952)",
-            "कोठारी आयोग (1968)",
-            "सरकारिया आयोग (1983)"
+            "सोसायटी पंजीकरण अधिनियम",
+            "कंपनी अधिनियम, 2013",
+            "विश्वविद्यालय अनुदान आयोग अधिनियम, 1956",
+            "दिल्ली विशेष पुलिस स्थापना अधिनियम"
         ],
-        "answer": "कोठारी आयोग (1968)",
-        "explanation": "त्रि-भाषा सूत्र की सिफारिश मूल रूप से 1968 में कोठारी आयोग द्वारा की गई थी और बाद में राष्ट्रीय शिक्षा नीति (NEP) 2020 में इसकी पुनः पुष्टि की गई थी।",
+        "answer": "सोसायटी पंजीकरण अधिनियम",
+        "explanation": "राष्ट्रीय परीक्षा एजेंसी (NTA) की स्थापना 2017 में सोसायटी पंजीकरण अधिनियम के तहत की गई थी। यह शिक्षा मंत्रालय के अधीन प्रमुख राष्ट्रीय प्रतियोगी प्रवेश परीक्षाएं आयोजित करती है।",
         "tags": [
-            "Education",
-            "Polity",
-            "Current Affairs"
+            "Polity & Governance",
+            "Education"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEtTYWI0LTBKUjdtVFU1RVBWTGFrR3FVeExFOWFnbjdBUm80RlRNSzJ1eDRrdFdlOHlhWjB5MURKcnVxRnFaQTJ4MlJGTTVvbUJwaGg1OG9BWXhVaXhsbmNUNXI3bEVJeDAtTTVGMjJ3RzRRQXU4bkc5SzRXUkFxYUxQYl83QnF0YTMxTVNfNk9DVEtKLThETU54Uk9yVFE3U3RlblFkWEJzYkFnaVAwbU5DOHZUTkNkbnVxV3Y5bVhPVDVQUHdqc1lsMEw5azV1dGprMjJFd3UxdzlkSkFOZTdkMklwS1XSAe4BQVVfeXFMTlZ1cnU5QThUVDQ0bjI1Sk1DaWc4bWNuVDBWWFMwYVY0SVNoUkF3SG0wblFnbEh2SUFSU2NtTEpVRWF5WlBKSDFJeG5JQjlCa1F3T1gtSXp6MGhlUlo0LUpzWGRrYTVGV0M4M1Y2bFVfb3pBRkR0RjZSYjg0eDRDbEV3T0xlUGlhZE5SQ1lDRkJHaVo2aUlTdEpvODQ4VUViYTJzYlE2YUhvUHpzZ3VzLWFjMjNXRHNOQ1pqSDF1TEQ2NlQ1NDNHMmNGV2JSVkcwVExtdzB6RkdGLXRXRzNwWlBPYk9QVjhNOXl2cnJ0QQ?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZzVUo4TVJPMmhrTlJpQi1EZmJ3YWoyWDNKZVVYM2xkZ2VZNGR5T2ZvZXc5ZGZYc2c3UHRuY0F6T0xmMjFxTTlQeXlVTURGejBwSEhudjNYb29mRWw1aWNMcWp5M0pEdUtTUXdVVDdCNTdobXNjYVRtdjE2NFdvVzdwX29oNHh1ZWctd3NuYm14OUROMGszb2ljd1R3SmZZNzd2c2FYQUQyYm82Q1BDN2UzRFJjQ0tQSDRjalljeUhjT2NfanN5WmJtUkx0Nmh3RVl4Q1NYZjU1UGdudTh3ZG5Rb9IB8AFBVV95cUxQN1pPazROd1o0bS1WOTBCdlRCNHV1ZlkwcVNkcVlzbVhaYmMxVWg4LTFMZ081SDdkRmY0am41ZWRhdDN0WnNfeEtUbHB4ak5xNkJ0bkFzVFJNQzBHcUpUT0FYdnduVjdtVzRFejd2VFV5ai14NU45UzJRZlZraWV5Ml9xYjB1SURlZEdJUTd5aXJUdkZGS2o3dlhWbWNFbWwzalF6M2RqWVZBVldER00zdXh5SFF1TlJYRUcxQkNPekpmMlB5REdNYWdxWnVyTjFaVE5lSWhtWlhmUVI4aXNRUzdvUGV4VVMtRGFYX1h1alI?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-18",
-        "question": "कॉर्पोरेट मामलों के मंत्रालय के तहत कौन सा नियामक निकाय दिवाला और शोधन अक्षमता संहिता (IBC), 2016 के तहत कार्यवाहियों को विनियमित करने के लिए कार्य करता है?",
+        "date": "2026-09-19",
+        "question": "प्रोजेक्ट चीता के तहत कूनो राष्ट्रीय उद्यान से परे सुरक्षित चीता आवासों का विस्तार करने के लिए किस अभयारण्य का चयन किया गया है?",
         "options": [
-            "भारतीय रिज़र्व बैंक (RBI)",
-            "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
-            "भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI)",
-            "प्रवर्तन निदेशालय (ED)"
+            "गांधी सागर अभयारण्य",
+            "रणथंभौर राष्ट्रीय उद्यान",
+            "पेरियार वन्यजीव अभयारण्य",
+            "जिम कॉर्बेट राष्ट्रीय उद्यान"
         ],
-        "answer": "भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI)",
-        "explanation": "दिवाला और शोधन अक्षमता संहिता (IBC), 2016 को कॉर्पोरेट मामलों के मंत्रालय के तहत भारतीय दिवाला और शोधन अक्षमता बोर्ड (IBBI) द्वारा विनियमित किया जाता है।",
+        "answer": "गांधी सागर अभयारण्य",
+        "explanation": "प्रोजेक्ट चीता का उद्देश्य कूनो राष्ट्रीय उद्यान से परे सुरक्षित आवासों का विस्तार करके चीता मेटापॉपुलेशन और आनुवंशिक विविधता का प्रबंधन करना है। इस उद्देश्य के लिए गांधी सागर अभयारण्य को विकसित करने पर रणनीतिक ध्यान दिया जा रहा है।",
         "tags": [
-            "Economy",
-            "Polity",
-            "Governance"
+            "Environment & Ecology",
+            "Wildlife"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl_NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5"
     }
 ]
