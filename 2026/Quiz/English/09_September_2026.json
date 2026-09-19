@@ -1502,102 +1502,97 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-18",
-        "question": "What is the financial outlay for the India Semiconductor Mission (ISM) launched under the Ministry of Electronics and Information Technology (MeitY)?",
+        "date": "2026-09-19",
+        "question": "Which entity received four Dhruv Next Generation (NG) helicopters from HAL, marking the entry of the civil-certified variant into India's civil aviation sector?",
         "options": [
-            "₹50,000 crore",
-            "₹65,000 crore",
-            "₹76,000 crore",
-            "₹85,000 crore"
+            "Pawan Hans Limited",
+            "Indian Air Force",
+            "Airports Authority of India",
+            "SpiceJet Civil Aviation"
         ],
-        "answer": "₹76,000 crore",
-        "explanation": "The India Semiconductor Mission (ISM) was launched under MeitY with an outlay of ₹76,000 crore to establish India as a global hub for semiconductor manufacturing and design.",
+        "answer": "Pawan Hans Limited",
+        "explanation": "Hindustan Aeronautics Limited (HAL) delivered four Dhruv Next Generation (NG) helicopters to Pawan Hans Limited (PHL). This marks the entry of the civil-certified Dhruv variant into India's civil aviation sector.",
         "tags": [
-            "Economy",
-            "Technology",
-            "Government Schemes"
+            "Defence",
+            "Civil Aviation"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece"
+        "link": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-18",
-        "question": "According to the updated Passport Rules notified by the Ministry of External Affairs, what is the validity period of 36-page passports issued to children below 15 years of age?",
+        "date": "2026-09-19",
+        "question": "What is the total value of the indigenous oceanographic research vessel 'Sagar Manthan' launched by Garden Reach Shipbuilders & Engineers (GRSE)?",
         "options": [
-            "3 years or until the child reaches 15 years of age",
-            "5 years or until the child reaches 18 years of age",
-            "10 years or until the child reaches 18 years of age",
-            "5 years or until the child reaches 21 years of age"
+            "₹840 crore",
+            "₹650 crore",
+            "₹1,200 crore",
+            "₹500 crore"
         ],
-        "answer": "5 years or until the child reaches 18 years of age",
-        "explanation": "Under the new MEA rules, 36-page passports issued to minors below 15 years will be valid for five years or until the child turns 18 years old, whichever occurs earlier.",
+        "answer": "₹840 crore",
+        "explanation": "The advanced indigenous oceanographic research vessel 'Sagar Manthan' is valued at ₹840 crore. It was launched by GRSE for the Ministry of Earth Sciences and is expected to be operational by early 2028.",
         "tags": [
-            "Polity",
-            "Governance",
-            "Current Affairs"
+            "Defence & Technology",
+            "Science & Technology"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcjkyZUxSOGVDSHh1ZWdMNlJLTXFkUEVpdjF0UGJjTEM4UEdCRzVSSzQwSWdvMkFHMU93b2cwSk54a1hDckpXUmRzSWFOMV80QzBxQTRBN1BxbDU1UEtxdHlkQTZSVE85ME5hVlNzSkg3ejNORjZaVFVTVUNBbFhjQVBsWHg5cjR3SXNKRTM3ZjRCOVBtNzNaU2t2aUg4RlVBM2ttNE9qTjJQZlhJM1hWMEhiZjF5c1dOYzM5Q296YTFqc1J5V2ZLUW42VTdsNWUtSWRwMElZbnJZbGPSAeABQVVfeXFMTTJETVFHTVY0VUgxU0wyaXlNV3Z4TURKUDJYeHRrR2dtck05dDk5YXpuY2NUTXpOZ3NWeS1jaDZ4Vm80dm10VmhsSk1MWVY5QWdWbTQzM0FDUk02MEJfYUcyOF9qUk9qWGYzRW9Rekx2QnlQdVp4M3NtWkNPWTB0WHNoMHpQdWNycUc4U0JMSU1uN1U5X2ZRWTcxbFctUy14dXV1UWJaa1lfbFAyWlZGdkZBMHRodXpTVUVkSm9BSDcyTTRUOWQ2dXFkZktrbGZxS0REQmVLM21rSE1qcHhRbHI?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-18",
-        "question": "Which ministry spearheads India's Ethanol Blended Petrol (EBP) Programme aimed at promoting 20% ethanol blending (E20)?",
+        "date": "2026-09-19",
+        "question": "As per the guidelines for Person-to-Merchant (P2M) UPI transactions above ₹2,000, what is the maximum cap on the Merchant Discount Rate (MDR) for transactions exceeding ₹75,000?",
         "options": [
-            "Ministry of Agriculture and Farmers Welfare",
-            "Ministry of Petroleum and Natural Gas",
-            "Ministry of Environment, Forest and Climate Change",
-            "Ministry of Commerce and Industry"
+            "₹300",
+            "₹150",
+            "₹500",
+            "₹250"
         ],
-        "answer": "Ministry of Petroleum and Natural Gas",
-        "explanation": "The Ethanol Blended Petrol (EBP) Programme is spearheaded by the Ministry of Petroleum and Natural Gas to reduce crude oil import dependency and lower emissions.",
+        "answer": "₹300",
+        "explanation": "A 0.4% Merchant Discount Rate (MDR) applies to Person-to-Merchant (P2M) UPI transactions above ₹2,000. For transactions exceeding ₹75,000, the fee is capped at ₹300.",
         "tags": [
-            "Economy",
-            "Energy",
-            "Government Schemes"
+            "Banking & Economy",
+            "Digital Payments"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece"
+        "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-18",
-        "question": "Which historic commission originally recommended the Three-Language Formula that was reaffirmed in the National Education Policy (NEP) 2020?",
+        "date": "2026-09-19",
+        "question": "Under which legislation was the National Testing Agency (NTA) established in 2017?",
         "options": [
-            "Radhakrishnan Commission (1948)",
-            "Mudaliar Commission (1952)",
-            "Kothari Commission (1968)",
-            "Sarkaria Commission (1983)"
+            "Societies Registration Act",
+            "Companies Act, 2013",
+            "University Grants Commission Act, 1956",
+            "Delhi Special Police Establishment Act"
         ],
-        "answer": "Kothari Commission (1968)",
-        "explanation": "The Three-Language Formula was originally recommended by the Kothari Commission in 1968 and later reaffirmed in the National Education Policy (NEP) 2020.",
+        "answer": "Societies Registration Act",
+        "explanation": "The National Testing Agency (NTA) was established in 2017 under the Societies Registration Act. It conducts major national competitive entrance examinations under the Ministry of Education.",
         "tags": [
-            "Education",
-            "Polity",
-            "Current Affairs"
+            "Polity & Governance",
+            "Education"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEtTYWI0LTBKUjdtVFU1RVBWTGFrR3FVeExFOWFnbjdBUm80RlRNSzJ1eDRrdFdlOHlhWjB5MURKcnVxRnFaQTJ4MlJGTTVvbUJwaGg1OG9BWXhVaXhsbmNUNXI3bEVJeDAtTTVGMjJ3RzRRQXU4bkc5SzRXUkFxYUxQYl83QnF0YTMxTVNfNk9DVEtKLThETU54Uk9yVFE3U3RlblFkWEJzYkFnaVAwbU5DOHZUTkNkbnVxV3Y5bVhPVDVQUHdqc1lsMEw5azV1dGprMjJFd3UxdzlkSkFOZTdkMklwS1XSAe4BQVVfeXFMTlZ1cnU5QThUVDQ0bjI1Sk1DaWc4bWNuVDBWWFMwYVY0SVNoUkF3SG0wblFnbEh2SUFSU2NtTEpVRWF5WlBKSDFJeG5JQjlCa1F3T1gtSXp6MGhlUlo0LUpzWGRrYTVGV0M4M1Y2bFVfb3pBRkR0RjZSYjg0eDRDbEV3T0xlUGlhZE5SQ1lDRkJHaVo2aUlTdEpvODQ4VUViYTJzYlE2YUhvUHpzZ3VzLWFjMjNXRHNOQ1pqSDF1TEQ2NlQ1NDNHMmNGV2JSVkcwVExtdzB6RkdGLXRXRzNwWlBPYk9QVjhNOXl2cnJ0QQ?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZzVUo4TVJPMmhrTlJpQi1EZmJ3YWoyWDNKZVVYM2xkZ2VZNGR5T2ZvZXc5ZGZYc2c3UHRuY0F6T0xmMjFxTTlQeXlVTURGejBwSEhudjNYb29mRWw1aWNMcWp5M0pEdUtTUXdVVDdCNTdobXNjYVRtdjE2NFdvVzdwX29oNHh1ZWctd3NuYm14OUROMGszb2ljd1R3SmZZNzd2c2FYQUQyYm82Q1BDN2UzRFJjQ0tQSDRjalljeUhjT2NfanN5WmJtUkx0Nmh3RVl4Q1NYZjU1UGdudTh3ZG5Rb9IB8AFBVV95cUxQN1pPazROd1o0bS1WOTBCdlRCNHV1ZlkwcVNkcVlzbVhaYmMxVWg4LTFMZ081SDdkRmY0am41ZWRhdDN0WnNfeEtUbHB4ak5xNkJ0bkFzVFJNQzBHcUpUT0FYdnduVjdtVzRFejd2VFV5ai14NU45UzJRZlZraWV5Ml9xYjB1SURlZEdJUTd5aXJUdkZGS2o3dlhWbWNFbWwzalF6M2RqWVZBVldER00zdXh5SFF1TlJYRUcxQkNPekpmMlB5REdNYWdxWnVyTjFaVE5lSWhtWlhmUVI4aXNRUzdvUGV4VVMtRGFYX1h1alI?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-18",
-        "question": "Which regulatory body functions under the Ministry of Corporate Affairs to regulate proceedings under the Insolvency and Bankruptcy Code (IBC), 2016?",
+        "date": "2026-09-19",
+        "question": "Which sanctuary has been selected to expand secure cheetah habitats beyond Kuno National Park under Project Cheetah?",
         "options": [
-            "Reserve Bank of India (RBI)",
-            "Securities and Exchange Board of India (SEBI)",
-            "Insolvency and Bankruptcy Board of India (IBBI)",
-            "Enforcement Directorate (ED)"
+            "Gandhi Sagar Sanctuary",
+            "Ranthambore National Park",
+            "Periyar Wildlife Sanctuary",
+            "Jim Corbett National Park"
         ],
-        "answer": "Insolvency and Bankruptcy Board of India (IBBI)",
-        "explanation": "The Insolvency and Bankruptcy Code (IBC), 2016 is regulated by the Insolvency and Bankruptcy Board of India (IBBI) under the Ministry of Corporate Affairs.",
+        "answer": "Gandhi Sagar Sanctuary",
+        "explanation": "Project Cheetah aims to manage cheetah metapopulations and genetic diversity by expanding secure habitats beyond Kuno National Park. Strategic focus is being placed on developing Gandhi Sagar Sanctuary for this purpose.",
         "tags": [
-            "Economy",
-            "Polity",
-            "Governance"
+            "Environment & Ecology",
+            "Wildlife"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl9NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5"
     }
 ]
