@@ -676,5 +676,46 @@
                 "pubDate": "2026-09-17T06:40:30.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-19",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "HAL hands over two LCA trainer plane to Air Force",
+                "description": "Hindustan Aeronautics Limited (HAL) handed over two Light Combat Aircraft (LCA) Tejas Twin-Seater Trainer aircraft to the Indian Air Force (IAF). Additionally, HAL delivered four Dhruv Next Generation (NG) helicopters to Pawan Hans Limited (PHL), marking the entry of the civil-certified Dhruv variant into India's civil aviation sector. Developed natively by HAL under the Ministry of Defence, the LCA Tejas is a 4.5-generation multi-role fighter, while Dhruv NG enhances domestic regional air connectivity and off-shore civil operations.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece",
+                "pubDate": "2026-09-18T19:41:48.000Z"
+            },
+            {
+                "title": "Kolkata-based GRSE launches indigenous ocean research vessel 'Sagar Manthan'",
+                "description": "Defence Public Sector Undertaking (DPSU) Garden Reach Shipbuilders & Engineers (GRSE) launched 'Sagar Manthan', an advanced indigenous oceanographic research vessel being built in Kolkata. Valued at ₹840 crore, the specialized vessel is commissioned for the Ministry of Earth Sciences and expected to be operational by early 2028. It will support deep-sea exploration, resource mapping, and marine meteorological studies. This project aligns with India's Deep Ocean Mission and the 'Atmanirbhar Bharat' vision in marine technology and scientific infrastructure.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece",
+                "pubDate": "2026-09-18T19:02:22.000Z"
+            },
+            {
+                "title": "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
+                "description": "A 0.4% Merchant Discount Rate (MDR) applies to Person-to-Merchant (P2M) Unified Payments Interface (UPI) transactions above ₹2,000, capped at ₹300 for transactions exceeding ₹75,000. Reserve Bank of India (RBI) Deputy Governor clarified that this merchant-borne charge will not drive cash adoption. MDR is the fee merchants pay to processing banks for digital transactions. Governed by the National Payments Corporation of India (NPCI) and RBI guidelines, this step balances digital payment ecosystem sustainability without penalizing retail consumers.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece",
+                "pubDate": "2026-09-18T16:45:48.000Z"
+            },
+            {
+                "title": "Exam reforms: Supreme Court says will inspect NTA office; seeks report on progress by Nandan Nilekani panel - Bar and Bench",
+                "description": "The Supreme Court of India announced plans to inspect the National Testing Agency (NTA) headquarters and requested a status report on reform roadmaps, including recommendations from high-level expert panels headed by K. Radhakrishnan and Nandan Nilekani. Formed under the Ministry of Education following irregularities in the NEET-UG examination, these committees focus on overhaul of data security, examination protocols, and structural reforms in NTA. The NTA, established in 2017 under the Societies Registration Act, conducts major national competitive entrance examinations.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZzVUo4TVJPMmhrTlJpQi1EZmJ3YWoyWDNKZVVYM2xkZ2VZNGR5T2ZvZXc5ZGZYc2c3UHRuY0F6T0xmMjFxTTlQeXlVTURGejBwSEhudjNYb29mRWw1aWNMcWp5M0pEdUtTUXdVVDdCNTdobXNjYVRtdjE2NFdvVzdwX29oNHh1ZWctd3NuYm14OUROMGszb2ljd1R3SmZZNzd2c2FYQUQyYm82Q1BDN2UzRFJjQ0tQSDRjalljeUhjT2NfanN5WmJtUkx0Nmh3RVl4Q1NYZjU1UGdudTh3ZG5Rb9IB8AFBVV95cUxQN1pPazROd1o0bS1WOTBCdlRCNHV1ZlkwcVNkcVlzbVhaYmMxVWg4LTFMZ081SDdkRmY0am41ZWRhdDN0WnNfeEtUbHB4ak5xNkJ0bkFzVFJNQzBHcUpUT0FYdnduVjdtVzRFejd2VFV5ai14NU45UzJRZlZraWV5Ml9xYjB1SURlZEdJUTd5aXJUdkZGS2o3dlhWbWNFbWwzalF6M2RqWVZBVldER00zdXh5SFF1TlJYRUcxQkNPekpmMlB5REdNYWdxWnVyTjFaVE5lSWhtWlhmUVI4aXNRUzdvUGV4VVMtRGFYX1h1alI?oc=5",
+                "pubDate": "2026-09-18T07:51:19.000Z"
+            },
+            {
+                "title": "As Project Cheetah completes 4 years, big cat population in India rises to 52 - thehindu.com",
+                "description": "Marking four years of Project Cheetah, India’s wild cheetah population has reached 52, supported by successful breeding at Kuno National Park in Madhya Pradesh. Launched in September 2022 by the Ministry of Environment, Forest and Climate Change via the National Tiger Conservation Authority (NTCA), the project aims to reintroduce the extinct Asiatic cheetah habitat using African cheetahs from Namibia and South Africa. Current strategic efforts focus on metapopulation management, genetic diversity, and expanding secure habitats beyond Kuno to Gandhi Sagar Sanctuary.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl9NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5",
+                "pubDate": "2026-09-18T05:52:33.000Z"
+            }
+        ]
     }
 ]
