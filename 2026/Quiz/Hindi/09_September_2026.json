@@ -1503,96 +1503,96 @@
     {
         "id": "ca_2026_09_016",
         "date": "2026-09-19",
-        "question": "किस संस्था ने HAL से चार ध्रुव नेक्स्ट जनरेशन (NG) हेलीकॉप्टर प्राप्त किए, जो भारत के नागरिक उड्डयन क्षेत्र में सिविल-प्रमाणित संस्करण के प्रवेश का प्रतीक है?",
+        "question": "किस रक्षा सार्वजनिक क्षेत्र के उपक्रम ने ₹840 करोड़ की लागत वाले स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का शुभारंभ किया?",
         "options": [
-            "पवन हंस लिमिटेड",
-            "भारतीय वायु सेना",
-            "भारतीय विमानपत्तन प्राधिकरण",
-            "स्पाइसजेट सिविल एविएशन"
+            "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE)",
+            "मझगांव डॉक शिपबिल्डर्स लिमिटेड (MDL)",
+            "कोचीन शिपयार्ड लिमिटेड (CSL)",
+            "गोवा शिपयार्ड लिमिटेड (GSL)"
         ],
-        "answer": "पवन हंस लिमिटेड",
-        "explanation": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने पवन हंस लिमिटेड (PHL) को चार ध्रुव नेक्स्ट जनरेशन (NG) हेलीकॉप्टर सौंपे। यह भारत के नागरिक उड्डयन क्षेत्र में सिविल-प्रमाणित ध्रुव संस्करण के प्रवेश का प्रतीक है।",
+        "answer": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE)",
+        "explanation": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE), कोलकाता ने ₹840 करोड़ की लागत वाले स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का शुभारंभ किया। यह पोत पृथ्वी विज्ञान मंत्रालय के तहत भारत के 'डीप ओशन मिशन' (गहरे समुद्र मिशन) का समर्थन करता है।",
         "tags": [
             "Defence",
-            "Civil Aviation"
-        ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece"
-    },
-    {
-        "id": "ca_2026_09_017",
-        "date": "2026-09-19",
-        "question": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE) द्वारा लॉन्च किए गए स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का कुल मूल्य कितना है?",
-        "options": [
-            "₹840 करोड़",
-            "₹650 करोड़",
-            "₹1,200 करोड़",
-            "₹500 करोड़"
-        ],
-        "answer": "₹840 करोड़",
-        "explanation": "उन्नत स्वदेशी महासागर अनुसंधान पोत 'सागर मंथन' का मूल्य ₹840 करोड़ है। इसे GRSE द्वारा पृथ्वी विज्ञान मंत्रालय के लिए लॉन्च किया गया था और इसके 2028 की शुरुआत तक चालू होने की उम्मीद है।",
-        "tags": [
-            "Defence & Technology",
             "Science & Technology"
         ],
         "source": "The Hindu (National)",
         "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
     },
     {
-        "id": "ca_2026_09_018",
+        "id": "ca_2026_09_017",
         "date": "2026-09-19",
-        "question": "₹2,000 से अधिक के पर्सन-टू-मर्चेंट (P2M) यूपीआई (UPI) लेन-देन के दिशा-निर्देशों के अनुसार, ₹75,000 से अधिक के लेन-देन के लिए मर्चेंट डिस्काउंट रेट (MDR) पर अधिकतम सीमा क्या है?",
+        "question": "₹2,000 से अधिक के पर्सन-टू-मर्चेंट (P2M) UPI लेनदेन पर मर्चेंट डिस्काउंट रेट (MDR) से संबंधित RBI के स्पष्टीकरण के अनुसार, ₹75,000 या उससे अधिक के भुगतान के लिए अधिकतम शुल्क सीमा (कैप) क्या है?",
         "options": [
-            "₹300",
             "₹150",
+            "₹300",
             "₹500",
-            "₹250"
+            "₹1,000"
         ],
         "answer": "₹300",
-        "explanation": "₹2,000 से अधिक के पर्सन-टू-मर्चेंट (P2M) यूपीआई लेन-देन पर 0.4% का मर्चेंट डिस्काउंट रेट (MDR) लागू होता है। ₹75,000 से अधिक के लेन-देन के लिए यह शुल्क अधिकतम ₹300 तय किया गया है।",
+        "explanation": "15 अक्टूबर से, ₹2,000 से अधिक के P2M UPI लेनदेन पर 0.4% MDR लागू होता है, जो ₹75,000 या उससे अधिक के भुगतान के लिए अधिकतम ₹300 पर सीमित (कैप) है।",
         "tags": [
             "Banking & Economy",
-            "Digital Payments"
+            "RBI"
         ],
         "source": "The Hindu (Economy & Business)",
         "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
     },
     {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-19",
+        "question": "राष्ट्रीय खनिज विकास निगम (NMDC) का लक्ष्य किस वर्ष तक अपने परिचालन से होने वाले उत्सर्जन को शुद्ध-शून्य (Net Zero) करना है?",
+        "options": [
+            "2030",
+            "2040",
+            "2047",
+            "2070"
+        ],
+        "answer": "2047",
+        "explanation": "राष्ट्रीय खनिज विकास निगम (NMDC) ने 2047 तक शुद्ध-शून्य परिचालन उत्सर्जन प्राप्त करने के लिए एक संरचित तीन-चरणीय रोडमैप की घोषणा की। यह परिचालन लक्ष्य 2070 तक शुद्ध-शून्य के भारत के राष्ट्रीय संकल्प के अनुरूप है।",
+        "tags": [
+            "Environment",
+            "PSU"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece"
+    },
+    {
         "id": "ca_2026_09_019",
         "date": "2026-09-19",
-        "question": "वर्ष 2017 में राष्ट्रीय परीक्षा एजेंसी (NTA) की स्थापना किस कानून/अधिनियम के तहत की गई थी?",
+        "question": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) द्वारा भारतीय वायु सेना को सौंपे गए HTT-40 बेसिक ट्रेनर विमान का नाम क्या है?",
         "options": [
-            "सोसायटी पंजीकरण अधिनियम",
-            "कंपनी अधिनियम, 2013",
-            "विश्वविद्यालय अनुदान आयोग अधिनियम, 1956",
-            "दिल्ली विशेष पुलिस स्थापना अधिनियम"
+            "अंकुर",
+            "तेजस",
+            "ध्रुव-एनजी",
+            "नेत्र"
         ],
-        "answer": "सोसायटी पंजीकरण अधिनियम",
-        "explanation": "राष्ट्रीय परीक्षा एजेंसी (NTA) की स्थापना 2017 में सोसायटी पंजीकरण अधिनियम के तहत की गई थी। यह शिक्षा मंत्रालय के अधीन प्रमुख राष्ट्रीय प्रतियोगी प्रवेश परीक्षाएं आयोजित करती है।",
+        "answer": "अंकुर",
+        "explanation": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने भारतीय वायु सेना को 'अंकुर' नाम के तीन HTT-40 बेसिक ट्रेनर विमान सौंपे। इन स्वदेशी विमानों को पायलटों के प्राथमिक उड़ान प्रशिक्षण को बेहतर बनाने के लिए डिज़ाइन किया गया है।",
         "tags": [
-            "Polity & Governance",
-            "Education"
+            "Defence",
+            "Aatmanirbhar Bharat"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZzVUo4TVJPMmhrTlJpQi1EZmJ3YWoyWDNKZVVYM2xkZ2VZNGR5T2ZvZXc5ZGZYc2c3UHRuY0F6T0xmMjFxTTlQeXlVTURGejBwSEhudjNYb29mRWw1aWNMcWp5M0pEdUtTUXdVVDdCNTdobXNjYVRtdjE2NFdvVzdwX29oNHh1ZWctd3NuYm14OUROMGszb2ljd1R3SmZZNzd2c2FYQUQyYm82Q1BDN2UzRFJjQ0tQSDRjalljeUhjT2NfanN5WmJtUkx0Nmh3RVl4Q1NYZjU1UGdudTh3ZG5Rb9IB8AFBVV95cUxQN1pPazROd1o0bS1WOTBCdlRCNHV1ZlkwcVNkcVlzbVhaYmMxVWg4LTFMZ081SDdkRmY0am41ZWRhdDN0WnNfeEtUbHB4ak5xNkJ0bkFzVFJNQzBHcUpUT0FYdnduVjdtVzRFejd2VFV5ai14NU45UzJRZlZraWV5Ml9xYjB1SURlZEdJUTd5aXJUdkZGS2o3dlhWbWNFbWwzalF6M2RqWVZBVldER00zdXh5SFF1TlJYRUcxQkNPekpmMlB5REdNYWdxWnVyTjFaVE5lSWhtWlhmUVI4aXNRUzdvUGV4VVMtRGFYX1h1alI?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbjMtSGZmQzVmSmRpbmlKNjRPNGtjSWNXTlYyUVdxVHRxMDV4bFVWU0U5ajloMURucEJ2djlOSmx1Vm1adF93RW9YSVZsSFN4Q0k3NFN0SXhOc1NLT0lULTdzOXJpTk1XOWpoSGpSeEJickoybllLZmIzTkItZHk4MzJxcmtQc0NTd1B5ZlJTRURLdXBmdkVycW14bzNJZEo0ZG1JWHdMYTVWT3JBZjRYaVQ4TllNWUFIazVYZC1iTDJwRXRCcFZtNzduMU05ZlRzOWw0RXAybVZaTmN3ZmJrRVd4V3NURjIzeDdtdnpSRFc4VWc?oc=5"
     },
     {
         "id": "ca_2026_09_020",
         "date": "2026-09-19",
-        "question": "प्रोजेक्ट चीता के तहत कूनो राष्ट्रीय उद्यान से परे सुरक्षित चीता आवासों का विस्तार करने के लिए किस अभयारण्य का चयन किया गया है?",
+        "question": "प्रोजेक्ट चीता के चार वर्ष पूरे होने के साथ, भारत में चीतों की कुल संख्या बढ़कर कितनी हो गई है?",
         "options": [
-            "गांधी सागर अभयारण्य",
-            "रणथंभौर राष्ट्रीय उद्यान",
-            "पेरियार वन्यजीव अभयारण्य",
-            "जिम कॉर्बेट राष्ट्रीय उद्यान"
+            "36",
+            "44",
+            "52",
+            "60"
         ],
-        "answer": "गांधी सागर अभयारण्य",
-        "explanation": "प्रोजेक्ट चीता का उद्देश्य कूनो राष्ट्रीय उद्यान से परे सुरक्षित आवासों का विस्तार करके चीता मेटापॉपुलेशन और आनुवंशिक विविधता का प्रबंधन करना है। इस उद्देश्य के लिए गांधी सागर अभयारण्य को विकसित करने पर रणनीतिक ध्यान दिया जा रहा है।",
+        "answer": "52",
+        "explanation": "प्रोजेक्ट चीता के चार वर्ष पूरे होने के अवसर पर, मध्य प्रदेश के कूनो राष्ट्रीय उद्यान में जन्मे शावकों की मदद से भारत में चीतों की कुल आबादी बढ़कर 52 हो गई है।",
         "tags": [
-            "Environment & Ecology",
+            "Environment",
             "Wildlife"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl_NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl9NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5"
     }
 ]
