@@ -1502,97 +1502,97 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-19",
-        "question": "Which defense public sector undertaking launched the indigenous Ocean Research Vessel 'Sagar Manthan' valued at ₹840 crore?",
+        "date": "2026-09-20",
+        "question": "What is the name of the U.S. legislation introduced to target countries importing energy resources from Russia and Iran through secondary tariffs?",
         "options": [
-            "Garden Reach Shipbuilders & Engineers (GRSE)",
-            "Mazagon Dock Shipbuilders Limited (MDL)",
-            "Cochin Shipyard Limited (CSL)",
-            "Goa Shipyard Limited (GSL)"
+            "Lindsey O. Graham Sanctioning Russia and Iran Act, 2026",
+            "Countering America's Adversaries Through Sanctions Act, 2026",
+            "Strategic Energy Security and Tariff Reform Act, 2026",
+            "Global Energy Market Sanctions Act, 2026"
         ],
-        "answer": "Garden Reach Shipbuilders & Engineers (GRSE)",
-        "explanation": "Garden Reach Shipbuilders & Engineers (GRSE), Kolkata, launched the indigenous Ocean Research Vessel 'Sagar Manthan' valued at ₹840 crore. The vessel supports India's Deep Ocean Mission under the Ministry of Earth Sciences.",
+        "answer": "Lindsey O. Graham Sanctioning Russia and Iran Act, 2026",
+        "explanation": "The U.S. introduced the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026, targeting countries importing energy resources from Russia and Iran. It proposes secondary tariffs on nations, including India, purchasing Russian crude oil.",
         "tags": [
-            "Defence",
-            "Science & Technology"
+            "International Relations",
+            "Economy"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
+        "link": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-19",
-        "question": "According to the RBI clarifications on Merchant Discount Rate (MDR) for Person-to-Merchant (P2M) UPI transactions above ₹2,000, what is the maximum fee cap for payments of ₹75,000 or more?",
+        "date": "2026-09-20",
+        "question": "Under which section of the Aadhaar Act, 2016 is the mandatory biometric eKYC authentication governed for receiving domestic LPG subsidies in India?",
         "options": [
-            "₹150",
-            "₹300",
-            "₹500",
-            "₹1,000"
+            "Section 3",
+            "Section 7",
+            "Section 12",
+            "Section 21"
         ],
-        "answer": "₹300",
-        "explanation": "Starting October 15, a 0.4% MDR applies to P2M UPI transactions above ₹2,000, which is capped at a maximum of ₹300 for payments of ₹75,000 or more.",
+        "answer": "Section 7",
+        "explanation": "The mandatory Aadhaar biometric eKYC process for domestic LPG consumers under PAHAL and PMUY schemes is governed under Section 7 of the Aadhaar Act, 2016.",
         "tags": [
-            "Banking & Economy",
-            "RBI"
+            "Polity",
+            "Governance"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaXZ0MFV6NV9xWGRsQlB2NklxUldDTVVGOFgyUjdENlV3MnUwYi1NMkZJMHcxMzZKeXRQR2hTZGxlZHZmclBUQnhndkZDZkJDYnhwUVoyS3ZqeFV6YlA2WHNhYmpLelRackZjOFBtZDR0YzBSWnNka1ltVmdjVXk5N09OXzgwRUFFRDQwU1ZaeXpsMUw5akI1LTJMdkFrRE12OXF5aktrUjBCVUdsRGR4ZnBnRWZzdkRnYnUwQnctSV9OQ245WnJYcUl0QWlwUU9XTkNkTmNmRzE5NDdIQjc5UFF4UmdXdjhqN1VoXzZsQnMtLUx5aXZNRzVGeDFRNlVObTNETnpPYjB1MTJFLVFIVzR4UkRoZDYyS1HSAZ8CQVVfeXFMTmZ6bmY0TDVxVXVuQ08tbndrdDBaOTc2X0lJdm4xbDBVRUpVTUY1Unk4OHZCWFEtUjdLdXR4SWJ5ZHlJMWNGYmdVZUtHUGxkWVl5dkJ2Y3F3UU1JeWFERGFrUkR3U1YyQkRBSTBvTVg1Yzg0ZGo4TzFoX0hIZFJGQ2hDOU10RkVXcjBsM0NJRTRkOWpORzdMSmFuak1ENFdHclE5X211YXNXaWdJbXlJbktKSko1cmtZNnUzMjdEVUxnWElmcklNTW1oSnBiWDhaWkVNTzI2dXVHcXZEYTBTd2dxVzFmUUpQQ1JERkJyYzVvUlQ2OGhCX3RORlAtTEViWnIyaGdjQmNVZXItYzNmMkVIbmhCVDRySmpQdGpNTWc?oc=5"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-19",
-        "question": "By which year does National Mineral Development Corporation (NMDC) aim to achieve Net Zero operational emissions?",
+        "date": "2026-09-20",
+        "question": "Which key principle of climate action did Prime Minister Narendra Modi advocate during the International Conference on 'The Future of Environment and Climate Dynamics'?",
         "options": [
-            "2030",
-            "2040",
-            "2047",
-            "2070"
+            "Polluter Pays Principle (PPP)",
+            "Common But Differentiated Responsibilities and Respective Capabilities (CBDR-RC)",
+            "Precautionary Principle",
+            "Extended Producer Responsibility (EPR)"
         ],
-        "answer": "2047",
-        "explanation": "National Mineral Development Corporation (NMDC) announced a structured three-phase roadmap to achieve Net Zero operational emissions by 2047. This operational target aligns with India's national commitment of Net Zero by 2070.",
+        "answer": "Common But Differentiated Responsibilities and Respective Capabilities (CBDR-RC)",
+        "explanation": "PM Modi advocated for climate justice and the principle of Common But Differentiated Responsibilities and Respective Capabilities (CBDR-RC). He highlighted that developing countries face an unfair burden regarding emission targets despite contributing minimally to historical global emissions.",
         "tags": [
             "Environment",
-            "PSU"
+            "International Summits"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkx2RnpPOUR0MTQ3aW1lOW0wTXdXTFprcnF3RUh3bC1yUEl4ZzVvYUNaLXJiVzZMSEx2dW9XVnlPYTRwdWdzMER1dTZsMGdYUTBrLTItNERqaW90YmdTa1NSVEp1MGdTV3BwR1FST1Z6VHM4NENxNGRlWW81ZFdBVlZBMG5ibTg0YnZzNjZPZTFGaUtfcmFic1NMeExOeEFJazNhQUlPQWNOOTNEdy02UWR3b9IBuAFBVV95cUxQUjJfQUYydHpRNk9KZkRMelpKZTVVX01wZW5EMTZ6ZmZqN2drR21QTlVjVVJEQnhIck1HeUlfMDFsLU5sQVl2c0tKc2VkQS05ZFlDZEtjc3NURjY0MmdXMkh2RVFtVDliclpBaGhJbTV1YmhjNW1nclNnc2VtLWFrZ3ZMdFJYSjdFcHVfUS1YTWJNaVlOSk9ZSnZrMWlHSjNmeTdJSXF4REtsWkVlT0tWbDFTbmFLeGFF?oc=5"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-19",
-        "question": "What is the name of the HTT-40 basic trainer aircraft handed over by Hindustan Aeronautics Limited (HAL) to the Indian Air Force?",
+        "date": "2026-09-20",
+        "question": "Which articles of the Indian Constitution were invoked by President Droupadi Murmu to appoint High Court Judges and Additional Judges across four High Courts?",
         "options": [
-            "Ankur",
-            "Tejas",
-            "Dhruv-NG",
-            "Netra"
+            "Article 124 and Article 127",
+            "Article 217 and Article 224",
+            "Article 214 and Article 226",
+            "Article 233 and Article 235"
         ],
-        "answer": "Ankur",
-        "explanation": "Hindustan Aeronautics Limited (HAL) delivered three HTT-40 basic trainer aircraft named 'Ankur' to the Indian Air Force. These indigenous aircraft are designed to enhance preliminary flight training for pilots.",
+        "answer": "Article 217 and Article 224",
+        "explanation": "The appointments invoke Article 217 (appointment of High Court judges) and Article 224 (appointment of additional judges) of the Indian Constitution, following Supreme Court Collegium recommendations.",
         "tags": [
-            "Defence",
-            "Aatmanirbhar Bharat"
+            "Polity",
+            "Judiciary"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbjMtSGZmQzVmSmRpbmlKNjRPNGtjSWNXTlYyUVdxVHRxMDV4bFVWU0U5ajloMURucEJ2djlOSmx1Vm1adF93RW9YSVZsSFN4Q0k3NFN0SXhOc1NLT0lULTdzOXJpTk1XOWpoSGpSeEJickoybllLZmIzTkItZHk4MzJxcmtQc0NTd1B5ZlJTRURLdXBmdkVycW14bzNJZEo0ZG1JWHdMYTVWT3JBZjRYaVQ4TllNWUFIazVYZC1iTDJwRXRCcFZtNzduMU05ZlRzOWw0RXAybVZaTmN3ZmJrRVd4V3NURjIzeDdtdnpSRFc4VWc?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamFubkxqM3NvTm44UjZqeW1kMjBtMXVkV1p2QUl2X1RIQWQ4c3pOUWx4aUtNNXozYnJoQi1tcVY5SEdyajVJRHRGTXJFUTl2N0tlazNIVkRPT0QtMTdxeVY4RVl0STl2THRpc1BwS1ZjdTRKZFZCdU1DSlZvbHNmTW5kakoxeS1TSlRmUmNZRUpoTTU1QldtN21hSGpidXFnTjVIZUR3M1JQTWpiSnVzcTY2dHXSAboBQVVfeXFMTUtUVklTdjRRZ0V2YWFVSnpZZE9Nc3J4NTJod3pVMTBZa3NrTXhJR0FTY0VFY3U0R1pwSktkUmQwQ3RCZnVodFUwYWlwOXJyNzFXbG5MYTlsd0RMbkt4MEtUeXV4U1h4dGFkRld6NmE5MFhCeDc3bWVIRDZpZjZWSHlHWGJnbk1WTThLYnhiZF9qekVRX3NJemtlbnhRcGFiaGZqSnNNVkl4czlSRUJJbEhDQWFhQl9VdFRB?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-19",
-        "question": "As Project Cheetah completed four years, to what total number has India's cheetah population increased?",
+        "date": "2026-09-20",
+        "question": "The Ministry of Labour and Employment is revising the EPFO monthly wage ceiling, which was governed by the EPF and MP Act, 1952 from what previous amount?",
         "options": [
-            "36",
-            "44",
-            "52",
-            "60"
+            "₹10,000",
+            "₹12,000",
+            "₹15,000",
+            "₹21,000"
         ],
-        "answer": "52",
-        "explanation": "Marking four years of Project Cheetah, India's cheetah population has increased to 52, boosted by cubs born at Kuno National Park in Madhya Pradesh.",
+        "answer": "₹15,000",
+        "explanation": "The Ministry of Labour and Employment is revising the existing monthly wage ceiling of ₹15,000 under the EPFO, governed by the EPF and MP Act, 1952, to expand formal social security coverage.",
         "tags": [
-            "Environment",
-            "Wildlife"
+            "Economy",
+            "Social Security"
         ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1JQanJXNVdXNXRsVEZqNTZxaVRVbDJvWHJORDlDc2ZJUlVfY0ZXZU5Hakk4VEtoTnpYNTBmYXpQWUthUU9LWE5FRXFRcnBocG1JaFhoVHR3bEVPd2I0Nnh5VW42dk55azNHLU5mMWU5WnBTMkU1dVV3RVNQRmdWUnJqSU4wRTV2UlBsNmo0ckhYRHFDejFXWlk0YnYtb2VaeEtfU2F5WUF4aXVoaGpxV2ZTX08ydl9NclBMdGNuMmIyUjZpRnRhSmxRMEM1Y0FOLS1iMHBLV1lZVVlfdVh4MWFsb1g?oc=5"
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/what-does-the-latest-revision-to-the-epfo-wage-ceiling-entail-explained/article71479414.ece"
     }
 ]
