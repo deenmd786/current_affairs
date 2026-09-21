@@ -1503,53 +1503,72 @@
     {
         "id": "ca_2026_09_016",
         "date": "2026-09-21",
-        "question": "किस डच सेमीकंडक्टर लिथोग्राफी फर्म ने देश के चिप निर्माण पारिस्थितिकी तंत्र का समर्थन करने के लिए आधिकारिक तौर पर भारत में अपना परिचालन शुरू किया है?",
+        "question": "परमाणु ऊर्जा विभाग के तहत कौन सा सार्वजनिक क्षेत्र का उपक्रम भारत के महत्वपूर्ण दुर्लभ मृदा (रेयर-अर्थ) भंडारों का प्रबंधन करता है?",
         "options": [
-            "एएसएमएल",
-            "अप्लाइड मटेरियल्स",
-            "टोक्यो इलेक्ट्रॉन",
-            "लैम रिसर्च"
+            "हिंदुस्तान कॉपर लिमिटेड (HCL)",
+            "इंडिया रेयर अर्थ्स लिमिटेड (IREL)",
+            "राष्ट्रीय खनिज विकास निगम (NMDC)",
+            "नेशनल एल्युमीनियम कंपनी लिमिटेड (NALCO)"
         ],
-        "answer": "एएसएमएल",
-        "explanation": "डच सेमीकंडक्टर लिथोग्राफी की प्रमुख कंपनी एएसएमएल (ASML) ने आधिकारिक तौर पर भारत में अपना परिचालन शुरू कर दिया है। यह कदम भारत सेमीकंडक्टर मिशन और टाटा इलेक्ट्रॉनिक्स जैसे वाणिज्यिक साझेदारों के साथ अपनी विस्तार योजनाओं को संरेखित करता है।",
+        "answer": "इंडिया रेयर अर्थ्स लिमिटेड (IREL)",
+        "explanation": "भारत के महत्वपूर्ण दुर्लभ मृदा भंडारों का प्रबंधन परमाणु ऊर्जा विभाग के तहत इंडिया रेयर अर्थ्स लिमिटेड (IREL) द्वारा किया जाता है। देश वर्तमान में कच्चे अयस्कों को स्थायी चुंबकों में संसाधित करने के लिए मिडस्ट्रीम प्रसंस्करण क्षमताओं को बढ़ाने पर ध्यान केंद्रित कर रहा है।",
         "tags": [
             "Economy",
-            "Technology"
+            "Critical Minerals"
         ],
-        "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxO0v_6gETxZCp4cbLe0qXPR4-RdVvz7KFQRcXXH7gpEE8CwQjimQe-3AXLyKqHbjx_gBEDnCcS0ky1QxcTeZbZR3f-3ZYkOvssXvEl0oR-kAwEQevu3pYNIma0DAw16aKzOV-pLFPqZogRoE-vyp8M85FGAmk9kAGnelXVjK4ZTvo1GpwK-l7jRnbr799uUupNeqYnHBgq-Rt25eSuJShEzQFRVK0CcpLZqfSAe8BQVVfeqLOprJTVyJqyrEIfWvTYCtyAGpOV-WysnMIDqb73aKN88Yhsv8HP1k26BRWoi8NsQ0qXA2TgYNlm7442j8Eebat5pXxhatTpLqIXJfFi5PQaCCSP__CmdeWDfobeaBhUUjLhR600VrR0L_Rc1XQlquxcAoMh1wBCphm8KVx681UitFJnevHLoe1QsHw-Cu8xKnwDil6niAe4171kL0BCKK-DbcfsLy4qKXfurl9MBw?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece"
     },
     {
         "id": "ca_2026_09_017",
         "date": "2026-09-21",
-        "question": "केंद्रीय मंत्री अश्विनी वैष्णव द्वारा उल्लेखित 'भारत सेमीकंडक्टर मिशन' (ISM) का कुल वित्तीय परिव्यय कितना है?",
+        "question": "गुजरात के किस शहर में टाटा इलेक्ट्रॉनिक्स का सेमीकंडक्टर फैब प्लांट स्थित है, जिसके साथ डच उपकरण दिग्गज ASML ने अपनी विस्तार योजनाओं को जोड़ा है?",
         "options": [
-            "$5 बिलियन",
-            "$8 बिलियन",
-            "$10 बिलियन",
-            "$15 बिलियन"
+            "साणंद",
+            "गिफ्ट सिटी",
+            "धोलेरा",
+            "वडोदरा"
         ],
-        "answer": "$10 बिलियन",
-        "explanation": "केंद्रीय मंत्री अश्विनी वैष्णव ने $10 बिलियन के भारत सेमीकंडक्टर मिशन (ISM) के सामने आने वाले साइबर सुरक्षा और भू-राजनीतिक खतरों पर प्रकाश डाला, जो देश भर में सेमीकंडक्टर फैब और असेंबली सुविधाएं स्थापित कर रहा है।",
+        "answer": "धोलेरा",
+        "explanation": "डच सेमीकंडक्टर उपकरण फर्म ASML ने भारत में अपना परिचालन शुरू किया और अपने विस्तार को गुजरात के धोलेरा में टाटा इलेक्ट्रॉनिक्स के फैब प्लांट सहित प्रमुख घरेलू चिप निर्माण पहलों से जोड़ा।",
         "tags": [
-            "Economy",
-            "National Security"
+            "Technology",
+            "Semiconductor Mission"
         ],
         "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGE?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzRvXzZnRVR4WkNwNGNiTGUwcVhQUjQtUmRWdno3S0ZRUmNYWUg3Z3BFRThDd1FqaW1RZS0zQVhMeUtxSGJqeF9nQkVEbkNjUzBreTFReGNUZVpiWlIzZi0zWllrT3Zzc1h2RWwwb1Ita0F3RVFldnUzcFlOSW1hMERBdzE2YUt6T1YtcExGUHFab2dSb0UtdnlwOE04NUZHQW1rOWtBR25lbFhWaks0WlR2bzFHcHdLLWw3alJuYnI3OTl1VXVwTmVxWW5IQmdxLVJ0MjVlU3VKU2hFelFGUlZLMENjcExacWfSAe8BQVVfeXFMT3BySlRWeUpxeXJFSWZXdlRZQ3R5QUdwT1YtV3lzbk1JRHFiNzNhS044OFloc3Y4SFAxazI2QlJXb2k4TnNRMHFYQTJUZ1lObG03NDQyajhFZWJhdDVwWHhoYXRUcExxSVhKZkZpNVBRYUNDU1BfX0NtZGVXRGZvYmVhQmhVVWpMaFI2MDBWclIwTF9SYzFYUWxxdXhjQW9NaDF3QkNwaG04S1Z4NjgxVWl0RkpuZXZITG9lMVFzSHctQ3U4eEtud0RpbDZuaUFlNDE3MWtMMG1CQ0tLLURiY2ZzTHk0cUtYZnVybDlNQnc?oc=5"
     },
     {
         "id": "ca_2026_09_018",
         "date": "2026-09-21",
-        "question": "वित्त वर्ष 2024-25 की अप्रैल-अगस्त अवधि के दौरान प्रमुख ब्रिक्स (BRICS) देशों को भारत के मर्चेंडाइज निर्यात में कितने प्रतिशत की वृद्धि हुई?",
+        "question": "भारत की 'नेबरहुड फर्स्ट' (पड़ोसी प्रथम) नीति के अलावा, कौन सा प्रमुख द्विपक्षीय समझौता भारत-नेपाल संबंधों को निर्देशित करता है?",
         "options": [
-            "18%",
-            "25%",
+            "1950 की शांति और मित्रता संधि",
+            "1965 का पारगमन और व्यापार समझौता",
+            "1950 की पारस्परिक आर्थिक सहयोग संधि",
+            "1971 की शांति और मित्रता संधि"
+        ],
+        "answer": "1950 की शांति और मित्रता संधि",
+        "explanation": "भारत-नेपाल द्विपक्षीय संबंध मौलिक रूप से भारत की 'नेबरहुड फर्स्ट' नीति के साथ-साथ 1950 की शांति और मित्रता संधि द्वारा निर्देशित होते हैं, जिसमें सीमा पार व्यापार, ऊर्जा सहयोग और कनेक्टिविटी पर ध्यान केंद्रित किया गया है।",
+        "tags": [
+            "International Relations",
+            "Bilateral Ties"
+        ],
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWnNnYjgwTjdIMHQ4LTZrbWFtU0NaNm1YcFE4ekl4bUxFbGNPWUpKMmhsNTItd21vRE9lRm9NWE13N2hPVjVTWkd0d0Fka3VxaXFicG1vSnFzWlZSMTNZOGN1bmstQWxwdXlxanFWcDI3T3RBRnV3R2d1MVVxSmRUWUgzQ3FTWjVYcGRtdEx2bnlZaThZVXRtWDBaOFNsVTRoME15TXBpYW9vRTRwS1JsMUNUb29pd3djcGpPTEU1MlMtQnRtOTNIYm5hMnBqNXdRLXNwNnFOT0ZoSHdNN0dEczVVQVdBdjdkYV8xdG9R0gH0AUFVX3lxTE9OQ0dOWXhybmg2RHA0aEhMZnBmaWhHaGZxeUxVbEtSWFB1SVdONXhyQ2VNZGRGSXpZM3FLSGNsQTE0Vm1fcmQ4RVNQaU9sa3ljcWNSRHB2Wk9QTUlUb0ZDMnJHMTZHU2pUZGdTeXp1MG50TG9Eb24tY0xrbWhua29SSDZHSEN5cTJCcG5BV2VRTmhXRlM2OEoyMlhRVm45OU9GM2RKRFhlLWNmU0ZlR0t5Y0lYUlRQNVNtWEVUZGRJaVRiZVhKNnBtOFdsUHpSUFY3alRzclowbVVQcG5ueG4xVDBNdHBra2Q2TC1PZE1JYS13Vy0?oc=5"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-21",
+        "question": "चालू वित्त वर्ष की अप्रैल-अगस्त अवधि के दौरान प्रमुख ब्रिक्स (BRICS) बाजारों में भारत के निर्यात में कितने प्रतिशत की वृद्धि हुई?",
+        "options": [
+            "21%",
+            "28%",
             "34%",
-            "42%"
+            "40%"
         ],
         "answer": "34%",
-        "explanation": "वाणिज्य एवं उद्योग मंत्रालय के आंकड़ों के अनुसार, वित्त वर्ष 2024-25 की अप्रैल-अगस्त अवधि के दौरान प्रमुख ब्रिक्स देशों को भारत के निर्यात में 34% की वृद्धि हुई, जिसमें चीन इस वृद्धि में सबसे आगे रहा।",
+        "explanation": "चालू वित्त वर्ष के अप्रैल-अगस्त के दौरान प्रमुख ब्रिक्स बाजारों में भारत के निर्यात में 34% की वृद्धि हुई, जिससे भारत के कुल बाहरी व्यापार में इस समूह की हिस्सेदारी बढ़कर 9.2% हो गई।",
         "tags": [
             "Economy",
             "International Trade"
@@ -1558,41 +1577,22 @@
         "link": "https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece"
     },
     {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-21",
-        "question": "हाल ही में जोधपुर वायु सेना स्टेशन पर भारतीय वायु सेना और जापान एयर सेल्फ-डिफेंस फोर्स द्वारा कौन सा द्विपक्षीय अभ्यास आयोजित किया गया था?",
-        "options": [
-            "अभ्यास धर्म गार्जियन",
-            "अभ्यास वीर गार्जियन-2026",
-            "अभ्यास शिन्यू मैत्री",
-            "अभ्यास मालाबार"
-        ],
-        "answer": "अभ्यास वीर गार्जियन-2026",
-        "explanation": "जोधपुर वायु सेना स्टेशन पर 'वीर गार्जियन-2026' अभ्यास आयोजित किया गया, जहाँ भारत और जापान के वायु सेना प्रमुखों ने स्वदेशी एलसीए तेजस में संयुक्त उड़ान भरी।",
-        "tags": [
-            "Defence",
-            "International Relations"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEhHUmh3OU51a0hpRm0ta2tVeDVKMkJTcjl6cFVQaTllYXJucmxWWDVfb19iNURNcHJ3ZC1zRHItR1FmNm9nTVVVdDhFOFVVMXQ4QlFwZUlvWDlzWWJOb3NRMHJTM1BoX29rXzR1S013cGxLeGltX1B0MGZSaTFWTGs2UXEydzV3a0hxZ1Z2NGNINGtfMEhXYlQ5Tl9lTUNZOGdLMnJXbFNmSXZtN1ZLZ3phRXN6SWFWTGJ0bmVnSGgzU2kwX1dtLUZUX09qM29ONHVJM3JlTDN5Zw?oc=5"
-    },
-    {
         "id": "ca_2026_09_020",
         "date": "2026-09-21",
-        "question": "भारत ने अपनी 'नेबरहुड फर्स्ट' (पड़ोसी प्रथम) नीति के तहत नेपाल के बाढ़ प्रभावित क्षेत्रों में कितनी आपातकालीन राहत सामग्री भेजी?",
+        "question": "भारतीय वायु सेना और जापान एयर सेल्फ-डिफेंस फोर्स के बीच द्विपक्षीय हवाई अभ्यास 'वीर गार्जियन-2026' कहाँ आयोजित किया गया था?",
         "options": [
-            "100.0 टन",
-            "125.5 टन",
-            "141.5 टन",
-            "175.0 टन"
+            "जोधपुर",
+            "जामनगर",
+            "अंबाला",
+            "ग्वालियर"
         ],
-        "answer": "141.5 टन",
-        "explanation": "भारत ने भीषण अचानक आई बाढ़ के बाद नेपाल को दवाओं और जल शोधन इकाइयों सहित 141.5 टन से अधिक HADR आपातकालीन राहत सामग्री भेजी।",
+        "answer": "जोधपुर",
+        "explanation": "भारतीय वायु सेना (IAF) और जापान एयर सेल्फ-डिफेंस फोर्स ने जोधपुर में द्विपक्षीय हवाई अभ्यास 'वीर गार्जियन-2026' आयोजित किया। अभ्यास के दौरान, दोनों वायु सेना प्रमुखों ने भारत के स्वदेशी एलसीए तेजस (LCA Tejas) लड़ाकू विमान में उड़ान भरी।",
         "tags": [
-            "Current Affairs",
-            "International Relations"
+            "Defense",
+            "Military Exercises"
         ],
         "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEHXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5"
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEhHUmh3OU51a0hpRm0ta2tVeDVKMkJTcjl6cFVQaTllYXJucmxWWDVfb1_iNURNcHJ3ZC1zRHItR1FmNm9nTVVVdDhFOFVVMXQ4QlFwZUlvWDlzWWJOb3NRMHJTM1BoX29rXzR1S013cGxLeGltX1B0MGZSaTFWTGs2UXEydzV3a0hxZ1Z2NGNINGtfMEhXYlQ5Tl9lTUNZOGdLMnJXbFNmSXZtN1ZLZ3phRXN6SWFWTGJ0bmVnSGgzU2swX1dtLUZUX09qM29ONHVJM3JlTDN5Zw?oc=5"
     }
 ]
