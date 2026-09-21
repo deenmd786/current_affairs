@@ -758,5 +758,46 @@
                 "pubDate": "2026-09-18T18:58:15.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-21",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "ASML begins India operations, links scaling-up plan with success of Tata Electronics, govt ambition - Moneycontrol.com",
+                "description": "Dutch semiconductor lithography leader ASML has officially commenced operations in India, establishing a strategic presence to support the nation's growing chip manufacturing ecosystem. ASML's expansion aligns with the India Semiconductor Mission (ISM) under the Ministry of Electronics and Information Technology (MeitY) and key commercial ventures like Tata Electronics' mega semiconductor fab in Dholera, Gujarat. ASML provides essential photolithography systems critical for advanced microchip manufacturing, marking a major milestone in strengthening India's high-tech manufacturing capability and global supply chain integration.",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzRvXzZnRVR4WkNwNGNiTGUwcVhQUjQtUmRWdno3S0ZRUmNYWUg3Z3BFRThDd1FqaW1RZS0zQVhMeUtxSGJqeF9nQkVEbkNjUzBreTFReGNUZVpiWlIzZi0zWllrT3Zzc1h2RWwwb1Ita0F3RVFldnUzcFlOSW1hMERBdzE2YUt6T1YtcExGUHFab2dSb0UtdnlwOE04NUZHQW1rOWtBR25lbFhWaks0WlR2bzFHcHdLLWw3alJuYnI3OTl1VXVwTmVxWW5IQmdxLVJ0MjVlU3VKU2hFelFGUlZLMENjcExacWfSAe8BQVVfeXFMT3BySlRWeUpxeXJFSWZXdlRZQ3R5QUdwT1YtV3lzbk1JRHFiNzNhS044OFloc3Y4SFAxazI2QlJXb2k4TnNRMHFYQTJUZ1lObG03NDQyajhFZWJhdDVwWHhoYXRUcExxSVhKZkZpNVBRYUNDU1BfX0NtZGVXRGZvYmVhQmhVVWpMaFI2MDBWclIwTF9SYzFYUWxxdXhjQW9NaDF3QkNwaG04S1Z4NjgxVWl0RkpuZXZITG9lMVFzSHctQ3U4eEtud0RpbDZuaUFlNDE3MWtMMG1CQ0tLLURiY2ZzTHk0cUtYZnVybDlNQnc?oc=5",
+                "pubDate": "2026-09-20T14:07:20.000Z"
+            },
+            {
+                "title": "Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - NDTV",
+                "description": "Union Minister for Electronics and Information Technology Ashwini Vaishnaw highlighted potential geopolitical threats and cyber sabotage attempts targeted at disrupting India's rapidly expanding semiconductor sector. Under the $10 billion India Semiconductor Mission (ISM), India is establishing semiconductor fabs and assembly facilities (ATMP/OSAT) nationwide. The Ministry emphasized robust cybersecurity measures through agencies like CERT-In to protect critical technology infrastructure, highlighting the intersection of advanced technology, national security, and global supply chain resilience in critical electronic components.",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGE?oc=5",
+                "pubDate": "2026-09-20T12:17:27.000Z"
+            },
+            {
+                "title": "India's exports to core BRICS markets surge 34% in April-August; China leads",
+                "description": "India’s merchandise exports to core BRICS nations (Brazil, Russia, China, and South Africa) registered a significant 34% surge during the April–August period of FY 2024-25. According to Ministry of Commerce and Industry data, China emerged as the primary driver of this growth. The core BRICS share in India’s total outbound shipments expanded from 8.1% to 9.2%. This performance reflects deepening South-South trade relations and export diversification strategies amid global demand fluctuations, reinforcing BRICS’ economic role.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece",
+                "pubDate": "2026-09-20T10:00:54.000Z"
+            },
+            {
+                "title": "India, Japan Air Force Chiefs fly the Tejas during Exercise 'Veer Guardian-2026' in Jodhpur - ANI News",
+                "description": "The Indian Air Force (IAF) and Japan Air Self-Defense Force (JASDF) conducted the bilateral exercise 'Veer Guardian-2026' at the Jodhpur Air Force Station. Demonstrating strong defence cooperation, both air chiefs participated in joint sorties flying India’s indigenous Light Combat Aircraft (LCA) Tejas. The exercise featured advanced platforms including India's Su-30MKI, Rafale, and Japan’s F-2A fighter jets. Exercise Veer Guardian aims to enhance interoperability, tactical skills, and strategic ties between the two Indo-Pacific partners under bilateral defence protocols.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEhHUmh3OU51a0hpRm0ta2tVeDVKMkJTcjl6cFVQaTllYXJucmxWWDVfb19iNURNcHJ3ZC1zRHItR1FmNm9nTVVVdDhFOFVVMXQ4QlFwZUlvWDlzWWJOb3NRMHJTM1BoX29rXzR1S013cGxLeGltX1B0MGZSaTFWTGs2UXEydzV3a0hxZ1Z2NGNINGtfMEhXYlQ5Tl9lTUNZOGdLMnJXbFNmSXZtN1ZLZ3phRXN6SWFWTGJ0bmVnSGgzU2swX1dtLUZUX09qM29ONHVJM3JlTDN5Zw?oc=5",
+                "pubDate": "2026-09-20T07:21:00.000Z"
+            },
+            {
+                "title": "India remains the fastest draw in flood relief to Nepal: 141.5 tonnes of aid rushed after flash floods | India News - Hindustan Times",
+                "description": "Demonstrating its 'Neighbourhood First' policy, India dispatched over 141.5 tonnes of emergency relief material to flood-affected regions in Nepal following severe flash floods and landslides. Coordinated by the Ministry of External Affairs (MEA), the Humanitarian Assistance and Disaster Relief (HADR) package included essential medicines, water purification plants, food supplies, and shelter kits. India remains the first responder for regional disaster management in South Asia, underscoring strong bilateral ties, geographical proximity, and shared disaster management frameworks with Nepal.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEhXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5",
+                "pubDate": "2026-09-20T01:58:04.000Z"
+            }
+        ]
     }
 ]
