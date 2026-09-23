@@ -840,5 +840,46 @@
                 "pubDate": "2026-09-21T03:53:23.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-23",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Asian Games 2026 LIVE | Men’s Singles: Jay Meena in quarterfinal against Sherwin Nuguit",
+                "description": "Men’s Kayak Four 500m: Harshwardhan Shaktawat, Varinder Singh, L Naocha Singh Oinam, and Arun Singh in Heat 1",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece",
+                "pubDate": "2026-09-22T23:48:40.000Z"
+            },
+            {
+                "title": "Maharashtra SIR: 30% electorate likely to be disenfranchised, says Congress",
+                "description": "Congress delegation flags SIR anomalies to Maharashtra Chief Electoral Officer, seeks two-month extension",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/maharashtra/206-crore-voter-roll-exclusions-in-maharashtra-alarming-says-congress-seeks-probe/article71495289.ece",
+                "pubDate": "2026-09-22T23:25:36.000Z"
+            },
+            {
+                "title": "BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks",
+                "description": "I want to tell Rameshwar Sharma ji that what he has said definitely works to divide this country. He should now take this up with his senior leaders in the Bharatiya Janata Party, said AIMIM State president Mohsin Ali Khan",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-mla-stirs-row-with-muslims-should-bring-their-daughters-sisters-to-garba-remarks/article71496775.ece",
+                "pubDate": "2026-09-22T23:18:42.000Z"
+            },
+            {
+                "title": "Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears",
+                "description": "Police encounter with accused took place barely 50 metres from college’s back gate; students’ union says 2,000–3,000 women students live around the park",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/cities/Delhi/astha-kunj-park-gang-rape-lsr-suspends-classes-students-consider-leaving-delhi-amid-safety-fears/article71496925.ece",
+                "pubDate": "2026-09-22T21:05:20.000Z"
+            },
+            {
+                "title": "World Rhino Day focus on India-Bhutan joint conservation",
+                "description": "A translocation programme helped the one-horned rhino population in Manas Tiger Reserve from zero to 48 in 20 years, but increasing movement of the herbivore across the international border has raised new concerns",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/assam/world-rhino-day-focus-on-india-bhutan-joint-conservation/article71496029.ece",
+                "pubDate": "2026-09-22T20:39:04.000Z"
+            }
+        ]
     }
 ]
