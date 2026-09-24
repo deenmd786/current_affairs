@@ -881,5 +881,46 @@
                 "pubDate": "2026-09-22T20:39:04.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-24",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam",
+                "description": "The Arunachal Pradesh Cabinet approved a high-level committee for surveying the proposed 11,000 MW Siang Upper Multipurpose Project in the Siang Valley. Executed to mitigate flood risks and generate hydroelectricity, the project is strategically crucial as a countermeasure to China's mega-dam on the Yarlung Zangbo (Brahmaputra) upstream. The Siang River is the primary trunk of the Brahmaputra River system in India. The survey aims to address local community concerns regarding displacement, ecological disruption, and pre-feasibility assessments.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece",
+                "pubDate": "2026-09-23T23:06:31.000Z"
+            },
+            {
+                "title": "U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana",
+                "description": "Uttar Pradesh Chief Minister Yogi Adityanath launched 'Bharat Taxi', a zero-commission ride-hailing cooperative mobility platform offering drivers social security coverage of ₹5 lakh upon registration to safeguard gig economy workers. Additionally, the state unveiled the 'Mukhyamantri Krishak Samriddhi Yojana' to boost agricultural productivity, farmer incomes, and rural marketing infrastructure across Uttar Pradesh. These initiatives target economic empowerment for transport operators and agrarian communities, reinforcing state-led social welfare frameworks, rural growth models, and employment security initiatives.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece",
+                "pubDate": "2026-09-23T22:13:13.000Z"
+            },
+            {
+                "title": "India-EU FTA to be signed on December 16",
+                "description": "The Free Trade Agreement (FTA) between India and the European Union (EU) is scheduled for signing on December 16 during Prime Minister Narendra Modi's visit to Belgium. Negotiated under the Ministry of Commerce and Industry, the bilateral agreement aims to boost trade in goods and services, enhance investment protection, and lower tariff barriers. The visit forms part of a broader diplomatic tour encompassing Canada, the U.S., and Belgium, highlighting India's proactive trade diplomacy and integration into global value chains.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece",
+                "pubDate": "2026-09-23T16:55:41.000Z"
+            },
+            {
+                "title": "OECD becomes latest global agency to upgrade India’s growth, ups 2026-27 expansion to 7.1%",
+                "description": "The Organisation for Economic Co-operation and Development (OECD) upgraded India’s GDP growth forecast for FY 2026-27 to 7.1%. This enhancement follows recent upward revisions by major credit rating agencies—Moody’s, S&P Global, and Fitch Ratings. The OECD, a Paris-headquartered intergovernmental organization with 38 member countries (India is a key partner country), cited robust domestic demand, government capital expenditure, and strong macroeconomic fundamentals as primary drivers for India's sustained economic growth momentum in the Asia-Pacific region.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece",
+                "pubDate": "2026-09-23T10:47:34.000Z"
+            },
+            {
+                "title": "India-New Zealand FTA ratified, to come into effect on October 20",
+                "description": "The India-New Zealand Free Trade Agreement (FTA) has been officially ratified and will take effect on October 20. Under the pact, New Zealand will eliminate tariffs on 100% of Indian exports, while India will reduce or remove tariffs on 95% of imports from New Zealand. Crucially, the Ministry of Commerce and Industry ensured that sensitive domestic sectors, including India's dairy industry and key agricultural commodities, remain protected under negative list exclusions to safeguard rural livelihoods.",
+                "source": "The Hindu (Economy & Business)",
+                "link": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece",
+                "pubDate": "2026-09-23T06:20:58.000Z"
+            }
+        ]
     }
 ]
