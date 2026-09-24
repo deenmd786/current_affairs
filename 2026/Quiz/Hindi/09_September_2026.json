@@ -1502,28 +1502,84 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-22",
-        "question": "अगस्त्यमलाई बायोस्फीयर रिजर्व को किस वर्ष यूनेस्को (UNESCO) विश्व बायोस्फीयर रिजर्व के रूप में नामित किया गया था?",
+        "date": "2026-09-24",
+        "question": "अरुणाचल प्रदेश में सियांग अपर बहुउद्देश्यीय परियोजना (Siang Upper Multipurpose Project) की प्रस्तावित विद्युत उत्पादन क्षमता कितनी है?",
         "options": [
-            "2012",
-            "2014",
-            "2016",
-            "2018"
+            "8,000 मेगावॉट",
+            "10,000 मेगावॉट",
+            "11,000 मेगावॉट",
+            "12,500 मेगावॉट"
         ],
-        "answer": "2016",
-        "explanation": "केरल और तमिलनाडु में फैले दक्षिणी पश्चिमी घाट में स्थित अगस्त्यमलाई बायोस्फीयर रिजर्व को 2016 में आधिकारिक तौर पर यूनेस्को विश्व बायोस्फीयर रिजर्व के रूप में नामित किया गया था।",
+        "answer": "11,000 मेगावॉट",
+        "explanation": "अरुणाचल प्रदेश मंत्रिमंडल ने सियांग घाटी में प्रस्तावित 11,000 मेगावॉट की सियांग अपर बहुउद्देश्यीय परियोजना का सर्वेक्षण करने के लिए एक उच्च-स्तरीय समिति को मंजूरी दी। इस परियोजना का उद्देश्य जलविद्युत उत्पन्न करना, बाढ़ के जोखिमों को कम करना और चीन द्वारा ऊपरी क्षेत्र में किए जा रहे बांध निर्माण का रणनीतिक मुकाबला करना है।",
         "tags": [
-            "Environment & Ecology",
-            "Biosphere Reserves",
-            "Static GK"
+            "Infrastructure",
+            "Arunachal Pradesh"
         ],
         "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece"
+        "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-22",
-        "question": "भारत-न्यूजीलैंड मुक्त व्यापार समझौते (FTA) के तहत, न्यूजीलैंड भारतीय आयात के कितने प्रतिशत पर शुल्क (टैरिफ) समाप्त कर देगा?",
+        "date": "2026-09-24",
+        "question": "उत्तर प्रदेश में पंजीकरण कराने पर 'भारत टैक्सी' (Bharat Taxi) मोबिलिटी प्लेटफॉर्म चालकों को कितनी सामाजिक सुरक्षा कवरेज प्रदान करता है?",
+        "options": [
+            "₹2 लाख",
+            "₹3 लाख",
+            "₹5 लाख",
+            "₹10 लाख"
+        ],
+        "answer": "₹5 लाख",
+        "explanation": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने 'भारत टैक्सी' का शुभारंभ किया, जो एक शून्य-कमीशन राइड-हेलिंग सहकारी प्लेटफॉर्म है। यह पंजीकरण पर चालकों को ₹5 लाख की सामाजिक सुरक्षा कवरेज प्रदान करता है। इस योजना का लक्ष्य गिग अर्थव्यवस्था के श्रमिकों और चालकों का सामाजिक सुरक्षा एवं आर्थिक सशक्तिकरण करना है।",
+        "tags": [
+            "State Schemes",
+            "Uttar Pradesh"
+        ],
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece"
+    },
+    {
+        "id": "ca_2026_09_018",
+        "date": "2026-09-24",
+        "question": "भारत और यूरोपीय संघ के बीच मुक्त व्यापार समझौते (FTA) पर 16 दिसंबर को किस देश में हस्ताक्षर किए जाने का कार्यक्रम है?",
+        "options": [
+            "जर्मनी",
+            "फ्रांस",
+            "बेल्जियम",
+            "स्विट्जरलैंड"
+        ],
+        "answer": "बेल्जियम",
+        "explanation": "प्रधानमंत्री नरेंद्र मोदी की बेल्जियम की आधिकारिक यात्रा के दौरान 16 दिसंबर को भारत और यूरोपीय संघ के बीच मुक्त व्यापार समझौते (FTA) पर हस्ताक्षर किए जाने का कार्यक्रम है। वाणिज्य एवं उद्योग मंत्रालय द्वारा बातचीत से तैयार इस समझौते का उद्देश्य वस्तुओं और सेवाओं में द्विपक्षीय व्यापार को बढ़ावा देना है।",
+        "tags": [
+            "International Relations",
+            "Trade Agreements"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece"
+    },
+    {
+        "id": "ca_2026_09_019",
+        "date": "2026-09-24",
+        "question": "OECD द्वारा वित्तीय वर्ष 2026-27 के लिए भारत की जीडीपी (GDP) वृद्धि दर का संशोधित अनुमान कितना लगाया गया है?",
+        "options": [
+            "6.8%",
+            "7.0%",
+            "7.1%",
+            "7.4%"
+        ],
+        "answer": "7.1%",
+        "explanation": "पेरिस स्थित OECD ने वित्तीय वर्ष 2026-27 के लिए भारत के जीडीपी विकास दर के अनुमान को बढ़ाकर 7.1% कर दिया है। इस संशोधन का मुख्य कारण मजबूत घरेलू मांग, सरकारी पूंजीगत व्यय और सुदृढ़ समष्टि आर्थिक (मैक्रोइकॉनॉमिक) बुनियादी ढांचा बताया गया है।",
+        "tags": [
+            "Economy",
+            "Reports & Indices"
+        ],
+        "source": "The Hindu (Economy & Business)",
+        "link": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece"
+    },
+    {
+        "id": "ca_2026_09_020",
+        "date": "2026-09-24",
+        "question": "भारत और न्यूजीलैंड के बीच अनुसमर्थित मुक्त व्यापार समझौते के तहत, न्यूजीलैंड भारतीय निर्यात के कितने प्रतिशत हिस्से पर शुल्क (टैरिफ) समाप्त कर देगा?",
         "options": [
             "85%",
             "90%",
@@ -1531,73 +1587,12 @@
             "100%"
         ],
         "answer": "100%",
-        "explanation": "अनुमोदित समझौते के तहत, न्यूजीलैंड भारतीय आयात के 100% पर शुल्क समाप्त कर देगा, जबकि भारत न्यूजीलैंड से होने वाले 95% आयात पर शुल्क समाप्त या कम करेगा।",
+        "explanation": "20 अक्टूबर से लागू होने वाले भारत-न्यूजीलैंड मुक्त व्यापार समझौते के तहत, न्यूजीलैंड भारतीय निर्यात के 100% हिस्से पर सीमा शुल्क समाप्त कर देगा। इसके बदले में, भारत डेयरी जैसे संवेदनशील क्षेत्रों को नकारात्मक सूची छूट के तहत संरक्षित रखते हुए 95% आयात पर शुल्क कम या समाप्त करेगा।",
         "tags": [
             "Economy",
-            "International Trade",
-            "Current Affairs"
+            "International Trade"
         ],
         "source": "The Hindu (Economy & Business)",
         "link": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece"
-    },
-    {
-        "id": "ca_2026_09_018",
-        "date": "2026-09-22",
-        "question": "किस केंद्रीय मंत्री ने भारत के महत्वपूर्ण खनिज पुनर्चक्रण (क्रिटिकल मिनरल रीसाइक्लिंग) उद्योग का समर्थन करने के लिए 'होल-ऑफ-गवर्नमेंट अप्रोच' (समग्र सरकार दृष्टिकोण) की घोषणा की?",
-        "options": [
-            "प्रह्लाद जोशी",
-            "जी. किशन रेड्डी",
-            "हरदीप सिंह पूरी",
-            "अश्विनी वैष्णव"
-        ],
-        "answer": "जी. किशन रेड्डी",
-        "explanation": "केंद्रीय खान मंत्री जी. किशन रेड्डी ने घरेलू महत्वपूर्ण खनिज पुनर्चक्रण उद्योग का समर्थन करने और नियामक ढांचे को सुव्यवस्थित करने के लिए एक व्यापक 'होल-ऑफ-गवर्नमेंट अप्रोच' की घोषणा की।",
-        "tags": [
-            "Polity & Governance",
-            "Mines Ministry",
-            "Economy"
-        ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Industry/whole-of-govt-approach-being-followed-to-address-concerns-of-critical-mineral-recycling-industry-g-kishan-reddy/article71492766.ece"
-    },
-    {
-        "id": "ca_2026_09_019",
-        "date": "2026-09-22",
-        "question": "विदेश मंत्री एस. जयशंकर संयुक्त राष्ट्र महासभा (UNGA) के किस सत्र में भारतीय प्रतिनिधिमंडल का नेतृत्व कर रहे हैं?",
-        "options": [
-            "78वां सत्र",
-            "79वां सत्र",
-            "80वां सत्र",
-            "81वां सत्र"
-        ],
-        "answer": "81वां सत्र",
-        "explanation": "विदेश मंत्री एस. जयशंकर न्यूयॉर्क में संयुक्त राष्ट्र महासभा के 81वें सत्र में भारतीय प्रतिनिधिमंडल का नेतृत्व कर रहे हैं।",
-        "tags": [
-            "International Relations",
-            "Diplomacy",
-            "UNGA"
-        ],
-        "source": "Google News (India National)",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXNKYlpJcDlqU0EzOXUydVJYWGxfUkM1VVVwTWYwdFZSOWJ4VXl2X0FzeXdxNG8zbzB2ZzNnWDhMbTJQZFZzT0RLbmh2VEw0TVJDZEtwSjJqYnpyaDFqaXBic2VNVHZqRV82eWk5VzJSRDZ0bkhlOFFud1JxYTB2QzJHRnctRkRYTTVHcGpIeHY0MENiTFNnbURxcDJWNFZsM011TENVVGtDaE0?oc=5"
-    },
-    {
-        "id": "ca_2026_09_020",
-        "date": "2026-09-22",
-        "question": "डच सेमीकंडक्टर उपकरण प्रमुख ASML ने देश के सेमीकंडक्टर पारिस्थितिकी तंत्र को मजबूत करने के लिए किस भारतीय औद्योगिक समूह के साथ साझेदारी की है?",
-        "options": [
-            "रिलायंस इंडस्ट्रीज",
-            "टाटा ग्रुप",
-            "अदाणी ग्रुप",
-            "वेदांता रिसोर्सेज"
-        ],
-        "answer": "टाटा ग्रुप",
-        "explanation": "ASML ने 'इंडिया सेमीकंडक्टर मिशन' ढांचे के तहत भारत की चिप फैब्रिकेशन, असेंबली, टेस्टिंग और पैकेजिंग क्षमताओं को बढ़ाने के लिए टाटा ग्रुप (Tata Group) के साथ साझेदारी की है।",
-        "tags": [
-            "Science & Technology",
-            "Semiconductor Mission",
-            "Corporate News"
-        ],
-        "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeGdGSVd2SzZfRzNxanZrdnd6NWE2cVozRjRsbHdYTHlldmloazUtQUdCcWlGYkZOeUNTSmRtaDFkczBveWk4dkY3XzB6SHdtRjhtSFJoNTNYSlZTZ1NrSW5sdzZYTG1fc3FNSzRPa0U1T0VGdlFfN19ra2l5WHdPUGdOSVhYbDFkUXV4TFlCRVZqS0t0aEYxTGI4WVVvWVlOeUxjRE9Td0HVkW1E0T0d3VU5HYkowX2hvb3dPSEM1M3lkcDVvWVdKTzZwZ2RtRFdtdDJXUmx3QkpqX3hSSzRsSUtRWlBCAIB6wFBVV95cUxQYVRsRzVIa1p1NDdnaDdYNkMzbWJJbklPQ3N3NXBTbnllUEVocFVYbUF3WWZJVk1YVVFiczZnT1ptTmRSRU9WYmMwbUlxbDNyM1pzSTY0bDMyU0RvNEcyWTN3SWNSUkxQM1FfWmVtVVNHUVdTY3BoVW8tR2wzOTNTY2JZdEdZMnhEbThEam1wWEVnRU03bUM3S094N1l5dXZmb21RSHVQLVJENXJlb1BzTXQxanoxWFpoM0I4YTF6a01sWHF0c3FvcnY1NjJLLThwMFpMdnB1c1dNMEVvSDFrejAxa194ZllnZUZR?oc=5"
     }
 ]
