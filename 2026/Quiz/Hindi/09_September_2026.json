@@ -1502,97 +1502,97 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-24",
-        "question": "अरुणाचल प्रदेश में सियांग अपर बहुउद्देश्यीय परियोजना (Siang Upper Multipurpose Project) की प्रस्तावित विद्युत उत्पादन क्षमता कितनी है?",
+        "date": "2026-09-25",
+        "question": "पुणे के पास खोडद में स्थित अपग्रेडेड जायंट मीटरवेव रेडियो टेलीस्कोप (uGMRT) का संचालन किस संस्थान द्वारा किया जाता है?",
         "options": [
-            "8,000 मेगावॉट",
-            "10,000 मेगावॉट",
-            "11,000 मेगावॉट",
-            "12,500 मेगावॉट"
+            "TIFR का नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA)",
+            "भारतीय खगोल भौतिकी संस्थान (IIA)",
+            "भौतिक अनुसंधान प्रयोगशाला (PRL)",
+            "अंतर-विश्वविद्यालय खगोल विज्ञान और खगोल भौतिकी केंद्र (IUCAA)"
         ],
-        "answer": "11,000 मेगावॉट",
-        "explanation": "अरुणाचल प्रदेश मंत्रिमंडल ने सियांग घाटी में प्रस्तावित 11,000 मेगावॉट की सियांग अपर बहुउद्देश्यीय परियोजना का सर्वेक्षण करने के लिए एक उच्च-स्तरीय समिति को मंजूरी दी। इस परियोजना का उद्देश्य जलविद्युत उत्पन्न करना, बाढ़ के जोखिमों को कम करना और चीन द्वारा ऊपरी क्षेत्र में किए जा रहे बांध निर्माण का रणनीतिक मुकाबला करना है।",
+        "answer": "TIFR का नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA)",
+        "explanation": "पुणे के पास खोडद में स्थित अपग्रेडेड जायंट मीटरवेव रेडियो टेलीस्कोप (uGMRT) का संचालन टाटा इंस्टीट्यूट ऑफ फंडामेंटल रिसर्च (TIFR) के नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA) द्वारा किया जाता है।",
         "tags": [
-            "Infrastructure",
-            "Arunachal Pradesh"
+            "Science & Technology",
+            "Astronomy"
         ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece"
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlRGRlpMQXVoUWNBS0wxWEx3U2VYNmI2YWwxNUc3eTh5RUdIcUtQd3hBUWNmdUpKQ0owaF8wWFdGeGdCUk11R01HbHVtektxYTVkSWYxVDNiUU4zV3NvZlJfcjZtc0NoMjhZWTMtOUhRUzV5a1REY2xHSDFyYWplNEJxSU5KLUQtd3ZCY25wVGx1NXNRV2tUQ1lidWdGakEyUlBtemtuR3Y0aEZjMjI5bkJIRnI2dE5JQUxnNFVFNHllQlNQSTBHeFdYYlBNdkNPamY3UTZBak12S3BvXzFOWHpiNlNxZ9IB7AFBVV95cUxONGwwaGZTYVB1bXF1V0d2M3VPOUd5eUVFaDVrN3pHaUsya3AwbmY0WEJsS1VJRDZWeS16MksxSG5UTEFaN0IyX2hGSTktQkEwXzJJSHdteWVockFEX21yV2hoZDIwUGJRNWRJVDdRMzlzNW5XSkxsNTlIaUNBTFEtQ2E3eDdOOUxaR0FBTnRaSU5NLUV6Y0Vmc09YdlZjVDJmV2lCOGNQcFlBUG9GYjF6M0o1Q20tTjZiNVRxXy1abUNRdVlydDY3SHNRNHJHUmlxSjlzczVfMXVaeVZPUm1CUjR4bENwTFFfMlM4OQ?oc=5"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-24",
-        "question": "उत्तर प्रदेश में पंजीकरण कराने पर 'भारत टैक्सी' (Bharat Taxi) मोबिलिटी प्लेटफॉर्म चालकों को कितनी सामाजिक सुरक्षा कवरेज प्रदान करता है?",
+        "date": "2026-09-25",
+        "question": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) किस केंद्रीय मंत्रालय के अंतर्गत कार्य करता है?",
         "options": [
-            "₹2 लाख",
-            "₹3 लाख",
-            "₹5 लाख",
-            "₹10 लाख"
+            "कृषि एवं किसान कल्याण मंत्रालय",
+            "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+            "उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय",
+            "खाद्य प्रसंस्करण उद्योग मंत्रालय"
         ],
-        "answer": "₹5 लाख",
-        "explanation": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने 'भारत टैक्सी' का शुभारंभ किया, जो एक शून्य-कमीशन राइड-हेलिंग सहकारी प्लेटफॉर्म है। यह पंजीकरण पर चालकों को ₹5 लाख की सामाजिक सुरक्षा कवरेज प्रदान करता है। इस योजना का लक्ष्य गिग अर्थव्यवस्था के श्रमिकों और चालकों का सामाजिक सुरक्षा एवं आर्थिक सशक्तिकरण करना है।",
+        "answer": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+        "explanation": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) स्वास्थ्य एवं परिवार कल्याण मंत्रालय के अंतर्गत कार्य करता है। इसने 'पनीर' जैसे पारंपरिक डेयरी लेबल का उपयोग करने वाले गैर-डेयरी एनालॉग (प्रतिरूप) उत्पादों पर प्रतिबंध लगाने वाले नियमों का प्रस्ताव दिया है।",
         "tags": [
-            "State Schemes",
-            "Uttar Pradesh"
+            "Governance",
+            "Polity"
         ],
-        "source": "The Hindu (National)",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece"
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcmstZEItdVRISldWRnJJd2hFMURhTlpaUUtwMndvbDBidHoxTWw0QUdfN2MwZTlfQVdTR3gtY09vRng2WUtKejJXN00wbGt5a01tYnkwSV9WbE54a1ozTlRMMVlmeFVEMVFRSm55M1dGOFVxLUpsOW9fT1VORERSUmxnaTI0MHZkQnJZUXgwNHJEX1JFek1rOF9OLUFZcFlyZ0tqTkJjaVJ3UUNCdXI1Q2xGWWlmS0gzN3BqYjItYkptbXZZV3RSaVhqYUkya3JidmRZNEVHQVQ1T2FjZk5sMXFlSHBLNF9P0gHuAUFVX3lxTE94OWNPd2hDYktyTGhtS2VLd3NZMGlWNXlqU0FPTUszWGI2aUdScWtwNWxUTXNza0h4YjhIcC1WWlVPRzV0RGVjeDV2SGM3MXBSZm11eWhFMG1HT093dlVvNVFtLW13TFRGY1ZKY0JFODdHblQxV3RBZUJDbXM3R3ctZjBoYnFWcVVWaGJ5ZGV3VG41UmRQQkdZNXNESXpQWDNnQ2hNbS00aDVCdDktREV6N2ROMXpLaXJSNmN4YkM5MzhkV3lkRlZiZUNMMnZIc2Z5Wm12RUt3QWhFcTRqeWlTNktYcEFlX0VHMHFteHc?oc=5"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-24",
-        "question": "भारत और यूरोपीय संघ के बीच मुक्त व्यापार समझौते (FTA) पर 16 दिसंबर को किस देश में हस्ताक्षर किए जाने का कार्यक्रम है?",
+        "date": "2026-09-25",
+        "question": "वायरल जीनोम के भीतर पाए गए CRISPR-Cas जीन-एडिटिंग टूल के नए खोजे गए विकासात्मक अग्रदूत (evolutionary precursor) को क्या नाम दिया गया है?",
         "options": [
-            "जर्मनी",
-            "फ्रांस",
-            "बेल्जियम",
-            "स्विट्जरलैंड"
+            "VIPR",
+            "CASPOSON",
+            "TRACR",
+            "V-CRISPR"
         ],
-        "answer": "बेल्जियम",
-        "explanation": "प्रधानमंत्री नरेंद्र मोदी की बेल्जियम की आधिकारिक यात्रा के दौरान 16 दिसंबर को भारत और यूरोपीय संघ के बीच मुक्त व्यापार समझौते (FTA) पर हस्ताक्षर किए जाने का कार्यक्रम है। वाणिज्य एवं उद्योग मंत्रालय द्वारा बातचीत से तैयार इस समझौते का उद्देश्य वस्तुओं और सेवाओं में द्विपक्षीय व्यापार को बढ़ावा देना है।",
+        "answer": "VIPR",
+        "explanation": "वैज्ञानिकों ने वायरल जीनोम के भीतर समाहित CRISPR-Cas जीन-एडिटिंग टूल के एक प्राचीन विकासात्मक अग्रदूत की खोज की है, जिसे VIPR नाम दिया गया है।",
         "tags": [
-            "International Relations",
-            "Trade Agreements"
+            "Science & Technology",
+            "Biotechnology"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece"
+        "source": "Google News (Science & Tech)",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1JPMTNubkFUOUphSURmNVc3Nlc0RXE5dGt2dkhUcHg4Z1ExNV8zUHQ4ZlhzZDlvU2V1bkhUV2UxeUV6cmowWFFEcVpWdHZkcElnajM3SDFobGY5Q3AxR2VGT3hhemFYQlZsNElSaXBBS0JBdFc2T0diQmRYNTlBX3FHOTF1MDBaclVKZ1puNjJ2VGtscG44YjFyTjRYa1BDQVBxQkpMVHc?oc=5"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-24",
-        "question": "OECD द्वारा वित्तीय वर्ष 2026-27 के लिए भारत की जीडीपी (GDP) वृद्धि दर का संशोधित अनुमान कितना लगाया गया है?",
+        "date": "2026-09-25",
+        "question": "सेबी (SEBI) द्वारा मान्यता प्राप्त 'ब्लू बॉन्ड्स' (Blue Bonds) सीधे तौर पर किस सतत विकास लक्ष्य (SDG) का समर्थन करते हैं?",
         "options": [
-            "6.8%",
-            "7.0%",
-            "7.1%",
-            "7.4%"
+            "SDG 6 (स्वच्छ जल और स्वच्छता)",
+            "SDG 13 (जलवायु कार्रवाई)",
+            "SDG 14 (जल के नीचे जीवन)",
+            "SDG 15 (भूमि पर जीवन)"
         ],
-        "answer": "7.1%",
-        "explanation": "पेरिस स्थित OECD ने वित्तीय वर्ष 2026-27 के लिए भारत के जीडीपी विकास दर के अनुमान को बढ़ाकर 7.1% कर दिया है। इस संशोधन का मुख्य कारण मजबूत घरेलू मांग, सरकारी पूंजीगत व्यय और सुदृढ़ समष्टि आर्थिक (मैक्रोइकॉनॉमिक) बुनियादी ढांचा बताया गया है।",
+        "answer": "SDG 14 (जल के नीचे जीवन)",
+        "explanation": "ब्लू बॉन्ड्स विशेष ऋण उपकरण हैं जिन्हें टिकाऊ महासागर प्रबंधन और समुद्री संरक्षण के लिए पूंजी जुटाने के लिए डिज़ाइन किया गया है, जो सीधे SDG 14 (जल के नीचे जीवन) का समर्थन करते हैं।",
         "tags": [
             "Economy",
-            "Reports & Indices"
+            "Environment"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece"
+        "link": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-24",
-        "question": "भारत और न्यूजीलैंड के बीच अनुसमर्थित मुक्त व्यापार समझौते के तहत, न्यूजीलैंड भारतीय निर्यात के कितने प्रतिशत हिस्से पर शुल्क (टैरिफ) समाप्त कर देगा?",
+        "date": "2026-09-25",
+        "question": "भारत में कौन सा केंद्रीय मंत्रालय अंतर्राष्ट्रीय व्यापार भागीदारों के साथ मुक्त व्यापार समझौतों (FTAs) पर बातचीत के लिए जिम्मेदार है?",
         "options": [
-            "85%",
-            "90%",
-            "95%",
-            "100%"
+            "विदेश मंत्रालय",
+            "वाणिज्य एवं उद्योग मंत्रालय",
+            "वित्त मंत्रालय",
+            "कॉरपोरेट कार्य मंत्रालय"
         ],
-        "answer": "100%",
-        "explanation": "20 अक्टूबर से लागू होने वाले भारत-न्यूजीलैंड मुक्त व्यापार समझौते के तहत, न्यूजीलैंड भारतीय निर्यात के 100% हिस्से पर सीमा शुल्क समाप्त कर देगा। इसके बदले में, भारत डेयरी जैसे संवेदनशील क्षेत्रों को नकारात्मक सूची छूट के तहत संरक्षित रखते हुए 95% आयात पर शुल्क कम या समाप्त करेगा।",
+        "answer": "वाणिज्य एवं उद्योग मंत्रालय",
+        "explanation": "टैरिफ को समाप्त करने, गैर-टैरिफ बाधाओं को कम करने और वैश्विक स्तर पर भारतीय वस्तुओं के लिए बाजार पहुंच सुरक्षित करने के लिए वाणिज्य एवं उद्योग मंत्रालय के तहत मुक्त व्यापार समझौतों (FTAs) पर बातचीत की जाती है।",
         "tags": [
             "Economy",
-            "International Trade"
+            "International Relations"
         ],
         "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece"
+        "link": "https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece"
     }
 ]
