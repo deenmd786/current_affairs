@@ -963,5 +963,46 @@
                 "pubDate": "2026-09-24T01:37:23.000Z"
             }
         ]
+    },
+    {
+        "date": "2026-09-26",
+        "total_articles": 5,
+        "articles": [
+            {
+                "title": "E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari",
+                "description": "Union Minister for Road Transport and Highways highlighted the benefits of E20 fuel (20% ethanol blended with petrol), emphasizing its role in reducing India's crude oil import bill of ₹22 lakh crore, boosting farmer incomes, and lowering vehicular emissions. Under the Ethanol Blended Petrol (EBP) Programme, coordinated by the Ministry of Petroleum and Natural Gas, India aims for 20% ethanol blending by 2025-26. Automobile manufacturers are transitioning to flex-fuel engines capable of running on up to 100% ethanol, fostering energy security and sustainable mobility.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece",
+                "pubDate": "2026-09-25T19:35:00.000Z"
+            },
+            {
+                "title": "Narrowed posture: On Karnataka and the Kasturirangan Report",
+                "description": "The Karnataka government's opposition to the Kasturirangan Committee report on Western Ghats Ecologically Sensitive Areas (ESAs) highlights ongoing tussles between environmental conservation and regional development. The Dr. K. Kasturirangan Panel recommended declaring 37% (around 60,000 sq km) of the Western Ghats across six states as ESAs under the Environment (Protection) Act, 1986. Western Ghats is a UNESCO World Heritage site and a global biodiversity hotspot. Rejecting the framework risks ecological degradation, disaster vulnerability, and loss of endemic species across South India's key catchment zone.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece",
+                "pubDate": "2026-09-25T19:29:30.000Z"
+            },
+            {
+                "title": "ICG ship Shaunak sails for Australia with QUAD officers onboard",
+                "description": "Indian Coast Guard Ship (ICGS) Shaunak has sailed for Australia carrying maritime officers from QUAD nations (India, USA, Japan, and Australia) to strengthen maritime domain awareness and interoperability. This operational deployment aligns with the QUAD framework promoting a free, open, inclusive, and rules-based maritime order in the Indo-Pacific region. ICGS Shaunak is an Indigenously built Offshore Patrol Vessel (OPV) deployed under the Ministry of Defence. The initiative underscores growing strategic convergence among QUAD partners in non-traditional maritime security, search and rescue (SAR), and humanitarian assistance.",
+                "source": "The Hindu (National)",
+                "link": "https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece",
+                "pubDate": "2026-09-25T19:25:04.000Z"
+            },
+            {
+                "title": "Centre to borrow Rs 7.86 lakh crore in H2FY27; full-year borrowing below Budget estimate - Moneycontrol.com",
+                "description": "The Central Government announced its second-half (H2) gross market borrowing plan of ₹7.86 lakh crore, keeping total annual borrowing below initial Budget Estimates. Conducted via Reserve Bank of India (RBI) through dated securities and Treasury Bills, market borrowings fund the fiscal deficit governed by the FRBM Act, 2003. Lower-than-expected borrowing signals fiscal consolidation, prevents crowding out of private investment, and helps stabilize government bond yields. This prudent debt management strategy reflects robust tax collections and efficient cash flow management by the Ministry of Finance.",
+                "source": "Google News (India Economy & Markets)",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmt0NGpoQ3doTnRRc25ZUURib2hBU210WEllenM1aVB1czVVd1FGek55YlF1QjdkejhPS1JDanFIRkM2Q3VHRnIyMW1LV1FrNG9EdE16VlRnNHBKUXVsUGJXZ2NLNjRnUnFUQTM1LTFPQ2NpbVJTVTFmYkJmdUdoOVpCbENnMFMtbktJaXA5VWY3Si1aUEpCYVZFT2tpUDVHS2w3eExYS0N2NGhVNE5pVHNUbXFZdDNyd0l6TmJGYzYxalpiU2JmOUFmaldONXFXdjd6LXVUMHnSAd4BQVVfeXFMUHVpUWVRRTlBb3VrLWV3RDBOZVRlX0pXY3hoak1DbWdHX3R5bHNEMnVUMmVBaGpQUC1XS2FsYjVmcF9ic1lxWmQxOExnSWh4LUtoVWthcDVYSGx6dUE5aGJUUDRVMGlBbzAyR3Mya1MxRWx3Skl4YnpwWk9mc2VjMzMyNlZqV25nZVRCek9FbWFFY0l5WGNWTWhPUEQ5bVN4TWVvek4xY09uLVFwUnYxTWZNTVB1Rl9icXB0TWJCaW9lX3puTldnMERWb1VZNF9Ddi1KeHd4X2VfWVlTRlpB?oc=5",
+                "pubDate": "2026-09-25T12:03:38.000Z"
+            },
+            {
+                "title": "DRDO needs to cut projects to 10, expand private role in defence production: Defence Secy - CNBC TV18",
+                "description": "Defence Secretary emphasized streamlining the Defence Research and Development Organisation (DRDO) by limiting its focus to core futuristic technologies and expanding private sector involvement in defence manufacturing. Aligning with the K. VijayRaghavan Committee recommendations, DRDO is shifting away from commercial product development to focus on high-end strategic research. The Ministry of Defence aims to boost private R&D, foster defence exports, and accelerate indigenous production under 'Atmanirbhar Bharat'. This reform aims to eliminate perimeter fallacies, reduce project delays, and enhance battlefield technology integration.",
+                "source": "Google News (India National)",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRUE0aDNyemxVSVdsY1diUmlKRlJzOWpqcTMzc1BzZ2txRmswUWwxQjRZMWRtS3RvWEs1T0hZZ09kcnlSQ3VENS1jWWZ2UXpfMWlmTlRHWFpwZzZvWklxTV92SXVnSmdjR0t4enZMaWh2VUhzRW9HYmI5V1BMUVVYS0k4V2o2ZnV0bXRBb1Q1RFRkczAxeGUwSjVwako1UmZfd2xEVTdEQTVOU09NeGo2LWg1X0FfMU1MZVQya3NLMkw0NXNuckdMNzNWd9IB0AFBVV95cUxNTnNGUXBBMi15eVA2cEQzOHc0U0pTU21pOWtWdVNPU2c3MmFZUkR6YUZyR3llZm44ZHpLVDRnOTFYSU92MF9pTEdrc0ZROW1JS25BOG03TU00WVJ5MnVmc3ZvS1hlWmZJNDJZNHFTSk8zcDJ0X2xxQ19RdUdyN214Xzhlb01feHdXX3dVNkN3LS1yNmxDbks5LWowTkhPY091bzNBT0VReUdDclZzb2plSWtQVzM5dFA1QnV6alQtYkVfWGxfd2o4ckhfc0xFRkNt?oc=5",
+                "pubDate": "2026-09-25T10:56:21.000Z"
+            }
+        ]
     }
 ]
