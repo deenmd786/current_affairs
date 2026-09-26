@@ -1502,97 +1502,102 @@
     },
     {
         "id": "ca_2026_09_016",
-        "date": "2026-09-25",
-        "question": "पुणे के पास खोडद में स्थित अपग्रेडेड जायंट मीटरवेव रेडियो टेलीस्कोप (uGMRT) का संचालन किस संस्थान द्वारा किया जाता है?",
+        "date": "2026-09-26",
+        "question": "इथेनॉल ब्लेंडेड पेट्रोल (EBP) कार्यक्रम के तहत, भारत का किस लक्षित वित्तीय वर्ष तक 20% इथेनॉल मिश्रण (E20) प्राप्त करने का लक्ष्य है?",
         "options": [
-            "TIFR का नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA)",
-            "भारतीय खगोल भौतिकी संस्थान (IIA)",
-            "भौतिक अनुसंधान प्रयोगशाला (PRL)",
-            "अंतर-विश्वविद्यालय खगोल विज्ञान और खगोल भौतिकी केंद्र (IUCAA)"
+            "2023-24",
+            "2025-26",
+            "2027-28",
+            "2029-30"
         ],
-        "answer": "TIFR का नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA)",
-        "explanation": "पुणे के पास खोडद में स्थित अपग्रेडेड जायंट मीटरवेव रेडियो टेलीस्कोप (uGMRT) का संचालन टाटा इंस्टीट्यूट ऑफ फंडामेंटल रिसर्च (TIFR) के नेशनल सेंटर फॉर रेडियो एस्ट्रोफिजिक्स (NCRA) द्वारा किया जाता है।",
+        "answer": "2025-26",
+        "explanation": "पेट्रोलियम और प्राकृतिक गैस मंत्रालय द्वारा समन्वित इथेनॉल ब्लेंडेड पेट्रोल (EBP) कार्यक्रम के तहत, भारत का लक्ष्य 2025-26 तक 20% इथेनॉल मिश्रण प्राप्त करना है।",
         "tags": [
-            "Science & Technology",
-            "Astronomy"
+            "Economy",
+            "Energy",
+            "Government Schemes"
         ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlRGRlpMQXVoUWNBS0wxWEx3U2VYNmI2YWwxNUc3eTh5RUdIcUtQd3hBUWNmdUpKQ0owaF8wWFdGeGdCUk11R01HbHVtektxYTVkSWYxVDNiUU4zV3NvZlJfcjZtc0NoMjhZWTMtOUhRUzV5a1REY2xHSDFyYWplNEJxSU5KLUQtd3ZCY25wVGx1NXNRV2tUQ1lidWdGakEyUlBtemtuR3Y0aEZjMjI5bkJIRnI2dE5JQUxnNFVFNHllQlNQSTBHeFdYYlBNdkNPamY3UTZBak12S3BvXzFOWHpiNlNxZ9IB7AFBVV95cUxONGwwaGZTYVB1bXF1V0d2M3VPOUd5eUVFaDVrN3pHaUsya3AwbmY0WEJsS1VJRDZWeS16MksxSG5UTEFaN0IyX2hGSTktQkEwXzJJSHdteWVockFEX21yV2hoZDIwUGJRNWRJVDdRMzlzNW5XSkxsNTlIaUNBTFEtQ2E3eDdOOUxaR0FBTnRaSU5NLUV6Y0Vmc09YdlZjVDJmV2lCOGNQcFlBUG9GYjF6M0o1Q20tTjZiNVRxXy1abUNRdVlydDY3SHNRNHJHUmlxSjlzczVfMXVaeVZPUm1CUjR4bENwTFFfMlM4OQ?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece"
     },
     {
         "id": "ca_2026_09_017",
-        "date": "2026-09-25",
-        "question": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) किस केंद्रीय मंत्रालय के अंतर्गत कार्य करता है?",
+        "date": "2026-09-26",
+        "question": "डॉ. के. कस्तूरीरंगन समिति द्वारा पश्चिमी घाट के कितने प्रतिशत भाग को पारिस्थितिकी रूप से संवेदनशील क्षेत्र (ESA) घोषित करने की सिफारिश की गई थी?",
         "options": [
-            "कृषि एवं किसान कल्याण मंत्रालय",
-            "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
-            "उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय",
-            "खाद्य प्रसंस्करण उद्योग मंत्रालय"
+            "25%",
+            "37%",
+            "50%",
+            "60%"
         ],
-        "answer": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
-        "explanation": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) स्वास्थ्य एवं परिवार कल्याण मंत्रालय के अंतर्गत कार्य करता है। इसने 'पनीर' जैसे पारंपरिक डेयरी लेबल का उपयोग करने वाले गैर-डेयरी एनालॉग (प्रतिरूप) उत्पादों पर प्रतिबंध लगाने वाले नियमों का प्रस्ताव दिया है।",
+        "answer": "37%",
+        "explanation": "डॉ. के. कस्तूरीरंगन समिति ने छह राज्यों में फैले पश्चिमी घाट के 37% (लगभग 60,000 वर्ग किमी) क्षेत्र को पारिस्थितिकी रूप से संवेदनशील क्षेत्र (ESA) घोषित करने की सिफारिश की थी।",
         "tags": [
-            "Governance",
-            "Polity"
+            "Environment",
+            "Committees",
+            "Ecology"
         ],
-        "source": "Google News (India Economy & Markets)",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcmstZEItdVRISldWRnJJd2hFMURhTlpaUUtwMndvbDBidHoxTWw0QUdfN2MwZTlfQVdTR3gtY09vRng2WUtKejJXN00wbGt5a01tYnkwSV9WbE54a1ozTlRMMVlmeFVEMVFRSm55M1dGOFVxLUpsOW9fT1VORERSUmxnaTI0MHZkQnJZUXgwNHJEX1JFek1rOF9OLUFZcFlyZ0tqTkJjaVJ3UUNCdXI1Q2xGWWlmS0gzN3BqYjItYkptbXZZV3RSaVhqYUkya3JidmRZNEVHQVQ1T2FjZk5sMXFlSHBLNF9P0gHuAUFVX3lxTE94OWNPd2hDYktyTGhtS2VLd3NZMGlWNXlqU0FPTUszWGI2aUdScWtwNWxUTXNza0h4YjhIcC1WWlVPRzV0RGVjeDV2SGM3MXBSZm11eWhFMG1HT093dlVvNVFtLW13TFRGY1ZKY0JFODdHblQxV3RBZUJDbXM3R3ctZjBoYnFWcVVWaGJ5ZGV3VG41UmRQQkdZNXNESXpQWDNnQ2hNbS00aDVCdDktREV6N2ROMXpLaXJSNmN4YkM5MzhkV3lkRlZiZUNMMnZIc2Z5Wm12RUt3QWhFcTRqeWlTNktYcEFlX0VHMHFteHc?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece"
     },
     {
         "id": "ca_2026_09_018",
-        "date": "2026-09-25",
-        "question": "वायरल जीनोम के भीतर पाए गए CRISPR-Cas जीन-एडिटिंग टूल के नए खोजे गए विकासात्मक अग्रदूत (evolutionary precursor) को क्या नाम दिया गया है?",
+        "date": "2026-09-26",
+        "question": "ICGS शौनक किस श्रेणी का पोत है, जो हाल ही में क्वाड (QUAD) देशों के समुद्री अधिकारियों को लेकर ऑस्ट्रेलिया के लिए रवाना हुआ?",
         "options": [
-            "VIPR",
-            "CASPOSON",
-            "TRACR",
-            "V-CRISPR"
+            "स्वदेशी रूप से निर्मित अपतटीय गश्ती पोत (Offshore Patrol Vessel)",
+            "गाइडेड मिसाइल फ्रिगेट",
+            "परमाणु पनडुब्बी",
+            "उभयचर परिवहन डॉक (Amphibious Transport Dock)"
         ],
-        "answer": "VIPR",
-        "explanation": "वैज्ञानिकों ने वायरल जीनोम के भीतर समाहित CRISPR-Cas जीन-एडिटिंग टूल के एक प्राचीन विकासात्मक अग्रदूत की खोज की है, जिसे VIPR नाम दिया गया है।",
+        "answer": "स्वदेशी रूप से निर्मित अपतटीय गश्ती पोत (Offshore Patrol Vessel)",
+        "explanation": "ICGS शौनक एक स्वदेशी रूप से निर्मित अपतटीय गश्ती पोत (OPV) है, जिसे समुद्री सुरक्षा और अंतर-संचालनीयता को बढ़ाने के लिए रक्षा मंत्रालय के तहत तैनात किया गया है।",
         "tags": [
-            "Science & Technology",
-            "Biotechnology"
+            "Defence",
+            "International Relations",
+            "QUAD"
         ],
-        "source": "Google News (Science & Tech)",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1JPMTNubkFUOUphSURmNVc3Nlc0RXE5dGt2dkhUcHg4Z1ExNV8zUHQ4ZlhzZDlvU2V1bkhUV2UxeUV6cmowWFFEcVpWdHZkcElnajM3SDFobGY5Q3AxR2VGT3hhemFYQlZsNElSaXBBS0JBdFc2T0diQmRYNTlBX3FHOTF1MDBaclVKZ1puNjJ2VGtscG44YjFyTjRYa1BDQVBxQkpMVHc?oc=5"
+        "source": "The Hindu (National)",
+        "link": "https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece"
     },
     {
         "id": "ca_2026_09_019",
-        "date": "2026-09-25",
-        "question": "सेबी (SEBI) द्वारा मान्यता प्राप्त 'ब्लू बॉन्ड्स' (Blue Bonds) सीधे तौर पर किस सतत विकास लक्ष्य (SDG) का समर्थन करते हैं?",
+        "date": "2026-09-26",
+        "question": "राजकोषीय घाटे को पूरा करने के लिए केंद्र सरकार द्वारा घोषित दूसरी छमाही (H2) की सकल बाजार उधारी राशि कितनी है?",
         "options": [
-            "SDG 6 (स्वच्छ जल और स्वच्छता)",
-            "SDG 13 (जलवायु कार्रवाई)",
-            "SDG 14 (जल के नीचे जीवन)",
-            "SDG 15 (भूमि पर जीवन)"
+            "₹5.20 लाख करोड़",
+            "₹6.50 लाख करोड़",
+            "₹7.86 लाख करोड़",
+            "₹9.10 लाख करोड़"
         ],
-        "answer": "SDG 14 (जल के नीचे जीवन)",
-        "explanation": "ब्लू बॉन्ड्स विशेष ऋण उपकरण हैं जिन्हें टिकाऊ महासागर प्रबंधन और समुद्री संरक्षण के लिए पूंजी जुटाने के लिए डिज़ाइन किया गया है, जो सीधे SDG 14 (जल के नीचे जीवन) का समर्थन करते हैं।",
+        "answer": "₹7.86 लाख करोड़",
+        "explanation": "केंद्र सरकार ने ₹7.86 लाख करोड़ की अपनी दूसरी छमाही (H2) की सकल बाजार उधारी योजना की घोषणा की, जिससे पूरे वर्ष की उधारी को शुरुआती बजट अनुमान से नीचे रखा गया है।",
         "tags": [
             "Economy",
-            "Environment"
+            "Banking & Finance",
+            "Fiscal Policy"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece"
+        "source": "Google News (India Economy & Markets)",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmt0NGpoQ3doTnRRc25ZUURib2hBU210WEllenM1aVB1czVVd1FGek55YlF1QjdkejhPS1JDanFIRkM2Q3VHRnIyMW1LV1FrNG9EdE16VlRnNHBKUXVsUGJXZ2NLNjRnUnFUQTM1LTFPQ2NpbVJTVTFmYkJmdUdoOVpCbENnMFMtbktJaXA5VWY3Si1aUEpCYVZFT2tpUDVHS2w3eExYS0N2NGhVNE5pVHNUbXFZdDNyd0l6TmJGYzYxalpiU2JmOUFmaldONXFXdjd6LXVUMHnSAd4BQVVfeXFMUHVpUWVRRTlBb3VrLWV3RDBOZVRlX0pXY3hoak1DbWdHX3R5bHNEMnVUMmVBaGpQUC1XS2FsYjVmcF9ic1lxWmQxOExnSWh4LUtoVWthcDVYSGx6dUE5aGJUUDRVMGlBbzAyR3Mya1MxRWx3Skl4YnpwWk9mc2VjMzMyNlZqV25nZVRCek9FbWFFY0l5WGNWTWhPUEQ5bVN4TWVvek4xY09uLVFwUnYxTWZNTVB1Rl9icXB0TWJCaW9lX3puTldnMERWb1VZNF9Ddi1KeHd4X2VfWVlTRlpB?oc=5"
     },
     {
         "id": "ca_2026_09_020",
-        "date": "2026-09-25",
-        "question": "भारत में कौन सा केंद्रीय मंत्रालय अंतर्राष्ट्रीय व्यापार भागीदारों के साथ मुक्त व्यापार समझौतों (FTAs) पर बातचीत के लिए जिम्मेदार है?",
+        "date": "2026-09-26",
+        "question": "डीआरडीओ (DRDO) को उच्च-स्तरीय रणनीतिक अनुसंधान पर ध्यान केंद्रित करने और रक्षा निर्माण में निजी क्षेत्र की भागीदारी का विस्तार करने के लिए सुव्यवस्थित करने के संदर्भ में किस समिति की सिफारिशों का उल्लेख किया गया था?",
         "options": [
-            "विदेश मंत्रालय",
-            "वाणिज्य एवं उद्योग मंत्रालय",
-            "वित्त मंत्रालय",
-            "कॉरपोरेट कार्य मंत्रालय"
+            "के. कस्तूरीरंगन समिति",
+            "के. विजयराघवन समिति",
+            "शेकाटकर समिति",
+            "नंदन नीलेकणि समिति"
         ],
-        "answer": "वाणिज्य एवं उद्योग मंत्रालय",
-        "explanation": "टैरिफ को समाप्त करने, गैर-टैरिफ बाधाओं को कम करने और वैश्विक स्तर पर भारतीय वस्तुओं के लिए बाजार पहुंच सुरक्षित करने के लिए वाणिज्य एवं उद्योग मंत्रालय के तहत मुक्त व्यापार समझौतों (FTAs) पर बातचीत की जाती है।",
+        "answer": "के. विजयराघवन समिति",
+        "explanation": "रक्षा सचिव ने परियोजनाओं को सुव्यवस्थित करने और रक्षा अनुसंधान एवं विकास (R&D) में निजी क्षेत्र की भागीदारी का विस्तार करने के लिए के. विजयराघवन समिति की सिफारिशों के अनुरूप डीआरडीओ में सुधार पर जोर दिया।",
         "tags": [
-            "Economy",
-            "International Relations"
+            "Defence",
+            "Committees",
+            "Science & Technology"
         ],
-        "source": "The Hindu (Economy & Business)",
-        "link": "https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece"
+        "source": "Google News (India National)",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRUE0aDNyemxVSVdsY1diUmlKRlJzOWpqcTMzc1BzZ2txRmswUWwxQjRZMWRtS3RvWEs1T0hZZ09kcnlSQ3VENS1jWWZ2UXpfMWlmTlRHWFpwZzZvWklxTV92SXVnSmdjR0t4enZMaWh2VUhzRW9HYmI5V1BMUVVYS0k4V2o2ZnV0bXRBb1Q1RFRkczAxeGUwSjVwako1UmZfd2xEVTdEQTVOU09NeGo2LWg1X0FfMU1MZVQya3NLMkw0NXNuckdMNzNWd9IB0AFBVV95cUxNTnNGUXBBMi15eVA2cEQzOHc0U0pTU21pOWtWdVNPU2c3MmFZUkR6YUZyR3llZm44ZHpLVDRnOTFYSU92MF9pTEdrc0ZROW1JS25BOG03TU00WVJ5MnVmc3ZvS1hlWmZJNDJZNHFTSk8zcDJ0X2xxQ19RdUdyN214Xzhlb01feHdXX3dVNkN3LS1yNmxDbks5LWowTkhPY091bzNBT0VReUdDclZzb2plSWtQVzM5dFA1QnV6alQtYkVfWGxfd2o4ckhfc0xFRkNt?oc=5"
     }
 ]
